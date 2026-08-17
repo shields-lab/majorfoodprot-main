@@ -1,4 +1,4 @@
-Subset	Food Group	Food Category	Food as Consumed	Common name	Species name	Favoured Taxonomy ID	Query fasta files	Uniprot Keywords	References
+Subset	Food Group	Food Category	Food as Consumed	Common name	Species name	Favoured Taxonomy ID	Query fasta files	Uniprot_searchterms	References
 Animal	Meat and meat products	Cattle Beef	Beef and veal (Bovine meat) 	Cow	Bos taurus	9913	Homo_sapiens.fa		
 Animal	Meat and meat products	Cattle Buffalo	Buffalo meat	Buffalo	Bubalus bubalis	89462	Homo_sapiens.fa		
 Animal	Meat and meat products	Camel	Camel meat	Camel	Camelus dromedarius	9838	Homo_sapiens.fa		

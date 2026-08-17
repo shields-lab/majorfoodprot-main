@@ -1,4 +1,4 @@
-Subset	Food Group	Food Category	Food as Consumed	Common name	Species name	Favoured Taxonomy ID	Query fasta files	Uniprot Keywords	References	keyword_search_entries	status	proteome_entries	query_proteins_used	very_redundant_homologs
+Subset	Food Group	Food Category	Food as Consumed	Common name	Species name	Favoured Taxonomy ID	Query fasta files	Uniprot_searchterms	References	keyword_search_entries	status	proteome_entries	query_proteins_used	very_redundant_homologs
 Animal	Milk and dairy products	Milk	Bovine milk (dairy cow)	Cow	Bos taurus	9913	dairy.fasta			0		103920	80	1089
 Animal	Milk and dairy products	Milk	Buffalo milk	Buffalo	Bubalus bubalis	89462	dairy.fasta			0		1294	80	113
 Animal	Milk and dairy products	Milk	Camel milk	Camel	Camelus dromedarius	9838	dairy.fasta			0		31354	80	526
