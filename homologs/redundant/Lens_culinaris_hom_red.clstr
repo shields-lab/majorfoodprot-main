@@ -7,92 +7,103 @@
 >Cluster 3
 0	259aa, >tr|A0A4D6Q3X5|A0A4D6Q3X5_LENCU... *
 >Cluster 4
+0	247aa, >sp|Q93WH6|LEC_LENCC... *
+>Cluster 5
+0	247aa, >tr|Q93X41|Q93X41_LENCU... *
+>Cluster 6
+0	247aa, >sp|Q93X49|LEC_VICOR... *
+>Cluster 7
+0	247aa, >sp|P02870|LEC_LENCU... *
+1	207aa, >tr|Q0Z8W9|Q0Z8W9_LENCU... at 100.00%
+>Cluster 8
+0	247aa, >sp|Q8VXF2|LEC_LENCT... *
+>Cluster 9
 0	238aa, >tr|Q70WJ0|Q70WJ0_LENCU... *
 1	238aa, >tr|Q70WJ1|Q70WJ1_LENCU... at 100.00%
->Cluster 5
-0	233aa, >tr|Q70WI0|Q70WI0_LENCU... *
->Cluster 6
-0	228aa, >tr|Q70WJ6|Q70WJ6_LENCU... *
->Cluster 7
-0	211aa, >tr|Q70WJ8|Q70WJ8_LENCU... *
->Cluster 8
-0	211aa, >tr|Q70WJ3|Q70WJ3_LENCU... *
->Cluster 9
-0	205aa, >tr|Q70WJ7|Q70WJ7_LENCU... *
 >Cluster 10
-0	203aa, >tr|Q70WK3|Q70WK3_LENCU... *
+0	233aa, >tr|Q70WI0|Q70WI0_LENCU... *
 >Cluster 11
-0	203aa, >tr|Q70WJ2|Q70WJ2_LENCU... *
+0	228aa, >tr|Q70WJ6|Q70WJ6_LENCU... *
 >Cluster 12
-0	203aa, >tr|Q70WJ4|Q70WJ4_LENCU... *
+0	211aa, >tr|Q70WJ8|Q70WJ8_LENCU... *
 >Cluster 13
-0	197aa, >tr|Q70WJ5|Q70WJ5_LENCU... *
+0	211aa, >tr|Q70WJ3|Q70WJ3_LENCU... *
 >Cluster 14
-0	195aa, >tr|Q84UI1|Q84UI1_LENCU... *
+0	205aa, >tr|Q70WJ7|Q70WJ7_LENCU... *
 >Cluster 15
-0	195aa, >tr|Q84UI0|Q84UI0_LENCU... *
+0	203aa, >tr|Q70WK3|Q70WK3_LENCU... *
 >Cluster 16
-0	170aa, >tr|Q70WL1|Q70WL1_LENCU... *
+0	203aa, >tr|Q70WJ2|Q70WJ2_LENCU... *
 >Cluster 17
-0	170aa, >tr|Q70WI3|Q70WI3_LENCU... *
+0	203aa, >tr|Q70WJ4|Q70WJ4_LENCU... *
 >Cluster 18
-0	168aa, >tr|Q70WK6|Q70WK6_LENCU... *
+0	197aa, >tr|Q70WJ5|Q70WJ5_LENCU... *
 >Cluster 19
-0	148aa, >tr|A0A5C0PDD4|A0A5C0PDD4_LENCU... *
+0	195aa, >tr|Q84UI1|Q84UI1_LENCU... *
 >Cluster 20
-0	145aa, >tr|Q9M6D1|Q9M6D1_LENCU... *
+0	195aa, >tr|Q84UI0|Q84UI0_LENCU... *
 >Cluster 21
-0	138aa, >tr|A0A088LHV2|A0A088LHV2_LENCU... *
+0	170aa, >tr|Q70WL1|Q70WL1_LENCU... *
 >Cluster 22
-0	125aa, >tr|K4LBQ3|K4LBQ3_LENCU... *
+0	170aa, >tr|Q70WI3|Q70WI3_LENCU... *
 >Cluster 23
-0	117aa, >tr|Q9M6D0|Q9M6D0_LENCU... *
+0	168aa, >tr|Q70WK6|Q70WK6_LENCU... *
 >Cluster 24
-0	107aa, >sp|A0AT30|NLTP3_LENCU... *
+0	148aa, >tr|A0A5C0PDD4|A0A5C0PDD4_LENCU... *
 >Cluster 25
-0	106aa, >sp|A0AT29|NLTP2_LENCU... *
+0	145aa, >tr|Q9M6D1|Q9M6D1_LENCU... *
 >Cluster 26
-0	106aa, >sp|A0AT31|NLTP5_LENCU... *
+0	138aa, >tr|A0A088LHV2|A0A088LHV2_LENCU... *
 >Cluster 27
-0	106aa, >tr|A0A4D6Q4Q6|A0A4D6Q4Q6_LENCU... *
+0	125aa, >tr|K4LBQ3|K4LBQ3_LENCU... *
 >Cluster 28
-0	96aa, >sp|A0AT33|NLTP4_LENCU... *
+0	117aa, >tr|Q9M6D0|Q9M6D0_LENCU... *
 >Cluster 29
-0	96aa, >sp|A0AT28|NLTP1_LENCU... *
+0	107aa, >sp|A0AT30|NLTP3_LENCU... *
 >Cluster 30
-0	96aa, >sp|A0AT32|NLTP6_LENCU... *
+0	106aa, >sp|A0AT29|NLTP2_LENCU... *
 >Cluster 31
-0	95aa, >tr|A0A345S7Y0|A0A345S7Y0_LENCC... *
+0	106aa, >sp|A0AT31|NLTP5_LENCU... *
 >Cluster 32
-0	84aa, >tr|A0A385MIS4|A0A385MIS4_LENCC... *
+0	106aa, >tr|A0A4D6Q4Q6|A0A4D6Q4Q6_LENCU... *
 >Cluster 33
+0	96aa, >sp|A0AT33|NLTP4_LENCU... *
+>Cluster 34
+0	96aa, >sp|A0AT28|NLTP1_LENCU... *
+>Cluster 35
+0	96aa, >sp|A0AT32|NLTP6_LENCU... *
+>Cluster 36
+0	95aa, >tr|A0A345S7Y0|A0A345S7Y0_LENCC... *
+>Cluster 37
+0	84aa, >tr|A0A385MIS4|A0A385MIS4_LENCC... *
+>Cluster 38
 0	78aa, >tr|Q9AT20|Q9AT20_LENCU... *
 1	78aa, >tr|Q9AT19|Q9AT19_LENCU... at 100.00%
 2	78aa, >tr|Q9AT18|Q9AT18_LENCU... at 100.00%
->Cluster 34
+>Cluster 39
 0	70aa, >tr|A0A218NL02|A0A218NL02_LENCU... *
->Cluster 35
+>Cluster 40
 0	59aa, >tr|A0A343KJC3|A0A343KJC3_LENCU... *
->Cluster 36
+>Cluster 41
 0	59aa, >sp|B3F051|DEF_LENCC... *
 1	59aa, >tr|A0A343KJB9|A0A343KJB9_LENCU... at 100.00%
->Cluster 37
-0	58aa, >tr|A0A650DLL3|A0A650DLL3_LENCC... *
->Cluster 38
-0	56aa, >tr|A0A343KJC1|A0A343KJC1_LENCU... *
->Cluster 39
-0	55aa, >tr|K4LMW7|K4LMW7_LENCU... *
->Cluster 40
-0	55aa, >tr|A0A343KJB8|A0A343KJB8_LENCU... *
->Cluster 41
-0	53aa, >tr|A0A343KJC0|A0A343KJC0_LENCU... *
 >Cluster 42
-0	41aa, >tr|A0A343KJC2|A0A343KJC2_LENCU... *
+0	58aa, >tr|A0A650DLL3|A0A650DLL3_LENCC... *
 >Cluster 43
-0	37aa, >sp|P86782|ALB2_LENCU... *
+0	56aa, >tr|A0A343KJC1|A0A343KJC1_LENCU... *
 >Cluster 44
-0	36aa, >tr|A0A5C0PBL8|A0A5C0PBL8_LENCC... *
+0	55aa, >tr|K4LMW7|K4LMW7_LENCU... *
 >Cluster 45
+0	55aa, >tr|A0A343KJB8|A0A343KJB8_LENCU... *
+>Cluster 46
+0	53aa, >tr|A0A343KJC0|A0A343KJC0_LENCU... *
+>Cluster 47
+0	41aa, >tr|A0A343KJC2|A0A343KJC2_LENCU... *
+>Cluster 48
+0	37aa, >sp|P86782|ALB2_LENCU... *
+>Cluster 49
+0	36aa, >tr|A0A5C0PBL8|A0A5C0PBL8_LENCC... *
+>Cluster 50
 0	25aa, >tr|B0BCI7|B0BCI7_LENCT... *
 1	25aa, >tr|B0BCI9|B0BCI9_LENCU... at 100.00%
 2	25aa, >tr|B0BCI5|B0BCI5_VICOR... at 100.00%

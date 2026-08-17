@@ -15,11 +15,11 @@
 1	846aa, >tr|A0A803YMI8|A0A803YMI8_MELGA... at 99.17%
 2	847aa, >tr|G1NGT5|G1NGT5_MELGA... at 96.58%
 >Cluster 5
-0	805aa, >tr|G1NK94|G1NK94_MELGA... *
-1	787aa, >tr|A0A803YPL8|A0A803YPL8_MELGA... at 99.87%
+0	787aa, >tr|A0A803YPL8|A0A803YPL8_MELGA... at 99.87%
+1	805aa, >tr|G1NK94|G1NK94_MELGA... *
 >Cluster 6
-0	759aa, >tr|A0A803XW51|A0A803XW51_MELGA... at 96.97%
-1	768aa, >tr|A0A803Y514|A0A803Y514_MELGA... *
+0	768aa, >tr|A0A803Y514|A0A803Y514_MELGA... *
+1	759aa, >tr|A0A803XW51|A0A803XW51_MELGA... at 96.97%
 >Cluster 7
 0	717aa, >tr|A0A803XT95|A0A803XT95_MELGA... *
 >Cluster 8
@@ -39,60 +39,57 @@
 >Cluster 14
 0	318aa, >tr|G1MYB1|G1MYB1_MELGA... *
 >Cluster 15
-0	27aa, >tr|G3URJ7|G3URJ7_MELGA... at 96.30%
-1	284aa, >tr|A0A803XNQ2|A0A803XNQ2_MELGA... *
+0	297aa, >tr|H9H062|H9H062_MELGA... *
 >Cluster 16
 0	261aa, >tr|G1N3B7|G1N3B7_MELGA... *
 >Cluster 17
-0	224aa, >tr|G3URQ7|G3URQ7_MELGA... *
->Cluster 18
 0	219aa, >tr|A9XBE2|A9XBE2_MELGA... *
->Cluster 19
+>Cluster 18
 0	214aa, >tr|G3UU87|G3UU87_MELGA... *
 1	214aa, >tr|G3URJ0|G3URJ0_MELGA... at 96.26%
->Cluster 20
+>Cluster 19
 0	201aa, >tr|Q6S7R5|Q6S7R5_MELGA... *
 1	201aa, >tr|Q6S7R4|Q6S7R4_MELGA... at 99.50%
->Cluster 21
-0	178aa, >tr|G1NR52|G1NR52_MELGA... *
->Cluster 22
+>Cluster 20
 0	175aa, >tr|G1N8B8|G1N8B8_MELGA... *
->Cluster 23
+>Cluster 21
 0	175aa, >tr|G1MSM4|G1MSM4_MELGA... *
->Cluster 24
+>Cluster 22
 0	162aa, >tr|A0A803XMJ4|A0A803XMJ4_MELGA... *
->Cluster 25
+>Cluster 23
 0	160aa, >sp|P10246|TNNC2_MELGA... *
->Cluster 26
+>Cluster 24
 0	156aa, >tr|A0A803XQP7|A0A803XQP7_MELGA... *
->Cluster 27
+>Cluster 25
 0	154aa, >sp|G1NJB6|MYG_MELGA... *
->Cluster 28
+>Cluster 26
 0	152aa, >tr|G1MUW1|G1MUW1_MELGA... *
->Cluster 29
+>Cluster 27
 0	142aa, >tr|G1NPZ8|G1NPZ8_MELGA... *
->Cluster 30
+>Cluster 28
+0	101aa, >tr|A0A803XPF6|A0A803XPF6_MELGA... at 96.04%
+1	142aa, >tr|G1U9Q8|G1U9Q8_MELGA... *
+>Cluster 29
 0	101aa, >tr|A0A803YBR7|A0A803YBR7_MELGA... at 96.04%
 1	142aa, >tr|G1NPZ7|G1NPZ7_MELGA... *
->Cluster 31
+>Cluster 30
 0	142aa, >tr|A0A803XQ74|A0A803XQ74_MELGA... *
->Cluster 32
-0	101aa, >tr|A0A803XPF6|A0A803XPF6_MELGA... at 96.04%
-1	142aa, >tr|P84479|P84479_MELGA... *
->Cluster 33
+>Cluster 31
 0	142aa, >tr|G1N9H8|G1N9H8_MELGA... *
 1	142aa, >sp|P81023|HBA_MELGA... at 99.30%
->Cluster 34
+>Cluster 32
 0	140aa, >tr|A0A803YRH1|A0A803YRH1_MELGA... *
->Cluster 35
+>Cluster 33
 0	134aa, >tr|A0A803YGM8|A0A803YGM8_MELGA... *
->Cluster 36
+>Cluster 34
 0	127aa, >tr|A0A803Y7V4|A0A803Y7V4_MELGA... *
->Cluster 37
+>Cluster 35
 0	110aa, >tr|H9H0Y5|H9H0Y5_MELGA... *
->Cluster 38
+>Cluster 36
 0	84aa, >tr|A0A803YMY2|A0A803YMY2_MELGA... *
->Cluster 39
+>Cluster 37
 0	83aa, >tr|A0A803YDS1|A0A803YDS1_MELGA... *
->Cluster 40
+>Cluster 38
+0	27aa, >tr|G3URJ7|G3URJ7_MELGA... *
+>Cluster 39
 0	22aa, >tr|G1N2D9|G1N2D9_MELGA... *

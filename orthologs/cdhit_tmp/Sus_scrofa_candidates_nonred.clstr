@@ -26,11 +26,11 @@
 >Cluster 9
 0	1767aa, >tr|A0A8W4FD58|A0A8W4FD58_PIG... *
 >Cluster 10
-0	1242aa, >tr|F1RH19|F1RH19_PIG... *
-1	1201aa, >tr|A0A5G2QJC1|A0A5G2QJC1_PIG... at 98.75%
+0	1201aa, >tr|A0A5G2QJC1|A0A5G2QJC1_PIG... at 98.75%
+1	1242aa, >tr|F1RH19|F1RH19_PIG... *
 >Cluster 11
-0	1150aa, >tr|A0A5G2QGP4|A0A5G2QGP4_PIG... at 98.70%
-1	1212aa, >tr|A0A5G2QEJ9|A0A5G2QEJ9_PIG... *
+0	1212aa, >tr|A0A5G2QEJ9|A0A5G2QEJ9_PIG... *
+1	1150aa, >tr|A0A5G2QGP4|A0A5G2QGP4_PIG... at 98.70%
 >Cluster 12
 0	1170aa, >tr|A0A5G2QB13|A0A5G2QB13_PIG... *
 >Cluster 13
@@ -70,146 +70,128 @@
 >Cluster 26
 0	775aa, >tr|A0A5G2QU59|A0A5G2QU59_PIG... *
 >Cluster 27
-0	595aa, >tr|A0A8W4FKS4|A0A8W4FKS4_PIG... *
->Cluster 28
 0	553aa, >sp|P80021|ATPA_PIG... *
 1	204aa, >tr|A0A8A0RU27|A0A8A0RU27_PIG... at 98.53%
 2	535aa, >tr|A0A287BBS4|A0A287BBS4_PIG... at 99.81%
 3	535aa, >tr|A0A287AGU2|A0A287AGU2_PIG... at 99.81%
+>Cluster 28
+0	489aa, >tr|A0A287AAK9|A0A287AAK9_PIG... *
 >Cluster 29
-0	489aa, >tr|Q8HZW2|Q8HZW2_PIG... *
->Cluster 30
 0	420aa, >tr|A0A5G2RCS9|A0A5G2RCS9_PIG... at 96.19%
 1	398aa, >tr|A0A8D0Y6K5|A0A8D0Y6K5_PIG... at 96.73%
 2	382aa, >tr|A0A287AZR0|A0A287AZR0_PIG... at 95.81%
 3	381aa, >tr|F1RFY2|F1RFY2_PIG... at 95.28%
 4	433aa, >tr|A0A5G2R7R6|A0A5G2R7R6_PIG... at 99.77%
 5	434aa, >sp|Q1KYT0|ENOB_PIG... *
->Cluster 31
+>Cluster 30
 0	390aa, >tr|A0A5G2R1M2|A0A5G2R1M2_PIG... *
->Cluster 32
+>Cluster 31
 0	388aa, >tr|F1RJW7|F1RJW7_PIG... *
->Cluster 33
+>Cluster 32
 0	382aa, >tr|A0A4X1VTL1|A0A4X1VTL1_PIG... *
->Cluster 34
+>Cluster 33
 0	380aa, >tr|A0A5G2QZN6|A0A5G2QZN6_PIG... at 100.00%
 1	349aa, >tr|A0A287AMP3|A0A287AMP3_PIG... at 99.71%
 2	381aa, >sp|Q5XLD3|KCRM_PIG... *
 3	146aa, >tr|Q8WMK2|Q8WMK2_PIG... at 99.32%
 4	45aa, >tr|Q7M337|Q7M337_PIG... at 97.78%
->Cluster 35
+>Cluster 34
 0	377aa, >sp|P68137|ACTS_PIG... *
->Cluster 36
+>Cluster 35
 0	360aa, >tr|Q2HYU1|Q2HYU1_PIG... *
 1	358aa, >tr|F6PU58|F6PU58_PIG... at 99.72%
 2	339aa, >tr|A0A8D1A5K1|A0A8D1A5K1_PIG... at 98.53%
->Cluster 37
+>Cluster 36
 0	337aa, >tr|A0A286ZYX8|A0A286ZYX8_PIG... *
->Cluster 38
+>Cluster 37
 0	311aa, >tr|A0A8W4FN03|A0A8W4FN03_PIG... *
->Cluster 39
+>Cluster 38
 0	274aa, >tr|A0A8D1EAJ3|A0A8D1EAJ3_PIG... at 99.64%
 1	298aa, >tr|A0A286ZIE8|A0A286ZIE8_PIG... *
 2	264aa, >tr|A0A8W4FN21|A0A8W4FN21_PIG... at 99.62%
->Cluster 40
+>Cluster 39
 0	286aa, >tr|A0A287BBV9|A0A287BBV9_PIG... *
->Cluster 41
+>Cluster 40
 0	284aa, >tr|A0A287AN33|A0A287AN33_PIG... *
 1	284aa, >tr|A0A4X1VW25|A0A4X1VW25_PIG... at 99.65%
->Cluster 42
-0	284aa, >tr|A0A8W4F9Q6|A0A8W4F9Q6_PIG... *
->Cluster 43
-0	284aa, >sp|P42639|TPM1_PIG... *
->Cluster 44
-0	284aa, >sp|A1XQV4|TPM3_PIG... *
->Cluster 45
+>Cluster 41
 0	280aa, >tr|A0A4X1VXD8|A0A4X1VXD8_PIG... *
->Cluster 46
+>Cluster 42
 0	275aa, >tr|G3CKJ2|G3CKJ2_PIG... *
->Cluster 47
+>Cluster 43
 0	272aa, >tr|A0A1S7J210|A0A1S7J210_PIG... *
 1	272aa, >tr|A0A5G2QQE9|A0A5G2QQE9_PIG... at 99.63%
->Cluster 48
+>Cluster 44
 0	271aa, >tr|A0A286ZWS8|A0A286ZWS8_PIG... *
 1	271aa, >tr|A0A8D1U0L9|A0A8D1U0L9_PIG... at 99.63%
->Cluster 49
+>Cluster 45
 0	223aa, >tr|A0A5G2R687|A0A5G2R687_PIG... at 95.96%
 1	262aa, >sp|Q75ZZ6|TNNT1_PIG... *
 2	235aa, >tr|A0A5S6GU87|A0A5S6GU87_PIG... at 99.15%
->Cluster 50
+>Cluster 46
 0	256aa, >tr|A0A5G2QPG9|A0A5G2QPG9_PIG... *
->Cluster 51
+>Cluster 47
 0	254aa, >tr|F1RZQ6|F1RZQ6_PIG... *
->Cluster 52
+>Cluster 48
 0	252aa, >tr|A0A1S7J1Y9|A0A1S7J1Y9_PIG... *
 1	251aa, >tr|A0A8X9AEL6|A0A8X9AEL6_PIG... at 100.00%
->Cluster 53
+>Cluster 49
 0	248aa, >sp|P67937|TPM4_PIG... *
->Cluster 54
-0	228aa, >sp|P0CG68|UBC_PIG... *
->Cluster 55
+>Cluster 50
 0	223aa, >sp|Q75NG9|TNNT3_PIG... *
->Cluster 56
+>Cluster 51
 0	220aa, >sp|P50667|COX2_PIG... *
 1	220aa, >tr|A9LGF2|A9LGF2_PIG... at 99.55%
 2	220aa, >tr|A9LG09|A9LG09_PIG... at 99.55%
->Cluster 57
+>Cluster 52
 0	220aa, >tr|I3LLI0|I3LLI0_PIG... *
 1	210aa, >tr|A5X5T5|A5X5T5_PIG... at 99.52%
 2	210aa, >tr|A0A4X1V520|A0A4X1V520_PIG... at 100.00%
 3	210aa, >tr|A5X497|A5X497_PIG... at 99.05%
->Cluster 58
+>Cluster 53
 0	217aa, >tr|A0A5G2RDN5|A0A5G2RDN5_PIG... *
 1	185aa, >tr|A0A5S6IDN1|A0A5S6IDN1_PIG... at 96.22%
->Cluster 59
+>Cluster 54
 0	197aa, >tr|A0A8D1HG89|A0A8D1HG89_PIG... *
 1	196aa, >tr|F1SNW4|F1SNW4_PIG... at 99.49%
->Cluster 60
+>Cluster 55
 0	179aa, >tr|Q7YSF4|Q7YSF4_PIG... *
 1	179aa, >tr|B3VCE8|B3VCE8_PIG... at 99.44%
 2	179aa, >tr|B3VFA9|B3VFA9_PIG... at 98.88%
->Cluster 61
+>Cluster 56
 0	175aa, >tr|A0A287AGJ6|A0A287AGJ6_PIG... *
 1	175aa, >tr|B3VI70|B3VI70_PIG... at 99.43%
->Cluster 62
+>Cluster 57
 0	169aa, >tr|A1XQT5|A1XQT5_PIG... *
 1	169aa, >tr|F6PS41|F6PS41_PIG... at 99.41%
 2	165aa, >tr|A0A287A6F0|A0A287A6F0_PIG... at 98.79%
 3	138aa, >tr|A0A5G2Q8Q3|A0A5G2Q8Q3_PIG... at 99.28%
->Cluster 63
-0	160aa, >tr|A0A8D0MTN7|A0A8D0MTN7_PIG... at 96.88%
-1	91aa, >tr|A1XQT8|A1XQT8_PIG... at 98.90%
-2	91aa, >tr|Q56P22|Q56P22_PIG... at 98.90%
-3	154aa, >tr|A0A8W4FJ69|A0A8W4FJ69_PIG... at 97.40%
-4	153aa, >tr|A0A5G2QVS9|A0A5G2QVS9_PIG... at 97.39%
-5	166aa, >tr|A0A8D0VIH6|A0A8D0VIH6_PIG... *
-6	161aa, >tr|A1XQT6|A1XQT6_PIG... at 100.00%
->Cluster 64
+>Cluster 58
+0	91aa, >tr|A1XQT8|A1XQT8_PIG... at 98.90%
+1	91aa, >tr|Q56P22|Q56P22_PIG... at 98.90%
+2	154aa, >tr|A0A8W4FJ69|A0A8W4FJ69_PIG... at 97.40%
+3	153aa, >tr|A0A5G2QVS9|A0A5G2QVS9_PIG... at 97.39%
+4	166aa, >tr|A0A8D0VIH6|A0A8D0VIH6_PIG... *
+5	161aa, >tr|A1XQT6|A1XQT6_PIG... at 100.00%
+>Cluster 59
 0	161aa, >tr|A0A4X1VAV4|A0A4X1VAV4_PIG... *
->Cluster 65
-0	145aa, >tr|A0A287A4C5|A0A287A4C5_PIG... at 95.17%
-1	159aa, >sp|P02587|TNNC2_PIG... at 98.11%
-2	160aa, >tr|Q6PVW3|Q6PVW3_PIG... *
+>Cluster 60
+0	160aa, >tr|Q6PVW3|Q6PVW3_PIG... *
+1	145aa, >tr|A0A287A4C5|A0A287A4C5_PIG... at 95.17%
+2	159aa, >sp|P02587|TNNC2_PIG... at 98.11%
 3	160aa, >tr|A0A8W4FD30|A0A8W4FD30_PIG... at 96.88%
->Cluster 66
+>Cluster 61
 0	156aa, >tr|A0A287B1R0|A0A287B1R0_PIG... *
->Cluster 67
+>Cluster 62
 0	154aa, >sp|P02189|MYG_PIG... *
->Cluster 68
-0	150aa, >tr|A0A8W4FIU2|A0A8W4FIU2_PIG... at 97.33%
-1	147aa, >tr|Q29069|Q29069_PIG... at 98.64%
-2	153aa, >tr|A0A8W4FJL5|A0A8W4FJL5_PIG... *
-3	147aa, >tr|Q5EFJ2|Q5EFJ2_PIG... at 100.00%
->Cluster 69
+>Cluster 63
 0	143aa, >sp|P02067|HBB_PIG... *
 1	143aa, >tr|A0A5G2QRW3|A0A5G2QRW3_PIG... at 99.30%
->Cluster 70
+>Cluster 64
 0	141aa, >sp|P01965|HBA_PIG... *
->Cluster 71
-0	141aa, >tr|A0A286ZMV9|A0A286ZMV9_PIG... *
->Cluster 72
+>Cluster 65
 0	139aa, >tr|F1RII5|F1RII5_PIG... *
->Cluster 73
+>Cluster 66
 0	72aa, >tr|A0A287AD38|A0A287AD38_PIG... *
->Cluster 74
+>Cluster 67
 0	44aa, >tr|Q7M336|Q7M336_PIG... *

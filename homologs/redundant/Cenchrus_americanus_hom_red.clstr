@@ -67,40 +67,42 @@
 >Cluster 29
 0	96aa, >tr|A6N4D3|A6N4D3_CENAM... *
 >Cluster 30
+0	94aa, >tr|Q8H1L2|Q8H1L2_CENAM... *
+>Cluster 31
 0	89aa, >tr|L7P8C9|L7P8C9_CENAM... *
 1	89aa, >tr|W5U037|W5U037_CENAM... at 100.00%
->Cluster 31
+>Cluster 32
 0	89aa, >tr|Q43808|Q43808_CENAM... *
 1	89aa, >tr|Q7DMZ6|Q7DMZ6_CENAM... at 100.00%
->Cluster 32
+>Cluster 33
 0	89aa, >tr|Q43807|Q43807_CENAM... *
 1	89aa, >tr|Q43805|Q43805_CENAM... at 100.00%
 2	89aa, >tr|Q43722|Q43722_CENAM... at 100.00%
 3	89aa, >tr|Q43806|Q43806_CENAM... at 100.00%
 4	89aa, >sp|P14219|ADH1_CENAM... at 100.00%
 5	89aa, >tr|Q94IL8|Q94IL8_CENAM... at 100.00%
->Cluster 33
-0	89aa, >tr|Q94IL9|Q94IL9_CENAM... *
 >Cluster 34
-0	80aa, >tr|A0A076Q103|A0A076Q103_CENAM... *
+0	89aa, >tr|Q94IL9|Q94IL9_CENAM... *
 >Cluster 35
-0	77aa, >tr|A0A0E3KMT5|A0A0E3KMT5_CENAM... *
+0	80aa, >tr|A0A076Q103|A0A076Q103_CENAM... *
 >Cluster 36
-0	74aa, >tr|A0A089PAU0|A0A089PAU0_CENAM... *
+0	77aa, >tr|A0A0E3KMT5|A0A0E3KMT5_CENAM... *
 >Cluster 37
-0	59aa, >tr|Q40833|Q40833_CENAM... *
+0	74aa, >tr|A0A089PAU0|A0A089PAU0_CENAM... *
 >Cluster 38
-0	59aa, >tr|Q40835|Q40835_CENAM... *
+0	59aa, >tr|Q40833|Q40833_CENAM... *
 >Cluster 39
-0	59aa, >tr|Q40834|Q40834_CENAM... *
+0	59aa, >tr|Q40835|Q40835_CENAM... *
 >Cluster 40
-0	59aa, >tr|Q40836|Q40836_CENAM... *
+0	59aa, >tr|Q40834|Q40834_CENAM... *
 >Cluster 41
+0	59aa, >tr|Q40836|Q40836_CENAM... *
+>Cluster 42
 0	57aa, >tr|Q5MGQ8|Q5MGQ8_CENAM... *
 1	57aa, >tr|A0A4Y1NY14|A0A4Y1NY14_CENAM... at 100.00%
->Cluster 42
-0	30aa, >tr|Q7M1G1|Q7M1G1_CENAM... *
 >Cluster 43
-0	20aa, >tr|A6N4D1|A6N4D1_CENAM... *
+0	30aa, >tr|Q7M1G1|Q7M1G1_CENAM... *
 >Cluster 44
+0	20aa, >tr|A6N4D1|A6N4D1_CENAM... *
+>Cluster 45
 0	20aa, >tr|A6N4D4|A6N4D4_CENAM... *

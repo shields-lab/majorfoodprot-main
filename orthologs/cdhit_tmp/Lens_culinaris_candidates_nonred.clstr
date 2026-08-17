@@ -1,18 +1,24 @@
 >Cluster 0
-0	195aa, >tr|Q84UI1|Q84UI1_LENCU... *
+0	247aa, >tr|Q93X41|Q93X41_LENCU... *
+1	247aa, >sp|Q93X49|LEC_VICOR... at 98.38%
+2	247aa, >sp|Q8VXF2|LEC_LENCT... at 97.57%
+3	247aa, >sp|Q93WH6|LEC_LENCC... at 97.57%
+4	247aa, >sp|P02870|LEC_LENCU... at 97.17%
 >Cluster 1
-0	195aa, >tr|Q84UI0|Q84UI0_LENCU... *
+0	195aa, >tr|Q84UI1|Q84UI1_LENCU... *
 >Cluster 2
-0	107aa, >sp|A0AT30|NLTP3_LENCU... *
+0	195aa, >tr|Q84UI0|Q84UI0_LENCU... *
 >Cluster 3
+0	107aa, >sp|A0AT30|NLTP3_LENCU... *
+>Cluster 4
 0	106aa, >sp|A0AT29|NLTP2_LENCU... *
 1	96aa, >sp|A0AT33|NLTP4_LENCU... at 98.96%
 2	96aa, >sp|A0AT32|NLTP6_LENCU... at 97.92%
->Cluster 4
-0	106aa, >sp|A0AT31|NLTP5_LENCU... *
 >Cluster 5
-0	96aa, >sp|A0AT28|NLTP1_LENCU... *
+0	106aa, >sp|A0AT31|NLTP5_LENCU... *
 >Cluster 6
-0	37aa, >sp|P86782|ALB2_LENCU... *
+0	96aa, >sp|A0AT28|NLTP1_LENCU... *
 >Cluster 7
+0	37aa, >sp|P86782|ALB2_LENCU... *
+>Cluster 8
 0	25aa, >tr|B0BCI7|B0BCI7_LENCT... *

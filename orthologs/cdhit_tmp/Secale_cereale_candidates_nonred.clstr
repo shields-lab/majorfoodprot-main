@@ -1,79 +1,92 @@
 >Cluster 0
-0	284aa, >tr|A0A096ZNB1|A0A096ZNB1_9POAL... *
+0	340aa, >tr|G5CU79|G5CU79_9POAL... *
 >Cluster 1
-0	245aa, >tr|S5RPP3|S5RPP3_9POAL... *
+0	284aa, >tr|A0A096ZNB1|A0A096ZNB1_9POAL... *
 >Cluster 2
-0	154aa, >tr|G8CLS1|G8CLS1_SECCE... *
+0	245aa, >tr|S5RPP3|S5RPP3_9POAL... *
 >Cluster 3
-0	154aa, >tr|Q84ZX9|Q84ZX9_SECCE... *
+0	164aa, >tr|G8CLS1|G8CLS1_SECCE... *
 >Cluster 4
+0	164aa, >tr|A0EPV9|A0EPV9_SECCE... *
+>Cluster 5
+0	154aa, >tr|Q84ZX9|Q84ZX9_SECCE... *
+>Cluster 6
+0	149aa, >tr|G8CNL8|G8CNL8_SECCE... *
+1	149aa, >tr|A0EPS7|A0EPS7_SECCE... at 99.33%
+2	149aa, >tr|S4VIB2|S4VIB2_9POAL... at 99.33%
+>Cluster 7
+0	147aa, >tr|A0EPP1|A0EPP1_SECCE... *
+1	147aa, >tr|S4VP15|S4VP15_9POAL... at 97.28%
+>Cluster 8
 0	135aa, >tr|Q94IK6|Q94IK6_SECCE... *
 1	133aa, >tr|Q94IL0|Q94IL0_SECCE... at 96.99%
 2	133aa, >tr|Q93WF0|Q93WF0_SECCE... at 96.99%
 3	133aa, >tr|Q94IK9|Q94IK9_SECCE... at 96.99%
 4	133aa, >tr|Q94IL2|Q94IL2_SECCE... at 95.49%
->Cluster 5
-0	135aa, >tr|Q94IL5|Q94IL5_SECCE... *
->Cluster 6
-0	133aa, >tr|Q94IL3|Q94IL3_SECCE... *
->Cluster 7
-0	128aa, >tr|A4GU92|A4GU92_SECCE... *
->Cluster 8
-0	128aa, >tr|Q41320|Q41320_SECCE... *
 >Cluster 9
-0	119aa, >tr|H8Y0K4|H8Y0K4_SECCE... *
-1	66aa, >tr|H8Y0N7|H8Y0N7_SECCE... at 95.45%
-2	63aa, >tr|H8Y0P5|H8Y0P5_SECCE... at 98.41%
+0	135aa, >tr|Q94IL5|Q94IL5_SECCE... *
 >Cluster 10
+0	133aa, >tr|Q94IL3|Q94IL3_SECCE... *
+>Cluster 11
+0	130aa, >tr|I6WTS2|I6WTS2_9POAL... *
+>Cluster 12
 0	118aa, >tr|Q93WM1|Q93WM1_SECCE... *
 1	118aa, >tr|Q94IL1|Q94IL1_SECCE... at 99.15%
 2	118aa, >tr|Q94IK7|Q94IK7_SECCE... at 99.15%
 3	118aa, >tr|Q94IL6|Q94IL6_SECCE... at 99.15%
 4	118aa, >tr|Q94IK8|Q94IK8_SECCE... at 99.15%
->Cluster 11
-0	118aa, >tr|Q94IL4|Q94IL4_SECCE... *
->Cluster 12
-0	117aa, >tr|C7S856|C7S856_SECCE... *
 >Cluster 13
-0	108aa, >tr|Q155V1|Q155V1_SECCE... *
+0	118aa, >tr|Q94IL4|Q94IL4_SECCE... *
 >Cluster 14
-0	107aa, >tr|G8CNL8|G8CNL8_SECCE... *
-1	107aa, >tr|A0EPS7|A0EPS7_SECCE... at 100.00%
+0	117aa, >tr|C7S856|C7S856_SECCE... *
 >Cluster 15
-0	106aa, >tr|A0EPV9|A0EPV9_SECCE... *
+0	108aa, >tr|Q155V1|Q155V1_SECCE... *
 >Cluster 16
-0	103aa, >tr|A0EPP1|A0EPP1_SECCE... *
-1	103aa, >tr|S4VP15|S4VP15_9POAL... at 98.06%
+0	102aa, >tr|A4GU92|A4GU92_SECCE... *
+1	99aa, >tr|Q41320|Q41320_SECCE... at 96.97%
 >Cluster 17
-0	89aa, >tr|A0A286UZN5|A0A286UZN5_9POAL... *
+0	101aa, >tr|A0A023T4H1|A0A023T4H1_9POAL... *
 >Cluster 18
-0	89aa, >tr|Q155V0|Q155V0_SECCE... *
+0	93aa, >tr|X4Z2C2|X4Z2C2_9POAL... *
 >Cluster 19
-0	83aa, >tr|A0A286UZN6|A0A286UZN6_9POAL... *
+0	89aa, >tr|A0A286UZN5|A0A286UZN5_9POAL... *
 >Cluster 20
-0	64aa, >tr|H8Y0P6|H8Y0P6_SECCE... *
+0	89aa, >tr|Q155V0|Q155V0_SECCE... *
 >Cluster 21
-0	63aa, >tr|H8Y0P2|H8Y0P2_SECCE... *
+0	83aa, >tr|A0A286UZN6|A0A286UZN6_9POAL... *
 >Cluster 22
-0	60aa, >tr|O04365|O04365_SECCE... *
-1	60aa, >tr|Q05573|Q05573_SECCE... at 100.00%
-2	60aa, >tr|Q43639|Q43639_SECCE... at 100.00%
+0	75aa, >tr|E5DPS9|E5DPS9_9POAL... *
 >Cluster 23
-0	45aa, >tr|Q45FA6|Q45FA6_SECCE... *
+0	73aa, >tr|H8Y0P6|H8Y0P6_SECCE... *
 >Cluster 24
-0	34aa, >tr|Q9S8A5|Q9S8A5_SECCE... *
+0	67aa, >tr|E5DPT1|E5DPT1_9POAL... *
 >Cluster 25
-0	29aa, >tr|Q9S8A7|Q9S8A7_SECCE... *
+0	61aa, >tr|H8Y0K4|H8Y0K4_SECCE... *
+1	61aa, >tr|H8Y0N7|H8Y0N7_SECCE... at 96.72%
+2	54aa, >tr|H8Y0P5|H8Y0P5_SECCE... at 100.00%
 >Cluster 26
-0	25aa, >sp|P83048|IAA_SECCE... *
+0	53aa, >tr|H8Y0P2|H8Y0P2_SECCE... *
+1	53aa, >tr|H8Y0P1|H8Y0P1_SECCE... at 100.00%
 >Cluster 27
+0	45aa, >tr|Q45FA6|Q45FA6_SECCE... *
+>Cluster 28
+0	34aa, >tr|Q9S8A5|Q9S8A5_SECCE... *
+>Cluster 29
+0	34aa, >tr|O04365|O04365_SECCE... *
+1	34aa, >tr|Q05573|Q05573_SECCE... at 100.00%
+2	34aa, >tr|Q43639|Q43639_SECCE... at 100.00%
+>Cluster 30
+0	29aa, >tr|Q9S8A7|Q9S8A7_SECCE... *
+>Cluster 31
+0	25aa, >sp|P83048|IAA_SECCE... *
+>Cluster 32
+0	24aa, >tr|Q9S8A6|Q9S8A6_SECCE... *
+>Cluster 33
 0	23aa, >tr|Q9S8A9|Q9S8A9_SECCE... *
 1	23aa, >tr|Q9S8B0|Q9S8B0_SECCE... at 95.65%
->Cluster 28
+>Cluster 34
 0	22aa, >tr|Q7M221|Q7M221_SECCE... *
->Cluster 29
+>Cluster 35
 0	22aa, >tr|Q9S8H2|Q9S8H2_SECCE... *
->Cluster 30
+>Cluster 36
 0	20aa, >tr|Q9S8A8|Q9S8A8_SECCE... *
->Cluster 31
-0	20aa, >tr|Q9S8A6|Q9S8A6_SECCE... *
