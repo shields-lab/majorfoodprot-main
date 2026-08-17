@@ -1,0 +1,389 @@
+FoodDB UniProt Query Log
+Input file: Food_peptide_database-input.tsv
+
+
+================================================================================
+Organism: Triticum aestivum
+Search terms: albumin, globulin, glutelin, prolamin, glutenin, gliadin, hordein, secalin, zein, kafirin, avenin
+Full query string: (organism_name:"Triticum aestivum") AND (albumin OR globulin OR glutelin OR prolamin OR glutenin OR gliadin OR hordein OR secalin OR zein OR kafirin OR avenin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Triticum+aestivum%22%29+AND+%28albumin+OR+globulin+OR+glutelin+OR+prolamin+OR+glutenin+OR+gliadin+OR+hordein+OR+secalin+OR+zein+OR+kafirin+OR+avenin%29&format=fasta&size=500
+Page 2 status: 200 — https://rest.uniprot.org/uniprotkb/search?format=fasta&query=%28organism_name%3A%22Triticum%20aestivum%22%29%20AND%20%28albumin%20OR%20globulin%20OR%20glutelin%20OR%20prolamin%20OR%20glutenin%20OR%20gliadin%20OR%20hordein%20OR%20secalin%20OR%20zein%20OR%20kafirin%20OR%20avenin%29&cursor=c9bacmxsqhkqgdu5gdbq95t9p9btmmezltw8o&size=500
+Page 3 status: 200 — https://rest.uniprot.org/uniprotkb/search?format=fasta&query=%28organism_name%3A%22Triticum%20aestivum%22%29%20AND%20%28albumin%20OR%20globulin%20OR%20glutelin%20OR%20prolamin%20OR%20glutenin%20OR%20gliadin%20OR%20hordein%20OR%20secalin%20OR%20zein%20OR%20kafirin%20OR%20avenin%29&cursor=8puhckgb359720xq15fjf0zvvukv4ntlwjpw70airkk2qgfsp4t&size=500
+Page 4 status: 200 — https://rest.uniprot.org/uniprotkb/search?format=fasta&query=%28organism_name%3A%22Triticum%20aestivum%22%29%20AND%20%28albumin%20OR%20globulin%20OR%20glutelin%20OR%20prolamin%20OR%20glutenin%20OR%20gliadin%20OR%20hordein%20OR%20secalin%20OR%20zein%20OR%20kafirin%20OR%20avenin%29&cursor=8pyyutjn465c9ns42o35pfa71a4yt36ig0ptn51ai2ccd85lagt&size=500
+Total records found: 1692 (across 4 page(s))
+
+================================================================================
+Organism: Oryza sativa
+Search terms: albumin, globulin, glutelin, prolamin, glutenin, gliadin, hordein, secalin, zein, kafirin, avenin
+Full query string: (organism_name:"Oryza sativa") AND (albumin OR globulin OR glutelin OR prolamin OR glutenin OR gliadin OR hordein OR secalin OR zein OR kafirin OR avenin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Oryza+sativa%22%29+AND+%28albumin+OR+globulin+OR+glutelin+OR+prolamin+OR+glutenin+OR+gliadin+OR+hordein+OR+secalin+OR+zein+OR+kafirin+OR+avenin%29&format=fasta&size=500
+Page 2 status: 200 — https://rest.uniprot.org/uniprotkb/search?format=fasta&query=%28organism_name%3A%22Oryza%20sativa%22%29%20AND%20%28albumin%20OR%20globulin%20OR%20glutelin%20OR%20prolamin%20OR%20glutenin%20OR%20gliadin%20OR%20hordein%20OR%20secalin%20OR%20zein%20OR%20kafirin%20OR%20avenin%29&cursor=c9bacmxsqhkqgdmpd8v1rjw2j7wd9wuanzxv5&size=500
+Total records found: 745 (across 2 page(s))
+
+================================================================================
+Organism: Zea mays
+Search terms: albumin, globulin, glutelin, prolamin, glutenin, gliadin, hordein, secalin, zein, kafirin, avenin
+Full query string: (organism_name:"Zea mays") AND (albumin OR globulin OR glutelin OR prolamin OR glutenin OR gliadin OR hordein OR secalin OR zein OR kafirin OR avenin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Zea+mays%22%29+AND+%28albumin+OR+globulin+OR+glutelin+OR+prolamin+OR+glutenin+OR+gliadin+OR+hordein+OR+secalin+OR+zein+OR+kafirin+OR+avenin%29&format=fasta&size=500
+Page 2 status: 200 — https://rest.uniprot.org/uniprotkb/search?format=fasta&query=%28organism_name%3A%22Zea%20mays%22%29%20AND%20%28albumin%20OR%20globulin%20OR%20glutelin%20OR%20prolamin%20OR%20glutenin%20OR%20gliadin%20OR%20hordein%20OR%20secalin%20OR%20zein%20OR%20kafirin%20OR%20avenin%29&cursor=c9bacmxsqhkqgdnkofnammunhr6fcltkabjuc&size=500
+Total records found: 778 (across 2 page(s))
+
+================================================================================
+Organism: Avena sativa
+Search terms: albumin, globulin, glutelin, prolamin, glutenin, gliadin, hordein, secalin, zein, kafirin, avenin
+Full query string: (organism_name:"Avena sativa") AND (albumin OR globulin OR glutelin OR prolamin OR glutenin OR gliadin OR hordein OR secalin OR zein OR kafirin OR avenin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Avena+sativa%22%29+AND+%28albumin+OR+globulin+OR+glutelin+OR+prolamin+OR+glutenin+OR+gliadin+OR+hordein+OR+secalin+OR+zein+OR+kafirin+OR+avenin%29&format=fasta&size=500
+Total records found: 407 (across 1 page(s))
+
+================================================================================
+Organism: Sorghum bicolor
+Search terms: albumin, globulin, glutelin, prolamin, glutenin, gliadin, hordein, secalin, zein, kafirin, avenin
+Full query string: (organism_name:"Sorghum bicolor") AND (albumin OR globulin OR glutelin OR prolamin OR glutenin OR gliadin OR hordein OR secalin OR zein OR kafirin OR avenin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Sorghum+bicolor%22%29+AND+%28albumin+OR+globulin+OR+glutelin+OR+prolamin+OR+glutenin+OR+gliadin+OR+hordein+OR+secalin+OR+zein+OR+kafirin+OR+avenin%29&format=fasta&size=500
+Total records found: 218 (across 1 page(s))
+
+================================================================================
+Organism: Cenchrus americanus
+Search terms: albumin, globulin, glutelin, prolamin, glutenin, gliadin, hordein, secalin, zein, kafirin, avenin
+Full query string: (organism_name:"Cenchrus americanus") AND (albumin OR globulin OR glutelin OR prolamin OR glutenin OR gliadin OR hordein OR secalin OR zein OR kafirin OR avenin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Cenchrus+americanus%22%29+AND+%28albumin+OR+globulin+OR+glutelin+OR+prolamin+OR+glutenin+OR+gliadin+OR+hordein+OR+secalin+OR+zein+OR+kafirin+OR+avenin%29&format=fasta&size=500
+Total records found: 5 (across 1 page(s))
+
+================================================================================
+Organism: Eleusine coracana
+Search terms: albumin, globulin, glutelin, prolamin, glutenin, gliadin, hordein, secalin, zein, kafirin, avenin
+Full query string: (organism_name:"Eleusine coracana") AND (albumin OR globulin OR glutelin OR prolamin OR glutenin OR gliadin OR hordein OR secalin OR zein OR kafirin OR avenin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Eleusine+coracana%22%29+AND+%28albumin+OR+globulin+OR+glutelin+OR+prolamin+OR+glutenin+OR+gliadin+OR+hordein+OR+secalin+OR+zein+OR+kafirin+OR+avenin%29&format=fasta&size=500
+Total records found: 269 (across 1 page(s))
+
+================================================================================
+Organism: Secale cereale
+Search terms: albumin, globulin, glutelin, prolamin, glutenin, gliadin, hordein, secalin, zein, kafirin, avenin
+Full query string: (organism_name:"Secale cereale") AND (albumin OR globulin OR glutelin OR prolamin OR glutenin OR gliadin OR hordein OR secalin OR zein OR kafirin OR avenin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Secale+cereale%22%29+AND+%28albumin+OR+globulin+OR+glutelin+OR+prolamin+OR+glutenin+OR+gliadin+OR+hordein+OR+secalin+OR+zein+OR+kafirin+OR+avenin%29&format=fasta&size=500
+Total records found: 43 (across 1 page(s))
+
+================================================================================
+Organism: Hordeum vulgare
+Search terms: provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin
+Full query string: (organism_name:"Hordeum vulgare") AND (provicilin OR albumin OR vicilin OR prolamin OR oleosin OR globulin OR glutelin OR napin OR conglutin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Hordeum+vulgare%22%29+AND+%28provicilin+OR+albumin+OR+vicilin+OR+prolamin+OR+oleosin+OR+globulin+OR+glutelin+OR+napin+OR+conglutin%29&format=fasta&size=500
+Total records found: 438 (across 1 page(s))
+
+================================================================================
+Organism: Prunus dulcis
+Search terms: provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin
+Full query string: (organism_name:"Prunus dulcis") AND (provicilin OR albumin OR vicilin OR prolamin OR oleosin OR globulin OR glutelin OR napin OR conglutin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Prunus+dulcis%22%29+AND+%28provicilin+OR+albumin+OR+vicilin+OR+prolamin+OR+oleosin+OR+globulin+OR+glutelin+OR+napin+OR+conglutin%29&format=fasta&size=500
+Total records found: 117 (across 1 page(s))
+
+================================================================================
+Organism: Juglans regia
+Search terms: provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin
+Full query string: (organism_name:"Juglans regia") AND (provicilin OR albumin OR vicilin OR prolamin OR oleosin OR globulin OR glutelin OR napin OR conglutin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Juglans+regia%22%29+AND+%28provicilin+OR+albumin+OR+vicilin+OR+prolamin+OR+oleosin+OR+globulin+OR+glutelin+OR+napin+OR+conglutin%29&format=fasta&size=500
+Total records found: 102 (across 1 page(s))
+
+================================================================================
+Organism: Anacardium occidentale
+Search terms: provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin
+Full query string: (organism_name:"Anacardium occidentale") AND (provicilin OR albumin OR vicilin OR prolamin OR oleosin OR globulin OR glutelin OR napin OR conglutin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Anacardium+occidentale%22%29+AND+%28provicilin+OR+albumin+OR+vicilin+OR+prolamin+OR+oleosin+OR+globulin+OR+glutelin+OR+napin+OR+conglutin%29&format=fasta&size=500
+Total records found: 7 (across 1 page(s))
+
+================================================================================
+Organism: Pistacia vera
+Search terms: provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin
+Full query string: (organism_name:"Pistacia vera") AND (provicilin OR albumin OR vicilin OR prolamin OR oleosin OR globulin OR glutelin OR napin OR conglutin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Pistacia+vera%22%29+AND+%28provicilin+OR+albumin+OR+vicilin+OR+prolamin+OR+oleosin+OR+globulin+OR+glutelin+OR+napin+OR+conglutin%29&format=fasta&size=500
+Total records found: 6 (across 1 page(s))
+
+================================================================================
+Organism: Corylus avellana
+Search terms: provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin
+Full query string: (organism_name:"Corylus avellana") AND (provicilin OR albumin OR vicilin OR prolamin OR oleosin OR globulin OR glutelin OR napin OR conglutin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Corylus+avellana%22%29+AND+%28provicilin+OR+albumin+OR+vicilin+OR+prolamin+OR+oleosin+OR+globulin+OR+glutelin+OR+napin+OR+conglutin%29&format=fasta&size=500
+Total records found: 31 (across 1 page(s))
+
+================================================================================
+Organism: Linum usitatissimum
+Search terms: provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin
+Full query string: (organism_name:"Linum usitatissimum") AND (provicilin OR albumin OR vicilin OR prolamin OR oleosin OR globulin OR glutelin OR napin OR conglutin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Linum+usitatissimum%22%29+AND+%28provicilin+OR+albumin+OR+vicilin+OR+prolamin+OR+oleosin+OR+globulin+OR+glutelin+OR+napin+OR+conglutin%29&format=fasta&size=500
+Total records found: 7 (across 1 page(s))
+
+================================================================================
+Organism: Salvia hispanica
+Search terms: provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin
+Full query string: (organism_name:"Salvia hispanica") AND (provicilin OR albumin OR vicilin OR prolamin OR oleosin OR globulin OR glutelin OR napin OR conglutin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Salvia+hispanica%22%29+AND+%28provicilin+OR+albumin+OR+vicilin+OR+prolamin+OR+oleosin+OR+globulin+OR+glutelin+OR+napin+OR+conglutin%29&format=fasta&size=500
+Total records found: 1 (across 1 page(s))
+
+================================================================================
+Organism: Cucurbita maxima
+Search terms: provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin
+Full query string: (organism_name:"Cucurbita maxima") AND (provicilin OR albumin OR vicilin OR prolamin OR oleosin OR globulin OR glutelin OR napin OR conglutin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Cucurbita+maxima%22%29+AND+%28provicilin+OR+albumin+OR+vicilin+OR+prolamin+OR+oleosin+OR+globulin+OR+glutelin+OR+napin+OR+conglutin%29&format=fasta&size=500
+Total records found: 105 (across 1 page(s))
+
+================================================================================
+Organism: Helianthus annuus
+Search terms: provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin
+Full query string: (organism_name:"Helianthus annuus") AND (provicilin OR albumin OR vicilin OR prolamin OR oleosin OR globulin OR glutelin OR napin OR conglutin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Helianthus+annuus%22%29+AND+%28provicilin+OR+albumin+OR+vicilin+OR+prolamin+OR+oleosin+OR+globulin+OR+glutelin+OR+napin+OR+conglutin%29&format=fasta&size=500
+Total records found: 264 (across 1 page(s))
+
+================================================================================
+Organism: Papaver somniferum
+Search terms: provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin
+Full query string: (organism_name:"Papaver somniferum") AND (provicilin OR albumin OR vicilin OR prolamin OR oleosin OR globulin OR glutelin OR napin OR conglutin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Papaver+somniferum%22%29+AND+%28provicilin+OR+albumin+OR+vicilin+OR+prolamin+OR+oleosin+OR+globulin+OR+glutelin+OR+napin+OR+conglutin%29&format=fasta&size=500
+Total records found: 170 (across 1 page(s))
+
+================================================================================
+Organism: Sesamum indicum
+Search terms: provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin
+Full query string: (organism_name:"Sesamum indicum") AND (provicilin OR albumin OR vicilin OR prolamin OR oleosin OR globulin OR glutelin OR napin OR conglutin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Sesamum+indicum%22%29+AND+%28provicilin+OR+albumin+OR+vicilin+OR+prolamin+OR+oleosin+OR+globulin+OR+glutelin+OR+napin+OR+conglutin%29&format=fasta&size=500
+Total records found: 153 (across 1 page(s))
+
+================================================================================
+Organism: Sinapis alba
+Search terms: provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin
+Full query string: (organism_name:"Sinapis alba") AND (provicilin OR albumin OR vicilin OR prolamin OR oleosin OR globulin OR glutelin OR napin OR conglutin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Sinapis+alba%22%29+AND+%28provicilin+OR+albumin+OR+vicilin+OR+prolamin+OR+oleosin+OR+globulin+OR+glutelin+OR+napin+OR+conglutin%29&format=fasta&size=500
+Total records found: 6 (across 1 page(s))
+
+================================================================================
+Organism: Arachis hypogaea
+Search terms: provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin
+Full query string: (organism_name:"Arachis hypogaea") AND (provicilin OR albumin OR vicilin OR prolamin OR oleosin OR globulin OR glutelin OR napin OR conglutin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Arachis+hypogaea%22%29+AND+%28provicilin+OR+albumin+OR+vicilin+OR+prolamin+OR+oleosin+OR+globulin+OR+glutelin+OR+napin+OR+conglutin%29&format=fasta&size=500
+Total records found: 283 (across 1 page(s))
+
+================================================================================
+Organism: Glycine max
+Search terms: provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin
+Full query string: (organism_name:"Glycine max") AND (provicilin OR albumin OR vicilin OR prolamin OR oleosin OR globulin OR glutelin OR napin OR conglutin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Glycine+max%22%29+AND+%28provicilin+OR+albumin+OR+vicilin+OR+prolamin+OR+oleosin+OR+globulin+OR+glutelin+OR+napin+OR+conglutin%29&format=fasta&size=500
+Total records found: 366 (across 1 page(s))
+
+================================================================================
+Organism: Pisum sativum
+Search terms: provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin
+Full query string: (organism_name:"Pisum sativum") AND (provicilin OR albumin OR vicilin OR prolamin OR oleosin OR globulin OR glutelin OR napin OR conglutin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Pisum+sativum%22%29+AND+%28provicilin+OR+albumin+OR+vicilin+OR+prolamin+OR+oleosin+OR+globulin+OR+glutelin+OR+napin+OR+conglutin%29&format=fasta&size=500
+Total records found: 239 (across 1 page(s))
+
+================================================================================
+Organism: Cicer arietinum
+Search terms: provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin
+Full query string: (organism_name:"Cicer arietinum") AND (provicilin OR albumin OR vicilin OR prolamin OR oleosin OR globulin OR glutelin OR napin OR conglutin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Cicer+arietinum%22%29+AND+%28provicilin+OR+albumin+OR+vicilin+OR+prolamin+OR+oleosin+OR+globulin+OR+glutelin+OR+napin+OR+conglutin%29&format=fasta&size=500
+Total records found: 120 (across 1 page(s))
+
+================================================================================
+Organism: Phaseolus vulgaris
+Search terms: provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin
+Full query string: (organism_name:"Phaseolus vulgaris") AND (provicilin OR albumin OR vicilin OR prolamin OR oleosin OR globulin OR glutelin OR napin OR conglutin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Phaseolus+vulgaris%22%29+AND+%28provicilin+OR+albumin+OR+vicilin+OR+prolamin+OR+oleosin+OR+globulin+OR+glutelin+OR+napin+OR+conglutin%29&format=fasta&size=500
+Total records found: 230 (across 1 page(s))
+
+================================================================================
+Organism: Lens culinaris
+Search terms: provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin
+Full query string: (organism_name:"Lens culinaris") AND (provicilin OR albumin OR vicilin OR prolamin OR oleosin OR globulin OR glutelin OR napin OR conglutin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Lens+culinaris%22%29+AND+%28provicilin+OR+albumin+OR+vicilin+OR+prolamin+OR+oleosin+OR+globulin+OR+glutelin+OR+napin+OR+conglutin%29&format=fasta&size=500
+Total records found: 9 (across 1 page(s))
+
+================================================================================
+Organism: Vicia faba
+Search terms: provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin
+Full query string: (organism_name:"Vicia faba") AND (provicilin OR albumin OR vicilin OR prolamin OR oleosin OR globulin OR glutelin OR napin OR conglutin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Vicia+faba%22%29+AND+%28provicilin+OR+albumin+OR+vicilin+OR+prolamin+OR+oleosin+OR+globulin+OR+glutelin+OR+napin+OR+conglutin%29&format=fasta&size=500
+Total records found: 157 (across 1 page(s))
+
+================================================================================
+Organism: Phaseolus lunatus
+Search terms: provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin
+Full query string: (organism_name:"Phaseolus lunatus") AND (provicilin OR albumin OR vicilin OR prolamin OR oleosin OR globulin OR glutelin OR napin OR conglutin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Phaseolus+lunatus%22%29+AND+%28provicilin+OR+albumin+OR+vicilin+OR+prolamin+OR+oleosin+OR+globulin+OR+glutelin+OR+napin+OR+conglutin%29&format=fasta&size=500
+Total records found: 2 (across 1 page(s))
+
+================================================================================
+Organism: Vigna unguiculata
+Search terms: provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin
+Full query string: (organism_name:"Vigna unguiculata") AND (provicilin OR albumin OR vicilin OR prolamin OR oleosin OR globulin OR glutelin OR napin OR conglutin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Vigna+unguiculata%22%29+AND+%28provicilin+OR+albumin+OR+vicilin+OR+prolamin+OR+oleosin+OR+globulin+OR+glutelin+OR+napin+OR+conglutin%29&format=fasta&size=500
+Total records found: 145 (across 1 page(s))
+
+================================================================================
+Organism: Lupinus albus
+Search terms: provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin
+Full query string: (organism_name:"Lupinus albus") AND (provicilin OR albumin OR vicilin OR prolamin OR oleosin OR globulin OR glutelin OR napin OR conglutin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Lupinus+albus%22%29+AND+%28provicilin+OR+albumin+OR+vicilin+OR+prolamin+OR+oleosin+OR+globulin+OR+glutelin+OR+napin+OR+conglutin%29&format=fasta&size=500
+Total records found: 173 (across 1 page(s))
+
+================================================================================
+Organism: Vigna radiata
+Search terms: provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin
+Full query string: (organism_name:"Vigna radiata") AND (provicilin OR albumin OR vicilin OR prolamin OR oleosin OR globulin OR glutelin OR napin OR conglutin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Vigna+radiata%22%29+AND+%28provicilin+OR+albumin+OR+vicilin+OR+prolamin+OR+oleosin+OR+globulin+OR+glutelin+OR+napin+OR+conglutin%29&format=fasta&size=500
+Total records found: 160 (across 1 page(s))
+
+================================================================================
+Organism: Cajanus cajan
+Search terms: provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin
+Full query string: (organism_name:"Cajanus cajan") AND (provicilin OR albumin OR vicilin OR prolamin OR oleosin OR globulin OR glutelin OR napin OR conglutin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Cajanus+cajan%22%29+AND+%28provicilin+OR+albumin+OR+vicilin+OR+prolamin+OR+oleosin+OR+globulin+OR+glutelin+OR+napin+OR+conglutin%29&format=fasta&size=500
+Total records found: 68 (across 1 page(s))
+
+================================================================================
+Organism: Vigna subterranea
+Search terms: provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin
+Full query string: (organism_name:"Vigna subterranea") AND (provicilin OR albumin OR vicilin OR prolamin OR oleosin OR globulin OR glutelin OR napin OR conglutin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Vigna+subterranea%22%29+AND+%28provicilin+OR+albumin+OR+vicilin+OR+prolamin+OR+oleosin+OR+globulin+OR+glutelin+OR+napin+OR+conglutin%29&format=fasta&size=500
+Total records found: 1 (across 1 page(s))
+
+================================================================================
+Organism: Solanum tuberosum
+Search terms: tuberin, patatin, sporamin, dioscorin, G2 globulin, tarin, G1 globulin, globulin
+Full query string: (organism_name:"Solanum tuberosum") AND (tuberin OR patatin OR sporamin OR dioscorin OR G2 globulin OR tarin OR G1 globulin OR globulin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Solanum+tuberosum%22%29+AND+%28tuberin+OR+patatin+OR+sporamin+OR+dioscorin+OR+G2+globulin+OR+tarin+OR+G1+globulin+OR+globulin%29&format=fasta&size=500
+Total records found: 0 (across 1 page(s))
+WARNING: No sequences returned. First 500 chars of response:
+
+
+================================================================================
+Organism: Ipomoea batatas
+Search terms: tuberin, patatin, sporamin, dioscorin, G2 globulin, tarin, G1 globulin, globulin
+Full query string: (organism_name:"Ipomoea batatas") AND (tuberin OR patatin OR sporamin OR dioscorin OR G2 globulin OR tarin OR G1 globulin OR globulin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Ipomoea+batatas%22%29+AND+%28tuberin+OR+patatin+OR+sporamin+OR+dioscorin+OR+G2+globulin+OR+tarin+OR+G1+globulin+OR+globulin%29&format=fasta&size=500
+Total records found: 0 (across 1 page(s))
+WARNING: No sequences returned. First 500 chars of response:
+
+
+================================================================================
+Organism: Colocasia esculenta
+Search terms: tuberin, patatin, sporamin, dioscorin, G2 globulin, tarin, G1 globulin, globulin
+Full query string: (organism_name:"Colocasia esculenta") AND (tuberin OR patatin OR sporamin OR dioscorin OR G2 globulin OR tarin OR G1 globulin OR globulin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Colocasia+esculenta%22%29+AND+%28tuberin+OR+patatin+OR+sporamin+OR+dioscorin+OR+G2+globulin+OR+tarin+OR+G1+globulin+OR+globulin%29&format=fasta&size=500
+Total records found: 0 (across 1 page(s))
+WARNING: No sequences returned. First 500 chars of response:
+
+
+================================================================================
+Organism: Manihot esculenta
+Search terms: tuberin, patatin, sporamin, dioscorin, G2 globulin, tarin, G1 globulin, globulin
+Full query string: (organism_name:"Manihot esculenta") AND (tuberin OR patatin OR sporamin OR dioscorin OR G2 globulin OR tarin OR G1 globulin OR globulin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Manihot+esculenta%22%29+AND+%28tuberin+OR+patatin+OR+sporamin+OR+dioscorin+OR+G2+globulin+OR+tarin+OR+G1+globulin+OR+globulin%29&format=fasta&size=500
+Total records found: 0 (across 1 page(s))
+WARNING: No sequences returned. First 500 chars of response:
+
+
+================================================================================
+Organism: Dioscorea cayenensis
+Search terms: tuberin, patatin, sporamin, dioscorin, G2 globulin, tarin, G1 globulin, globulin
+Full query string: (organism_name:"Dioscorea cayenensis") AND (tuberin OR patatin OR sporamin OR dioscorin OR G2 globulin OR tarin OR G1 globulin OR globulin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Dioscorea+cayenensis%22%29+AND+%28tuberin+OR+patatin+OR+sporamin+OR+dioscorin+OR+G2+globulin+OR+tarin+OR+G1+globulin+OR+globulin%29&format=fasta&size=500
+Total records found: 0 (across 1 page(s))
+WARNING: No sequences returned. First 500 chars of response:
+
+
+================================================================================
+Organism: Musa paradisiaca
+Search terms: tuberin, patatin, sporamin, dioscorin, G2 globulin, tarin, G1 globulin, globulin
+Full query string: (organism_name:"Musa paradisiaca") AND (tuberin OR patatin OR sporamin OR dioscorin OR G2 globulin OR tarin OR G1 globulin OR globulin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Musa+paradisiaca%22%29+AND+%28tuberin+OR+patatin+OR+sporamin+OR+dioscorin+OR+G2+globulin+OR+tarin+OR+G1+globulin+OR+globulin%29&format=fasta&size=500
+Total records found: 0 (across 1 page(s))
+WARNING: No sequences returned. First 500 chars of response:
+
+
+================================================================================
+Organism: Manihot esculenta
+Search terms: rbcS, rbcL
+Full query string: (organism_name:"Manihot esculenta") AND (rbcS OR rbcL)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Manihot+esculenta%22%29+AND+%28rbcS+OR+rbcL%29&format=fasta&size=500
+Total records found: 14 (across 1 page(s))
+
+================================================================================
+Organism: Brassica oleracea
+Search terms: rbcS, rbcL
+Full query string: (organism_name:"Brassica oleracea") AND (rbcS OR rbcL)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Brassica+oleracea%22%29+AND+%28rbcS+OR+rbcL%29&format=fasta&size=500
+Total records found: 24 (across 1 page(s))
+
+================================================================================
+Organism: Spinacia oleracea
+Search terms: rbcS, rbcL
+Full query string: (organism_name:"Spinacia oleracea") AND (rbcS OR rbcL)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Spinacia+oleracea%22%29+AND+%28rbcS+OR+rbcL%29&format=fasta&size=500
+Total records found: 13 (across 1 page(s))
+
+================================================================================
+Organism: Brassica rapa
+Search terms: rbcS, rbcL
+Full query string: (organism_name:"Brassica rapa") AND (rbcS OR rbcL)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Brassica+rapa%22%29+AND+%28rbcS+OR+rbcL%29&format=fasta&size=500
+Total records found: 15 (across 1 page(s))
+
+================================================================================
+Organism: Manihot esculenta
+Search terms: rbcS, rbcL
+Full query string: (organism_name:"Manihot esculenta") AND (rbcS OR rbcL)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Manihot+esculenta%22%29+AND+%28rbcS+OR+rbcL%29&format=fasta&size=500
+Total records found: 14 (across 1 page(s))
+
+================================================================================
+Organism: Lactuca sativa
+Search terms: rbcS, rbcL
+Full query string: (organism_name:"Lactuca sativa") AND (rbcS OR rbcL)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Lactuca+sativa%22%29+AND+%28rbcS+OR+rbcL%29&format=fasta&size=500
+Total records found: 13 (across 1 page(s))
+FoodDB UniProt Query Log
+Input file: rootveg-input.tsv
+
+
+================================================================================
+Organism: Solanum tuberosum
+Search terms: tuberin, patatin, sporamin, dioscorin, G2 globulin, tarin, G1 globulin, globulin
+Full query string: (organism_name:"Solanum tuberosum") AND (tuberin OR patatin OR sporamin OR dioscorin OR "G2 globulin" OR tarin OR "G1 globulin" OR globulin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Solanum+tuberosum%22%29+AND+%28tuberin+OR+patatin+OR+sporamin+OR+dioscorin+OR+%22G2+globulin%22+OR+tarin+OR+%22G1+globulin%22+OR+globulin%29&format=fasta&size=500
+Total records found: 280 (across 1 page(s))
+
+================================================================================
+Organism: Ipomoea batatas
+Search terms: tuberin, patatin, sporamin, dioscorin, G2 globulin, tarin, G1 globulin, globulin
+Full query string: (organism_name:"Ipomoea batatas") AND (tuberin OR patatin OR sporamin OR dioscorin OR "G2 globulin" OR tarin OR "G1 globulin" OR globulin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Ipomoea+batatas%22%29+AND+%28tuberin+OR+patatin+OR+sporamin+OR+dioscorin+OR+%22G2+globulin%22+OR+tarin+OR+%22G1+globulin%22+OR+globulin%29&format=fasta&size=500
+Total records found: 73 (across 1 page(s))
+
+================================================================================
+Organism: Colocasia esculenta
+Search terms: tuberin, patatin, sporamin, dioscorin, G2 globulin, tarin, G1 globulin, globulin
+Full query string: (organism_name:"Colocasia esculenta") AND (tuberin OR patatin OR sporamin OR dioscorin OR "G2 globulin" OR tarin OR "G1 globulin" OR globulin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Colocasia+esculenta%22%29+AND+%28tuberin+OR+patatin+OR+sporamin+OR+dioscorin+OR+%22G2+globulin%22+OR+tarin+OR+%22G1+globulin%22+OR+globulin%29&format=fasta&size=500
+Total records found: 32 (across 1 page(s))
+
+================================================================================
+Organism: Manihot esculenta
+Search terms: tuberin, patatin, sporamin, dioscorin, G2 globulin, tarin, G1 globulin, globulin
+Full query string: (organism_name:"Manihot esculenta") AND (tuberin OR patatin OR sporamin OR dioscorin OR "G2 globulin" OR tarin OR "G1 globulin" OR globulin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Manihot+esculenta%22%29+AND+%28tuberin+OR+patatin+OR+sporamin+OR+dioscorin+OR+%22G2+globulin%22+OR+tarin+OR+%22G1+globulin%22+OR+globulin%29&format=fasta&size=500
+Total records found: 53 (across 1 page(s))
+
+================================================================================
+Organism: Dioscorea cayenensis
+Search terms: tuberin, patatin, sporamin, dioscorin, G2 globulin, tarin, G1 globulin, globulin
+Full query string: (organism_name:"Dioscorea cayenensis") AND (tuberin OR patatin OR sporamin OR dioscorin OR "G2 globulin" OR tarin OR "G1 globulin" OR globulin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Dioscorea+cayenensis%22%29+AND+%28tuberin+OR+patatin+OR+sporamin+OR+dioscorin+OR+%22G2+globulin%22+OR+tarin+OR+%22G1+globulin%22+OR+globulin%29&format=fasta&size=500
+Total records found: 1 (across 1 page(s))
+
+================================================================================
+Organism: Musa paradisiaca
+Search terms: tuberin, patatin, sporamin, dioscorin, G2 globulin, tarin, G1 globulin, globulin
+Full query string: (organism_name:"Musa paradisiaca") AND (tuberin OR patatin OR sporamin OR dioscorin OR "G2 globulin" OR tarin OR "G1 globulin" OR globulin)
+Page 1 status: 200 — https://rest.uniprot.org/uniprotkb/search?query=%28organism_name%3A%22Musa+paradisiaca%22%29+AND+%28tuberin+OR+patatin+OR+sporamin+OR+dioscorin+OR+%22G2+globulin%22+OR+tarin+OR+%22G1+globulin%22+OR+globulin%29&format=fasta&size=500
+Total records found: 0 (across 1 page(s))
+WARNING: No sequences returned. First 500 chars of response:
+

@@ -1,0 +1,17 @@
+# Large, fully regenerable via the pipeline scripts in foodDBsmall
+proteomes/
+subproteomes/OrthoFinder/
+output_tsvs/very_redundant/
+output_tsvs/diamond_mappings/
+output_tsvs/redundant/
+
+# Unused legacy duplicates (only Homo_sapiens.fa is referenced by the input TSV)
+query_fasta_files/Homo_sapiens.fasta
+query_fasta_files/Homo_sapiens_proteome.fasta
+
+# Legacy data from an earlier, different analysis approach — unrelated to
+# the current get_*.py / red_orthologs.py / nonred_orthologs.py pipeline
+blast_fasta_files/
+
+.DS_Store
+nohup.out
