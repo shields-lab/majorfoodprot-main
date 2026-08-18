@@ -4,6 +4,7 @@ subproteomes/OrthoFinder/
 output_tsvs/very_redundant/
 output_tsvs/diamond_mappings/
 output_tsvs/redundant/
+uniprot_records/
 
 # Unused legacy duplicates (only Homo_sapiens.fa is referenced by the input TSV)
 query_fasta_files/Homo_sapiens.fasta
