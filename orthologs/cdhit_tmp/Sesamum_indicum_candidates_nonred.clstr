@@ -37,300 +37,265 @@
 >Cluster 16
 0	380aa, >tr|A0A6I9U2K5|A0A6I9U2K5_SESIN... *
 >Cluster 17
-0	377aa, >tr|A0A6I9TBD6|A0A6I9TBD6_SESIN... *
->Cluster 18
-0	375aa, >tr|A0A6I9UF59|A0A6I9UF59_SESIN... *
->Cluster 19
 0	371aa, >tr|A0A6I9T6S2|A0A6I9T6S2_SESIN... *
->Cluster 20
+>Cluster 18
 0	368aa, >tr|A0A8M8V9Z4|A0A8M8V9Z4_SESIN... *
->Cluster 21
-0	360aa, >tr|A0A6I9TTX4|A0A6I9TTX4_SESIN... *
->Cluster 22
-0	360aa, >tr|A0A6I9TZU3|A0A6I9TZU3_SESIN... *
->Cluster 23
-0	355aa, >tr|A0A6I9TS39|A0A6I9TS39_SESIN... *
->Cluster 24
-0	352aa, >tr|A0A6I9TEV6|A0A6I9TEV6_SESIN... *
->Cluster 25
-0	351aa, >tr|A0A6I9UHS7|A0A6I9UHS7_SESIN... *
-1	351aa, >tr|A0A6I9SZ16|A0A6I9SZ16_SESIN... at 96.87%
->Cluster 26
-0	350aa, >tr|A0A6I9SXL7|A0A6I9SXL7_SESIN... *
->Cluster 27
-0	350aa, >tr|A0A6I9SLC8|A0A6I9SLC8_SESIN... *
->Cluster 28
-0	343aa, >tr|A0A6I9UQJ6|A0A6I9UQJ6_SESIN... *
->Cluster 29
-0	335aa, >tr|A0A6I9TGD3|A0A6I9TGD3_SESIN... *
->Cluster 30
-0	331aa, >tr|A0A6I9TD21|A0A6I9TD21_SESIN... *
->Cluster 31
-0	331aa, >tr|A0A6I9TDC1|A0A6I9TDC1_SESIN... *
-1	331aa, >tr|A0A6I9UJ61|A0A6I9UJ61_SESIN... at 96.98%
->Cluster 32
-0	331aa, >tr|A0A6I9SN99|A0A6I9SN99_SESIN... *
-1	331aa, >tr|A0A6I9U2L7|A0A6I9U2L7_SESIN... at 98.49%
->Cluster 33
-0	329aa, >tr|A0A8M8UX52|A0A8M8UX52_SESIN... *
->Cluster 34
+>Cluster 19
 0	327aa, >tr|A0A6I9U6E3|A0A6I9U6E3_SESIN... *
->Cluster 35
+>Cluster 20
 0	327aa, >tr|A0A6I9T0U0|A0A6I9T0U0_SESIN... *
->Cluster 36
-0	314aa, >tr|A0A6I9T2V2|A0A6I9T2V2_SESIN... *
->Cluster 37
+>Cluster 21
 0	303aa, >tr|A0A6I9TT25|A0A6I9TT25_SESIN... *
->Cluster 38
+>Cluster 22
 0	285aa, >tr|A0A8M8VFD1|A0A8M8VFD1_SESIN... at 100.00%
 1	287aa, >tr|A0A6I9UX74|A0A6I9UX74_SESIN... *
->Cluster 39
+>Cluster 23
 0	278aa, >tr|A0A6I9TTY0|A0A6I9TTY0_SESIN... *
->Cluster 40
+>Cluster 24
 0	245aa, >sp|Q9SQ57|PXG_SESIN... *
->Cluster 41
+>Cluster 25
 0	213aa, >tr|A0A6I9TPL8|A0A6I9TPL8_SESIN... *
->Cluster 42
+>Cluster 26
 0	180aa, >tr|Q9AUD0|Q9AUD0_SESIN... *
 1	180aa, >tr|A0A8M1P797|A0A8M1P797_SESIN... at 100.00%
->Cluster 43
+>Cluster 27
 0	179aa, >tr|A0A6I9U2B6|A0A6I9U2B6_SESIN... *
->Cluster 44
+>Cluster 28
 0	173aa, >tr|A0A6I9U3C4|A0A6I9U3C4_SESIN... *
->Cluster 45
+>Cluster 29
 0	171aa, >tr|A0A6I9UGX6|A0A6I9UGX6_SESIN... *
->Cluster 46
+>Cluster 30
 0	171aa, >tr|A0A6I9TI50|A0A6I9TI50_SESIN... *
->Cluster 47
+>Cluster 31
 0	148aa, >tr|A0A8M8VF88|A0A8M8VF88_SESIN... *
->Cluster 48
+>Cluster 32
 0	146aa, >tr|A0A6I9UC68|A0A6I9UC68_SESIN... *
->Cluster 49
+>Cluster 33
 0	142aa, >tr|A0A6I9TMZ0|A0A6I9TMZ0_SESIN... *
->Cluster 50
+>Cluster 34
 0	133aa, >tr|A0A6I9TR06|A0A6I9TR06_SESIN... *
->Cluster 51
+>Cluster 35
 0	132aa, >sp|Q9FUJ9|OLEH1_SESIN... *
->Cluster 52
+>Cluster 36
 0	130aa, >tr|A0A6I9T3C1|A0A6I9T3C1_SESIN... *
->Cluster 53
+>Cluster 37
 0	126aa, >tr|A0A6I9SPF3|A0A6I9SPF3_SESIN... *
 1	126aa, >sp|O04925|OLEH2_SESIN... at 100.00%
->Cluster 54
+>Cluster 38
 0	124aa, >tr|A0A6I9TT95|A0A6I9TT95_SESIN... *
->Cluster 55
+>Cluster 39
 0	115aa, >tr|A0A8M8V218|A0A8M8V218_SESIN... *
->Cluster 56
+>Cluster 40
 0	115aa, >tr|A0A6I9U0X5|A0A6I9U0X5_SESIN... *
->Cluster 57
+>Cluster 41
 0	115aa, >tr|A0A6I9U375|A0A6I9U375_SESIN... *
 1	115aa, >tr|A0A8M8VAW7|A0A8M8VAW7_SESIN... at 100.00%
->Cluster 58
+>Cluster 42
 0	114aa, >tr|A0A8M8V2G1|A0A8M8V2G1_SESIN... *
->Cluster 59
+>Cluster 43
 0	112aa, >tr|A5JUZ8|A5JUZ8_SESIN... *
 1	112aa, >tr|A0A6I9U742|A0A6I9U742_SESIN... at 100.00%
->Cluster 60
+>Cluster 44
 0	110aa, >tr|A0A6I9UBV9|A0A6I9UBV9_SESIN... *
->Cluster 61
+>Cluster 45
 0	109aa, >tr|A0A6I9TNS5|A0A6I9TNS5_SESIN... *
->Cluster 62
+>Cluster 46
 0	108aa, >tr|A0A6I9TWN8|A0A6I9TWN8_SESIN... *
 1	93aa, >tr|A0A6I9U5E2|A0A6I9U5E2_SESIN... at 96.77%
 2	32aa, >tr|A0A6I9TZK2|A0A6I9TZK2_SESIN... at 96.88%
->Cluster 63
+>Cluster 47
 0	107aa, >tr|A0A6I9U1Z3|A0A6I9U1Z3_SESIN... *
->Cluster 64
+>Cluster 48
 0	107aa, >tr|A0A6I9SX93|A0A6I9SX93_SESIN... *
->Cluster 65
+>Cluster 49
 0	106aa, >tr|A0A6I9U6T9|A0A6I9U6T9_SESIN... *
->Cluster 66
+>Cluster 50
 0	105aa, >tr|A5JV00|A5JV00_SESIN... *
 1	105aa, >tr|A0A6I9TZ60|A0A6I9TZ60_SESIN... at 96.19%
 2	105aa, >tr|A0A6I9U4C8|A0A6I9U4C8_SESIN... at 99.05%
 3	105aa, >tr|A0A6I9U4C4|A0A6I9U4C4_SESIN... at 96.19%
 4	105aa, >tr|A0A9B2G5W8|A0A9B2G5W8_SESIN... at 100.00%
->Cluster 67
+>Cluster 51
 0	105aa, >tr|A0A6I9U293|A0A6I9U293_SESIN... *
->Cluster 68
+>Cluster 52
 0	105aa, >tr|A0A6I9TWP9|A0A6I9TWP9_SESIN... *
->Cluster 69
+>Cluster 53
 0	105aa, >tr|A0A6I9TZ64|A0A6I9TZ64_SESIN... *
->Cluster 70
+>Cluster 54
 0	105aa, >tr|A0A6I9UBW5|A0A6I9UBW5_SESIN... *
->Cluster 71
+>Cluster 55
 0	105aa, >tr|A5JUZ9|A5JUZ9_SESIN... *
->Cluster 72
+>Cluster 56
 0	105aa, >tr|B5TMA5|B5TMA5_SESIN... *
 1	105aa, >tr|A0A6I9T145|A0A6I9T145_SESIN... at 100.00%
 2	105aa, >sp|Q9XHP2|OLEL_SESIN... at 100.00%
->Cluster 73
+>Cluster 57
 0	105aa, >tr|A0A6I9TWG4|A0A6I9TWG4_SESIN... *
->Cluster 74
+>Cluster 58
 0	103aa, >tr|A0A6I9U3D9|A0A6I9U3D9_SESIN... *
->Cluster 75
+>Cluster 59
 0	102aa, >tr|A5JV01|A5JV01_SESIN... *
 1	102aa, >tr|A0A6I9UL35|A0A6I9UL35_SESIN... at 100.00%
->Cluster 76
+>Cluster 60
 0	85aa, >tr|A0A6I9TVG8|A0A6I9TVG8_SESIN... at 100.00%
 1	100aa, >tr|A0A8M8V9K1|A0A8M8V9K1_SESIN... *
->Cluster 77
+>Cluster 61
 0	98aa, >tr|A0A6I9TBP7|A0A6I9TBP7_SESIN... *
->Cluster 78
+>Cluster 62
 0	97aa, >sp|B3EWE9|AMP2_SESIN... *
->Cluster 79
+>Cluster 63
 0	97aa, >tr|A0A6I9U5P2|A0A6I9U5P2_SESIN... *
->Cluster 80
+>Cluster 64
 0	96aa, >tr|A0A6I9TGG1|A0A6I9TGG1_SESIN... *
->Cluster 81
+>Cluster 65
 0	96aa, >tr|A0A6I9UAV3|A0A6I9UAV3_SESIN... *
->Cluster 82
+>Cluster 66
 0	96aa, >tr|A0A6I9TZT9|A0A6I9TZT9_SESIN... *
->Cluster 83
+>Cluster 67
 0	96aa, >tr|A0A6I9STF1|A0A6I9STF1_SESIN... *
->Cluster 84
+>Cluster 68
 0	95aa, >tr|A0A6I9UKW3|A0A6I9UKW3_SESIN... *
 1	95aa, >tr|Q8VX62|Q8VX62_SESIN... at 100.00%
->Cluster 85
+>Cluster 69
 0	95aa, >tr|A0A8M8UZV8|A0A8M8UZV8_SESIN... *
->Cluster 86
+>Cluster 70
 0	95aa, >tr|A0A6I9U3T9|A0A6I9U3T9_SESIN... *
->Cluster 87
+>Cluster 71
 0	95aa, >tr|A0A8M8UX36|A0A8M8UX36_SESIN... *
->Cluster 88
+>Cluster 72
 0	94aa, >tr|A0A6I9UAN6|A0A6I9UAN6_SESIN... *
->Cluster 89
+>Cluster 73
 0	94aa, >tr|A0A6I9TV60|A0A6I9TV60_SESIN... *
->Cluster 90
+>Cluster 74
 0	94aa, >tr|A0A6I9TWX7|A0A6I9TWX7_SESIN... *
->Cluster 91
+>Cluster 75
 0	94aa, >tr|A0A6I9TD47|A0A6I9TD47_SESIN... *
->Cluster 92
+>Cluster 76
 0	93aa, >tr|A0A6I9TBW1|A0A6I9TBW1_SESIN... *
->Cluster 93
+>Cluster 77
 0	92aa, >tr|A0A6I9UPK2|A0A6I9UPK2_SESIN... *
->Cluster 94
+>Cluster 78
 0	92aa, >tr|A0A6I9TZK9|A0A6I9TZK9_SESIN... *
->Cluster 95
+>Cluster 79
 0	92aa, >tr|A0A6I9SLG0|A0A6I9SLG0_SESIN... *
->Cluster 96
+>Cluster 80
 0	92aa, >tr|A0A6I9TWH8|A0A6I9TWH8_SESIN... *
->Cluster 97
+>Cluster 81
 0	92aa, >tr|A0A6I9U6P6|A0A6I9U6P6_SESIN... *
->Cluster 98
+>Cluster 82
 0	92aa, >tr|A0A6I9UL10|A0A6I9UL10_SESIN... *
->Cluster 99
+>Cluster 83
 0	92aa, >tr|A0A6I9TC96|A0A6I9TC96_SESIN... *
->Cluster 100
+>Cluster 84
 0	91aa, >tr|A0A6I9U0S8|A0A6I9U0S8_SESIN... *
->Cluster 101
+>Cluster 85
 0	90aa, >tr|A0A6I9TCQ7|A0A6I9TCQ7_SESIN... *
->Cluster 102
+>Cluster 86
 0	90aa, >tr|A0A6I9UB96|A0A6I9UB96_SESIN... *
->Cluster 103
+>Cluster 87
 0	89aa, >tr|A0A6I9TSD5|A0A6I9TSD5_SESIN... *
->Cluster 104
+>Cluster 88
 0	89aa, >tr|A0A6I9UUK2|A0A6I9UUK2_SESIN... *
->Cluster 105
+>Cluster 89
 0	89aa, >tr|A0A6I9U3T5|A0A6I9U3T5_SESIN... *
->Cluster 106
+>Cluster 90
 0	89aa, >tr|A0A6I9UDM0|A0A6I9UDM0_SESIN... *
->Cluster 107
+>Cluster 91
 0	88aa, >tr|A0A6I9T9P8|A0A6I9T9P8_SESIN... *
 1	88aa, >tr|A0A8D5NP47|A0A8D5NP47_SESIN... at 100.00%
->Cluster 108
+>Cluster 92
 0	87aa, >tr|A0A6I9TLQ7|A0A6I9TLQ7_SESIN... *
->Cluster 109
+>Cluster 93
 0	86aa, >tr|A0A6I9T2V5|A0A6I9T2V5_SESIN... *
->Cluster 110
+>Cluster 94
 0	86aa, >tr|A0A6I9U133|A0A6I9U133_SESIN... *
->Cluster 111
+>Cluster 95
 0	85aa, >tr|A0A6I9SYT4|A0A6I9SYT4_SESIN... *
->Cluster 112
+>Cluster 96
 0	84aa, >tr|A0A6I9TA53|A0A6I9TA53_SESIN... *
->Cluster 113
+>Cluster 97
 0	84aa, >tr|A0A6I9U948|A0A6I9U948_SESIN... *
->Cluster 114
+>Cluster 98
 0	83aa, >tr|A0A6I9SM13|A0A6I9SM13_SESIN... *
 1	83aa, >tr|A0A6I9TA55|A0A6I9TA55_SESIN... at 96.39%
->Cluster 115
+>Cluster 99
 0	83aa, >tr|A0A6I9TEJ9|A0A6I9TEJ9_SESIN... *
->Cluster 116
+>Cluster 100
 0	83aa, >tr|A0A6I9SL21|A0A6I9SL21_SESIN... *
->Cluster 117
+>Cluster 101
 0	83aa, >tr|A0A6I9TPV4|A0A6I9TPV4_SESIN... *
->Cluster 118
+>Cluster 102
 0	83aa, >tr|A0A6I9TYU2|A0A6I9TYU2_SESIN... *
->Cluster 119
+>Cluster 103
 0	83aa, >tr|A0A6I9U5N7|A0A6I9U5N7_SESIN... *
->Cluster 120
+>Cluster 104
 0	81aa, >tr|A0A6I9TWH9|A0A6I9TWH9_SESIN... *
->Cluster 121
+>Cluster 105
 0	80aa, >tr|A0A6I9TI27|A0A6I9TI27_SESIN... *
->Cluster 122
+>Cluster 106
 0	79aa, >tr|A0A8M8VD26|A0A8M8VD26_SESIN... *
->Cluster 123
+>Cluster 107
 0	76aa, >tr|A0A6I9UCE1|A0A6I9UCE1_SESIN... *
->Cluster 124
+>Cluster 108
 0	75aa, >tr|A0A8M8UWA2|A0A8M8UWA2_SESIN... *
->Cluster 125
+>Cluster 109
 0	75aa, >tr|A0A6I9TZV8|A0A6I9TZV8_SESIN... *
->Cluster 126
+>Cluster 110
 0	74aa, >tr|A0A6I9UK29|A0A6I9UK29_SESIN... *
->Cluster 127
+>Cluster 111
 0	74aa, >tr|A0A6I9TX02|A0A6I9TX02_SESIN... *
->Cluster 128
+>Cluster 112
 0	74aa, >tr|A0A6I9TFF7|A0A6I9TFF7_SESIN... *
->Cluster 129
+>Cluster 113
 0	74aa, >tr|A0A6I9TTE5|A0A6I9TTE5_SESIN... *
->Cluster 130
+>Cluster 114
 0	74aa, >tr|A0A6I9TMI5|A0A6I9TMI5_SESIN... *
->Cluster 131
+>Cluster 115
 0	72aa, >tr|A0A6I9UH41|A0A6I9UH41_SESIN... *
->Cluster 132
+>Cluster 116
 0	72aa, >tr|A0A6I9TKD2|A0A6I9TKD2_SESIN... *
->Cluster 133
+>Cluster 117
 0	69aa, >tr|A0A6I9U743|A0A6I9U743_SESIN... *
->Cluster 134
+>Cluster 118
 0	69aa, >tr|A0A8M8V777|A0A8M8V777_SESIN... *
 1	69aa, >tr|A0A6I9TSV5|A0A6I9TSV5_SESIN... at 100.00%
->Cluster 135
+>Cluster 119
 0	68aa, >tr|A0A6I9UNB4|A0A6I9UNB4_SESIN... *
->Cluster 136
+>Cluster 120
 0	67aa, >tr|A0A6I9U754|A0A6I9U754_SESIN... *
->Cluster 137
+>Cluster 121
 0	67aa, >tr|A0A6I9SKU3|A0A6I9SKU3_SESIN... *
->Cluster 138
+>Cluster 122
 0	66aa, >tr|A5JUZ7|A5JUZ7_SESIN... *
 1	66aa, >tr|A0A6I9UGJ4|A0A6I9UGJ4_SESIN... at 100.00%
->Cluster 139
+>Cluster 123
 0	66aa, >tr|A0A6I9SZ88|A0A6I9SZ88_SESIN... *
->Cluster 140
+>Cluster 124
 0	63aa, >tr|A0A6I9T8H8|A0A6I9T8H8_SESIN... *
->Cluster 141
+>Cluster 125
 0	61aa, >tr|Q2XSW8|Q2XSW8_SESIN... *
 1	61aa, >tr|A0A6I9ULP3|A0A6I9ULP3_SESIN... at 100.00%
->Cluster 142
+>Cluster 126
 0	61aa, >tr|A0A8M8V3T0|A0A8M8V3T0_SESIN... *
->Cluster 143
+>Cluster 127
 0	59aa, >tr|A0A6I9UFB7|A0A6I9UFB7_SESIN... *
->Cluster 144
+>Cluster 128
 0	55aa, >tr|A0A6I9TNG4|A0A6I9TNG4_SESIN... *
->Cluster 145
+>Cluster 129
 0	54aa, >tr|A0A6I9TBK0|A0A6I9TBK0_SESIN... *
->Cluster 146
+>Cluster 130
 0	52aa, >tr|A0A6I9TEJ4|A0A6I9TEJ4_SESIN... *
->Cluster 147
+>Cluster 131
 0	50aa, >tr|A0A6I9SXN2|A0A6I9SXN2_SESIN... *
->Cluster 148
+>Cluster 132
 0	48aa, >tr|A0A8M8UT92|A0A8M8UT92_SESIN... *
->Cluster 149
+>Cluster 133
 0	47aa, >tr|A0A6I9TCM2|A0A6I9TCM2_SESIN... *
->Cluster 150
+>Cluster 134
 0	46aa, >tr|A0A6I9V0R3|A0A6I9V0R3_SESIN... *
->Cluster 151
+>Cluster 135
 0	45aa, >tr|B6EBI1|B6EBI1_SESIN... *
 1	45aa, >tr|Q9AUD1|Q9AUD1_SESIN... at 97.78%
 2	45aa, >tr|A0A9B2G8S6|A0A9B2G8S6_SESIN... at 97.78%
->Cluster 152
+>Cluster 136
 0	34aa, >sp|Q9XHP1|2SS1_SESIN... *

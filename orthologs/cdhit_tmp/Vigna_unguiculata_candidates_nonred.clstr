@@ -25,361 +25,326 @@
 >Cluster 11
 0	385aa, >tr|A0A4D6KTQ5|A0A4D6KTQ5_VIGUN... *
 >Cluster 12
-0	378aa, >tr|A0A4D6L945|A0A4D6L945_VIGUN... *
->Cluster 13
 0	372aa, >tr|A0A4D6KKY8|A0A4D6KKY8_VIGUN... *
->Cluster 14
+>Cluster 13
 0	371aa, >tr|A0A4D6KZU2|A0A4D6KZU2_VIGUN... *
->Cluster 15
-0	360aa, >tr|A0A4D6MPU6|A0A4D6MPU6_VIGUN... *
->Cluster 16
-0	359aa, >tr|A0A4D6LT50|A0A4D6LT50_VIGUN... *
->Cluster 17
-0	357aa, >tr|A0A4D6L3T7|A0A4D6L3T7_VIGUN... *
->Cluster 18
-0	355aa, >tr|A0A4D6LI90|A0A4D6LI90_VIGUN... *
->Cluster 19
-0	354aa, >tr|A0A4D6LI01|A0A4D6LI01_VIGUN... *
->Cluster 20
+>Cluster 14
 0	353aa, >tr|A0A4D6N671|A0A4D6N671_VIGUN... *
 1	161aa, >tr|A0A4D6N8S7|A0A4D6N8S7_VIGUN... at 96.27%
->Cluster 21
+>Cluster 15
 0	348aa, >tr|A0A4D6MGB9|A0A4D6MGB9_VIGUN... *
->Cluster 22
-0	343aa, >tr|A0A4D6L7Q9|A0A4D6L7Q9_VIGUN... *
->Cluster 23
-0	335aa, >tr|A0A4D6LA53|A0A4D6LA53_VIGUN... *
->Cluster 24
-0	331aa, >tr|A0A4D6NAE4|A0A4D6NAE4_VIGUN... *
->Cluster 25
-0	331aa, >tr|A0A4D6KZJ9|A0A4D6KZJ9_VIGUN... *
->Cluster 26
-0	331aa, >tr|A0A4D6MLL0|A0A4D6MLL0_VIGUN... *
->Cluster 27
-0	331aa, >tr|A0A4D6KKC5|A0A4D6KKC5_VIGUN... *
-1	331aa, >tr|A0A4D6KP77|A0A4D6KP77_VIGUN... at 96.98%
->Cluster 28
+>Cluster 16
 0	327aa, >tr|A0A4D6LIH5|A0A4D6LIH5_VIGUN... *
->Cluster 29
+>Cluster 17
 0	316aa, >tr|A0A4D6L7V5|A0A4D6L7V5_VIGUN... *
->Cluster 30
-0	315aa, >tr|A0A4D6NV92|A0A4D6NV92_VIGUN... *
->Cluster 31
+>Cluster 18
 0	311aa, >tr|A0A4D6N8Z9|A0A4D6N8Z9_VIGUN... *
->Cluster 32
+>Cluster 19
 0	279aa, >tr|A0A4D6L7U3|A0A4D6L7U3_VIGUN... *
->Cluster 33
-0	273aa, >tr|A0A4D6LV30|A0A4D6LV30_VIGUN... *
->Cluster 34
+>Cluster 20
 0	266aa, >sp|P05045|LEC1_VIGUC... *
->Cluster 35
+>Cluster 21
 0	250aa, >tr|A0A4D6MR42|A0A4D6MR42_VIGUN... *
->Cluster 36
-0	247aa, >tr|A0A4D6MVN1|A0A4D6MVN1_VIGUN... *
->Cluster 37
+>Cluster 22
 0	245aa, >sp|P19588|LEC5_VIGUC... *
->Cluster 38
+>Cluster 23
 0	228aa, >tr|A0A4D6MUG9|A0A4D6MUG9_VIGUN... *
->Cluster 39
+>Cluster 24
 0	228aa, >tr|A0A4D6MUB0|A0A4D6MUB0_VIGUN... *
->Cluster 40
+>Cluster 25
 0	228aa, >tr|A0A4D6MWR1|A0A4D6MWR1_VIGUN... *
->Cluster 41
+>Cluster 26
 0	227aa, >tr|A0A4D6MU99|A0A4D6MU99_VIGUN... *
 1	106aa, >tr|A0A4D6MVB8|A0A4D6MVB8_VIGUN... at 99.06%
->Cluster 42
+>Cluster 27
 0	225aa, >tr|A0A4D6MWH7|A0A4D6MWH7_VIGUN... *
 1	225aa, >tr|A0A4D6MY45|A0A4D6MY45_VIGUN... at 96.44%
->Cluster 43
+>Cluster 28
 0	223aa, >tr|F2Z290|F2Z290_VIGUN... *
->Cluster 44
+>Cluster 29
 0	223aa, >tr|A0A4D6MYV7|A0A4D6MYV7_VIGUN... *
->Cluster 45
+>Cluster 30
 0	223aa, >tr|A0A4D6MUF7|A0A4D6MUF7_VIGUN... *
->Cluster 46
+>Cluster 31
 0	222aa, >tr|A0A4D6MWN6|A0A4D6MWN6_VIGUN... *
->Cluster 47
+>Cluster 32
 0	187aa, >tr|A0A4D6N4W3|A0A4D6N4W3_VIGUN... *
->Cluster 48
+>Cluster 33
 0	187aa, >tr|A0A4D6LGM9|A0A4D6LGM9_VIGUN... *
->Cluster 49
+>Cluster 34
 0	185aa, >tr|A0A4D6MTA9|A0A4D6MTA9_VIGUN... *
->Cluster 50
+>Cluster 35
 0	184aa, >tr|A0A2U9K6L4|A0A2U9K6L4_VIGUN... *
 1	184aa, >tr|A0A2U9K6K6|A0A2U9K6K6_VIGUN... at 95.65%
 2	184aa, >tr|A0A2U9K6K8|A0A2U9K6K8_VIGUN... at 95.65%
 3	181aa, >tr|A0A2U9K6K9|A0A2U9K6K9_VIGUN... at 98.34%
->Cluster 51
+>Cluster 36
 0	184aa, >tr|A0A2U9K6L2|A0A2U9K6L2_VIGUN... *
->Cluster 52
+>Cluster 37
 0	182aa, >tr|A0A4D6LB30|A0A4D6LB30_VIGUN... *
->Cluster 53
+>Cluster 38
 0	178aa, >tr|A0A4D6MR86|A0A4D6MR86_VIGUN... *
->Cluster 54
+>Cluster 39
 0	176aa, >tr|A0A4D6NHX6|A0A4D6NHX6_VIGUN... *
->Cluster 55
+>Cluster 40
 0	175aa, >tr|A0A4D6LY20|A0A4D6LY20_VIGUN... *
->Cluster 56
+>Cluster 41
 0	145aa, >tr|A0A4D6KX74|A0A4D6KX74_VIGUN... *
->Cluster 57
+>Cluster 42
 0	130aa, >tr|A0A4D6KVT2|A0A4D6KVT2_VIGUN... *
->Cluster 58
+>Cluster 43
 0	128aa, >tr|A0A4D6LR92|A0A4D6LR92_VIGUN... *
->Cluster 59
+>Cluster 44
 0	128aa, >tr|A0A4D6N8P3|A0A4D6N8P3_VIGUN... *
->Cluster 60
+>Cluster 45
 0	127aa, >tr|A0A4D6NKF5|A0A4D6NKF5_VIGUN... *
->Cluster 61
+>Cluster 46
 0	125aa, >tr|A0A4D6KWF4|A0A4D6KWF4_VIGUN... *
->Cluster 62
+>Cluster 47
 0	124aa, >tr|A0A4D6NQM0|A0A4D6NQM0_VIGUN... *
->Cluster 63
+>Cluster 48
 0	119aa, >tr|A0A4D6LAS4|A0A4D6LAS4_VIGUN... *
 1	57aa, >tr|Q6A1B9|Q6A1B9_VIGUN... at 96.49%
->Cluster 64
+>Cluster 49
 0	119aa, >tr|A0A4D6LB17|A0A4D6LB17_VIGUN... *
->Cluster 65
+>Cluster 50
 0	119aa, >tr|A0A4D6LU71|A0A4D6LU71_VIGUN... *
->Cluster 66
+>Cluster 51
 0	118aa, >tr|A0A4D6LBC9|A0A4D6LBC9_VIGUN... *
->Cluster 67
+>Cluster 52
 0	118aa, >tr|A0A4D6NEL9|A0A4D6NEL9_VIGUN... *
->Cluster 68
+>Cluster 53
 0	108aa, >tr|A0A4D6LBW6|A0A4D6LBW6_VIGUN... *
->Cluster 69
+>Cluster 54
 0	108aa, >tr|A0A4D6MKW3|A0A4D6MKW3_VIGUN... *
 1	74aa, >tr|A0A4D6KP04|A0A4D6KP04_VIGUN... at 95.95%
 2	74aa, >tr|A0A4D6MJ45|A0A4D6MJ45_VIGUN... at 95.95%
->Cluster 70
+>Cluster 55
 0	107aa, >tr|A0A4D6MST8|A0A4D6MST8_VIGUN... *
->Cluster 71
+>Cluster 56
 0	106aa, >tr|A0A4D6MP19|A0A4D6MP19_VIGUN... *
->Cluster 72
+>Cluster 57
 0	106aa, >tr|A0A4D6MQ54|A0A4D6MQ54_VIGUN... *
->Cluster 73
+>Cluster 58
 0	105aa, >tr|A0A4D6MZL4|A0A4D6MZL4_VIGUN... *
->Cluster 74
+>Cluster 59
 0	104aa, >tr|A0A4D6MQU3|A0A4D6MQU3_VIGUN... *
->Cluster 75
+>Cluster 60
 0	103aa, >tr|A0A4D6NIR0|A0A4D6NIR0_VIGUN... *
->Cluster 76
+>Cluster 61
 0	103aa, >tr|A0A4D6M6U0|A0A4D6M6U0_VIGUN... *
->Cluster 77
+>Cluster 62
 0	102aa, >tr|A0A4D6L6N5|A0A4D6L6N5_VIGUN... *
->Cluster 78
+>Cluster 63
 0	101aa, >tr|A0A4D6MR88|A0A4D6MR88_VIGUN... *
->Cluster 79
+>Cluster 64
 0	100aa, >tr|A0A4D6N875|A0A4D6N875_VIGUN... *
->Cluster 80
+>Cluster 65
 0	100aa, >tr|A0A4D6MJE8|A0A4D6MJE8_VIGUN... *
->Cluster 81
+>Cluster 66
 0	98aa, >tr|A0A4D6LTE9|A0A4D6LTE9_VIGUN... *
->Cluster 82
+>Cluster 67
 0	98aa, >tr|A0A4D6LTV6|A0A4D6LTV6_VIGUN... *
->Cluster 83
+>Cluster 68
 0	98aa, >tr|A0A4D6NHE3|A0A4D6NHE3_VIGUN... *
->Cluster 84
+>Cluster 69
 0	97aa, >tr|A0A4D6M249|A0A4D6M249_VIGUN... *
->Cluster 85
+>Cluster 70
 0	97aa, >tr|A0A4D6KQ84|A0A4D6KQ84_VIGUN... *
->Cluster 86
+>Cluster 71
 0	97aa, >tr|A0A4D6NIZ2|A0A4D6NIZ2_VIGUN... *
->Cluster 87
+>Cluster 72
 0	96aa, >tr|A0A4D6M9V3|A0A4D6M9V3_VIGUN... *
 1	84aa, >tr|A0A4D6MCT1|A0A4D6MCT1_VIGUN... at 98.81%
->Cluster 88
+>Cluster 73
 0	95aa, >tr|A0A4D6NGH5|A0A4D6NGH5_VIGUN... *
 1	90aa, >tr|A0A4D6MYS3|A0A4D6MYS3_VIGUN... at 100.00%
->Cluster 89
+>Cluster 74
 0	92aa, >tr|A0A4D6NE28|A0A4D6NE28_VIGUN... *
->Cluster 90
+>Cluster 75
 0	92aa, >tr|A0A4D6MTE6|A0A4D6MTE6_VIGUN... *
->Cluster 91
+>Cluster 76
 0	92aa, >tr|A0A4D6KPG5|A0A4D6KPG5_VIGUN... *
->Cluster 92
+>Cluster 77
 0	91aa, >tr|A0A4D6KX25|A0A4D6KX25_VIGUN... *
->Cluster 93
+>Cluster 78
 0	90aa, >tr|A0A4D6MP51|A0A4D6MP51_VIGUN... *
->Cluster 94
+>Cluster 79
 0	90aa, >tr|A0A4D6N9Y0|A0A4D6N9Y0_VIGUN... *
->Cluster 95
+>Cluster 80
 0	90aa, >tr|A0A4D6MF03|A0A4D6MF03_VIGUN... *
->Cluster 96
+>Cluster 81
 0	90aa, >tr|A0A4D6MLX1|A0A4D6MLX1_VIGUN... *
 1	89aa, >tr|A0A4D6MLP2|A0A4D6MLP2_VIGUN... at 100.00%
->Cluster 97
+>Cluster 82
 0	90aa, >tr|A0A4D6KJ10|A0A4D6KJ10_VIGUN... *
->Cluster 98
+>Cluster 83
 0	90aa, >tr|A0A4D6MJA8|A0A4D6MJA8_VIGUN... *
->Cluster 99
+>Cluster 84
 0	90aa, >tr|A0A4D6NE01|A0A4D6NE01_VIGUN... *
->Cluster 100
+>Cluster 85
 0	89aa, >tr|A0A4D6NDT2|A0A4D6NDT2_VIGUN... *
->Cluster 101
+>Cluster 86
 0	88aa, >tr|A0A4D6MP44|A0A4D6MP44_VIGUN... *
->Cluster 102
+>Cluster 87
 0	88aa, >tr|A0A4D6MKS9|A0A4D6MKS9_VIGUN... *
->Cluster 103
+>Cluster 88
 0	88aa, >tr|A0A4D6NJB4|A0A4D6NJB4_VIGUN... *
->Cluster 104
+>Cluster 89
 0	88aa, >tr|A0A4D6KV28|A0A4D6KV28_VIGUN... *
->Cluster 105
+>Cluster 90
 0	88aa, >tr|A0A4D6MN83|A0A4D6MN83_VIGUN... *
->Cluster 106
+>Cluster 91
 0	87aa, >tr|A0A4D6N534|A0A4D6N534_VIGUN... *
->Cluster 107
+>Cluster 92
 0	85aa, >tr|A0A4D6M5J9|A0A4D6M5J9_VIGUN... *
->Cluster 108
+>Cluster 93
 0	85aa, >tr|A0A4D6L2B7|A0A4D6L2B7_VIGUN... *
 1	84aa, >tr|A0A4D6KZC3|A0A4D6KZC3_VIGUN... at 95.24%
->Cluster 109
+>Cluster 94
 0	85aa, >tr|A0A4D6KRL0|A0A4D6KRL0_VIGUN... *
 1	80aa, >tr|A0A4D6KKY6|A0A4D6KKY6_VIGUN... at 100.00%
->Cluster 110
+>Cluster 95
 0	84aa, >tr|A0A4D6N647|A0A4D6N647_VIGUN... *
->Cluster 111
+>Cluster 96
 0	84aa, >tr|A0A4D6MK36|A0A4D6MK36_VIGUN... *
->Cluster 112
+>Cluster 97
 0	84aa, >tr|A0A4D6L0B8|A0A4D6L0B8_VIGUN... *
->Cluster 113
+>Cluster 98
 0	84aa, >tr|A0A4D6L238|A0A4D6L238_VIGUN... *
 1	84aa, >tr|A0A4D6MJM8|A0A4D6MJM8_VIGUN... at 100.00%
->Cluster 114
+>Cluster 99
 0	83aa, >tr|A0A4D6KUP6|A0A4D6KUP6_VIGUN... *
->Cluster 115
+>Cluster 100
 0	83aa, >tr|A0A4D6KXU3|A0A4D6KXU3_VIGUN... *
 1	83aa, >tr|A0A4D6L0R4|A0A4D6L0R4_VIGUN... at 98.80%
->Cluster 116
+>Cluster 101
 0	82aa, >tr|A0A4D6KN23|A0A4D6KN23_VIGUN... *
->Cluster 117
+>Cluster 102
 0	82aa, >tr|A0A4D6L4V2|A0A4D6L4V2_VIGUN... *
->Cluster 118
+>Cluster 103
 0	82aa, >tr|A0A4D6NFG6|A0A4D6NFG6_VIGUN... *
->Cluster 119
+>Cluster 104
 0	81aa, >tr|A0A4D6L132|A0A4D6L132_VIGUN... *
->Cluster 120
+>Cluster 105
 0	81aa, >tr|A0A4D6M3F4|A0A4D6M3F4_VIGUN... *
->Cluster 121
+>Cluster 106
 0	81aa, >tr|A0A4D6KRR4|A0A4D6KRR4_VIGUN... *
->Cluster 122
+>Cluster 107
 0	81aa, >tr|A0A4D6MNE3|A0A4D6MNE3_VIGUN... *
->Cluster 123
+>Cluster 108
 0	81aa, >tr|A0A4D6MYQ2|A0A4D6MYQ2_VIGUN... *
->Cluster 124
+>Cluster 109
 0	81aa, >tr|A0A4D6NB64|A0A4D6NB64_VIGUN... *
->Cluster 125
+>Cluster 110
 0	80aa, >tr|A0A4D6M220|A0A4D6M220_VIGUN... *
->Cluster 126
+>Cluster 111
 0	80aa, >tr|A0A4D6NQS5|A0A4D6NQS5_VIGUN... *
->Cluster 127
+>Cluster 112
 0	80aa, >tr|A0A4D6KPA4|A0A4D6KPA4_VIGUN... *
->Cluster 128
+>Cluster 113
 0	79aa, >tr|A0A4D6LKE5|A0A4D6LKE5_VIGUN... *
->Cluster 129
+>Cluster 114
 0	78aa, >tr|A0A4D6LC66|A0A4D6LC66_VIGUN... *
->Cluster 130
+>Cluster 115
 0	78aa, >tr|A0A4D6MKT9|A0A4D6MKT9_VIGUN... *
->Cluster 131
-0	78aa, >tr|A0A4D6N8Y6|A0A4D6N8Y6_VIGUN... *
->Cluster 132
+>Cluster 116
 0	78aa, >tr|A0A4D6MA94|A0A4D6MA94_VIGUN... *
->Cluster 133
+>Cluster 117
 0	77aa, >tr|A0A4D6MF51|A0A4D6MF51_VIGUN... *
 1	77aa, >tr|A0A4D6MH96|A0A4D6MH96_VIGUN... at 100.00%
->Cluster 134
+>Cluster 118
 0	76aa, >tr|A0A4D6L0Z2|A0A4D6L0Z2_VIGUN... *
->Cluster 135
+>Cluster 119
 0	76aa, >tr|A0A4D6KJ73|A0A4D6KJ73_VIGUN... *
->Cluster 136
+>Cluster 120
 0	76aa, >tr|A0A4D6KIP6|A0A4D6KIP6_VIGUN... *
 1	45aa, >tr|A0A4D6L5T4|A0A4D6L5T4_VIGUN... at 100.00%
->Cluster 137
+>Cluster 121
 0	76aa, >tr|A0A4D6LIB4|A0A4D6LIB4_VIGUN... *
->Cluster 138
-0	75aa, >tr|A0A4D6N676|A0A4D6N676_VIGUN... *
->Cluster 139
+>Cluster 122
 0	74aa, >tr|A0A4D6LTL0|A0A4D6LTL0_VIGUN... *
->Cluster 140
+>Cluster 123
 0	74aa, >tr|A0A4D6MJP2|A0A4D6MJP2_VIGUN... *
->Cluster 141
+>Cluster 124
 0	74aa, >tr|A0A4D6N4D4|A0A4D6N4D4_VIGUN... *
->Cluster 142
+>Cluster 125
 0	73aa, >tr|A0A4D6LVF0|A0A4D6LVF0_VIGUN... *
->Cluster 143
+>Cluster 126
 0	73aa, >tr|A0A4D6MH20|A0A4D6MH20_VIGUN... *
->Cluster 144
+>Cluster 127
 0	72aa, >tr|A0A4D6LUP2|A0A4D6LUP2_VIGUN... *
->Cluster 145
+>Cluster 128
 0	72aa, >tr|A0A4D6L7C3|A0A4D6L7C3_VIGUN... *
->Cluster 146
+>Cluster 129
 0	72aa, >tr|A0A4D6KP17|A0A4D6KP17_VIGUN... *
->Cluster 147
+>Cluster 130
 0	71aa, >tr|A0A4D6KU89|A0A4D6KU89_VIGUN... *
->Cluster 148
+>Cluster 131
 0	70aa, >tr|A0A4D6KLK2|A0A4D6KLK2_VIGUN... *
->Cluster 149
+>Cluster 132
 0	70aa, >tr|A0A4D6N3J5|A0A4D6N3J5_VIGUN... *
->Cluster 150
+>Cluster 133
 0	69aa, >tr|A0A4D6KRB7|A0A4D6KRB7_VIGUN... *
->Cluster 151
+>Cluster 134
 0	69aa, >tr|A0A4D6N8W5|A0A4D6N8W5_VIGUN... *
->Cluster 152
+>Cluster 135
 0	69aa, >tr|A0A4D6KHF2|A0A4D6KHF2_VIGUN... *
->Cluster 153
+>Cluster 136
 0	69aa, >tr|A0A4D6KQ92|A0A4D6KQ92_VIGUN... *
->Cluster 154
+>Cluster 137
 0	69aa, >tr|A0A4D6L5V7|A0A4D6L5V7_VIGUN... *
->Cluster 155
+>Cluster 138
 0	68aa, >tr|A0A4D6LJ01|A0A4D6LJ01_VIGUN... *
->Cluster 156
+>Cluster 139
 0	68aa, >tr|A0A4D6MZQ4|A0A4D6MZQ4_VIGUN... *
->Cluster 157
+>Cluster 140
 0	67aa, >tr|A0A4D6MLW0|A0A4D6MLW0_VIGUN... *
->Cluster 158
+>Cluster 141
 0	66aa, >tr|A0A4D6LT76|A0A4D6LT76_VIGUN... *
->Cluster 159
+>Cluster 142
 0	66aa, >tr|A0A4D6M325|A0A4D6M325_VIGUN... *
->Cluster 160
+>Cluster 143
 0	66aa, >tr|A0A4D6NGD4|A0A4D6NGD4_VIGUN... *
 1	66aa, >sp|Q43681|NLTP_VIGUN... at 100.00%
->Cluster 161
+>Cluster 144
 0	66aa, >tr|A0A4D6KQS0|A0A4D6KQS0_VIGUN... *
->Cluster 162
+>Cluster 145
 0	66aa, >tr|A0A4D6M100|A0A4D6M100_VIGUN... *
->Cluster 163
+>Cluster 146
 0	65aa, >tr|A0A4D6NEQ6|A0A4D6NEQ6_VIGUN... *
->Cluster 164
+>Cluster 147
 0	65aa, >tr|A0A4D6MK10|A0A4D6MK10_VIGUN... *
->Cluster 165
+>Cluster 148
 0	65aa, >tr|A0A4D6L8E1|A0A4D6L8E1_VIGUN... *
->Cluster 166
+>Cluster 149
 0	63aa, >tr|A0A4D6L8I6|A0A4D6L8I6_VIGUN... *
->Cluster 167
+>Cluster 150
 0	61aa, >tr|A0A4D6M891|A0A4D6M891_VIGUN... *
->Cluster 168
+>Cluster 151
 0	59aa, >tr|A0A4D6NDJ5|A0A4D6NDJ5_VIGUN... *
->Cluster 169
+>Cluster 152
 0	57aa, >tr|A0A4D6KMY4|A0A4D6KMY4_VIGUN... *
->Cluster 170
+>Cluster 153
 0	57aa, >tr|A0A4D6NBF0|A0A4D6NBF0_VIGUN... *
->Cluster 171
+>Cluster 154
 0	56aa, >tr|Q9XFG5|Q9XFG5_VIGUN... *
->Cluster 172
+>Cluster 155
 0	55aa, >tr|A0A4D6MLF3|A0A4D6MLF3_VIGUN... *
->Cluster 173
+>Cluster 156
 0	54aa, >tr|A0A4D6M717|A0A4D6M717_VIGUN... *
 1	54aa, >tr|A0A4D6M3N8|A0A4D6M3N8_VIGUN... at 100.00%
->Cluster 174
+>Cluster 157
 0	54aa, >tr|A0A4D6KNR0|A0A4D6KNR0_VIGUN... *
->Cluster 175
+>Cluster 158
 0	51aa, >tr|A0A4D6KKX2|A0A4D6KKX2_VIGUN... *
->Cluster 176
+>Cluster 159
 0	47aa, >tr|A0A4D6MZL1|A0A4D6MZL1_VIGUN... *
->Cluster 177
+>Cluster 160
 0	47aa, >tr|A0A4D6MCY0|A0A4D6MCY0_VIGUN... *
->Cluster 178
+>Cluster 161
 0	42aa, >tr|A0A4D6M446|A0A4D6M446_VIGUN... *
->Cluster 179
+>Cluster 162
 0	41aa, >tr|A0A4D6M4C3|A0A4D6M4C3_VIGUN... *
->Cluster 180
+>Cluster 163
 0	34aa, >tr|A0A4D6MNR3|A0A4D6MNR3_VIGUN... *

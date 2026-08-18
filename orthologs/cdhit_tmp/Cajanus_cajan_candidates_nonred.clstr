@@ -12,163 +12,144 @@
 >Cluster 5
 0	394aa, >tr|A0A151STZ0|A0A151STZ0_CAJCA... *
 >Cluster 6
-0	377aa, >tr|A0A151TJU1|A0A151TJU1_CAJCA... *
->Cluster 7
 0	364aa, >tr|A0A151U0J2|A0A151U0J2_CAJCA... *
->Cluster 8
-0	363aa, >tr|A0A151TN45|A0A151TN45_CAJCA... *
->Cluster 9
-0	363aa, >tr|A0A151TB64|A0A151TB64_CAJCA... *
->Cluster 10
-0	362aa, >tr|A0A151TKX0|A0A151TKX0_CAJCA... *
->Cluster 11
-0	361aa, >tr|A0A151TN64|A0A151TN64_CAJCA... *
->Cluster 12
-0	360aa, >tr|A0A151UCT4|A0A151UCT4_CAJCA... *
->Cluster 13
+>Cluster 7
 0	358aa, >tr|A0A151U0R9|A0A151U0R9_CAJCA... *
->Cluster 14
-0	355aa, >tr|A0A151TC36|A0A151TC36_CAJCA... *
->Cluster 15
-0	335aa, >tr|A0A151TK96|A0A151TK96_CAJCA... *
->Cluster 16
-0	331aa, >tr|A0A151U1R8|A0A151U1R8_CAJCA... *
->Cluster 17
-0	253aa, >tr|A0A151U0L9|A0A151U0L9_CAJCA... at 97.23%
-1	331aa, >tr|A0A151STU6|A0A151STU6_CAJCA... *
->Cluster 18
-0	331aa, >tr|A0A151SQU7|A0A151SQU7_CAJCA... *
->Cluster 19
-0	331aa, >tr|A0A151U2A0|A0A151U2A0_CAJCA... *
->Cluster 20
+>Cluster 8
 0	327aa, >tr|A0A151TM61|A0A151TM61_CAJCA... *
->Cluster 21
+>Cluster 9
 0	314aa, >tr|A0A151TI51|A0A151TI51_CAJCA... *
->Cluster 22
+>Cluster 10
 0	311aa, >tr|A0A151SUU8|A0A151SUU8_CAJCA... *
 1	311aa, >tr|A0A151T731|A0A151T731_CAJCA... at 98.39%
->Cluster 23
+>Cluster 11
 0	306aa, >tr|A0A151STW8|A0A151STW8_CAJCA... *
->Cluster 24
-0	273aa, >tr|A0A151TEN6|A0A151TEN6_CAJCA... *
->Cluster 25
+>Cluster 12
+0	297aa, >tr|A0A151TTF4|A0A151TTF4_CAJCA... *
+>Cluster 13
+0	296aa, >tr|A0A151TL24|A0A151TL24_CAJCA... *
+>Cluster 14
+0	288aa, >tr|A0A151U4N0|A0A151U4N0_CAJCA... *
+>Cluster 15
+0	288aa, >tr|A0A151SN19|A0A151SN19_CAJCA... *
+>Cluster 16
 0	253aa, >tr|A0A151SLE6|A0A151SLE6_CAJCA... *
->Cluster 26
+>Cluster 17
 0	251aa, >tr|A0A151UEZ0|A0A151UEZ0_CAJCA... *
->Cluster 27
+>Cluster 18
 0	247aa, >tr|G9I2Q1|G9I2Q1_CAJCA... *
->Cluster 28
+>Cluster 19
 0	189aa, >tr|A0A151TW66|A0A151TW66_CAJCA... *
->Cluster 29
+>Cluster 20
 0	185aa, >tr|A0A151U6Q2|A0A151U6Q2_CAJCA... *
->Cluster 30
+>Cluster 21
 0	170aa, >tr|A0A151SXF1|A0A151SXF1_CAJCA... *
->Cluster 31
+>Cluster 22
 0	167aa, >tr|A0A151UC62|A0A151UC62_CAJCA... *
 1	136aa, >tr|A0A151UBZ3|A0A151UBZ3_CAJCA... at 95.59%
->Cluster 32
+>Cluster 23
 0	167aa, >tr|A0A151SZD2|A0A151SZD2_CAJCA... *
->Cluster 33
+>Cluster 24
 0	159aa, >tr|A0A151TKC7|A0A151TKC7_CAJCA... *
->Cluster 34
+>Cluster 25
 0	135aa, >tr|A0A151SJ77|A0A151SJ77_CAJCA... *
->Cluster 35
+>Cluster 26
 0	130aa, >tr|A0A151SLJ5|A0A151SLJ5_CAJCA... *
->Cluster 36
+>Cluster 27
 0	110aa, >tr|A0A151U6I5|A0A151U6I5_CAJCA... *
->Cluster 37
+>Cluster 28
 0	103aa, >tr|A0A151SMJ9|A0A151SMJ9_CAJCA... *
->Cluster 38
+>Cluster 29
 0	101aa, >tr|A0A151U6U0|A0A151U6U0_CAJCA... *
->Cluster 39
+>Cluster 30
 0	101aa, >tr|A0A151TT63|A0A151TT63_CAJCA... *
->Cluster 40
+>Cluster 31
 0	94aa, >tr|A0A151T7D9|A0A151T7D9_CAJCA... *
->Cluster 41
+>Cluster 32
 0	93aa, >tr|A0A151T1X4|A0A151T1X4_CAJCA... *
->Cluster 42
+>Cluster 33
 0	91aa, >tr|A0A151U1Z3|A0A151U1Z3_CAJCA... *
->Cluster 43
+>Cluster 34
 0	90aa, >tr|A0A151SKP7|A0A151SKP7_CAJCA... *
 1	52aa, >tr|A0A151SKL6|A0A151SKL6_CAJCA... at 98.08%
 2	90aa, >tr|A0A151SKR5|A0A151SKR5_CAJCA... at 100.00%
->Cluster 44
+>Cluster 35
 0	89aa, >tr|A0A151TJG7|A0A151TJG7_CAJCA... *
->Cluster 45
+>Cluster 36
 0	89aa, >tr|A0A151T9V7|A0A151T9V7_CAJCA... *
->Cluster 46
+>Cluster 37
 0	88aa, >tr|A0A151U6V8|A0A151U6V8_CAJCA... *
->Cluster 47
+>Cluster 38
 0	88aa, >tr|A0A151SQI0|A0A151SQI0_CAJCA... *
->Cluster 48
+>Cluster 39
 0	87aa, >tr|A0A151UBW6|A0A151UBW6_CAJCA... *
->Cluster 49
+>Cluster 40
 0	86aa, >tr|A0A151U8S6|A0A151U8S6_CAJCA... *
->Cluster 50
+>Cluster 41
 0	86aa, >tr|A0A151U4A2|A0A151U4A2_CAJCA... *
->Cluster 51
+>Cluster 42
 0	85aa, >tr|A0A151U6U3|A0A151U6U3_CAJCA... *
->Cluster 52
+>Cluster 43
 0	85aa, >tr|A0A151TY04|A0A151TY04_CAJCA... *
->Cluster 53
+>Cluster 44
 0	84aa, >tr|A0A151SKQ2|A0A151SKQ2_CAJCA... *
->Cluster 54
+>Cluster 45
 0	83aa, >tr|A0A151SKJ4|A0A151SKJ4_CAJCA... *
 1	83aa, >tr|D3YBH5|D3YBH5_CAJCA... at 100.00%
 2	64aa, >tr|A0A0M4FQ64|A0A0M4FQ64_CAJCA... at 96.88%
->Cluster 55
+>Cluster 46
 0	83aa, >tr|A0A151SKQ9|A0A151SKQ9_CAJCA... *
->Cluster 56
+>Cluster 47
 0	82aa, >tr|A0A151TT59|A0A151TT59_CAJCA... *
->Cluster 57
+>Cluster 48
 0	82aa, >tr|A0A151TYU9|A0A151TYU9_CAJCA... *
->Cluster 58
+>Cluster 49
 0	82aa, >tr|A0A151U4B3|A0A151U4B3_CAJCA... *
->Cluster 59
+>Cluster 50
 0	82aa, >tr|A0A151U4B6|A0A151U4B6_CAJCA... *
->Cluster 60
+>Cluster 51
 0	82aa, >tr|A0A151T0G9|A0A151T0G9_CAJCA... *
->Cluster 61
+>Cluster 52
 0	81aa, >tr|A0A151SXM4|A0A151SXM4_CAJCA... *
->Cluster 62
+>Cluster 53
 0	81aa, >tr|A0A151SLT7|A0A151SLT7_CAJCA... *
->Cluster 63
+>Cluster 54
 0	80aa, >tr|A0A151TLX4|A0A151TLX4_CAJCA... *
->Cluster 64
+>Cluster 55
 0	80aa, >tr|A0A151TN63|A0A151TN63_CAJCA... *
->Cluster 65
+>Cluster 56
 0	79aa, >tr|A0A151TLZ2|A0A151TLZ2_CAJCA... *
->Cluster 66
+>Cluster 57
 0	79aa, >tr|A0A151U6P1|A0A151U6P1_CAJCA... *
->Cluster 67
+>Cluster 58
 0	79aa, >tr|A0A151SP47|A0A151SP47_CAJCA... *
->Cluster 68
+>Cluster 59
 0	78aa, >tr|Q94FS2|Q94FS2_CAJCA... *
->Cluster 69
+>Cluster 60
 0	78aa, >tr|A0A151TLA1|A0A151TLA1_CAJCA... *
->Cluster 70
+>Cluster 61
 0	76aa, >tr|A0A151T7E6|A0A151T7E6_CAJCA... *
->Cluster 71
+>Cluster 62
 0	76aa, >tr|A0A151T235|A0A151T235_CAJCA... *
->Cluster 72
+>Cluster 63
 0	71aa, >tr|A0A151SIZ6|A0A151SIZ6_CAJCA... *
->Cluster 73
+>Cluster 64
 0	69aa, >tr|A0A151SNT2|A0A151SNT2_CAJCA... *
->Cluster 74
+>Cluster 65
 0	66aa, >tr|A0A151SUR3|A0A151SUR3_CAJCA... *
->Cluster 75
+>Cluster 66
 0	66aa, >tr|A0A151U762|A0A151U762_CAJCA... *
->Cluster 76
+>Cluster 67
 0	66aa, >tr|A0A151TDA0|A0A151TDA0_CAJCA... *
->Cluster 77
+>Cluster 68
 0	66aa, >tr|A0A151U324|A0A151U324_CAJCA... *
->Cluster 78
+>Cluster 69
 0	64aa, >tr|A0A151T309|A0A151T309_CAJCA... *
->Cluster 79
+>Cluster 70
 0	63aa, >tr|A0A151UCZ2|A0A151UCZ2_CAJCA... *
->Cluster 80
+>Cluster 71
 0	57aa, >tr|A0A151TGA3|A0A151TGA3_CAJCA... *
->Cluster 81
+>Cluster 72
 0	55aa, >tr|A0A151T0X9|A0A151T0X9_CAJCA... *
->Cluster 82
+>Cluster 73
 0	44aa, >tr|A0A151T4M9|A0A151T4M9_CAJCA... *

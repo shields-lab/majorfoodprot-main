@@ -30,260 +30,230 @@
 >Cluster 13
 0	393aa, >tr|A0A1S2XV08|A0A1S2XV08_CICAR... *
 >Cluster 14
-0	368aa, >tr|A0A1S2YEL9|A0A1S2YEL9_CICAR... *
->Cluster 15
-0	367aa, >tr|A0A1S2YVV6|A0A1S2YVV6_CICAR... *
->Cluster 16
-0	360aa, >tr|A0A1S2XRE9|A0A1S2XRE9_CICAR... *
->Cluster 17
-0	360aa, >tr|A0A1S2YXL6|A0A1S2YXL6_CICAR... *
-1	244aa, >tr|A0A1S3DXG8|A0A1S3DXG8_CICAR... at 99.59%
->Cluster 18
-0	358aa, >tr|A0A1S2YKC2|A0A1S2YKC2_CICAR... *
->Cluster 19
-0	357aa, >tr|A0A1S2YI47|A0A1S2YI47_CICAR... *
->Cluster 20
-0	354aa, >tr|A0A1S2X8D8|A0A1S2X8D8_CICAR... *
->Cluster 21
-0	354aa, >tr|A5X7B9|A5X7B9_CICAR... *
->Cluster 22
-0	352aa, >tr|A0A1S2Y877|A0A1S2Y877_CICAR... *
->Cluster 23
 0	351aa, >tr|A0A0A7U034|A0A0A7U034_CICAR... *
 1	350aa, >tr|A0A1S2X8P0|A0A1S2X8P0_CICAR... at 98.00%
->Cluster 24
-0	335aa, >tr|A0A1S3EFT9|A0A1S3EFT9_CICAR... *
->Cluster 25
-0	335aa, >tr|A0A1S2YDN4|A0A1S2YDN4_CICAR... *
->Cluster 26
-0	331aa, >tr|A0A1S2XII6|A0A1S2XII6_CICAR... *
->Cluster 27
-0	331aa, >tr|A0A1S2Z2Q6|A0A1S2Z2Q6_CICAR... *
->Cluster 28
-0	331aa, >tr|A0A1S2Z7K5|A0A1S2Z7K5_CICAR... *
->Cluster 29
-0	331aa, >tr|A0A1S2XLY6|A0A1S2XLY6_CICAR... *
->Cluster 30
-0	331aa, >tr|A0A1S2XA72|A0A1S2XA72_CICAR... *
-1	331aa, >tr|A0A1S2YQI6|A0A1S2YQI6_CICAR... at 96.68%
->Cluster 31
+>Cluster 15
 0	327aa, >tr|A0A1S2YJV5|A0A1S2YJV5_CICAR... *
->Cluster 32
+>Cluster 16
 0	315aa, >tr|A0A1S2XCB5|A0A1S2XCB5_CICAR... *
->Cluster 33
+>Cluster 17
 0	306aa, >tr|A0A1S2YZ56|A0A1S2YZ56_CICAR... *
->Cluster 34
+>Cluster 18
+0	261aa, >tr|A0A1S2YUW3|A0A1S2YUW3_CICAR... *
+>Cluster 19
 0	247aa, >tr|Q84TR3|Q84TR3_CICAR... *
->Cluster 35
+>Cluster 20
 0	231aa, >tr|R4NHA7|R4NHA7_CICAR... *
->Cluster 36
+>Cluster 21
 0	230aa, >tr|A0A3Q7K771|A0A3Q7K771_CICAR... *
->Cluster 37
+>Cluster 22
 0	228aa, >tr|A0A3Q7K6X3|A0A3Q7K6X3_CICAR... *
 1	227aa, >tr|G1K3R9|G1K3R9_CICAR... at 97.36%
 2	227aa, >tr|G1K3S0|G1K3S0_CICAR... at 96.92%
->Cluster 38
+>Cluster 23
 0	221aa, >tr|Q304D4|Q304D4_CICAR... *
 1	221aa, >tr|A0A3Q7K706|A0A3Q7K706_CICAR... at 100.00%
->Cluster 39
+>Cluster 24
 0	215aa, >tr|A0A1S2XHS6|A0A1S2XHS6_CICAR... *
->Cluster 40
+>Cluster 25
 0	198aa, >tr|A0A1S2Z4V7|A0A1S2Z4V7_CICAR... *
->Cluster 41
+>Cluster 26
 0	196aa, >tr|A0A1S2XQR4|A0A1S2XQR4_CICAR... *
 1	189aa, >tr|A0A1S2XQ88|A0A1S2XQ88_CICAR... at 96.83%
 2	189aa, >tr|A0ACM7D549|A0ACM7D549_CICAR... at 96.83%
->Cluster 42
+>Cluster 27
 0	191aa, >tr|A0A1S2Y087|A0A1S2Y087_CICAR... *
->Cluster 43
+>Cluster 28
 0	190aa, >tr|A0A1S2XYZ0|A0A1S2XYZ0_CICAR... *
->Cluster 44
+>Cluster 29
 0	169aa, >tr|A0A1S2XGR7|A0A1S2XGR7_CICAR... *
->Cluster 45
+>Cluster 30
 0	159aa, >tr|A0A1S3E8G3|A0A1S3E8G3_CICAR... *
->Cluster 46
+>Cluster 31
 0	158aa, >tr|A0A3Q7XIQ0|A0A3Q7XIQ0_CICAR... *
->Cluster 47
+>Cluster 32
 0	133aa, >tr|A0ACM7CWB5|A0ACM7CWB5_CICAR... *
->Cluster 48
+>Cluster 33
 0	132aa, >tr|A0A1S2XJM3|A0A1S2XJM3_CICAR... *
->Cluster 49
+>Cluster 34
 0	131aa, >tr|A0A1S2YKD9|A0A1S2YKD9_CICAR... *
->Cluster 50
+>Cluster 35
 0	128aa, >tr|A0A1S2YB31|A0A1S2YB31_CICAR... *
->Cluster 51
+>Cluster 36
 0	127aa, >tr|A0A1S2Z3C2|A0A1S2Z3C2_CICAR... *
->Cluster 52
+>Cluster 37
 0	126aa, >tr|A0A1S2YR34|A0A1S2YR34_CICAR... *
->Cluster 53
+>Cluster 38
 0	119aa, >tr|A0A1S2XU57|A0A1S2XU57_CICAR... *
->Cluster 54
+>Cluster 39
 0	118aa, >tr|A0A1S2YGT3|A0A1S2YGT3_CICAR... *
->Cluster 55
+>Cluster 40
 0	118aa, >tr|A0A1S2XSP2|A0A1S2XSP2_CICAR... *
->Cluster 56
+>Cluster 41
 0	116aa, >tr|A0A1S2Y8R4|A0A1S2Y8R4_CICAR... *
->Cluster 57
+>Cluster 42
 0	113aa, >tr|A0A1S3E1V0|A0A1S3E1V0_CICAR... *
->Cluster 58
+>Cluster 43
 0	109aa, >tr|A0A1S2XNJ7|A0A1S2XNJ7_CICAR... *
->Cluster 59
+>Cluster 44
 0	109aa, >tr|A0A1S2YLJ8|A0A1S2YLJ8_CICAR... *
->Cluster 60
+>Cluster 45
 0	109aa, >tr|A0A1S2Y6U8|A0A1S2Y6U8_CICAR... *
->Cluster 61
+>Cluster 46
 0	106aa, >sp|O23758|NLTP_CICAR... *
 1	106aa, >tr|A0ACK5YK32|A0ACK5YK32_CICAR... at 97.17%
->Cluster 62
+>Cluster 47
 0	105aa, >tr|A0A1S3EAP5|A0A1S3EAP5_CICAR... *
->Cluster 63
+>Cluster 48
 0	103aa, >tr|A0A1S2XZ18|A0A1S2XZ18_CICAR... *
->Cluster 64
+>Cluster 49
 0	102aa, >tr|A0ACM7D9C6|A0ACM7D9C6_CICAR... *
->Cluster 65
+>Cluster 50
 0	101aa, >tr|A0A1S3EA35|A0A1S3EA35_CICAR... *
->Cluster 66
+>Cluster 51
 0	101aa, >tr|A0A1S2YL97|A0A1S2YL97_CICAR... *
->Cluster 67
+>Cluster 52
 0	98aa, >tr|A0A1S2XRP8|A0A1S2XRP8_CICAR... *
->Cluster 68
+>Cluster 53
 0	98aa, >tr|A0ACM7D5K8|A0ACM7D5K8_CICAR... *
->Cluster 69
+>Cluster 54
 0	97aa, >tr|A0A1S2Y0U5|A0A1S2Y0U5_CICAR... *
->Cluster 70
+>Cluster 55
 0	96aa, >tr|A0A1S2Z702|A0A1S2Z702_CICAR... *
->Cluster 71
+>Cluster 56
 0	94aa, >tr|A0A1S2XPN1|A0A1S2XPN1_CICAR... *
->Cluster 72
+>Cluster 57
 0	94aa, >tr|A0A1S2XCL5|A0A1S2XCL5_CICAR... *
->Cluster 73
+>Cluster 58
 0	92aa, >tr|A0A1S2XBU2|A0A1S2XBU2_CICAR... *
->Cluster 74
+>Cluster 59
 0	91aa, >tr|A0A1S2YQS4|A0A1S2YQS4_CICAR... *
->Cluster 75
+>Cluster 60
 0	91aa, >tr|A0A1S2Y965|A0A1S2Y965_CICAR... *
->Cluster 76
+>Cluster 61
+0	91aa, >tr|A0ACM7D6H5|A0ACM7D6H5_CICAR... *
+>Cluster 62
 0	91aa, >tr|A0A1S2Z3T1|A0A1S2Z3T1_CICAR... *
->Cluster 77
+>Cluster 63
 0	91aa, >tr|A0A1S2XPK3|A0A1S2XPK3_CICAR... *
->Cluster 78
+>Cluster 64
 0	91aa, >tr|A0A1S2XFK0|A0A1S2XFK0_CICAR... *
->Cluster 79
+>Cluster 65
 0	91aa, >tr|A0A3Q7Y6E4|A0A3Q7Y6E4_CICAR... *
 1	89aa, >tr|A0A3Q7XTI9|A0A3Q7XTI9_CICAR... at 100.00%
 2	76aa, >tr|A0A1S2Z1Q0|A0A1S2Z1Q0_CICAR... at 100.00%
 3	76aa, >tr|A0A3Q7WWH6|A0A3Q7WWH6_CICAR... at 100.00%
->Cluster 80
+>Cluster 66
 0	89aa, >tr|A0A1S2XWV8|A0A1S2XWV8_CICAR... *
->Cluster 81
+>Cluster 67
 0	89aa, >tr|A0A1S2YLQ0|A0A1S2YLQ0_CICAR... *
 1	89aa, >tr|A0A1S2YLF6|A0A1S2YLF6_CICAR... at 96.63%
 2	89aa, >tr|A0A3Q7Y9S2|A0A3Q7Y9S2_CICAR... at 96.63%
 3	89aa, >tr|A0A1S2YLG1|A0A1S2YLG1_CICAR... at 95.51%
->Cluster 82
+>Cluster 68
 0	89aa, >tr|A0A1S2XPF6|A0A1S2XPF6_CICAR... *
 1	89aa, >tr|A0A1S2XN50|A0A1S2XN50_CICAR... at 97.75%
->Cluster 83
+>Cluster 69
 0	89aa, >tr|A0A1S2Z2A4|A0A1S2Z2A4_CICAR... *
 1	89aa, >tr|A0A1S2Z293|A0A1S2Z293_CICAR... at 98.88%
->Cluster 84
+>Cluster 70
 0	89aa, >tr|A0A1S2Z2A7|A0A1S2Z2A7_CICAR... *
->Cluster 85
+>Cluster 71
 0	88aa, >tr|A0A1S2Z896|A0A1S2Z896_CICAR... *
->Cluster 86
+>Cluster 72
 0	88aa, >tr|A0A1S2YX81|A0A1S2YX81_CICAR... *
->Cluster 87
+>Cluster 73
 0	87aa, >tr|A0A1S2Z6F0|A0A1S2Z6F0_CICAR... *
->Cluster 88
+>Cluster 74
 0	86aa, >tr|A0A1S2X8M3|A0A1S2X8M3_CICAR... *
 1	86aa, >tr|Q9LEN8|Q9LEN8_CICAR... at 100.00%
->Cluster 89
+>Cluster 75
 0	86aa, >tr|A0A1S2YC75|A0A1S2YC75_CICAR... *
->Cluster 90
+>Cluster 76
 0	86aa, >tr|A0A1S2YAV0|A0A1S2YAV0_CICAR... *
->Cluster 91
+>Cluster 77
 0	86aa, >tr|A0A1S2X8P8|A0A1S2X8P8_CICAR... *
 1	86aa, >tr|Q700A6|Q700A6_CICAR... at 100.00%
->Cluster 92
+>Cluster 78
 0	85aa, >tr|A0A1S2Z897|A0A1S2Z897_CICAR... *
->Cluster 93
+>Cluster 79
 0	85aa, >tr|A0A1S2Z893|A0A1S2Z893_CICAR... *
->Cluster 94
+>Cluster 80
 0	84aa, >tr|A0A1S2Z898|A0A1S2Z898_CICAR... *
->Cluster 95
+>Cluster 81
 0	84aa, >tr|A0A1S2YJP2|A0A1S2YJP2_CICAR... *
->Cluster 96
+>Cluster 82
 0	84aa, >tr|A0A1S2Y917|A0A1S2Y917_CICAR... *
->Cluster 97
+>Cluster 83
 0	84aa, >tr|A0A1S2YXT5|A0A1S2YXT5_CICAR... *
->Cluster 98
+>Cluster 84
 0	83aa, >tr|A0A1S2Z2W5|A0A1S2Z2W5_CICAR... *
->Cluster 99
+>Cluster 85
 0	83aa, >tr|A0A1S2Z890|A0A1S2Z890_CICAR... *
->Cluster 100
+>Cluster 86
 0	83aa, >tr|A0A1S2Z2X9|A0A1S2Z2X9_CICAR... *
->Cluster 101
+>Cluster 87
 0	82aa, >tr|A0A1S2Z2X7|A0A1S2Z2X7_CICAR... *
->Cluster 102
+>Cluster 88
 0	82aa, >tr|A0A1S2Y5A0|A0A1S2Y5A0_CICAR... *
->Cluster 103
+>Cluster 89
 0	80aa, >tr|A0A1S2Z891|A0A1S2Z891_CICAR... *
 1	80aa, >tr|A0A1S2Z892|A0A1S2Z892_CICAR... at 96.25%
->Cluster 104
+>Cluster 90
 0	78aa, >tr|A0A1S3EEU3|A0A1S3EEU3_CICAR... *
->Cluster 105
+>Cluster 91
 0	77aa, >tr|A0A1S2Y630|A0A1S2Y630_CICAR... *
->Cluster 106
+>Cluster 92
 0	76aa, >tr|A0A1S2YE40|A0A1S2YE40_CICAR... *
->Cluster 107
+>Cluster 93
 0	76aa, >tr|A0A1S2YI25|A0A1S2YI25_CICAR... *
->Cluster 108
+>Cluster 94
 0	76aa, >tr|A0A1S2XEG1|A0A1S2XEG1_CICAR... *
->Cluster 109
+>Cluster 95
 0	76aa, >tr|A0A3Q7XQE9|A0A3Q7XQE9_CICAR... *
->Cluster 110
+>Cluster 96
 0	75aa, >tr|A0A3Q7Y2I9|A0A3Q7Y2I9_CICAR... *
->Cluster 111
+>Cluster 97
 0	75aa, >tr|A0A1S2XF30|A0A1S2XF30_CICAR... *
->Cluster 112
+>Cluster 98
 0	74aa, >tr|A0A1S2YWP8|A0A1S2YWP8_CICAR... *
->Cluster 113
+>Cluster 99
 0	73aa, >tr|A0A1S2YTC9|A0A1S2YTC9_CICAR... *
->Cluster 114
+>Cluster 100
 0	73aa, >tr|A0ACM7DH83|A0ACM7DH83_CICAR... *
->Cluster 115
+>Cluster 101
 0	72aa, >tr|A0A1S2YG78|A0A1S2YG78_CICAR... *
 1	72aa, >tr|A0A1S2YG82|A0A1S2YG82_CICAR... at 95.83%
->Cluster 116
+>Cluster 102
 0	72aa, >tr|A0A1S2Z643|A0A1S2Z643_CICAR... *
->Cluster 117
+>Cluster 103
 0	70aa, >tr|A0A1S2XP93|A0A1S2XP93_CICAR... *
 1	70aa, >tr|B0L632|B0L632_CICAR... at 100.00%
->Cluster 118
+>Cluster 104
 0	70aa, >tr|A0A1S2Z4H7|A0A1S2Z4H7_CICAR... *
->Cluster 119
+>Cluster 105
 0	70aa, >tr|A0A1S2Z0A9|A0A1S2Z0A9_CICAR... *
->Cluster 120
+>Cluster 106
 0	66aa, >tr|A0A1S2Z0L0|A0A1S2Z0L0_CICAR... *
->Cluster 121
+>Cluster 107
 0	66aa, >tr|A0A3Q7XWW7|A0A3Q7XWW7_CICAR... *
->Cluster 122
+>Cluster 108
 0	64aa, >tr|A0A1S2YHV8|A0A1S2YHV8_CICAR... *
->Cluster 123
+>Cluster 109
 0	61aa, >tr|A0A1S2XDF0|A0A1S2XDF0_CICAR... *
->Cluster 124
+>Cluster 110
 0	60aa, >tr|A0A1S2XYQ8|A0A1S2XYQ8_CICAR... *
->Cluster 125
+>Cluster 111
 0	56aa, >tr|A0A1S2YX86|A0A1S2YX86_CICAR... *
->Cluster 126
+>Cluster 112
 0	50aa, >tr|A0A1S2XM71|A0A1S2XM71_CICAR... *
->Cluster 127
+>Cluster 113
 0	48aa, >tr|A0A1S2XXJ7|A0A1S2XXJ7_CICAR... *
->Cluster 128
+>Cluster 114
 0	48aa, >tr|A0A1S3E2N7|A0A1S3E2N7_CICAR... *
->Cluster 129
+>Cluster 115
 0	48aa, >tr|A0A1S2XS23|A0A1S2XS23_CICAR... *
->Cluster 130
+>Cluster 116
 0	45aa, >tr|A0A1S2YNG2|A0A1S2YNG2_CICAR... *
->Cluster 131
+>Cluster 117
 0	28aa, >tr|A0A1S2XS41|A0A1S2XS41_CICAR... *
