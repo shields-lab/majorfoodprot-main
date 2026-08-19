@@ -3620,5 +3620,4 @@ Batch 101/101: 74 accession(s)
   P02458: stored candidate_sequence doesn't cover this protein's own true N-terminus (likely a DIAMOND-aligned fragment) -- signal peptide not present in it to strip: SIGNAL 1..25; /evidence="ECO:0000255"
   P08123: stored candidate_sequence doesn't cover this protein's own true N-terminus (likely a DIAMOND-aligned fragment) -- signal peptide not present in it to strip: SIGNAL 1..22; /evidence="ECO:0000250|UniProtKB:P02466"
 fooddb.sqlite: signal_peptide_seq/mature_sequence columns already present (re-run) -- schema unchanged, values refreshed below
-output_tsvs/nonred_orthologs.tsv: Signal_Peptide_Seq/Mature_Sequence columns already present (re-run) -- not re-appended; values below are still refreshed in place for every row.
 Archive: 0 fetched, 9074 already present, 0 failed
