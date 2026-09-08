@@ -9,83 +9,83 @@
 >Cluster 4
 0	1935aa, >sp|P12883|MYH7_HUMAN... *
 >Cluster 5
-0	1141aa, >sp|Q14324|MYPC2_HUMAN... *
+0	1487aa, >sp|P02458|CO2A1_HUMAN... *
 >Cluster 6
-0	1141aa, >sp|Q00872|MYPC1_HUMAN... *
+0	1466aa, >sp|P02461|CO3A1_HUMAN... *
 >Cluster 7
-0	1001aa, >sp|O14983|AT2A1_HUMAN... *
+0	1464aa, >sp|P02452|CO1A1_HUMAN... *
 >Cluster 8
-0	992aa, >sp|P16615|AT2A2_HUMAN... *
+0	1366aa, >sp|P08123|CO1A2_HUMAN... *
 >Cluster 9
-0	894aa, >sp|P35609|ACTN2_HUMAN... *
+0	1141aa, >sp|Q14324|MYPC2_HUMAN... *
 >Cluster 10
-0	842aa, >sp|P11217|PYGM_HUMAN... *
+0	1141aa, >sp|Q00872|MYPC1_HUMAN... *
 >Cluster 11
-0	553aa, >sp|P25705|ATPA_HUMAN... *
+0	1042aa, >sp|P16615|AT2A2_HUMAN... *
 >Cluster 12
-0	529aa, >sp|P06576|ATPB_HUMAN... *
+0	1001aa, >sp|O14983|AT2A1_HUMAN... *
 >Cluster 13
-0	504aa, >sp|Q99972|MYOC_HUMAN... *
+0	894aa, >sp|P35609|ACTN2_HUMAN... *
 >Cluster 14
-0	434aa, >sp|P13929|ENOB_HUMAN... *
+0	842aa, >sp|P11217|PYGM_HUMAN... *
 >Cluster 15
-0	419aa, >sp|P17540|KCRS_HUMAN... *
+0	553aa, >sp|P25705|ATPA_HUMAN... *
 >Cluster 16
-0	389aa, >sp|P31415|CASQ1_HUMAN... *
+0	529aa, >sp|P06576|ATPB_HUMAN... *
 >Cluster 17
-0	381aa, >sp|P06732|KCRM_HUMAN... *
+0	504aa, >sp|Q99972|MYOC_HUMAN... *
 >Cluster 18
-0	377aa, >sp|P68133|ACTS_HUMAN... *
+0	434aa, >sp|P13929|ENOB_HUMAN... *
 >Cluster 19
-0	364aa, >sp|P04075|ALDOA_HUMAN... *
+0	419aa, >sp|P17540|KCRS_HUMAN... *
 >Cluster 20
-0	335aa, >sp|P04406|G3P_HUMAN... *
+0	396aa, >sp|P31415|CASQ1_HUMAN... *
 >Cluster 21
-0	298aa, >sp|P12235|ADT1_HUMAN... *
+0	381aa, >sp|P06732|KCRM_HUMAN... *
 >Cluster 22
-0	285aa, >sp|P06753|TPM3_HUMAN... *
+0	377aa, >sp|P68133|ACTS_HUMAN... *
 >Cluster 23
-0	284aa, >sp|P09493|TPM1_HUMAN... *
+0	364aa, >sp|P04075|ALDOA_HUMAN... *
 >Cluster 24
-0	284aa, >sp|P07951|TPM2_HUMAN... *
+0	335aa, >sp|P04406|G3P_HUMAN... *
 >Cluster 25
-0	278aa, >sp|P13805|TNNT1_HUMAN... *
+0	298aa, >sp|P12235|ADT1_HUMAN... *
 >Cluster 26
-0	272aa, >sp|P02452|CO1A1_HUMAN... *
+0	285aa, >sp|P06753|TPM3_HUMAN... *
 >Cluster 27
-0	272aa, >sp|P02461|CO3A1_HUMAN... *
+0	284aa, >sp|P09493|TPM1_HUMAN... *
 >Cluster 28
-0	271aa, >sp|P02458|CO2A1_HUMAN... *
+0	284aa, >sp|P07951|TPM2_HUMAN... *
 >Cluster 29
-0	259aa, >sp|P08123|CO1A2_HUMAN... *
+0	278aa, >sp|P13805|TNNT1_HUMAN... *
 >Cluster 30
-0	248aa, >sp|P67936|TPM4_HUMAN... *
+0	269aa, >sp|P45378|TNNT3_HUMAN... *
 >Cluster 31
-0	229aa, >sp|P0CG47|UBB_HUMAN... *
+0	248aa, >sp|P67936|TPM4_HUMAN... *
 >Cluster 32
-0	227aa, >sp|P00403|COX2_HUMAN... *
+0	229aa, >sp|P0CG47|UBB_HUMAN... *
 >Cluster 33
-0	218aa, >sp|P45378|TNNT3_HUMAN... *
+0	227aa, >sp|P00403|COX2_HUMAN... *
 >Cluster 34
 0	210aa, >sp|P19429|TNNI3_HUMAN... *
 >Cluster 35
 0	195aa, >sp|P08590|MYL3_HUMAN... *
 >Cluster 36
-0	179aa, >sp|P19237|TNNI1_HUMAN... *
+0	194aa, >sp|P05976|MYL1_HUMAN... *
 >Cluster 37
-0	175aa, >sp|P48788|TNNI2_HUMAN... *
+0	187aa, >sp|P19237|TNNI1_HUMAN... *
 >Cluster 38
-0	169aa, >sp|Q96A32|MYL11_HUMAN... *
+0	182aa, >sp|P48788|TNNI2_HUMAN... *
 >Cluster 39
-0	161aa, >sp|Q96B96|LDAF1_HUMAN... *
+0	169aa, >sp|Q96A32|MYL11_HUMAN... *
 >Cluster 40
-0	160aa, >sp|P02585|TNNC2_HUMAN... *
+0	161aa, >sp|Q96B96|LDAF1_HUMAN... *
 >Cluster 41
-0	159aa, >sp|P05976|MYL1_HUMAN... *
+0	160aa, >sp|P02585|TNNC2_HUMAN... *
 >Cluster 42
 0	154aa, >sp|P02144|MYG_HUMAN... *
 >Cluster 43
-0	143aa, >sp|P68871|HBB_HUMAN... *
+0	147aa, >sp|P68871|HBB_HUMAN... *
 >Cluster 44
 0	142aa, >sp|P69905|HBA_HUMAN... *
 >Cluster 45

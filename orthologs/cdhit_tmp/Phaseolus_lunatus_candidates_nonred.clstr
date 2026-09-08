@@ -1,13 +1,13 @@
 >Cluster 0
-0	263aa, >tr|Q9LED7|Q9LED7_PHALU... *
+0	428aa, >sp|P80463|PHS1_PHALU... *
+1	423aa, >sp|Q43617|PHS2_PHALU... at 97.40%
 >Cluster 1
-0	262aa, >tr|P93455|P93455_PHALU... *
+0	263aa, >tr|Q9LED7|Q9LED7_PHALU... *
 >Cluster 2
+0	263aa, >tr|P93455|P93455_PHALU... *
+>Cluster 3
+0	262aa, >sp|P16300|LEC_PHALU... *
+>Cluster 4
 0	257aa, >tr|Q9LED6|Q9LED6_PHALU... *
 1	257aa, >tr|Q9LED5|Q9LED5_PHALU... at 99.22%
-2	251aa, >tr|P93456|P93456_PHALU... at 95.62%
->Cluster 3
-0	244aa, >sp|P16300|LEC_PHALU... *
->Cluster 4
-0	177aa, >sp|P80463|PHS1_PHALU... *
-1	177aa, >sp|Q43617|PHS2_PHALU... at 96.61%
+2	257aa, >tr|P93456|P93456_PHALU... at 95.33%

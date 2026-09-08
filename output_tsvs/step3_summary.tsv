@@ -102,12 +102,12 @@ Plant	Roots, tubers and plantains	Root	Sweet potato	sweet potato	Ipomoea batatas
 Plant	Roots, tubers and plantains	Root	Taro (cocoyam)	taro	Colocasia esculenta	4460		tuberin, patatin, sporamin, dioscorin, G2 globulin, tarin, G1 globulin, globulin		32	OK	56380	8508	1680
 Plant	Leaves	Leaves	Cassava	cassava	Manihot esculenta	3983		rbcS, rbcL		14	OK	55591	8508	2350
 Plant	Roots, tubers and plantains	Root	Yam	white yam	Dioscorea cayenensis	55577		tuberin, patatin, sporamin, dioscorin, G2 globulin, tarin, G1 globulin, globulin		1	OK	1	8508	1
-Plant	Roots, tubers and plantains	Plantain	Plantain	plantain	Musa paradisiaca	89151		tuberin, patatin, sporamin, dioscorin, G2 globulin, tarin, G1 globulin, globulin		0	OK	2	8508	1
 Plant	Leaves	Leaves	Cassava	cassava	Manihot esculenta	3983		rbcS, rbcL		14	OK	55591	8508	2350
 Plant	Leaves	Leaves	Brassica greens	cabbage/broccoli/kale	Brassica oleracea 	36774		rbcS, rbcL		24	OK	59656	8508	2492
 Plant	Leaves	Leaves	Spinach	spinach	Spinacia oleracea	3562		rbcS, rbcL		13	OK	34481	8508	1881
 Plant	Leaves	Leaves	Brassica greens	bok choy, collared greens	Brassica rapa	93385		rbcS, rbcL		15	OK	43385	8508	1990
 Plant	Leaves	Leaves	Lettuce	lettuce	Lactuca sativa	4236		rbcS, rbcL		13	OK	44491	8508	2023
-Reference				Human	Homo sapiens	9606	Homo_sapiens.fa			0		210793	80	1194
 Plant	Roots, tubers and plantains	Plantain	Plantain	banana	Musa acuminata	4641		"protein_name:""thaumatin-like protein"" AND length:[220 TO 330]"		41	OK	0	8508	41
 Plant	Roots, tubers and plantains	Plantain	Plantain	banana	Musa balbisiana	52838		"protein_name:""thaumatin-like protein"" AND length:[220 TO 330]"		22	OK	0	8508	22
+Plant	Roots, tubers and plantains	Plantain	Plantain	plantain	Musa paradisiaca	89151		tuberin, patatin, sporamin, dioscorin, G2 globulin, tarin, G1 globulin, globulin		0	OK	2	8508	1
+Reference				Human	Homo sapiens	9606	Homo_sapiens.fa			0		210793	80	1194
