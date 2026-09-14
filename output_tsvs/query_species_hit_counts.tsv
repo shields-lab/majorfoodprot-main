@@ -8548,7 +8548,7 @@ sp|P80025|PERL_BOVIN	LPO	Lactoperoxidase	Bos taurus	Camelus dromedarius	2	tr|A0A
 sp|P80025|PERL_BOVIN	LPO	Lactoperoxidase	Bos taurus	Capra hircus	1	sp|A0A452E9Y6|PERL_CAPHI	LPO	Lactoperoxidase
 sp|P80025|PERL_BOVIN	LPO	Lactoperoxidase	Bos taurus	Ovis aries	2	tr|A0ACB9UCQ3|A0ACB9UCQ3_9CETA;tr|A0ACI6NFG4|A0ACI6NFG4_SHEEP	MJG53_014770;LPO	Lactoperoxidase;Uncharacterized protein
 sp|P24627|TRFL_BOVIN	LTF	Lactotransferrin	Bos taurus	Bos taurus	1	sp|P24627|TRFL_BOVIN	LTF	Lactotransferrin
-sp|P24627|TRFL_BOVIN	LTF	Lactotransferrin	Bos taurus	Bubalus bubalis	2	tr|C7DZZ8|C7DZZ8_BUBBU;tr|Q0PGA5|Q0PGA5_BUBBU	LF;	Lactoferrin (Fragment);Lactoferrin (Fragment)
+sp|P24627|TRFL_BOVIN	LTF	Lactotransferrin	Bos taurus	Bubalus bubalis	3	sp|O77698|TRFL_BUBBU;tr|C7DZZ8|C7DZZ8_BUBBU;tr|Q0PGA5|Q0PGA5_BUBBU	LTF;LF;	Lactotransferrin;Lactoferrin (Fragment);Lactoferrin (Fragment)
 sp|P24627|TRFL_BOVIN	LTF	Lactotransferrin	Bos taurus	Camelus dromedarius	1	sp|Q9TUM0|TRFL_CAMDR	LTF	Lactotransferrin
 sp|P24627|TRFL_BOVIN	LTF	Lactotransferrin	Bos taurus	Capra hircus	2	sp|Q29477|TRFL_CAPHI;tr|A0A452EY47|A0A452EY47_CAPHI	LTF;LTF	Lactotransferrin;Lactotransferrin
 sp|P24627|TRFL_BOVIN	LTF	Lactotransferrin	Bos taurus	Ovis aries	2	tr|A0ACB9UBJ9|A0ACB9UBJ9_9CETA;tr|A0ACI6Q6N6|A0ACI6Q6N6_SHEEP	MJG53_016164;LTF	Lactotransferrin;Uncharacterized protein
@@ -15722,7 +15722,7 @@ sp|P02752|RBP_CHICK		Riboflavin-binding protein	Gallus gallus	Gallus gallus	1	sp
 sp|P02789|TRFE_CHICK		Ovotransferrin	Gallus gallus	Anas platyrhynchos platyrhynchos	2	tr|A0A493TBB4|A0A493TBB4_ANAPP;tr|A0A493TNX2|A0A493TNX2_ANAPP	LTF;LTF	Ovotransferrin;Ovotransferrin
 sp|P02789|TRFE_CHICK		Ovotransferrin	Gallus gallus	Gallus gallus	1	sp|P02789|TRFE_CHICK		Ovotransferrin
 sp|P20740|OVOS_CHICK		Ovostatin	Gallus gallus	Anas platyrhynchos platyrhynchos	1	tr|U3IJS9|U3IJS9_ANAPP		Ovostatin
-sp|P20740|OVOS_CHICK		Ovostatin	Gallus gallus	Gallus gallus	1	sp|P20740|OVOS_CHICK		Ovostatin
+sp|P20740|OVOS_CHICK		Ovostatin	Gallus gallus	Gallus gallus	2	sp|P20740|OVOS_CHICK;tr|A0A8V0ZKN1|A0A8V0ZKN1_CHICK	;OVST	Ovostatin;Ovostatin
 sp|P27042|LYG_CHICK		Lysozyme g	Gallus gallus	Anas platyrhynchos platyrhynchos	2	tr|A0A493T1N9|A0A493T1N9_ANAPP;tr|U3J696|U3J696_ANAPP	;	Lysozyme g;Lysozyme g
 sp|P27042|LYG_CHICK		Lysozyme g	Gallus gallus	Gallus gallus	1	sp|P27042|LYG_CHICK		Lysozyme g
 sp|P19121|ALBU_CHICK	ALB	Albumin	Gallus gallus	Anas platyrhynchos platyrhynchos	1	tr|A0A493TIR6|A0A493TIR6_ANAPP	ALB	Albumin
@@ -24335,19 +24335,19 @@ sp|P68133|ACTS_HUMAN	ACTA1	Actin, alpha skeletal muscle	Homo sapiens	Chanos chan
 sp|P68133|ACTS_HUMAN	ACTA1	Actin, alpha skeletal muscle	Homo sapiens	Clarias gariepinus	0			
 sp|P68133|ACTS_HUMAN	ACTA1	Actin, alpha skeletal muscle	Homo sapiens	Clupea harengus	1	tr|A0A6P3VS31|A0A6P3VS31_CLUHA	LOC105896556	Actin, alpha cardiac muscle 2
 sp|P68133|ACTS_HUMAN	ACTA1	Actin, alpha skeletal muscle	Homo sapiens	Crassostrea virginica	1	tr|A0A8B8CLU7|A0A8B8CLU7_CRAVI	LOC111120309	Actin, adductor muscle-like
-sp|P68133|ACTS_HUMAN	ACTA1	Actin, alpha skeletal muscle	Homo sapiens	Ctenopharyngodon idella	0			
-sp|P68133|ACTS_HUMAN	ACTA1	Actin, alpha skeletal muscle	Homo sapiens	Cyprinus carpio	0			
+sp|P68133|ACTS_HUMAN	ACTA1	Actin, alpha skeletal muscle	Homo sapiens	Ctenopharyngodon idella	1	sp|P83751|ACTB_CTEID	actb	Actin, cytoplasmic 1
+sp|P68133|ACTS_HUMAN	ACTA1	Actin, alpha skeletal muscle	Homo sapiens	Cyprinus carpio	1	sp|P53479|ACTS_CYPCA	acta1	Actin, alpha skeletal muscle
 sp|P68133|ACTS_HUMAN	ACTA1	Actin, alpha skeletal muscle	Homo sapiens	Dosidicus gigas	0			
 sp|P68133|ACTS_HUMAN	ACTA1	Actin, alpha skeletal muscle	Homo sapiens	Engraulis ringens	0			
 sp|P68133|ACTS_HUMAN	ACTA1	Actin, alpha skeletal muscle	Homo sapiens	Ensis arcuatus	0			
 sp|P68133|ACTS_HUMAN	ACTA1	Actin, alpha skeletal muscle	Homo sapiens	Ensis directus	0			
 sp|P68133|ACTS_HUMAN	ACTA1	Actin, alpha skeletal muscle	Homo sapiens	Ensis minor	0			
-sp|P68133|ACTS_HUMAN	ACTA1	Actin, alpha skeletal muscle	Homo sapiens	Gadus chalcogrammus	0			
+sp|P68133|ACTS_HUMAN	ACTA1	Actin, alpha skeletal muscle	Homo sapiens	Gadus chalcogrammus	1	tr|Q76LU1|Q76LU1_GADCH		Alpha skeletal actin-1
 sp|P68133|ACTS_HUMAN	ACTA1	Actin, alpha skeletal muscle	Homo sapiens	Gadus morhua	0			
 sp|P68133|ACTS_HUMAN	ACTA1	Actin, alpha skeletal muscle	Homo sapiens	Gallus gallus	1	sp|P68139|ACTS_CHICK	ACTA1	Actin, alpha skeletal muscle
 sp|P68133|ACTS_HUMAN	ACTA1	Actin, alpha skeletal muscle	Homo sapiens	Homo sapiens	1	sp|P68133|ACTS_HUMAN	ACTA1	Actin, alpha skeletal muscle
 sp|P68133|ACTS_HUMAN	ACTA1	Actin, alpha skeletal muscle	Homo sapiens	Hypophthalmichthys molitrix	1	tr|I6SN93|I6SN93_HYPMO		Alpha-actin (Fragment)
-sp|P68133|ACTS_HUMAN	ACTA1	Actin, alpha skeletal muscle	Homo sapiens	Ictalurus furcatus	0			
+sp|P68133|ACTS_HUMAN	ACTA1	Actin, alpha skeletal muscle	Homo sapiens	Ictalurus furcatus	1	tr|E3TC62|E3TC62_ICTFU	ACT2	Actin alpha sarcomeric/cardiac
 sp|P68133|ACTS_HUMAN	ACTA1	Actin, alpha skeletal muscle	Homo sapiens	Ictalurus punctatus	1	tr|A0A2D0RN89|A0A2D0RN89_ICTPU	LOC108269850	Actin, alpha cardiac muscle 1
 sp|P68133|ACTS_HUMAN	ACTA1	Actin, alpha skeletal muscle	Homo sapiens	Katsuwonus pelamis	0			
 sp|P68133|ACTS_HUMAN	ACTA1	Actin, alpha skeletal muscle	Homo sapiens	Labeo catla	0			
@@ -24366,7 +24366,7 @@ sp|P68133|ACTS_HUMAN	ACTA1	Actin, alpha skeletal muscle	Homo sapiens	Ovis aries	
 sp|P68133|ACTS_HUMAN	ACTA1	Actin, alpha skeletal muscle	Homo sapiens	Pangasius bocourti	0			
 sp|P68133|ACTS_HUMAN	ACTA1	Actin, alpha skeletal muscle	Homo sapiens	Penaeus vannamei	6	tr|A0A2H4V3C7|A0A2H4V3C7_PENVA;tr|A0A3R7M1G5|A0A3R7M1G5_PENVA;tr|A0A3R7MFH4|A0A3R7MFH4_PENVA;tr|A0A3R7PHB1|A0A3R7PHB1_PENVA;tr|A0A423SYA2|A0A423SYA2_PENVA;tr|A0A423TUJ4|A0A423TUJ4_PENVA	;C7M84_012580;C7M84_006497;C7M84_015492;C7M84_012588;C7M84_001133	Slow-type skeletal muscle actin 1;Cardiac muscle actin;Actin 1;Skeletal muscle actin 8;Actin 1;Cardiac muscle actin
 sp|P68133|ACTS_HUMAN	ACTA1	Actin, alpha skeletal muscle	Homo sapiens	Perna canaliculus	0			
-sp|P68133|ACTS_HUMAN	ACTA1	Actin, alpha skeletal muscle	Homo sapiens	Placopecten magellanicus	0			
+sp|P68133|ACTS_HUMAN	ACTA1	Actin, alpha skeletal muscle	Homo sapiens	Placopecten magellanicus	1	sp|Q26065|ACT_PLAMG		Actin, adductor muscle
 sp|P68133|ACTS_HUMAN	ACTA1	Actin, alpha skeletal muscle	Homo sapiens	Procambarus clarkii	1	sp|P45521|ACT_PROCL		Actin (Fragment)
 sp|P68133|ACTS_HUMAN	ACTA1	Actin, alpha skeletal muscle	Homo sapiens	Ruditapes philippinarum	0			
 sp|P68133|ACTS_HUMAN	ACTA1	Actin, alpha skeletal muscle	Homo sapiens	Salmo salar	1	tr|A0A1S3RC63|A0A1S3RC63_SALSA	LOC106601553	Actin, alpha cardiac muscle 1
@@ -24444,7 +24444,7 @@ sp|P04075|ALDOA_HUMAN	ALDOA	Fructose-bisphosphate aldolase A	Homo sapiens	Argope
 sp|P04075|ALDOA_HUMAN	ALDOA	Fructose-bisphosphate aldolase A	Homo sapiens	Bos taurus	0			
 sp|P04075|ALDOA_HUMAN	ALDOA	Fructose-bisphosphate aldolase A	Homo sapiens	Bubalus bubalis	0			
 sp|P04075|ALDOA_HUMAN	ALDOA	Fructose-bisphosphate aldolase A	Homo sapiens	Camelus dromedarius	1	tr|A0A5N4CX10|A0A5N4CX10_CAMDR	Cadr_000023894	Fructose-bisphosphate aldolase
-sp|P04075|ALDOA_HUMAN	ALDOA	Fructose-bisphosphate aldolase A	Homo sapiens	Capra hircus	0			
+sp|P04075|ALDOA_HUMAN	ALDOA	Fructose-bisphosphate aldolase A	Homo sapiens	Capra hircus	1	tr|A0A452EH63|A0A452EH63_CAPHI	ALDOA	Fructose-bisphosphate aldolase
 sp|P04075|ALDOA_HUMAN	ALDOA	Fructose-bisphosphate aldolase A	Homo sapiens	Chanos chanos	2	tr|A0A6J2VEH7|A0A6J2VEH7_CHACN;tr|A0A6J2WYV5|A0A6J2WYV5_CHACN	aldoab;LOC115829513	Fructose-bisphosphate aldolase;Fructose-bisphosphate aldolase
 sp|P04075|ALDOA_HUMAN	ALDOA	Fructose-bisphosphate aldolase A	Homo sapiens	Clarias gariepinus	0			
 sp|P04075|ALDOA_HUMAN	ALDOA	Fructose-bisphosphate aldolase A	Homo sapiens	Clupea harengus	2	tr|A0A6P3W9M1|A0A6P3W9M1_CLUHA;tr|A0A6P8EXR9|A0A6P8EXR9_CLUHA	aldoab;LOC105910282	Fructose-bisphosphate aldolase;Fructose-bisphosphate aldolase
@@ -24459,7 +24459,7 @@ sp|P04075|ALDOA_HUMAN	ALDOA	Fructose-bisphosphate aldolase A	Homo sapiens	Ensis 
 sp|P04075|ALDOA_HUMAN	ALDOA	Fructose-bisphosphate aldolase A	Homo sapiens	Gadus chalcogrammus	0			
 sp|P04075|ALDOA_HUMAN	ALDOA	Fructose-bisphosphate aldolase A	Homo sapiens	Gadus morhua	2	tr|A0A8C5F6L1|A0A8C5F6L1_GADMO;tr|A0A8C5F6P9|A0A8C5F6P9_GADMO	;	Fructose-bisphosphate aldolase;Fructose-bisphosphate aldolase
 sp|P04075|ALDOA_HUMAN	ALDOA	Fructose-bisphosphate aldolase A	Homo sapiens	Gallus gallus	4	tr|A0A8V0X091|A0A8V0X091_CHICK;tr|A0A8V0X4F7|A0A8V0X4F7_CHICK;tr|A0A8V0X5E2|A0A8V0X5E2_CHICK;tr|A0A8V0X7G1|A0A8V0X7G1_CHICK	ALDOA;ALDOA;ALDOA;ALDOA	Fructose-bisphosphate aldolase;Fructose-bisphosphate aldolase;Fructose-bisphosphate aldolase;Fructose-bisphosphate aldolase
-sp|P04075|ALDOA_HUMAN	ALDOA	Fructose-bisphosphate aldolase A	Homo sapiens	Homo sapiens	1	sp|P04075|ALDOA_HUMAN	ALDOA	Fructose-bisphosphate aldolase A
+sp|P04075|ALDOA_HUMAN	ALDOA	Fructose-bisphosphate aldolase A	Homo sapiens	Homo sapiens	2	sp|P04075|ALDOA_HUMAN;tr|H3BQN4|H3BQN4_HUMAN	ALDOA;ALDOA	Fructose-bisphosphate aldolase A;Fructose-bisphosphate aldolase
 sp|P04075|ALDOA_HUMAN	ALDOA	Fructose-bisphosphate aldolase A	Homo sapiens	Hypophthalmichthys molitrix	0			
 sp|P04075|ALDOA_HUMAN	ALDOA	Fructose-bisphosphate aldolase A	Homo sapiens	Ictalurus furcatus	1	tr|E3TCD8|E3TCD8_ICTFU	ALDOA	fructose-bisphosphate aldolase
 sp|P04075|ALDOA_HUMAN	ALDOA	Fructose-bisphosphate aldolase A	Homo sapiens	Ictalurus punctatus	2	tr|Q1WCC1|Q1WCC1_ICTPU;tr|W5UMJ7|W5UMJ7_ICTPU	;Aldoa	fructose-bisphosphate aldolase (Fragment);Fructose-bisphosphate aldolase
@@ -24685,7 +24685,7 @@ sp|P06576|ATPB_HUMAN	ATP5F1B	ATP synthase F(1) complex subunit beta, mitochondri
 sp|P06576|ATPB_HUMAN	ATP5F1B	ATP synthase F(1) complex subunit beta, mitochondrial	Homo sapiens	Ensis directus	0			
 sp|P06576|ATPB_HUMAN	ATP5F1B	ATP synthase F(1) complex subunit beta, mitochondrial	Homo sapiens	Ensis minor	0			
 sp|P06576|ATPB_HUMAN	ATP5F1B	ATP synthase F(1) complex subunit beta, mitochondrial	Homo sapiens	Gadus chalcogrammus	0			
-sp|P06576|ATPB_HUMAN	ATP5F1B	ATP synthase F(1) complex subunit beta, mitochondrial	Homo sapiens	Gadus morhua	0			
+sp|P06576|ATPB_HUMAN	ATP5F1B	ATP synthase F(1) complex subunit beta, mitochondrial	Homo sapiens	Gadus morhua	2	tr|A0A8C5C695|A0A8C5C695_GADMO;tr|A0A8C5FB90|A0A8C5FB90_GADMO	LOC115541801;LOC115541801	ATP synthase subunit beta;ATP synthase subunit beta
 sp|P06576|ATPB_HUMAN	ATP5F1B	ATP synthase F(1) complex subunit beta, mitochondrial	Homo sapiens	Gallus gallus	1	sp|Q5ZLC5|ATPB_CHICK	ATP5F1B	ATP synthase F(1) complex catalytic subunit beta, mitochondrial
 sp|P06576|ATPB_HUMAN	ATP5F1B	ATP synthase F(1) complex subunit beta, mitochondrial	Homo sapiens	Homo sapiens	1	sp|P06576|ATPB_HUMAN	ATP5F1B	ATP synthase F(1) complex subunit beta, mitochondrial
 sp|P06576|ATPB_HUMAN	ATP5F1B	ATP synthase F(1) complex subunit beta, mitochondrial	Homo sapiens	Hypophthalmichthys molitrix	1	tr|A0A0F6N0R1|A0A0F6N0R1_HYPMO		ATP synthase subunit beta
@@ -24702,7 +24702,7 @@ sp|P06576|ATPB_HUMAN	ATP5F1B	ATP synthase F(1) complex subunit beta, mitochondri
 sp|P06576|ATPB_HUMAN	ATP5F1B	ATP synthase F(1) complex subunit beta, mitochondrial	Homo sapiens	Mytilus chilensis	0			
 sp|P06576|ATPB_HUMAN	ATP5F1B	ATP synthase F(1) complex subunit beta, mitochondrial	Homo sapiens	Mytilus edulis	2	tr|A0A8S3S6H1|A0A8S3S6H1_MYTED;tr|Q6PTH6|Q6PTH6_MYTED	MEDL_31158;	ATP synthase subunit beta;ATP synthase subunit beta (Fragment)
 sp|P06576|ATPB_HUMAN	ATP5F1B	ATP synthase F(1) complex subunit beta, mitochondrial	Homo sapiens	Mytilus galloprovincialis	1	tr|A0A8B6H8X1|A0A8B6H8X1_MYTGA	MGAL_10B034457	ATP synthase subunit beta (Fragment)
-sp|P06576|ATPB_HUMAN	ATP5F1B	ATP synthase F(1) complex subunit beta, mitochondrial	Homo sapiens	Oncorhynchus mykiss	0			
+sp|P06576|ATPB_HUMAN	ATP5F1B	ATP synthase F(1) complex subunit beta, mitochondrial	Homo sapiens	Oncorhynchus mykiss	1	tr|A0A8C7R4P9|A0A8C7R4P9_ONCMY	LOC110495788	ATP synthase subunit beta
 sp|P06576|ATPB_HUMAN	ATP5F1B	ATP synthase F(1) complex subunit beta, mitochondrial	Homo sapiens	Oreochromis niloticus	0			
 sp|P06576|ATPB_HUMAN	ATP5F1B	ATP synthase F(1) complex subunit beta, mitochondrial	Homo sapiens	Ovis aries	2	tr|A0ACI6NFH6|A0ACI6NFH6_SHEEP;tr|A0ACI6RUW2|A0ACI6RUW2_SHEEP	ATP5F1B;ATP5F1B	Uncharacterized protein;Uncharacterized protein
 sp|P06576|ATPB_HUMAN	ATP5F1B	ATP synthase F(1) complex subunit beta, mitochondrial	Homo sapiens	Pangasius bocourti	0			
@@ -24711,7 +24711,7 @@ sp|P06576|ATPB_HUMAN	ATP5F1B	ATP synthase F(1) complex subunit beta, mitochondri
 sp|P06576|ATPB_HUMAN	ATP5F1B	ATP synthase F(1) complex subunit beta, mitochondrial	Homo sapiens	Placopecten magellanicus	0			
 sp|P06576|ATPB_HUMAN	ATP5F1B	ATP synthase F(1) complex subunit beta, mitochondrial	Homo sapiens	Procambarus clarkii	1	tr|E4W6B4|E4W6B4_PROCL		ATP synthase subunit beta
 sp|P06576|ATPB_HUMAN	ATP5F1B	ATP synthase F(1) complex subunit beta, mitochondrial	Homo sapiens	Ruditapes philippinarum	0			
-sp|P06576|ATPB_HUMAN	ATP5F1B	ATP synthase F(1) complex subunit beta, mitochondrial	Homo sapiens	Salmo salar	0			
+sp|P06576|ATPB_HUMAN	ATP5F1B	ATP synthase F(1) complex subunit beta, mitochondrial	Homo sapiens	Salmo salar	1	tr|B5RI36|B5RI36_SALSA	atp5b	ATP synthase subunit beta (Fragment)
 sp|P06576|ATPB_HUMAN	ATP5F1B	ATP synthase F(1) complex subunit beta, mitochondrial	Homo sapiens	Sardina pilchardus	0			
 sp|P06576|ATPB_HUMAN	ATP5F1B	ATP synthase F(1) complex subunit beta, mitochondrial	Homo sapiens	Sardinops sagax	0			
 sp|P06576|ATPB_HUMAN	ATP5F1B	ATP synthase F(1) complex subunit beta, mitochondrial	Homo sapiens	Scomber japonicus	0			
@@ -25237,12 +25237,12 @@ sp|P13929|ENOB_HUMAN	ENO3	Beta-enolase	Homo sapiens	Thunnus albacares	0
 sp|P13929|ENOB_HUMAN	ENO3	Beta-enolase	Homo sapiens	Trachurus murphyi	0			
 sp|P13929|ENOB_HUMAN	ENO3	Beta-enolase	Homo sapiens	Trichiurus lepturus	0			
 sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Anadara broughtonii	0			
-sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Anas platyrhynchos platyrhynchos	0			
+sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Anas platyrhynchos platyrhynchos	1	tr|A0A493TQC9|A0A493TQC9_ANAPP	TAPBPL	Glyceraldehyde-3-phosphate dehydrogenase
 sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Argopecten purpuratus	0			
-sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Bos taurus	1	tr|A0A4W2E4K6|A0A4W2E4K6_BOBOX		Glyceraldehyde-3-phosphate dehydrogenase
+sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Bos taurus	2	sp|P10096|G3P_BOVIN;tr|A0A4W2E4K6|A0A4W2E4K6_BOBOX	GAPDH;	Glyceraldehyde-3-phosphate dehydrogenase;Glyceraldehyde-3-phosphate dehydrogenase
 sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Bubalus bubalis	0			
 sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Camelus dromedarius	4	tr|A0A5N4C6U9|A0A5N4C6U9_CAMDR;tr|A0A5N4DNN6|A0A5N4DNN6_CAMDR;tr|A0A5N4EBL9|A0A5N4EBL9_CAMDR;tr|A0A5N4EGR3|A0A5N4EGR3_CAMDR	Cadr_000029373;Cadr_000015178;Cadr_000004047;Cadr_000001520	Glyceraldehyde-3-phosphate dehydrogenase;Glyceraldehyde-3-phosphate dehydrogenase;Glyceraldehyde-3-phosphate dehydrogenase;Glyceraldehyde-3-phosphate dehydrogenase
-sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Capra hircus	0			
+sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Capra hircus	1	tr|A0A452FNW6|A0A452FNW6_CAPHI	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase
 sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Chanos chanos	0			
 sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Clarias gariepinus	0			
 sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Clupea harengus	0			
@@ -25256,7 +25256,7 @@ sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	
 sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Ensis minor	0			
 sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Gadus chalcogrammus	0			
 sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Gadus morhua	4	tr|A0A8C4ZK51|A0A8C4ZK51_GADMO;tr|A0A8C4ZX26|A0A8C4ZX26_GADMO;tr|A0A8C5CH75|A0A8C5CH75_GADMO;tr|A0ACE1QTA7|A0ACE1QTA7_GADMO	;;;GADMORNCC_LOCUS31741	Glyceraldehyde-3-phosphate dehydrogenase;glyceraldehyde-3-phosphate dehydrogenase (phosphorylating);Glyceraldehyde-3-phosphate dehydrogenase;Uncharacterized protein
-sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Gallus gallus	0			
+sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Gallus gallus	1	sp|P00356|G3P_CHICK	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase
 sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Homo sapiens	1	sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase
 sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Hypophthalmichthys molitrix	0			
 sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Ictalurus furcatus	0			
@@ -25265,7 +25265,7 @@ sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	
 sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Labeo catla	0			
 sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Magallana angulata	0			
 sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Magallana gigas	0			
-sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Meleagris gallopavo	0			
+sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Meleagris gallopavo	1	tr|G1NMR6|G1NMR6_MELGA	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase
 sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Mercenaria mercenaria	0			
 sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Micromesistius poutassou	0			
 sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Mizuhopecten yessoensis	0			
@@ -25274,7 +25274,7 @@ sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	
 sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Mytilus galloprovincialis	0			
 sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Oncorhynchus mykiss	2	tr|A0A060WRC9|A0A060WRC9_ONCMY;tr|A0A8C7URW4|A0A8C7URW4_ONCMY	LOC110496191;LOC110496193	Glyceraldehyde-3-phosphate dehydrogenase;Glyceraldehyde-3-phosphate dehydrogenase
 sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Oreochromis niloticus	2	tr|A0A669EYV1|A0A669EYV1_ORENI;tr|I3JIY6|I3JIY6_ORENI	GAPDH;GAPDH	Glyceraldehyde-3-phosphate dehydrogenase;Glyceraldehyde-3-phosphate dehydrogenase
-sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Ovis aries	0			
+sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Ovis aries	1	sp|Q28554|G3P_SHEEP	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase (Fragment)
 sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Pangasius bocourti	0			
 sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Penaeus vannamei	0			
 sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Perna canaliculus	0			
@@ -25288,7 +25288,7 @@ sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	
 sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Scomber scombrus	1	tr|A0AAV1QIF2|A0AAV1QIF2_SCOSC	FSCOSCO3_A027767	Glyceraldehyde-3-phosphate dehydrogenase
 sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Siliqua patula	0			
 sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Solen strictus	0			
-sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Sus scrofa	1	tr|G3CKJ2|G3CKJ2_PIG	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase (Fragment)
+sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Sus scrofa	1	sp|P00355|G3P_PIG	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase
 sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Tegillarca granosa	0			
 sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Thunnus albacares	0			
 sp|P04406|G3P_HUMAN	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase	Homo sapiens	Trachurus murphyi	0			
@@ -26528,7 +26528,7 @@ sp|P13805|TNNT1_HUMAN	TNNT1	Troponin T, slow skeletal muscle	Homo sapiens	Mytilu
 sp|P13805|TNNT1_HUMAN	TNNT1	Troponin T, slow skeletal muscle	Homo sapiens	Mytilus galloprovincialis	0			
 sp|P13805|TNNT1_HUMAN	TNNT1	Troponin T, slow skeletal muscle	Homo sapiens	Oncorhynchus mykiss	4	tr|A0A8C7P967|A0A8C7P967_ONCMY;tr|A0A8C7PBU8|A0A8C7PBU8_ONCMY;tr|A0A8C7R7G7|A0A8C7R7G7_ONCMY;tr|A0A8K9V721|A0A8K9V721_ONCMY	;;;	Troponin T, slow skeletal muscle;Troponin T, slow skeletal muscle;Troponin T, slow skeletal muscle;Troponin T, slow skeletal muscle
 sp|P13805|TNNT1_HUMAN	TNNT1	Troponin T, slow skeletal muscle	Homo sapiens	Oreochromis niloticus	4	tr|A0A669CE55|A0A669CE55_ORENI;tr|A0A669F3F0|A0A669F3F0_ORENI;tr|I3JH55|I3JH55_ORENI;tr|I3KVX2|I3KVX2_ORENI	;;tnnt1;	Troponin T, slow skeletal muscle;Troponin T, slow skeletal muscle;Troponin T, slow skeletal muscle;Troponin T, slow skeletal muscle
-sp|P13805|TNNT1_HUMAN	TNNT1	Troponin T, slow skeletal muscle	Homo sapiens	Ovis aries	1	tr|A0ACI6S6D7|A0ACI6S6D7_SHEEP	TNNT1	Troponin T1, slow skeletal type
+sp|P13805|TNNT1_HUMAN	TNNT1	Troponin T, slow skeletal muscle	Homo sapiens	Ovis aries	2	tr|A0ACI6QVB6|A0ACI6QVB6_SHEEP;tr|A0ACI6S6D7|A0ACI6S6D7_SHEEP	TNNT1;TNNT1	Troponin T1, slow skeletal type;Troponin T1, slow skeletal type
 sp|P13805|TNNT1_HUMAN	TNNT1	Troponin T, slow skeletal muscle	Homo sapiens	Pangasius bocourti	0			
 sp|P13805|TNNT1_HUMAN	TNNT1	Troponin T, slow skeletal muscle	Homo sapiens	Penaeus vannamei	0			
 sp|P13805|TNNT1_HUMAN	TNNT1	Troponin T, slow skeletal muscle	Homo sapiens	Perna canaliculus	0			
@@ -26613,7 +26613,7 @@ sp|P09493|TPM1_HUMAN	TPM1	Tropomyosin alpha-1 chain	Homo sapiens	Camelus dromeda
 sp|P09493|TPM1_HUMAN	TPM1	Tropomyosin alpha-1 chain	Homo sapiens	Capra hircus	1	tr|A0A452FD11|A0A452FD11_CAPHI	TPM1	Tropomyosin 1
 sp|P09493|TPM1_HUMAN	TPM1	Tropomyosin alpha-1 chain	Homo sapiens	Chanos chanos	0			
 sp|P09493|TPM1_HUMAN	TPM1	Tropomyosin alpha-1 chain	Homo sapiens	Clarias gariepinus	0			
-sp|P09493|TPM1_HUMAN	TPM1	Tropomyosin alpha-1 chain	Homo sapiens	Clupea harengus	0			
+sp|P09493|TPM1_HUMAN	TPM1	Tropomyosin alpha-1 chain	Homo sapiens	Clupea harengus	1	tr|A0A6P3WG81|A0A6P3WG81_CLUHA	tpma	Tropomyosin alpha-1 chain
 sp|P09493|TPM1_HUMAN	TPM1	Tropomyosin alpha-1 chain	Homo sapiens	Crassostrea virginica	0			
 sp|P09493|TPM1_HUMAN	TPM1	Tropomyosin alpha-1 chain	Homo sapiens	Ctenopharyngodon idella	0			
 sp|P09493|TPM1_HUMAN	TPM1	Tropomyosin alpha-1 chain	Homo sapiens	Cyprinus carpio	0			
@@ -26627,7 +26627,7 @@ sp|P09493|TPM1_HUMAN	TPM1	Tropomyosin alpha-1 chain	Homo sapiens	Gadus morhua	0
 sp|P09493|TPM1_HUMAN	TPM1	Tropomyosin alpha-1 chain	Homo sapiens	Gallus gallus	1	sp|P04268|TPM1_CHICK	TPM1	Tropomyosin alpha-1 chain
 sp|P09493|TPM1_HUMAN	TPM1	Tropomyosin alpha-1 chain	Homo sapiens	Homo sapiens	1	sp|P09493|TPM1_HUMAN	TPM1	Tropomyosin alpha-1 chain
 sp|P09493|TPM1_HUMAN	TPM1	Tropomyosin alpha-1 chain	Homo sapiens	Hypophthalmichthys molitrix	0			
-sp|P09493|TPM1_HUMAN	TPM1	Tropomyosin alpha-1 chain	Homo sapiens	Ictalurus furcatus	0			
+sp|P09493|TPM1_HUMAN	TPM1	Tropomyosin alpha-1 chain	Homo sapiens	Ictalurus furcatus	1	tr|E3TC29|E3TC29_ICTFU	TPM1	Tropomyosin alpha-1 chain
 sp|P09493|TPM1_HUMAN	TPM1	Tropomyosin alpha-1 chain	Homo sapiens	Ictalurus punctatus	0			
 sp|P09493|TPM1_HUMAN	TPM1	Tropomyosin alpha-1 chain	Homo sapiens	Katsuwonus pelamis	0			
 sp|P09493|TPM1_HUMAN	TPM1	Tropomyosin alpha-1 chain	Homo sapiens	Labeo catla	0			
@@ -26896,12 +26896,12 @@ sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Bos taurus	1	tr|A0ABI0P3A0|
 sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Bubalus bubalis	0			
 sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Camelus dromedarius	0			
 sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Capra hircus	1	tr|A0A452FQD3|A0A452FQD3_CAPHI		Ubiquitin B
-sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Chanos chanos	0			
+sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Chanos chanos	1	tr|A0A6J2URY5|A0A6J2URY5_CHACN	ubc	Polyubiquitin-C
 sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Clarias gariepinus	0			
 sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Clupea harengus	1	tr|A0A6P3WAI2|A0A6P3WAI2_CLUHA	LOC105909627	LOW QUALITY PROTEIN: polyubiquitin
 sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Crassostrea virginica	1	tr|A0A8B8DNY1|A0A8B8DNY1_CRAVI	LOC111128115	LOW QUALITY PROTEIN: polyubiquitin-C-like
 sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Ctenopharyngodon idella	0			
-sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Cyprinus carpio	1	tr|A0A9J8A660|A0A9J8A660_CYPCA		Ubiquitin B
+sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Cyprinus carpio	1	tr|A0A8C1GYK7|A0A8C1GYK7_CYPCA		Ubiquitin-like domain-containing protein
 sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Dosidicus gigas	0			
 sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Engraulis ringens	0			
 sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Ensis arcuatus	0			
@@ -26909,7 +26909,7 @@ sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Ensis directus	0
 sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Ensis minor	0			
 sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Gadus chalcogrammus	0			
 sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Gadus morhua	0			
-sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Gallus gallus	1	tr|A0A8V1ANK7|A0A8V1ANK7_CHICK	LOC101747587	Ubiquitin B
+sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Gallus gallus	1	tr|A0A1D5P546|A0A1D5P546_CHICK	UBB	Ubiquitin B
 sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Homo sapiens	1	sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B
 sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Hypophthalmichthys molitrix	0			
 sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Ictalurus furcatus	0			
@@ -26924,7 +26924,7 @@ sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Micromesistius poutassou	0
 sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Mizuhopecten yessoensis	0			
 sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Mytilus chilensis	0			
 sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Mytilus edulis	0			
-sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Mytilus galloprovincialis	1	tr|A0A8B6HJT2|A0A8B6HJT2_MYTGA	MGAL_10B065504	Ubiquitin C (Fragment)
+sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Mytilus galloprovincialis	2	tr|A0A8B6EC66|A0A8B6EC66_MYTGA;tr|A0A8B6HJT2|A0A8B6HJT2_MYTGA	MGAL_10B007921;MGAL_10B065504	Ubiquitin C;Ubiquitin C (Fragment)
 sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Oncorhynchus mykiss	0			
 sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Oreochromis niloticus	1	tr|A0A669CJ08|A0A669CJ08_ORENI		Ubiquitin B
 sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Ovis aries	1	tr|A0ACI6RH87|A0ACI6RH87_SHEEP	UBB	Polyubiquitin-B
@@ -26934,11 +26934,11 @@ sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Perna canaliculus	0
 sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Placopecten magellanicus	0			
 sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Procambarus clarkii	0			
 sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Ruditapes philippinarum	0			
-sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Salmo salar	0			
+sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Salmo salar	1	tr|A0A1S2X3Z3|A0A1S2X3Z3_SALSA	LOC100194618	Polyubiquitin
 sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Sardina pilchardus	0			
 sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Sardinops sagax	0			
 sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Scomber japonicus	0			
-sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Scomber scombrus	0			
+sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Scomber scombrus	1	tr|A0AAV1PND7|A0AAV1PND7_SCOSC	FSCOSCO3_A013461	Polyubiquitin-B
 sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Siliqua patula	0			
 sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Solen strictus	0			
 sp|P0CG47|UBB_HUMAN	UBB	Polyubiquitin-B	Homo sapiens	Sus scrofa	1	tr|F6Q588|F6Q588_PIG	UBB	Uncharacterized protein
@@ -31127,7 +31127,7 @@ tr|Q1ENE9|Q1ENE9_HORVU	icy4	Cysteine proteinase inhibitor	Hordeum vulgare	Cenchr
 tr|Q1ENE9|Q1ENE9_HORVU	icy4	Cysteine proteinase inhibitor	Hordeum vulgare	Eleusine coracana	1	tr|A0AAV5D7N4|A0AAV5D7N4_ELECO	ga23980	Cysteine proteinase inhibitor
 tr|Q1ENE9|Q1ENE9_HORVU	icy4	Cysteine proteinase inhibitor	Hordeum vulgare	Hordeum vulgare	1	tr|Q1ENE9|Q1ENE9_HORVU	icy4	Cysteine proteinase inhibitor
 tr|Q1ENE9|Q1ENE9_HORVU	icy4	Cysteine proteinase inhibitor	Hordeum vulgare	Oryza sativa	4	sp|Q0JNR2|CYT12_ORYSJ;tr|A0A0E0FJY3|A0A0E0FJY3_ORYNI;tr|A2WNB4|A2WNB4_ORYSI;tr|B8AC95|B8AC95_ORYSI	Os01g0270100;;OsI_01339;OsI_01337	Cysteine proteinase inhibitor 12;Cysteine proteinase inhibitor;Cysteine proteinase inhibitor;Cystatin domain-containing protein
-tr|Q1ENE9|Q1ENE9_HORVU	icy4	Cysteine proteinase inhibitor	Hordeum vulgare	Secale cereale	0			
+tr|Q1ENE9|Q1ENE9_HORVU	icy4	Cysteine proteinase inhibitor	Hordeum vulgare	Secale cereale	1	tr|I6WTS2|I6WTS2_9POAL	TrcC-8	Cysteine proteinase inhibitor
 tr|Q1ENE9|Q1ENE9_HORVU	icy4	Cysteine proteinase inhibitor	Hordeum vulgare	Sorghum bicolor	1	tr|C5XGM0|C5XGM0_SORBI	SORBI_3003G126800	Cysteine proteinase inhibitor
 tr|Q1ENE9|Q1ENE9_HORVU	icy4	Cysteine proteinase inhibitor	Hordeum vulgare	Triticum aestivum	1	tr|A0A3B6GQ71|A0A3B6GQ71_WHEAT	LOC780592	Cysteine proteinase inhibitor
 tr|Q1ENE9|Q1ENE9_HORVU	icy4	Cysteine proteinase inhibitor	Hordeum vulgare	Zea mays	2	tr|A0A804UFC0|A0A804UFC0_MAIZE;tr|Q4FZ52|Q4FZ52_MAIZE	LOC732753;cc4	Cysteine proteinase inhibitor;Cysteine proteinase inhibitor
@@ -42078,7 +42078,7 @@ sp|Q0ILQ6|RAB5A_ORYSJ	RAB5A	Ras-related protein Rab5A	Oryza sativa	Avena sativa	
 sp|Q0ILQ6|RAB5A_ORYSJ	RAB5A	Ras-related protein Rab5A	Oryza sativa	Cenchrus americanus	1	tr|Q5MGQ9|Q5MGQ9_CENAM		Rab7
 sp|Q0ILQ6|RAB5A_ORYSJ	RAB5A	Ras-related protein Rab5A	Oryza sativa	Eleusine coracana	2	tr|A0AAV5CAD1|A0AAV5CAD1_ELECO;tr|A0AAV5FKV2|A0AAV5FKV2_ELECO	ga11771;gb24383	Uncharacterized protein;Uncharacterized protein
 sp|Q0ILQ6|RAB5A_ORYSJ	RAB5A	Ras-related protein Rab5A	Oryza sativa	Hordeum vulgare	1	tr|A0A287Q7U2|A0A287Q7U2_HORVV	LOC123395391	Uncharacterized protein
-sp|Q0ILQ6|RAB5A_ORYSJ	RAB5A	Ras-related protein Rab5A	Oryza sativa	Oryza sativa	1	sp|Q0ILQ6|RAB5A_ORYSJ	RAB5A	Ras-related protein Rab5A
+sp|Q0ILQ6|RAB5A_ORYSJ	RAB5A	Ras-related protein Rab5A	Oryza sativa	Oryza sativa	2	sp|Q0ILQ6|RAB5A_ORYSJ;tr|E9LQP7|E9LQP7_ORYSI	RAB5A;	Ras-related protein Rab5A;Small GTP binding protein Rab5
 sp|Q0ILQ6|RAB5A_ORYSJ	RAB5A	Ras-related protein Rab5A	Oryza sativa	Secale cereale	0			
 sp|Q0ILQ6|RAB5A_ORYSJ	RAB5A	Ras-related protein Rab5A	Oryza sativa	Sorghum bicolor	2	tr|A0A1B6PEI1|A0A1B6PEI1_SORBI;tr|A0A1B6PEJ9|A0A1B6PEJ9_SORBI	SORBI_3008G185400;SORBI_3008G185400	Uncharacterized protein;Uncharacterized protein
 sp|Q0ILQ6|RAB5A_ORYSJ	RAB5A	Ras-related protein Rab5A	Oryza sativa	Triticum aestivum	1	tr|Q9XEN4|Q9XEN4_WHEAT	Sgp	Small GTP-binding protein

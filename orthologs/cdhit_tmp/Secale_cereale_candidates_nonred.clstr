@@ -41,52 +41,54 @@
 0	265aa, >tr|H8Y0P2|H8Y0P2_SECCE... *
 1	265aa, >tr|H8Y0P1|H8Y0P1_SECCE... at 97.74%
 >Cluster 15
-0	214aa, >tr|H8Y0P6|H8Y0P6_SECCE... *
+0	243aa, >tr|I6WTS2|I6WTS2_9POAL... *
 >Cluster 16
+0	214aa, >tr|H8Y0P6|H8Y0P6_SECCE... *
+>Cluster 17
 0	210aa, >tr|H8Y0K4|H8Y0K4_SECCE... *
 1	20aa, >tr|Q9S8A8|Q9S8A8_SECCE... at 100.00%
->Cluster 17
-0	204aa, >tr|H8Y0N7|H8Y0N7_SECCE... *
 >Cluster 18
-0	202aa, >tr|H8Y0P5|H8Y0P5_SECCE... *
+0	204aa, >tr|H8Y0N7|H8Y0N7_SECCE... *
 >Cluster 19
-0	194aa, >tr|Q41320|Q41320_SECCE... *
+0	202aa, >tr|H8Y0P5|H8Y0P5_SECCE... *
 >Cluster 20
-0	164aa, >tr|G8CLS1|G8CLS1_SECCE... *
+0	194aa, >tr|Q41320|Q41320_SECCE... *
 >Cluster 21
-0	164aa, >tr|A0EPV9|A0EPV9_SECCE... *
+0	164aa, >tr|G8CLS1|G8CLS1_SECCE... *
 >Cluster 22
-0	152aa, >tr|X4Z2C2|X4Z2C2_9POAL... *
+0	164aa, >tr|A0EPV9|A0EPV9_SECCE... *
 >Cluster 23
+0	152aa, >tr|X4Z2C2|X4Z2C2_9POAL... *
+>Cluster 24
 0	149aa, >tr|G8CNL8|G8CNL8_SECCE... *
 1	149aa, >tr|A0EPS7|A0EPS7_SECCE... at 99.33%
 2	149aa, >tr|S4VIB2|S4VIB2_9POAL... at 99.33%
->Cluster 24
-0	147aa, >tr|E5DPT0|E5DPT0_9POAL... *
 >Cluster 25
+0	147aa, >tr|E5DPT0|E5DPT0_9POAL... *
+>Cluster 26
 0	147aa, >tr|A0EPP1|A0EPP1_SECCE... *
 1	147aa, >tr|S4VP15|S4VP15_9POAL... at 97.28%
->Cluster 26
-0	142aa, >tr|E5DPS9|E5DPS9_9POAL... *
 >Cluster 27
-0	123aa, >tr|A0A023T4H1|A0A023T4H1_9POAL... *
+0	142aa, >tr|E5DPS9|E5DPS9_9POAL... *
 >Cluster 28
-0	122aa, >tr|E5DPT1|E5DPT1_9POAL... *
+0	123aa, >tr|A0A023T4H1|A0A023T4H1_9POAL... *
 >Cluster 29
-0	118aa, >tr|Q45FA6|Q45FA6_SECCE... *
+0	122aa, >tr|E5DPT1|E5DPT1_9POAL... *
 >Cluster 30
-0	115aa, >tr|Q155V1|Q155V1_SECCE... *
+0	118aa, >tr|Q45FA6|Q45FA6_SECCE... *
 >Cluster 31
-0	115aa, >tr|Q155V0|Q155V0_SECCE... *
+0	115aa, >tr|Q155V1|Q155V1_SECCE... *
 >Cluster 32
-0	102aa, >tr|A0A286UZN5|A0A286UZN5_9POAL... *
+0	115aa, >tr|Q155V0|Q155V0_SECCE... *
 >Cluster 33
-0	101aa, >tr|A0A286UZN6|A0A286UZN6_9POAL... *
+0	102aa, >tr|A0A286UZN5|A0A286UZN5_9POAL... *
 >Cluster 34
-0	29aa, >tr|Q9S8A7|Q9S8A7_SECCE... *
+0	101aa, >tr|A0A286UZN6|A0A286UZN6_9POAL... *
 >Cluster 35
-0	26aa, >tr|Q9S8H2|Q9S8H2_SECCE... *
+0	29aa, >tr|Q9S8A7|Q9S8A7_SECCE... *
 >Cluster 36
-0	25aa, >sp|P83048|IAA_SECCE... *
+0	26aa, >tr|Q9S8H2|Q9S8H2_SECCE... *
 >Cluster 37
+0	25aa, >sp|P83048|IAA_SECCE... *
+>Cluster 38
 0	23aa, >tr|Q7M221|Q7M221_SECCE... *

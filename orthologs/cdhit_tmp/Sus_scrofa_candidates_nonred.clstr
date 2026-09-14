@@ -155,14 +155,15 @@
 >Cluster 51
 0	369aa, >tr|A0A287BBV9|A0A287BBV9_PIG... *
 >Cluster 52
+0	333aa, >sp|P00355|G3P_PIG... *
+1	275aa, >tr|G3CKJ2|G3CKJ2_PIG... at 96.36%
+>Cluster 53
 0	309aa, >tr|A0A8W4FL19|A0A8W4FL19_PIG... *
 1	284aa, >sp|P42639|TPM1_PIG... at 98.94%
->Cluster 53
+>Cluster 54
 0	298aa, >tr|A0A286ZIE8|A0A286ZIE8_PIG... *
 1	288aa, >tr|A0A8D1EAJ3|A0A8D1EAJ3_PIG... at 95.14%
 2	275aa, >tr|A0A8W4FN21|A0A8W4FN21_PIG... at 96.00%
->Cluster 54
-0	275aa, >tr|G3CKJ2|G3CKJ2_PIG... *
 >Cluster 55
 0	273aa, >tr|A0A8D0X9H1|A0A8D0X9H1_PIG... *
 >Cluster 56

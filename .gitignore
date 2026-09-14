@@ -6,6 +6,17 @@ output_tsvs/diamond_mappings/
 output_tsvs/redundant/
 uniprot_records/
 
+# red_orthologs.py's dense-family-fallback scratch DIAMOND run (Step 7) — hits.tsv
+# alone is multi-GB (its query/db cover every member of every orthogroup with a
+# tagged reference, not just the references). fallback_decisions.tsv (the audit
+# log) and ambiguous_paralogs_review.tsv (a derived review report) are the only
+# outputs worth keeping; everything else here regenerates from a re-run.
+orthologs/dense_family_fallback/query.fa
+orthologs/dense_family_fallback/reference.fa
+orthologs/dense_family_fallback/search_targets.fa
+orthologs/dense_family_fallback/hits.tsv
+orthologs/dense_family_fallback/*.dmnd
+
 # Unused legacy duplicates (only Homo_sapiens.fa is referenced by the input TSV)
 query_fasta_files/Homo_sapiens.fasta
 query_fasta_files/Homo_sapiens_proteome.fasta

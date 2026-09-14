@@ -1,12 +1,16 @@
 >Cluster 0
-0	364aa, >tr|E3TCD8|E3TCD8_ICTFU... *
+0	377aa, >tr|E3TC62|E3TC62_ICTFU... *
 >Cluster 1
-0	198aa, >tr|E3TD42|E3TD42_ICTFU... *
+0	364aa, >tr|E3TCD8|E3TCD8_ICTFU... *
 >Cluster 2
-0	183aa, >tr|E3TDG7|E3TDG7_ICTFU... *
+0	284aa, >tr|E3TC29|E3TC29_ICTFU... *
 >Cluster 3
-0	150aa, >tr|E3TD53|E3TD53_ICTFU... *
+0	198aa, >tr|E3TD42|E3TD42_ICTFU... *
 >Cluster 4
-0	147aa, >tr|E3TCM4|E3TCM4_ICTFU... *
+0	183aa, >tr|E3TDG7|E3TDG7_ICTFU... *
 >Cluster 5
+0	150aa, >tr|E3TD53|E3TD53_ICTFU... *
+>Cluster 6
+0	147aa, >tr|E3TCM4|E3TCM4_ICTFU... *
+>Cluster 7
 0	121aa, >tr|E3TBU1|E3TBU1_ICTFU... *
