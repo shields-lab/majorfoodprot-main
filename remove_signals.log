@@ -348,4 +348,4 @@ Batch 113/113: 56 accession(s)
   P10742: unparseable/uncertain SIGNAL boundary, left unchanged: SIGNAL <1..?
   Q9FRT8: unparseable/uncertain SIGNAL boundary, left unchanged: SIGNAL <1..1; /evidence="ECO:0000255"
 fooddb.sqlite: added column(s) signal_peptide_seq, mature_sequence to candidates (first run)
-Archive: 24 fetched, 10112 already present, 0 failed
+Archive: 0 fetched, 10136 already present, 0 failed
