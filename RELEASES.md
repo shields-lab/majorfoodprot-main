@@ -25,9 +25,15 @@ cut).
 
 ## How to cut a release
 
-1. Confirm the working tree is a clean, complete run (Steps 0–9 all
-   finished, `output_tsvs/food_protein_DB_*.tsv` is the file you intend to
-   ship) and commit it normally.
+1. Run the pipeline from a **fresh `git clone` of this repo** (not your
+   existing working copy) — see `fooddb-code`'s README, "Running a
+   production release," for why: `proteomes/`, `homologs/`,
+   `subproteomes/OrthoFinder/` etc. are gitignored, so a fresh clone
+   guarantees no stale file from an earlier, unrelated run silently merges
+   into (Step 3) or gets skip-if-exists-reused by (Step 2) the new one.
+   Confirm the run is clean and complete (Steps 0–9 all finished,
+   `output_tsvs/food_protein_DB_*.tsv` is the file you intend to ship), then
+   commit it normally, in that clone.
 2. Tag the commit with the release version, on **both** repos:
    ```bash
    # in fooddb-main, at the commit representing this release

@@ -1,10 +1,17 @@
-# Large, fully regenerable via the pipeline scripts in foodDBsmall
+# Large, fully regenerable via the pipeline scripts in fooddb-code
 proteomes/
 subproteomes/OrthoFinder/
 output_tsvs/very_redundant/
 output_tsvs/diamond_mappings/
 output_tsvs/redundant/
 uniprot_records/
+
+# OrthoFinder run log (stdout redirect -- filename is picked per invocation,
+# e.g. orthofinder_run_25Oct26.log) and ete3's NCBI taxonomy download
+# byproduct (build_species_tree.py, Step 5) -- both regenerable, neither
+# meant to be committed
+orthofinder_run_*.log
+taxdump.tar.gz
 
 # red_orthologs.py's dense-family-fallback scratch DIAMOND run (Step 7) — hits.tsv
 # alone is multi-GB (its query/db cover every member of every orthogroup with a
