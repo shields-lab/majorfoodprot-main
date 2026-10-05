@@ -1,0 +1,11 @@
+# Written by start_release.py / generate_release_notes.py -- see start_release.py's docstring.
+version: 1.1.1
+release_started: 2026-06-23
+input_file: Food_peptide_database-input.tsv
+input_sha256: fadf60441407a232724810fde0b9fc0b2909ef27327c96ac3b868d2f782ac694
+proteome_download_first: 2026-06-23
+proteome_download_last: 2026-08-05
+proteome_download_span_days: 43
+download_dates_source: manual
+data_retrieval_note: UniProt data was retrieved incrementally, not as a single snapshot - proteome files dated 23 Jun (42), 2 Jul (10) and 5 Aug (49) 2026 by file date (proteome_downloads.log only covers 5 Aug); keyword searches 14-19 Aug 2026; OrthoFinder and Steps 7-9 re-run 21-22 Sep 2026.
+deliverable: output_tsvs/food_protein_DB_22Sep26.tsv

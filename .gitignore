@@ -1,36 +1,47 @@
-# Large, fully regenerable via the pipeline scripts in fooddb-code
-proteomes/
-subproteomes/OrthoFinder/
-output_tsvs/very_redundant/
-output_tsvs/diamond_mappings/
-output_tsvs/redundant/
-uniprot_records/
+# One directory per numbered release: releases/<version>/ (see UPDATING.md).
+# Inside each, large regenerable output stays local and is shared as GitHub
+# Release assets / on Zenodo instead of being committed.
 
-# OrthoFinder run log (stdout redirect -- filename is picked per invocation,
-# e.g. orthofinder_run_25Oct26.log) and ete3's NCBI taxonomy download
-# byproduct (build_species_tree.py, Step 5) -- both regenerable, neither
-# meant to be committed
+# Proteomes and everything derived from them (Steps 2-4, 6)
+releases/*/proteomes/
+releases/*/homologs/
+releases/*/subproteomes/
+releases/*/uniprot_records/
+
+# Step 3-4 per-species intermediates
+releases/*/output_tsvs/very_redundant/
+releases/*/output_tsvs/diamond_mappings/
+releases/*/output_tsvs/redundant/
+
+# Steps 7-8 intermediates and derived (sequence-bearing) views of the database:
+# fooddb.sqlite (~56 MB), red/nonred_orthologs.tsv and .fa are in the Zenodo
+# record for each release; the deliverable TSV is what gets committed.
+releases/*/output_tsvs/fooddb.sqlite
+releases/*/output_tsvs/red_orthologs.tsv
+releases/*/output_tsvs/nonred_orthologs.tsv
+releases/*/orthologs/red_orthologs.fa
+releases/*/orthologs/nonred_orthologs.fa
+releases/*/orthologs/cdhit_tmp/
+releases/*/orthologs/diamond_tmp/
+# dense-family-fallback scratch DIAMOND run (hits.tsv alone is multi-GB);
+# fallback_decisions.tsv (the audit log) is kept
+releases/*/orthologs/dense_family_fallback/query.fa
+releases/*/orthologs/dense_family_fallback/reference.fa
+releases/*/orthologs/dense_family_fallback/search_targets.fa
+releases/*/orthologs/dense_family_fallback/hits.tsv
+releases/*/orthologs/dense_family_fallback/*.dmnd
+
+# OrthoFinder run log (stdout redirect, e.g. orthofinder_run_25Oct26.log)
+# and ete3's NCBI taxonomy download byproduct (Step 5)
 orthofinder_run_*.log
 taxdump.tar.gz
 
-# red_orthologs.py's dense-family-fallback scratch DIAMOND run (Step 7) — hits.tsv
-# alone is multi-GB (its query/db cover every member of every orthogroup with a
-# tagged reference, not just the references). fallback_decisions.tsv (the audit
-# log) and ambiguous_paralogs_review.tsv (a derived review report) are the only
-# outputs worth keeping; everything else here regenerates from a re-run.
-orthologs/dense_family_fallback/query.fa
-orthologs/dense_family_fallback/reference.fa
-orthologs/dense_family_fallback/search_targets.fa
-orthologs/dense_family_fallback/hits.tsv
-orthologs/dense_family_fallback/*.dmnd
-
-# Unused legacy duplicates (only Homo_sapiens.fa is referenced by the input TSV)
-query_fasta_files/Homo_sapiens.fasta
-query_fasta_files/Homo_sapiens_proteome.fasta
-
-# Legacy data from an earlier, different analysis approach — unrelated to
-# the current get_*.py / red_orthologs.py / nonred_orthologs.py pipeline
+# Legacy data from an earlier, different analysis approach
 blast_fasta_files/
 
 .DS_Store
 nohup.out
+
+# duplicate legacy FASTAs (only Homo_sapiens.fa is referenced by the input TSV)
+releases/*/query_fasta_files/Homo_sapiens.fasta
+releases/*/query_fasta_files/Homo_sapiens_proteome.fasta
