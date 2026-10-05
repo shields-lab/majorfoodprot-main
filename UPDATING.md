@@ -5,6 +5,14 @@ step by step. Written to be followed by someone who has not done it before.
 It is public deliberately: the process is as much part of the database as
 the data.
 
+> **Status:** the GitHub part of this procedure is in use (release 1.1.1 is
+> published on GitHub). The **Zenodo step (Publish, step 4) has not been used
+> yet**: it will be added only after releases 1.1.1 and 1.1.2 have been taken
+> through GitHub and the process has settled, because a published Zenodo
+> record is hard to retract. Until then, skip step 4 and keep each release
+> directory, which holds the only copy of the large files (proteomes,
+> subproteomes, `fooddb.sqlite`).
+
 **What a release is.** A directory, `releases/<version>/`, in this
 repository, holding the input used, the results, and a description
 (`RELEASE_NOTES.md`) that includes how the new release differs from the
