@@ -1,10 +1,12 @@
-# FoodDB — food protein sequence database
+# MajorFoodProt
+
+*Orthology-driven database of candidate major food proteins from species making a major contribution to human protein intake.*
 
 The Shields Lab database of major food protein sequences: for each food
 species, the proteins orthologous to a curated set of reference food
 proteins (milk, egg, muscle, seed storage proteins and others), drawn from
 UniProt and filtered with OrthoFinder. The pipeline that builds it is in
-[`fooddb-code`](https://github.com/shields-lab/fooddb-code); this repository
+[`majorfoodprot-code`](https://github.com/shields-lab/majorfoodprot-code); this repository
 holds the database itself, one directory per numbered release.
 
 **To cite the database**, cite the Zenodo record (DOI to be added after the
@@ -41,7 +43,7 @@ releases/1.1.1/
 ```
 
 The deliverable's columns are described in
-[`fooddb-code/docs/file_formats.md`](https://github.com/shields-lab/fooddb-code/blob/master/docs/file_formats.md).
+[`majorfoodprot-code/docs/file_formats.md`](https://github.com/shields-lab/majorfoodprot-code/blob/master/docs/file_formats.md).
 
 The large files are not in git: the full UniProt proteomes, the per-species
 subproteome FASTAs (OrthoFinder's input), `fooddb.sqlite` and the

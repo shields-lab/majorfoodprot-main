@@ -1,6 +1,6 @@
 # Updating the database: producing a new release
 
-The procedure for producing a new numbered release of FoodDB (e.g. 1.1.2),
+The procedure for producing a new numbered release of MajorFoodProt (e.g. 1.1.2),
 step by step. Written to be followed by someone who has not done it before.
 It is public deliberately: the process is as much part of the database as
 the data.
@@ -10,19 +10,19 @@ repository, holding the input used, the results, and a description
 (`RELEASE_NOTES.md`) that includes how the new release differs from the
 previous one. It is also published as a GitHub Release and as a new version
 of the Zenodo record, which is the permanent, citable copy. The
-`fooddb-code` pipeline is run *inside* the release directory, so each release
+`majorfoodprot-code` pipeline is run *inside* the release directory, so each release
 starts from nothing and keeps its own copy of the input.
 
 ## Before you start
 
 1. Install the software and the two conda environments (`fooddb`,
-   `orthofinder`) as described in the `fooddb-code` README (Prerequisites and
+   `orthofinder`) as described in the `majorfoodprot-code` README (Prerequisites and
    Setup), and check `bash tests/run_fixture_tests.sh` passes there.
 2. Clone both repositories side by side:
    ```bash
-   git clone https://github.com/shields-lab/fooddb-code.git
-   git clone https://github.com/shields-lab/fooddb-main.git
-   export CODE=$PWD/fooddb-code        # used in the commands below
+   git clone https://github.com/shields-lab/majorfoodprot-code.git
+   git clone https://github.com/shields-lab/majorfoodprot-main.git
+   export CODE=$PWD/majorfoodprot-code        # used in the commands below
    ```
 3. Choose the version. Look at the table in `RELEASES.md`: the next patch
    number for a re-run on updated UniProt data with the same species and
@@ -41,7 +41,7 @@ starts from nothing and keeps its own copy of the input.
 ## Run it
 
 ```bash
-cd fooddb-main
+cd majorfoodprot-main
 conda activate fooddb
 python $CODE/start_release.py start 1.1.2 /path/to/your_input.tsv
 cd releases/1.1.2
@@ -72,7 +72,7 @@ python $CODE/remove_signals.py
 python $CODE/generate_release_notes.py $IN
 ```
 OrthoFinder takes about three hours on the 94-species set. What to check
-when a step misbehaves is in the `fooddb-code` README (Troubleshooting).
+when a step misbehaves is in the `majorfoodprot-code` README (Troubleshooting).
 
 ## Review before publishing
 
@@ -102,20 +102,20 @@ when a step misbehaves is in the `fooddb-code` README (Troubleshooting).
    git tag v1.1.2 && git push origin master v1.1.2
    (cd $CODE && git tag v1.1.2 && git push origin v1.1.2)
    ```
-   Tag `fooddb-code` at the commit you actually ran.
-3. **GitHub Release** on `fooddb-main` for tag `v1.1.2`: title
-   `FoodDB 1.1.2 (UniProt download started DD Mon YYYY)`, body =
+   Tag `majorfoodprot-code` at the commit you actually ran.
+3. **GitHub Release** on `majorfoodprot-main` for tag `v1.1.2`: title
+   `MajorFoodProt 1.1.2 (UniProt download started DD Mon YYYY)`, body =
    `RELEASE_NOTES.md`, attached: the deliverable TSV and the input TSV.
    ```bash
-   gh release create v1.1.2 --title "FoodDB 1.1.2 (UniProt download started DD Mon YYYY)" \
+   gh release create v1.1.2 --title "MajorFoodProt 1.1.2 (UniProt download started DD Mon YYYY)" \
      --notes-file releases/1.1.2/RELEASE_NOTES.md \
      releases/1.1.2/output_tsvs/food_protein_DB_*.tsv releases/1.1.2/<your_input>.tsv
    ```
-4. **Zenodo**: add a new version to the FoodDB record (the first release
+4. **Zenodo**: add a new version to the MajorFoodProt record (the first release
    creates the record; its concept DOI is what papers cite). Upload:
    the deliverable TSV, the input TSV, `RELEASE_NOTES.md`, `fooddb.sqlite`,
    `red_orthologs.tsv`, `nonred_orthologs.tsv`, the `subproteomes/` FASTAs and
-   the `proteomes/` FASTAs (as zip files), and a zip of `fooddb-code` at the
+   the `proteomes/` FASTAs (as zip files), and a zip of `majorfoodprot-code` at the
    tag (so the code travels with the data). Set the version to `1.1.2`, put
    the UniProt download start date in the title and description, and add the
    two GitHub repositories as related identifiers. Check Zenodo's current

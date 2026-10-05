@@ -1,4 +1,4 @@
-# FoodDB database release 1.1.1
+# MajorFoodProt release 1.1.1
 
 Generated 2026-10-05 16:09 by `generate_release_notes.py`.
 

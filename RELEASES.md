@@ -1,4 +1,4 @@
-# FoodDB Database Releases
+# MajorFoodProt releases
 
 The index of numbered database releases. This repository's ordinary commit
 history is a working log, not a release history: only the releases below
@@ -10,7 +10,7 @@ Zenodo version) are releases. How to produce one: [`UPDATING.md`](UPDATING.md).
 - **`1.0`** — the pre-pipeline database (2025), used in Clíona Ní
   Chonnacháin's PhD thesis. Predates this repository and the current code.
 - **`1.1.1`** — the first release made with the current pipeline
-  ([`fooddb-code`](https://github.com/shields-lab/fooddb-code)). UniProt data
+  ([`majorfoodprot-code`](https://github.com/shields-lab/majorfoodprot-code)). UniProt data
   was retrieved incrementally (23 Jun – 19 Aug 2026), so it is a mixed-date
   snapshot; its `RELEASE_INFO` and notes record this.
 - **`1.1.2` and later** — each built from a single fresh UniProt download,
