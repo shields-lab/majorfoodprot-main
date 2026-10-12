@@ -45,6 +45,15 @@ starts from nothing and keeps its own copy of the input.
    UniProt download start, and the first and last proteome download dates are
    recorded too. A long gap between them means the proteomes are not one
    UniProt snapshot, and the release notes will say so.
+6. Check disk space. A full run keeps several GB per release (proteomes
+   about 3 GB, OrthoFinder results about 2 GB, plus homologs and the UniProt
+   record archive); delete old OrthoFinder `Results_*` directories you no
+   longer need.
+7. Run the long steps detached (`nohup`, `screen` or `tmux`), not in a
+   terminal you will close, and keep the machine awake. Rehearsal timings on
+   the 23-species example, for scale: downloads 1h26m, OrthoFinder 3h55m,
+   Step 9 (UniProt record archive) 41 min, about 6 hours in all. The full
+   94-species set will take longer; allow a day or two.
 
 ## Run it
 
@@ -57,7 +66,11 @@ cd releases/1.1.2
 `start` creates `releases/1.1.2/` (it refuses if it exists), copies in the
 input and `query_fasta_files/`, pins the input's checksum, stamps the start
 time, and records the previous release. Then, from inside `releases/1.1.2/`
-(the input is now there under its own name; `IN` below):
+(the input is now there under its own name; `IN` below). For the very first
+release in a repository there is no previous release to copy reference
+FASTAs from, so also pass `--query-dir` to `start`. To wrap these commands in
+one script, `source .../etc/profile.d/conda.sh` first and do not use `set -u`
+around `conda activate`:
 
 ```bash
 IN=your_input.tsv
@@ -70,7 +83,7 @@ python $CODE/get_subproteomes.py $IN
 python $CODE/build_species_tree.py $IN --mode ortho
 python $CODE/build_species_tree.py $IN --mode food
 
-conda activate orthofinder
+conda activate orthofinder          # your OrthoFinder environment's name
 orthofinder -f subproteomes -t 8 -a 4 -M msa -A mafft -s orthofinder_input_tree_rooted > orthofinder_run_$(date +%d%b%y).log 2>&1
 conda activate fooddb
 
@@ -79,7 +92,7 @@ python $CODE/nonred_orthologs.py $IN --identity 0.95
 python $CODE/remove_signals.py
 python $CODE/generate_release_notes.py $IN
 ```
-OrthoFinder takes about three hours on the 94-species set. What to check
+OrthoFinder is the longest step. What to check
 when a step misbehaves is in the `majorfoodprot-code` README (Troubleshooting).
 
 ## Review before publishing
