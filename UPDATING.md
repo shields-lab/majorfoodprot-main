@@ -57,43 +57,34 @@ starts from nothing and keeps its own copy of the input.
 
 ## Run it
 
+One command does the whole run: it starts the release (creates
+`releases/1.1.2/`, copies in the input and `query_fasta_files/`, pins the
+input's checksum, stamps the UniProt download start, records the previous
+release), runs Steps 0–9 inside it with the switch into the OrthoFinder
+environment and back, and writes `RELEASE_NOTES.md`. From the root of this
+repository, detached so closing the terminal does not stop it:
+
 ```bash
 cd majorfoodprot-main
-conda activate fooddb
-python $CODE/start_release.py start 1.1.2 /path/to/your_input.tsv
-cd releases/1.1.2
+nohup bash $CODE/run_release.sh 1.1.2 /path/to/your_input.tsv > run_1.1.2.out 2>&1 &
 ```
-`start` creates `releases/1.1.2/` (it refuses if it exists), copies in the
-input and `query_fasta_files/`, pins the input's checksum, stamps the start
-time, and records the previous release. Then, from inside `releases/1.1.2/`
-(the input is now there under its own name; `IN` below). For the very first
-release in a repository there is no previous release to copy reference
-FASTAs from, so also pass `--query-dir` to `start`. To wrap these commands in
-one script, `source .../etc/profile.d/conda.sh` first and do not use `set -u`
-around `conda activate`:
+Options: `--orthofinder-env NAME` and `--fooddb-env NAME` (your conda
+environment names; defaults `orthofinder` and `fooddb`), `--query-dir DIR`
+(reference FASTAs; default the previous release's, and required for the very
+first release), `--identity`, `--threads`, `--skip-archive`. `--dry-run` prints
+the plan, including the environment switches, and runs nothing — worth doing
+first. Progress is in `releases/1.1.2/run_release.log`.
 
+**If it stops** (a network error, a full disk), the message names the failed
+step. Fix the cause and continue with the same version:
 ```bash
-IN=your_input.tsv
-python $CODE/validate_input.py $IN
-python $CODE/get_searchterm_proteins.py $IN
-python $CODE/get_proteomes.py $IN
-python $CODE/start_release.py record-downloads $IN      # check the span and coverage it reports
-python $CODE/get_homologs.py $IN
-python $CODE/get_subproteomes.py $IN
-python $CODE/build_species_tree.py $IN --mode ortho
-python $CODE/build_species_tree.py $IN --mode food
-
-conda activate orthofinder          # your OrthoFinder environment's name
-orthofinder -f subproteomes -t 8 -a 4 -M msa -A mafft -s orthofinder_input_tree_rooted > orthofinder_run_$(date +%d%b%y).log 2>&1
-conda activate fooddb
-
-python $CODE/red_orthologs.py $IN
-python $CODE/nonred_orthologs.py $IN --identity 0.95
-python $CODE/remove_signals.py
-python $CODE/generate_release_notes.py $IN
+nohup bash $CODE/run_release.sh 1.1.2 --resume > run_1.1.2_resume.out 2>&1 &
 ```
-OrthoFinder is the longest step. What to check
-when a step misbehaves is in the `majorfoodprot-code` README (Troubleshooting).
+Finished steps are skipped; a half-finished Step 3, 4 or 6 has its partial
+output cleared first, so nothing stale is built on. The commands the script
+runs, in order, are listed in the `majorfoodprot-code` README ("Step by
+step"); what to check when a step misbehaves is in its Troubleshooting
+section.
 
 ## Review before publishing
 
@@ -149,8 +140,8 @@ when a step misbehaves is in the `majorfoodprot-code` README (Troubleshooting).
 ## Checklist
 
 - [ ] version chosen, previous release identified, input prepared
-- [ ] `start_release.py start` run immediately before Step 1
-- [ ] Steps 0–9 completed in `releases/<version>/`; `record-downloads` gap acceptable
+- [ ] `run_release.sh` started immediately after the input was prepared (dry run checked first)
+- [ ] run completed (`DONE` in `run_release.log`); the download gap in the notes is acceptable
 - [ ] `RELEASE_NOTES.md` generated, warnings resolved, caveats written
 - [ ] committed; both repositories tagged and pushed
 - [ ] GitHub Release created
