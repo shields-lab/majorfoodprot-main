@@ -13,6 +13,26 @@ the data.
 > directory, which holds the only copy of the large files (proteomes,
 > subproteomes, `fooddb.sqlite`).
 
+## If you have been asked to run the next release for the maintainers
+
+You do the **Run** and **Review** parts below, then **hand over**; the maintainers
+do **Publish** (tagging, the GitHub Release, Zenodo). In short:
+
+1. **Get access.** Both repositories are private: ask a maintainer to add you
+   (read access to clone; write access if you will push a branch) and sign in
+   with `gh auth login` or your git credentials.
+2. **Set up** Linux or macOS (Windows: WSL) with the two conda environments from the
+   `majorfoodprot-code` README, Setup section, and check its offline tests pass.
+3. **Clone both repositories** side by side (see "Before you start").
+4. **Use the input you were given.** If you were not told otherwise, the input
+   for release 1.1.2 is the previous release's, unchanged:
+   `releases/1.1.1/Food_peptide_database-input.tsv`.
+5. **Dry run, then the real run**, detached ("Run it"): the dry run only prints
+   the plan and takes a second; the real run takes many hours (about six for the
+   23-species example, longer for the full species list).
+6. **When it prints `DONE`**, read `releases/1.1.2/RELEASE_NOTES.md` ("Review"),
+   then "Hand over". Do not tag or publish unless a maintainer asks you to.
+
 **What a release is.** A directory, `releases/<version>/`, in this
 repository, holding the input used, the results, and a description
 (`RELEASE_NOTES.md`) that includes how the new release differs from the
@@ -26,7 +46,7 @@ starts from nothing and keeps its own copy of the input.
 1. Install the software and the two conda environments (`fooddb`,
    `orthofinder`) as described in the `majorfoodprot-code` README (Prerequisites and
    Setup), and check `bash tests/run_fixture_tests.sh` passes there.
-2. Clone both repositories side by side:
+2. Clone both repositories side by side (they are private: you need access, see above):
    ```bash
    git clone https://github.com/shields-lab/majorfoodprot-code.git
    git clone https://github.com/shields-lab/majorfoodprot-main.git
@@ -38,7 +58,8 @@ starts from nothing and keeps its own copy of the input.
    method changes materially (1.1.x → 1.2.0).
 4. Decide the input. Normally the previous release's input TSV, edited if you
    are adding or removing species or search terms (edit a copy outside
-   `releases/`; do not edit a previous release's files). Reference FASTAs in
+   `releases/`; do not edit a previous release's files). For 1.1.2 that is
+   `releases/1.1.1/Food_peptide_database-input.tsv`. Reference FASTAs in
    the previous release's `query_fasta_files/` are carried over
    automatically; to change them, pass `--query-dir`.
 5. Plan to run Steps 1–2 promptly: the date you start is recorded as the
@@ -66,8 +87,18 @@ repository, detached so closing the terminal does not stop it:
 
 ```bash
 cd majorfoodprot-main
+conda activate fooddb
+
+# 1. Dry run: prints the plan (every step, and the switches into and out of the
+#    OrthoFinder environment) and runs nothing. Takes a second.
+bash $CODE/run_release.sh 1.1.2 /path/to/your_input.tsv --dry-run
+
+# 2. The real run, detached so closing the terminal does not stop it.
 nohup bash $CODE/run_release.sh 1.1.2 /path/to/your_input.tsv > run_1.1.2.out 2>&1 &
 ```
+(For 1.1.2 the input is `releases/1.1.1/Food_peptide_database-input.tsv`.) The first
+run on a machine also downloads `ete3`'s copy of the NCBI taxonomy (a few hundred
+MB) in Step 5, so that step is slow once.
 Options: `--orthofinder-env NAME` and `--fooddb-env NAME` (your conda
 environment names; defaults `orthofinder` and `fooddb`), `--query-dir DIR`
 (reference FASTAs; default the previous release's, and required for the very
@@ -98,9 +129,40 @@ section.
   `output_tsvs/query_species_hit_counts.tsv` (a high count in a species other
   than the reference's own suggests near-duplicates CD-HIT did not collapse).
 
-## Publish
+## Hand over (if you are not the one publishing)
 
-1. **Commit** the release directory. Large regenerable files are gitignored,
+Two things need to reach the maintainers: the small files (committed to git) and
+the large files (proteomes, subproteomes, `fooddb.sqlite`, the ortholog tables),
+which are not in git and exist only on your machine.
+
+1. **Small files, as a branch** (needs write access; the maintainers review and
+   merge it, nothing reaches `master` without them):
+   ```bash
+   cd majorfoodprot-main
+   git checkout -b release-1.1.2
+   git add releases/1.1.2
+   git status          # only small files plus the deliverable TSV
+   git commit -m "Release 1.1.2 (UniProt download started DD Mon YYYY)"
+   git push -u origin release-1.1.2
+   ```
+   Without write access, zip `releases/1.1.2` excluding the large directories and
+   send it instead.
+2. **Large files**: bundle them and send with a checksum by whatever file transfer
+   your institution uses (several GB):
+   ```bash
+   cd majorfoodprot-main/releases/1.1.2
+   zip -r ../../../1.1.2_large_files.zip proteomes subproteomes \
+       output_tsvs/fooddb.sqlite output_tsvs/red_orthologs.tsv output_tsvs/nonred_orthologs.tsv \
+       orthologs/red_orthologs.fa orthologs/nonred_orthologs.fa
+   shasum -a 256 ../../../1.1.2_large_files.zip
+   ```
+3. **Keep the whole release directory** on your machine until the maintainers
+   confirm they have everything.
+
+## Publish (maintainers)
+
+1. **Commit** the release directory (or, if it arrived as a branch, review and
+   merge `release-1.1.2` into `master`). Large regenerable files are gitignored,
    so `git status` should show only small files plus the deliverable TSV:
    ```bash
    cd ../..
@@ -143,6 +205,7 @@ section.
 - [ ] `run_release.sh` started immediately after the input was prepared (dry run checked first)
 - [ ] run completed (`DONE` in `run_release.log`); the download gap in the notes is acceptable
 - [ ] `RELEASE_NOTES.md` generated, warnings resolved, caveats written
+- [ ] handed over (branch pushed, large-files bundle sent with its checksum), if run by someone else
 - [ ] committed; both repositories tagged and pushed
 - [ ] GitHub Release created
 - [ ] Zenodo version published; DOI added to `RELEASES.md` and README
