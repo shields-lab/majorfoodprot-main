@@ -1,6 +1,6 @@
 # MajorFoodProt release 1.1.1
 
-Generated 2026-10-05 16:09 by `generate_release_notes.py`.
+Generated 2026-10-13 17:01 by `generate_release_notes.py`.
 
 ## UniProt data retrieval
 
@@ -52,15 +52,15 @@ No previous input snapshot available to compare against.
 
 | Species | Proteome DL date | Proteome seqs | Subproteome seqs |
 |---|---|---|---|
-| Bos taurus | — | — | 1638 |
-| Bubalus bubalis | — | — | 196 |
-| Camelus dromedarius | — | — | 1012 |
-| Gallus gallus | — | — | 1488 |
-| Anas platyrhynchos platyrhynchos | — | — | 1036 |
+| Bos taurus | — | — | 819 |
+| Bubalus bubalis | — | — | 98 |
+| Camelus dromedarius | — | — | 506 |
+| Gallus gallus | — | — | 744 |
+| Anas platyrhynchos platyrhynchos | — | — | 518 |
 | Meleagris gallopavo | — | — | 549 |
-| Capra hircus | — | — | 1328 |
+| Capra hircus | — | — | 664 |
 | Sus scrofa | — | — | 805 |
-| Ovis aries | — | — | 1478 |
+| Ovis aries | — | — | 739 |
 | Engraulis ringens | — | — | 0 |
 | Gadus chalcogrammus | — | — | 20 |
 | Katsuwonus pelamis | — | — | 6 |
@@ -74,11 +74,11 @@ No previous input snapshot available to compare against.
 | Trichiurus lepturus | — | — | 1 |
 | Scomber scombrus | — | — | 532 |
 | Trachurus murphyi | — | — | 0 |
-| Ctenopharyngodon idella | 2026-08-05T16:18:46+00:00 | 1757 sequences | 114 |
+| Ctenopharyngodon idella | 2026-08-05 | 1757 | 114 |
 | Hypophthalmichthys molitrix | — | — | 29 |
 | Oreochromis niloticus | — | — | 928 |
 | Cyprinus carpio | — | — | 1094 |
-| Labeo catla | 2026-08-05T16:18:48+00:00 | 133 sequences | 14 |
+| Labeo catla | 2026-08-05 | 133 | 14 |
 | Salmo salar | — | — | 802 |
 | Ictalurus punctatus | — | — | 594 |
 | Ictalurus furcatus | — | — | 37 |
@@ -89,71 +89,71 @@ No previous input snapshot available to compare against.
 | Penaeus vannamei | — | — | 385 |
 | Procambarus clarkii | — | — | 64 |
 | Dosidicus gigas | — | — | 1 |
-| Magallana gigas | 2026-08-05T16:21:41+00:00 | 58641 sequences | 400 |
+| Magallana gigas | 2026-08-05 | 58641 | 400 |
 | Crassostrea virginica | — | — | 468 |
 | Magallana angulata | — | — | 6 |
 | Ruditapes philippinarum | — | — | 29 |
 | Mizuhopecten yessoensis | — | — | 338 |
 | Placopecten magellanicus | — | — | 9 |
 | Argopecten purpuratus | — | — | 0 |
-| Mytilus edulis | — | — | 896 |
-| Mytilus galloprovincialis | 2026-08-05T13:02:00+00:00 | 81997 sequences | 498 |
-| Perna canaliculus | 2026-08-05T09:15:24+00:00 | 39 sequences | 1 |
-| Mytilus chilensis | 2026-08-05T09:15:26+00:00 | 30 sequences | 1 |
-| Ensis directus | 2026-08-05T09:15:27+00:00 | 6 sequences | 1 |
-| Ensis arcuatus | 2026-08-05T09:15:29+00:00 | 0 sequences | 0 |
-| Ensis minor | 2026-08-05T09:15:31+00:00 | 4 sequences | 0 |
-| Siliqua patula | 2026-08-05T09:15:32+00:00 | 1 sequences | 0 |
-| Solen strictus | 2026-08-05T09:15:34+00:00 | 17 sequences | 3 |
-| Tegillarca granosa | 2026-08-05T09:16:39+00:00 | 24910 sequences | 337 |
-| Anadara broughtonii | 2026-08-05T09:16:41+00:00 | 72 sequences | 9 |
-| Mercenaria mercenaria | 2026-08-05T09:16:42+00:00 | 22 sequences | 0 |
-| Triticum aestivum | 2026-08-05T09:22:45+00:00 | 136850 sequences | 4580 |
-| Oryza sativa | 2026-08-05T09:29:23+00:00 | 148723 sequences | 2824 |
-| Zea mays | 2026-08-05T09:33:52+00:00 | 106164 sequences | 3059 |
-| Avena sativa | 2026-08-05T09:37:27+00:00 | 87080 sequences | 3029 |
-| Sorghum bicolor | 2026-08-05T09:39:15+00:00 | 42207 sequences | 2067 |
-| Cenchrus americanus | 2026-08-05T09:39:17+00:00 | 235 sequences | 59 |
-| Eleusine coracana | 2026-08-05T09:41:31+00:00 | 55412 sequences | 2603 |
-| Secale cereale | 2026-08-05T09:41:34+00:00 | 473 sequences | 147 |
-| Hordeum vulgare | 2026-08-05T09:44:05+00:00 | 60289 sequences | 2441 |
-| Prunus dulcis | 2026-08-05T09:45:54+00:00 | 45236 sequences | 1821 |
-| Juglans regia | 2026-08-05T09:47:23+00:00 | 38501 sequences | 2024 |
-| Anacardium occidentale | 2026-08-05T09:47:24+00:00 | 15 sequences | 8 |
-| Pistacia vera | 2026-08-05T09:47:26+00:00 | 10 sequences | 6 |
-| Corylus avellana | 2026-08-05T09:48:38+00:00 | 31408 sequences | 1902 |
-| Linum usitatissimum | 2026-08-05T09:48:41+00:00 | 479 sequences | 110 |
-| Salvia hispanica | 2026-08-05T09:48:42+00:00 | 32 sequences | 8 |
-| Cucurbita maxima | 2026-08-05T09:50:10+00:00 | 34610 sequences | 1929 |
-| Helianthus annuus | 2026-08-05T09:53:57+00:00 | 89523 sequences | 2572 |
-| Papaver somniferum | 2026-08-05T09:55:44+00:00 | 41630 sequences | 1920 |
-| Sesamum indicum | 2026-08-05T09:56:59+00:00 | 29842 sequences | 1835 |
-| Sinapis alba | 2026-08-05T09:57:01+00:00 | 155 sequences | 34 |
-| Arachis hypogaea | 2026-08-05T10:03:51+00:00 | 169708 sequences | 2625 |
+| Mytilus edulis | — | — | 448 |
+| Mytilus galloprovincialis | 2026-08-05 | 81997 | 498 |
+| Perna canaliculus | 2026-08-05 | 39 | 1 |
+| Mytilus chilensis | 2026-08-05 | 30 | 1 |
+| Ensis directus | 2026-08-05 | 6 | 1 |
+| Ensis arcuatus | 2026-08-05 | 0 | 0 |
+| Ensis minor | 2026-08-05 | 4 | 0 |
+| Siliqua patula | 2026-08-05 | 1 | 0 |
+| Solen strictus | 2026-08-05 | 17 | 3 |
+| Tegillarca granosa | 2026-08-05 | 24910 | 337 |
+| Anadara broughtonii | 2026-08-05 | 72 | 9 |
+| Mercenaria mercenaria | 2026-08-05 | 22 | 0 |
+| Triticum aestivum | 2026-08-05 | 136850 | 4580 |
+| Oryza sativa | 2026-08-05 | 148723 | 2824 |
+| Zea mays | 2026-08-05 | 106164 | 3059 |
+| Avena sativa | 2026-08-05 | 87080 | 3029 |
+| Sorghum bicolor | 2026-08-05 | 42207 | 2067 |
+| Cenchrus americanus | 2026-08-05 | 235 | 59 |
+| Eleusine coracana | 2026-08-05 | 55412 | 2603 |
+| Secale cereale | 2026-08-05 | 473 | 147 |
+| Hordeum vulgare | 2026-08-05 | 60289 | 2441 |
+| Prunus dulcis | 2026-08-05 | 45236 | 1821 |
+| Juglans regia | 2026-08-05 | 38501 | 2024 |
+| Anacardium occidentale | 2026-08-05 | 15 | 8 |
+| Pistacia vera | 2026-08-05 | 10 | 6 |
+| Corylus avellana | 2026-08-05 | 31408 | 1902 |
+| Linum usitatissimum | 2026-08-05 | 479 | 110 |
+| Salvia hispanica | 2026-08-05 | 32 | 8 |
+| Cucurbita maxima | 2026-08-05 | 34610 | 1929 |
+| Helianthus annuus | 2026-08-05 | 89523 | 2572 |
+| Papaver somniferum | 2026-08-05 | 41630 | 1920 |
+| Sesamum indicum | 2026-08-05 | 29842 | 1835 |
+| Sinapis alba | 2026-08-05 | 155 | 34 |
+| Arachis hypogaea | 2026-08-05 | 169708 | 2625 |
 | Glycine max | — | — | 2821 |
-| Pisum sativum | 2026-08-05T16:31:41+00:00 | 65713 sequences | 2288 |
+| Pisum sativum | 2026-08-05 | 65713 | 2288 |
 | Cicer arietinum | — | — | 1973 |
-| Phaseolus vulgaris | 2026-08-05T10:08:05+00:00 | 32908 sequences | 2034 |
+| Phaseolus vulgaris | 2026-08-05 | 32908 | 2034 |
 | Lens culinaris | — | — | 56 |
-| Vicia faba | 2026-08-05T10:09:35+00:00 | 36642 sequences | 1969 |
-| Phaseolus lunatus | 2026-08-05T10:09:37+00:00 | 75 sequences | 36 |
-| Vigna unguiculata | 2026-08-05T10:11:39+00:00 | 39856 sequences | 1904 |
-| Lupinus albus | 2026-08-05T10:13:16+00:00 | 38108 sequences | 2014 |
+| Vicia faba | 2026-08-05 | 36642 | 1969 |
+| Phaseolus lunatus | 2026-08-05 | 75 | 36 |
+| Vigna unguiculata | 2026-08-05 | 39856 | 1904 |
+| Lupinus albus | 2026-08-05 | 38108 | 2014 |
 | Vigna radiata | — | — | 2161 |
-| Cajanus cajan | 2026-08-05T10:14:13+00:00 | 23053 sequences | 1459 |
-| Vigna subterranea | 2026-08-05T10:14:15+00:00 | 4 sequences | 2 |
-| Solanum tuberosum | 2026-08-05T10:17:56+00:00 | 92930 sequences | 2708 |
-| Ipomoea batatas | 2026-08-05T10:17:59+00:00 | 894 sequences | 268 |
-| Colocasia esculenta | 2026-08-05T12:02:16+00:00 | 56380 sequences | 1679 |
-| Manihot esculenta | — | — | 3938 |
-| Dioscorea cayenensis | 2026-08-05T12:02:17+00:00 | 1 sequences | 1 |
+| Cajanus cajan | 2026-08-05 | 23053 | 1459 |
+| Vigna subterranea | 2026-08-05 | 4 | 2 |
+| Solanum tuberosum | 2026-08-05 | 92930 | 2708 |
+| Ipomoea batatas | 2026-08-05 | 894 | 268 |
+| Colocasia esculenta | 2026-08-05 | 56380 | 1679 |
+| Manihot esculenta | — | — | 1969 |
+| Dioscorea cayenensis | 2026-08-05 | 1 | 1 |
 | Brassica oleracea | — | — | 2444 |
 | Spinacia oleracea | — | — | 1815 |
 | Brassica rapa | — | — | 1972 |
 | Lactuca sativa | — | — | 1990 |
 | Musa acuminata | — | — | 41 |
 | Musa balbisiana | — | — | 22 |
-| Musa paradisiaca | 2026-08-05T12:02:19+00:00 | 2 sequences | 1 |
+| Musa paradisiaca | 2026-08-05 | 2 | 1 |
 | Homo sapiens | — | — | 1046 |
 
 ## Per-species: orthology and final candidates (Steps 7-9)
