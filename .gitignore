@@ -31,6 +31,10 @@ releases/*/orthologs/dense_family_fallback/search_targets.fa
 releases/*/orthologs/dense_family_fallback/hits.tsv
 releases/*/orthologs/dense_family_fallback/*.dmnd
 
+# an input TSV saved in the main directory for a run (the committed copy is the one
+# `run_release.sh` makes inside releases/<version>/)
+/*.tsv
+
 # resume markers and the whole-run log written by run_release.sh
 releases/*/.steps_done/
 releases/*/run_release.log

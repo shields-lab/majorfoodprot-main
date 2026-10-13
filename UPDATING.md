@@ -24,9 +24,11 @@ do **Publish** (tagging, the GitHub Release, Zenodo). In short:
 2. **Set up** Linux or macOS (Windows: WSL) with the two conda environments from the
    `majorfoodprot-code` README, Setup section, and check its offline tests pass.
 3. **Clone both repositories** side by side (see "Before you start").
-4. **Use the input you were given.** If you were not told otherwise, the input
-   for release 1.1.2 is the previous release's, unchanged:
-   `releases/1.1.1/Food_peptide_database-input.tsv`.
+4. **Agree the input with the maintainers** (the species list and search terms may
+   change between releases), and save it in the **main directory of your clone of
+   `majorfoodprot-main`**, next to `README.md` (that is where the commands below
+   expect it). The script copies it into `releases/1.1.2/`; that copy is what gets
+   committed, and the one in the main directory is ignored by git.
 5. **Dry run, then the real run**, detached ("Run it"): the dry run only prints
    the plan and takes a second; the real run takes many hours (about six for the
    23-species example, longer for the full species list).
@@ -58,8 +60,9 @@ starts from nothing and keeps its own copy of the input.
    method changes materially (1.1.x → 1.2.0).
 4. Decide the input. Normally the previous release's input TSV, edited if you
    are adding or removing species or search terms (edit a copy outside
-   `releases/`; do not edit a previous release's files). For 1.1.2 that is
-   `releases/1.1.1/Food_peptide_database-input.tsv`. Reference FASTAs in
+   `releases/`; do not edit a previous release's files), saved in the main
+   directory of your clone, next to `README.md`. Any filename works (it is kept as
+   the input's name inside the release directory). Reference FASTAs in
    the previous release's `query_fasta_files/` are carried over
    automatically; to change them, pass `--query-dir`.
 5. Plan to run Steps 1–2 promptly: the date you start is recorded as the
@@ -91,12 +94,12 @@ conda activate fooddb
 
 # 1. Dry run: prints the plan (every step, and the switches into and out of the
 #    OrthoFinder environment) and runs nothing. Takes a second.
-bash $CODE/run_release.sh 1.1.2 /path/to/your_input.tsv --dry-run
+bash $CODE/run_release.sh 1.1.2 your_input.tsv --dry-run
 
 # 2. The real run, detached so closing the terminal does not stop it.
-nohup bash $CODE/run_release.sh 1.1.2 /path/to/your_input.tsv > run_1.1.2.out 2>&1 &
+nohup bash $CODE/run_release.sh 1.1.2 your_input.tsv > run_1.1.2.out 2>&1 &
 ```
-(For 1.1.2 the input is `releases/1.1.1/Food_peptide_database-input.tsv`.) The first
+(`your_input.tsv` is the input file you saved in the main directory.) The first
 run on a machine also downloads `ete3`'s copy of the NCBI taxonomy (a few hundred
 MB) in Step 5, so that step is slow once.
 Options: `--orthofinder-env NAME` and `--fooddb-env NAME` (your conda
