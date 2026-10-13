@@ -23,7 +23,8 @@ do **Publish** (tagging, the GitHub Release, Zenodo). In short:
    with `gh auth login` or your git credentials.
 2. **Set up** Linux or macOS (Windows: WSL) with the two conda environments from the
    `majorfoodprot-code` README, Setup section, and check its offline tests pass.
-3. **Clone both repositories** side by side (see "Before you start").
+3. **Clone both repositories** side by side and check out the **same pipeline code as the
+   previous release** (`git -C majorfoodprot-code checkout v1.1.1`): see "Before you start", item 3.
 4. **Agree the input with the maintainers** (the species list and search terms may
    change between releases), and save it in the **main directory of your clone of
    `majorfoodprot-main`**, next to `README.md` (that is where the commands below
@@ -54,26 +55,40 @@ starts from nothing and keeps its own copy of the input.
    git clone https://github.com/shields-lab/majorfoodprot-main.git
    export CODE=$PWD/majorfoodprot-code        # used in the commands below
    ```
-3. Choose the version. Look at the table in `RELEASES.md`: the next patch
+3. **Use the same pipeline code as the release you will be compared with.** Two
+   releases can only be compared as "UniProt changed" if the same pipeline processed
+   both; otherwise a difference could be the pipeline. The previous release records
+   the code it used (`code_commit` in `releases/1.1.1/RELEASE_INFO`), and the
+   `v1.1.1` tag of `majorfoodprot-code` points at it:
+   ```bash
+   git -C majorfoodprot-code checkout v1.1.1
+   git -C majorfoodprot-code log -1 --oneline     # should match code_commit in RELEASE_INFO
+   ```
+   `start` prints a notice if your code differs from the previous release's, and the
+   release notes state whether it is the SAME or DIFFERENT. If a pipeline change is
+   wanted, agree it with the maintainers: they then reprocess the previous release's
+   data with the new code too (`run_release.sh <version> --resume --reuse-downloads`),
+   so the comparison stays like for like. Do not edit the code during a run.
+4. Choose the version. Look at the table in `RELEASES.md`: the next patch
    number for a re-run on updated UniProt data with the same species and
    method (1.1.2 → 1.1.3), the next minor number when the species list or the
    method changes materially (1.1.x → 1.2.0).
-4. Decide the input. Normally the previous release's input TSV, edited if you
+5. Decide the input. Normally the previous release's input TSV, edited if you
    are adding or removing species or search terms (edit a copy outside
    `releases/`; do not edit a previous release's files), saved in the main
    directory of your clone, next to `README.md`. Any filename works (it is kept as
    the input's name inside the release directory). Reference FASTAs in
    the previous release's `query_fasta_files/` are carried over
    automatically; to change them, pass `--query-dir`.
-5. Plan to run Steps 1–2 promptly: the date you start is recorded as the
+6. Plan to run Steps 1–2 promptly: the date you start is recorded as the
    UniProt download start, and the first and last proteome download dates are
    recorded too. A long gap between them means the proteomes are not one
    UniProt snapshot, and the release notes will say so.
-6. Check disk space. A full run keeps several GB per release (proteomes
+7. Check disk space. A full run keeps several GB per release (proteomes
    about 3 GB, OrthoFinder results about 2 GB, plus homologs and the UniProt
    record archive); delete old OrthoFinder `Results_*` directories you no
    longer need.
-7. Run the long steps detached (`nohup`, `screen` or `tmux`), not in a
+8. Run the long steps detached (`nohup`, `screen` or `tmux`), not in a
    terminal you will close, and keep the machine awake. Rehearsal timings on
    the 23-species example, for scale: downloads 1h26m, OrthoFinder 3h55m,
    Step 9 (UniProt record archive) 41 min, about 6 hours in all. The full
