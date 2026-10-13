@@ -90,7 +90,6 @@ repository, detached so closing the terminal does not stop it:
 
 ```bash
 cd majorfoodprot-main
-conda activate fooddb
 
 # 1. Dry run: prints the plan (every step, and the switches into and out of the
 #    OrthoFinder environment) and runs nothing. Takes a second.
@@ -99,7 +98,12 @@ bash $CODE/run_release.sh 1.1.2 your_input.tsv --dry-run
 # 2. The real run, detached so closing the terminal does not stop it.
 nohup bash $CODE/run_release.sh 1.1.2 your_input.tsv > run_1.1.2.out 2>&1 &
 ```
-(`your_input.tsv` is the input file you saved in the main directory.) The first
+(`your_input.tsv` is the input file you saved in the main directory.) You do not
+need to activate any conda environment yourself: the script activates `fooddb`,
+switches into the OrthoFinder environment for Step 6 and back. It only needs
+`conda` to be installed and available in your shell (a normal conda install provides
+this), and your environments to be named `fooddb` and `orthofinder`, or to be passed
+with `--fooddb-env` / `--orthofinder-env`. The first
 run on a machine also downloads `ete3`'s copy of the NCBI taxonomy (a few hundred
 MB) in Step 5, so that step is slow once.
 Options: `--orthofinder-env NAME` and `--fooddb-env NAME` (your conda
