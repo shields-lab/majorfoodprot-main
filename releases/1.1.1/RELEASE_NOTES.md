@@ -1,17 +1,18 @@
 # MajorFoodProt release 1.1.1
 
-Generated 2026-10-13 17:01 by `generate_release_notes.py`.
+Generated 2026-10-15 12:29 by `generate_release_notes.py`.
 
 ## UniProt data retrieval
 
 - Download start: 2026-06-23
 - Proteome downloads: 2026-06-23 to 2026-08-05 (43 days between first and last)
-- UniProt data was retrieved incrementally, not as a single snapshot - proteome files dated 23 Jun (42), 2 Jul (10) and 5 Aug (49) 2026 by file date (proteome_downloads.log only covers 5 Aug); keyword searches 14-19 Aug 2026; OrthoFinder and Steps 7-9 re-run 21-22 Sep 2026.
+- UniProt data was retrieved incrementally, not as a single snapshot - proteome files dated 23 Jun (42), 2 Jul (10) and 5 Aug (49) 2026 by file date (proteome_downloads.log only covers 5 Aug); keyword searches 14-19 Aug 2026. This release was REPROCESSED on 13 Oct 2026 from those same files with the current pipeline (Steps 3-9, including a new OrthoFinder run); no new UniProt download was made. The comparison below is against the original build.
+- Compared against previous release: 1.1.1 (original build, 21-22 Sep 2026)
 
 ## Summary
 
 - Input file: `Food_peptide_database-input.tsv` (sha256 `fadf60441407a232724810fde0b9fc0b2909ef27327c96ac3b868d2f782ac694`)
-- Deliverable: `output_tsvs/food_protein_DB_22Sep26.tsv`
+- Deliverable: `output_tsvs/food_protein_DB_13Oct26.tsv`
 - Species in input: 103
 - Final candidates: 10137
 - Step 8 CD-HIT identity threshold: 0.95
@@ -19,11 +20,15 @@ Generated 2026-10-13 17:01 by `generate_release_notes.py`.
 
 ## Changes to the input since the previous release
 
-No previous input snapshot available to compare against.
+Compared with `original_build/Food_peptide_database-input.tsv`:
+- Species added: none
+- Species removed: none
+- Input file is byte-identical to the previous release's.
 
 ## Tool / data versions
 
-- OrthoFinder: 3.1.4
+- Pipeline code (majorfoodprot-code): v1.1.1 (commit `3a61cc0c2f`)
+- OrthoFinder: 3.1.4 -- `orthofinder -f subproteomes -t 8 -a 4 -M msa -A mafft -s orthofinder_input_tree_rooted`
 - DIAMOND: 2.1.24
 - CD-HIT: 4.8.1
 
@@ -46,7 +51,7 @@ No previous input snapshot available to compare against.
 
 ## Checksums (sha256)
 
-- `output_tsvs/food_protein_DB_22Sep26.tsv`: `6c6dd4ad36a22110ae9c2d1056d9e562f8e1de4da11001c9f6dda65d26c12d07`
+- `output_tsvs/food_protein_DB_13Oct26.tsv`: `5ad531894c642adb504eebd3fdb8d15fd4e6dcddbaf522c878cdff2fde24beec`
 
 ## Per-species: data acquisition (Steps 2-4)
 
@@ -163,7 +168,7 @@ No previous input snapshot available to compare against.
 | Bos taurus | 91 | 21 | 562 | 101 | 24 |
 | Bubalus bubalis | 17 | 4 | 44 | 18 | 9 |
 | Camelus dromedarius | 54 | 0 | 373 | 54 | 10 |
-| Gallus gallus | 106 | 7 | 497 | 130 | 34 |
+| Gallus gallus | 105 | 7 | 497 | 130 | 34 |
 | Anas platyrhynchos platyrhynchos | 71 | 2 | 337 | 74 | 18 |
 | Meleagris gallopavo | 52 | 2 | 394 | 63 | 0 |
 | Capra hircus | 71 | 3 | 430 | 73 | 14 |
@@ -264,11 +269,116 @@ No previous input snapshot available to compare against.
 | Musa paradisiaca | 0 | 0 | 1 | 0 | 0 |
 | Homo sapiens | 0 | 27 | 924 | 47 | 7 |
 
-## Per-species diff vs. previous release
+## Per-species diff vs. previous release (`original_build/food_protein_DB_22Sep26.tsv`)
 
-No `--previous-deliverable` given — first release, or diff skipped.
+| Species | Dropped | Gained | Unchanged |
+|---|---|---|---|
+| Bos taurus | 0 | 0 | 101 |
+| Bubalus bubalis | 0 | 0 | 18 |
+| Camelus dromedarius | 0 | 0 | 54 |
+| Gallus gallus | 0 | 0 | 130 |
+| Anas platyrhynchos platyrhynchos | 0 | 0 | 74 |
+| Meleagris gallopavo | 0 | 0 | 63 |
+| Capra hircus | 0 | 0 | 73 |
+| Sus scrofa | 0 | 0 | 86 |
+| Ovis aries | 0 | 0 | 102 |
+| Engraulis ringens | 0 | 0 | 0 |
+| Gadus chalcogrammus | 0 | 0 | 12 |
+| Katsuwonus pelamis | 0 | 0 | 3 |
+| Clupea harengus | 0 | 0 | 85 |
+| Micromesistius poutassou | 0 | 0 | 0 |
+| Sardina pilchardus | 0 | 0 | 2 |
+| Scomber japonicus | 0 | 0 | 6 |
+| Sardinops sagax | 0 | 0 | 0 |
+| Thunnus albacares | 0 | 0 | 4 |
+| Gadus morhua | 0 | 0 | 136 |
+| Trichiurus lepturus | 0 | 0 | 0 |
+| Scomber scombrus | 0 | 0 | 75 |
+| Trachurus murphyi | 0 | 0 | 0 |
+| Ctenopharyngodon idella | 0 | 0 | 13 |
+| Hypophthalmichthys molitrix | 0 | 0 | 12 |
+| Oreochromis niloticus | 0 | 0 | 144 |
+| Cyprinus carpio | 0 | 0 | 173 |
+| Labeo catla | 0 | 0 | 2 |
+| Salmo salar | 0 | 0 | 90 |
+| Ictalurus punctatus | 0 | 0 | 74 |
+| Ictalurus furcatus | 0 | 0 | 8 |
+| Clarias gariepinus | 0 | 0 | 0 |
+| Pangasius bocourti | 0 | 0 | 0 |
+| Chanos chanos | 0 | 0 | 85 |
+| Oncorhynchus mykiss | 0 | 0 | 155 |
+| Penaeus vannamei | 0 | 0 | 60 |
+| Procambarus clarkii | 0 | 0 | 11 |
+| Dosidicus gigas | 0 | 0 | 1 |
+| Magallana gigas | 0 | 0 | 34 |
+| Crassostrea virginica | 0 | 0 | 31 |
+| Magallana angulata | 0 | 0 | 3 |
+| Ruditapes philippinarum | 0 | 0 | 4 |
+| Mizuhopecten yessoensis | 0 | 0 | 33 |
+| Placopecten magellanicus | 0 | 0 | 6 |
+| Argopecten purpuratus | 0 | 0 | 0 |
+| Mytilus edulis | 0 | 0 | 29 |
+| Mytilus galloprovincialis | 0 | 0 | 42 |
+| Perna canaliculus | 0 | 0 | 1 |
+| Mytilus chilensis | 0 | 0 | 0 |
+| Ensis directus | 0 | 0 | 1 |
+| Ensis arcuatus | 0 | 0 | 0 |
+| Ensis minor | 0 | 0 | 0 |
+| Siliqua patula | 0 | 0 | 0 |
+| Solen strictus | 0 | 0 | 3 |
+| Tegillarca granosa | 0 | 0 | 27 |
+| Anadara broughtonii | 0 | 0 | 4 |
+| Mercenaria mercenaria | 0 | 0 | 0 |
+| Triticum aestivum | 0 | 0 | 1497 |
+| Oryza sativa | 0 | 0 | 435 |
+| Zea mays | 0 | 0 | 544 |
+| Avena sativa | 0 | 0 | 454 |
+| Sorghum bicolor | 0 | 0 | 258 |
+| Cenchrus americanus | 0 | 0 | 8 |
+| Eleusine coracana | 0 | 0 | 400 |
+| Secale cereale | 0 | 0 | 39 |
+| Hordeum vulgare | 0 | 0 | 324 |
+| Prunus dulcis | 0 | 0 | 135 |
+| Juglans regia | 0 | 0 | 114 |
+| Anacardium occidentale | 0 | 0 | 5 |
+| Pistacia vera | 0 | 0 | 5 |
+| Corylus avellana | 0 | 0 | 105 |
+| Linum usitatissimum | 0 | 0 | 6 |
+| Salvia hispanica | 0 | 0 | 1 |
+| Cucurbita maxima | 0 | 0 | 110 |
+| Helianthus annuus | 0 | 0 | 300 |
+| Papaver somniferum | 0 | 0 | 184 |
+| Sesamum indicum | 0 | 0 | 152 |
+| Sinapis alba | 0 | 0 | 6 |
+| Arachis hypogaea | 0 | 0 | 285 |
+| Glycine max | 0 | 0 | 297 |
+| Pisum sativum | 0 | 0 | 194 |
+| Cicer arietinum | 0 | 0 | 130 |
+| Phaseolus vulgaris | 0 | 0 | 222 |
+| Lens culinaris | 0 | 0 | 8 |
+| Vicia faba | 0 | 0 | 162 |
+| Phaseolus lunatus | 0 | 0 | 5 |
+| Vigna unguiculata | 0 | 0 | 181 |
+| Lupinus albus | 0 | 0 | 200 |
+| Vigna radiata | 0 | 0 | 179 |
+| Cajanus cajan | 0 | 0 | 77 |
+| Vigna subterranea | 0 | 0 | 1 |
+| Solanum tuberosum | 0 | 0 | 384 |
+| Ipomoea batatas | 0 | 0 | 63 |
+| Colocasia esculenta | 0 | 0 | 159 |
+| Manihot esculenta | 0 | 0 | 187 |
+| Dioscorea cayenensis | 0 | 0 | 1 |
+| Brassica oleracea | 0 | 0 | 46 |
+| Spinacia oleracea | 0 | 0 | 29 |
+| Brassica rapa | 0 | 0 | 28 |
+| Lactuca sativa | 0 | 0 | 42 |
+| Musa acuminata | 0 | 0 | 36 |
+| Musa balbisiana | 0 | 0 | 22 |
+| Musa paradisiaca | 0 | 0 | 0 |
+| Homo sapiens | 0 | 0 | 47 |
 
 ## Known issues / caveats
 
 - **Mixed-date UniProt snapshot.** See "UniProt data retrieval" above: proteomes were fetched on three different dates (and the log covers only the last), so this is not a single UniProt snapshot. Release 1.1.2 is the first built from one fresh download.
 - **Large repetitive proteins are incompletely represented.** Titin and nebulin gene models are fragmentary or mis-clustered in several non-human species, and the human reference is canonical isoforms only (e.g. TTN: 1 of 13 UniProt isoforms; NEB: 1 of 4). For MS/MS food authentication, search against all human isoforms and treat titin-derived matches with caution.
+- **Reprocessed with the final pipeline (13 Oct 2026).** This release was built a second time from the same UniProt files and the same input (checksum identical) with pipeline commit `3a61cc0`, so that its step summaries exist in the same form as every later release, and so that release 1.1.2 can be compared with it like for like. Compared with the original build of 21-22 Sep 2026, the candidate set is identical (10,137 of 10,137 candidates, same order), as are the OrthoFinder statistics (88,189 genes, 87,192 in orthogroups, 972 orthogroups), the fallback counts (127 rescued; 784 / 50 / 50,811 declined) and the signal-peptide count (5,250). Two rows differ in which homologs they report: chicken ubiquitin B (`A0A1D5P546`) reports the same human homolog at the same 100% identity, but via the dense-family fallback instead of OrthoFinder orthology; and a rice lipid-transfer protein (`A0A0E0HY60`) lost one of 24 co-orthologous group members, a wheat paralog at 31.7% identity at the edge of DIAMOND's significance threshold. Both are the pipeline's known run-to-run variation in tree-based orthology and in borderline hits, not a change in the pipeline.

@@ -3,9 +3,15 @@ version: 1.1.1
 release_started: 2026-06-23
 input_file: Food_peptide_database-input.tsv
 input_sha256: fadf60441407a232724810fde0b9fc0b2909ef27327c96ac3b868d2f782ac694
+code_commit: 3a61cc0c2ff5b0076f279cd8ea2afb3320759420
+code_describe: v1.1.1
+code_dirty: no
+previous_version: 1.1.1 (original build, 21-22 Sep 2026)
+previous_deliverable: original_build/food_protein_DB_22Sep26.tsv
+previous_input: original_build/Food_peptide_database-input.tsv
 proteome_download_first: 2026-06-23
 proteome_download_last: 2026-08-05
 proteome_download_span_days: 43
 download_dates_source: manual
-data_retrieval_note: UniProt data was retrieved incrementally, not as a single snapshot - proteome files dated 23 Jun (42), 2 Jul (10) and 5 Aug (49) 2026 by file date (proteome_downloads.log only covers 5 Aug); keyword searches 14-19 Aug 2026; OrthoFinder and Steps 7-9 re-run 21-22 Sep 2026.
-deliverable: output_tsvs/food_protein_DB_22Sep26.tsv
+data_retrieval_note: UniProt data was retrieved incrementally, not as a single snapshot - proteome files dated 23 Jun (42), 2 Jul (10) and 5 Aug (49) 2026 by file date (proteome_downloads.log only covers 5 Aug); keyword searches 14-19 Aug 2026. This release was REPROCESSED on 13 Oct 2026 from those same files with the current pipeline (Steps 3-9, including a new OrthoFinder run); no new UniProt download was made. The comparison below is against the original build.
+deliverable: output_tsvs/food_protein_DB_13Oct26.tsv

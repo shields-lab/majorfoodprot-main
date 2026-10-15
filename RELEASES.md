@@ -28,5 +28,5 @@ Zenodo version) are releases. How to produce one: [`UPDATING.md`](UPDATING.md).
 | Version | UniProt download start | Download window | Directory | Tags | Zenodo DOI | Notes |
 |---|---|---|---|---|---|---|
 | 1.0 | 2025 | — | not in this repository | — | *TODO: locate the thesis files; ideally version 1 of the same Zenodo record* | Pre-pipeline; PhD thesis (Clíona Ní Chonnacháin) |
-| 1.1.1 | 23 Jun 2026 | 23 Jun – 5 Aug (proteomes); keyword search 14–19 Aug | [`releases/1.1.1/`](releases/1.1.1/) | `v1.1.1` | *pending* | Mixed-date snapshot; deliverable from the 21–22 Sep 2026 run |
+| 1.1.1 | 23 Jun 2026 | 23 Jun – 5 Aug (proteomes); keyword search 14–19 Aug | [`releases/1.1.1/`](releases/1.1.1/) | `v1.1.1` | *pending* | Mixed-date snapshot. Reprocessed 13 Oct 2026 with pipeline `v1.1.1` (commit `3a61cc0`) from the same UniProt data and input; candidate set identical to the original 21–22 Sep 2026 build, which is kept in `releases/1.1.1/original_build/` |
 | 1.1.2 | *pending* | *pending* | `releases/1.1.2/` | *pending* | *pending* | First release from a single fresh download |
