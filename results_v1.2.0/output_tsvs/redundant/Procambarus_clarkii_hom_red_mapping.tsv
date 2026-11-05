@@ -1,0 +1,66 @@
+cluster_id	seq_id	db_type	taxid	is_favoured	source_type	source_detail	cluster_size	title
+0	tr|Q95YM2|Q95YM2_PROCL	tr	6728	Y	native		1	tr|Q95YM2|Q95YM2_PROCL tr|Q95YM2|Q95YM2_PROCL Titin OS=Procambarus clarkii OX=6728 GN=I-con PE=2 SV=1
+1	tr|Q86GD6|Q86GD6_PROCL	tr	6728	Y	native		1	tr|Q86GD6|Q86GD6_PROCL tr|Q86GD6|Q86GD6_PROCL Serine/threonine-protein OS=Procambarus clarkii OX=6728 GN=proj PE=2 SV=1
+2	tr|Q95YM1|Q95YM1_PROCL	tr	6728	Y	native		1	tr|Q95YM1|Q95YM1_PROCL tr|Q95YM1|Q95YM1_PROCL Kettin OS=Procambarus clarkii OX=6728 GN=ket PE=2 SV=1
+3	tr|A0A5Q1L311|A0A5Q1L311_PROCL	tr	6728	Y	native		1	tr|A0A5Q1L311|A0A5Q1L311_PROCL tr|A0A5Q1L311|A0A5Q1L311_PROCL Spectrin alpha chain-like protein (Fragment) OS=Procambarus clarkii OX=6728 GN=spta1 PE=2 SV=1
+4	tr|A0A2D3E2X4|A0A2D3E2X4_PROCL	tr	6728	Y	native		1	tr|A0A2D3E2X4|A0A2D3E2X4_PROCL tr|A0A2D3E2X4|A0A2D3E2X4_PROCL Basement membrane-specific heparan sulfate proteoglycan core protein (Fragment) OS=Procambarus clarkii OX=6728 GN=Hspg2 PE=2 SV=1
+5	tr|A0A386H7J2|A0A386H7J2_PROCL	tr	6728	Y	native		1	tr|A0A386H7J2|A0A386H7J2_PROCL tr|A0A386H7J2|A0A386H7J2_PROCL CD109 antigen-like protein (Fragment) OS=Procambarus clarkii OX=6728 GN=Cd109 PE=2 SV=1
+6	tr|A0A386H740|A0A386H740_PROCL	tr	6728	Y	native		1	tr|A0A386H740|A0A386H740_PROCL tr|A0A386H740|A0A386H740_PROCL Clotting protein (Fragment) OS=Procambarus clarkii OX=6728 PE=2 SV=1
+7	tr|A0A386H7I6|A0A386H7I6_PROCL	tr	6728	Y	native		1	tr|A0A386H7I6|A0A386H7I6_PROCL tr|A0A386H7I6|A0A386H7I6_PROCL TEP1-F (Fragment) OS=Procambarus clarkii OX=6728 GN=A2ml3 PE=2 SV=1
+8	tr|A0A8B0M5V4|A0A8B0M5V4_PROCL	tr	6728	Y	native		1	tr|A0A8B0M5V4|A0A8B0M5V4_PROCL tr|A0A8B0M5V4|A0A8B0M5V4_PROCL Hemocytin (Fragment) OS=Procambarus clarkii OX=6728 PE=2 SV=1
+9	tr|Q6UCJ4|Q6UCJ4_PROCL	tr	6728	Y	native		1	tr|Q6UCJ4|Q6UCJ4_PROCL tr|Q6UCJ4|Q6UCJ4_PROCL Guanylate cyclase OS=Procambarus clarkii OX=6728 PE=2 SV=2
+10	tr|A0A386H7H6|A0A386H7H6_PROCL	tr	6728	Y	native		1	tr|A0A386H7H6|A0A386H7H6_PROCL tr|A0A386H7H6|A0A386H7H6_PROCL Pacifastin heavy chain (Fragment) OS=Procambarus clarkii OX=6728 PE=2 SV=1
+11	tr|A0A2P1JJ46|A0A2P1JJ46_PROCL	tr	6728	Y	native		1	tr|A0A2P1JJ46|A0A2P1JJ46_PROCL tr|A0A2P1JJ46|A0A2P1JJ46_PROCL Neuroglian-like (Fragment) OS=Procambarus clarkii OX=6728 GN=Nrg PE=2 SV=1
+12	tr|Q6SLH6|Q6SLH6_PROCL	tr	6728	Y	native		1	tr|Q6SLH6|Q6SLH6_PROCL tr|Q6SLH6|Q6SLH6_PROCL Calcium-transporting ATPase OS=Procambarus clarkii OX=6728 PE=2 SV=1
+13	tr|A0A286RXR1|A0A286RXR1_PROCL	tr	6728	Y	native		1	tr|A0A286RXR1|A0A286RXR1_PROCL tr|A0A286RXR1|A0A286RXR1_PROCL Dystonin (Fragment) OS=Procambarus clarkii OX=6728 GN=DST PE=2 SV=1
+14	tr|O17314|O17314_PROCL	tr	6728	Y	native		1	tr|O17314|O17314_PROCL tr|O17314|O17314_PROCL Calcium-transporting ATPase OS=Procambarus clarkii OX=6728 GN=SERCA PE=2 SV=1
+15	tr|A0A4Y6A7J7|A0A4Y6A7J7_PROCL	tr	6728	Y	native		1	tr|A0A4Y6A7J7|A0A4Y6A7J7_PROCL tr|A0A4Y6A7J7|A0A4Y6A7J7_PROCL Sodium/potassium-transporting ATPase subunit alpha (Fragment) OS=Procambarus clarkii OX=6728 GN=Nak-ATPase PE=2 SV=1
+16	tr|A0A2D3E2X5|A0A2D3E2X5_PROCL	tr	6728	Y	native		1	tr|A0A2D3E2X5|A0A2D3E2X5_PROCL tr|A0A2D3E2X5|A0A2D3E2X5_PROCL Calcium-transporting ATPase sarcoplasmic/endoplasmic reticulum type (Fragment) OS=Procambarus clarkii OX=6728 PE=2 SV=1
+17	tr|O17315|O17315_PROCL	tr	6728	Y	native		1	tr|O17315|O17315_PROCL tr|O17315|O17315_PROCL Calcium-transporting ATPase OS=Procambarus clarkii OX=6728 GN=SERCA PE=2 SV=1
+18	tr|A0A2P1JJ58|A0A2P1JJ58_PROCL	tr	6728	Y	native		1	tr|A0A2P1JJ58|A0A2P1JJ58_PROCL tr|A0A2P1JJ58|A0A2P1JJ58_PROCL F-actin cross-linking protein (Fragment) OS=Procambarus clarkii OX=6728 GN=Actn PE=2 SV=1
+19	tr|A0A2P1JJ59|A0A2P1JJ59_PROCL	tr	6728	Y	native		1	tr|A0A2P1JJ59|A0A2P1JJ59_PROCL tr|A0A2P1JJ59|A0A2P1JJ59_PROCL Alpha-1,4 glucan phosphorylase (Fragment) OS=Procambarus clarkii OX=6728 GN=Glyp PE=2 SV=1
+20	tr|F8S6K4|F8S6K4_PROCL	tr	6728	Y	native		1	tr|F8S6K4|F8S6K4_PROCL tr|F8S6K4|F8S6K4_PROCL Peroxinectin OS=Procambarus clarkii OX=6728 PE=2 SV=1
+21	tr|A0A2P1JJ78|A0A2P1JJ78_PROCL	tr	6728	Y	native		1	tr|A0A2P1JJ78|A0A2P1JJ78_PROCL tr|A0A2P1JJ78|A0A2P1JJ78_PROCL Plasma membrane calcium-transporting ATPase 2-like (Fragment) OS=Procambarus clarkii OX=6728 GN=Atp2b2 PE=2 SV=1
+22	tr|A0A1C6ZZL7|A0A1C6ZZL7_PROCL	tr	6728	Y	native		1	tr|A0A1C6ZZL7|A0A1C6ZZL7_PROCL tr|A0A1C6ZZL7|A0A1C6ZZL7_PROCL Vitellogenin (Fragment) OS=Procambarus clarkii OX=6728 PE=2 SV=1
+23	tr|A0A9E8DEB3|A0A9E8DEB3_PROCL	tr	6728	Y	native		1	tr|A0A9E8DEB3|A0A9E8DEB3_PROCL tr|A0A9E8DEB3|A0A9E8DEB3_PROCL prostaglandin-endoperoxide synthase OS=Procambarus clarkii OX=6728 PE=2 SV=1
+24	tr|A0A5Q1L4Y0|A0A5Q1L4Y0_PROCL	tr	6728	Y	native		1	tr|A0A5Q1L4Y0|A0A5Q1L4Y0_PROCL tr|A0A5Q1L4Y0|A0A5Q1L4Y0_PROCL Putative BMP-binding endothelial regulator protein (Fragment) OS=Procambarus clarkii OX=6728 GN=Bmper PE=2 SV=1
+25	tr|E4W6B4|E4W6B4_PROCL	tr	6728	Y	native		1	tr|E4W6B4|E4W6B4_PROCL tr|E4W6B4|E4W6B4_PROCL ATP synthase subunit beta OS=Procambarus clarkii OX=6728 PE=2 SV=1
+26	tr|A0A386H7K6|A0A386H7K6_PROCL	tr	6728	Y	native		1	tr|A0A386H7K6|A0A386H7K6_PROCL tr|A0A386H7K6|A0A386H7K6_PROCL Hemocytin-like protein (Fragment) OS=Procambarus clarkii OX=6728 GN=Hmct PE=2 SV=1
+27	tr|A0A346QR73|A0A346QR73_PROCL	tr	6728	Y	native		1	tr|A0A346QR73|A0A346QR73_PROCL tr|A0A346QR73|A0A346QR73_PROCL Peroxidasin-like protein (Fragment) OS=Procambarus clarkii OX=6728 GN=Pxdn PE=2 SV=1
+28	tr|A0A2P1JJ29|A0A2P1JJ29_PROCL	tr	6728	Y	native		1	tr|A0A2P1JJ29|A0A2P1JJ29_PROCL tr|A0A2P1JJ29|A0A2P1JJ29_PROCL Serine/threonine-protein (Fragment) OS=Procambarus clarkii OX=6728 GN=MKNK1 PE=2 SV=1
+29	tr|A0A286RXX4|A0A286RXX4_PROCL	tr	6728	Y	native		1	tr|A0A286RXX4|A0A286RXX4_PROCL tr|A0A286RXX4|A0A286RXX4_PROCL Serine/threonine-protein (Fragment) OS=Procambarus clarkii OX=6728 GN=GSK3B PE=2 SV=1
+30	tr|A0A8B0M691|A0A8B0M691_PROCL	tr	6728	Y	native		1	tr|A0A8B0M691|A0A8B0M691_PROCL tr|A0A8B0M691|A0A8B0M691_PROCL Serine proteinase inhibitor OS=Procambarus clarkii OX=6728 PE=2 SV=1
+31	tr|A0A8B0M633|A0A8B0M633_PROCL	tr	6728	Y	native		1	tr|A0A8B0M633|A0A8B0M633_PROCL tr|A0A8B0M633|A0A8B0M633_PROCL Hemolectin OS=Procambarus clarkii OX=6728 PE=2 SV=1
+32	tr|A0A0M4J5L0|A0A0M4J5L0_PROCL	tr	6728	Y	native		3	tr|A0A0M4J5L0|A0A0M4J5L0_PROCL tr|A0A0M4J5L0|A0A0M4J5L0_PROCL Beta-actin OS=Procambarus clarkii OX=6728 PE=2 SV=1
+33	tr|A0A346QR77|A0A346QR77_PROCL	tr	6728	Y	native		1	tr|A0A346QR77|A0A346QR77_PROCL tr|A0A346QR77|A0A346QR77_PROCL Cytoplasmic actin 1 (Fragment) OS=Procambarus clarkii OX=6728 GN=Actb PE=2 SV=1
+34	sp|H6VGI2|KARG_PROCL	sp	6728	Y	native		3	sp|H6VGI2|KARG_PROCL sp|H6VGI2|KARG_PROCL Arginine kinase Pro c 2.0101 OS=Procambarus clarkii OX=6728 PE=1 SV=1
+35	tr|Q7YT60|Q7YT60_PROCL	tr	6728	Y	native		1	tr|Q7YT60|Q7YT60_PROCL tr|Q7YT60|Q7YT60_PROCL Glyceraldehyde-3-phosphate dehydrogenase OS=Procambarus clarkii OX=6728 PE=2 SV=1
+36	sp|P45521|ACT_PROCL	sp	6728	Y	native		1	sp|P45521|ACT_PROCL sp|P45521|ACT_PROCL Actin (Fragment) OS=Procambarus clarkii OX=6728 PE=1 SV=1
+37	tr|A0A0M4ISP7|A0A0M4ISP7_PROCL	tr	6728	Y	native		1	tr|A0A0M4ISP7|A0A0M4ISP7_PROCL tr|A0A0M4ISP7|A0A0M4ISP7_PROCL Vitellogenin (Fragment) OS=Procambarus clarkii OX=6728 PE=2 SV=1
+38	tr|X2C067|X2C067_PROCL	tr	6728	Y	native		1	tr|X2C067|X2C067_PROCL tr|X2C067|X2C067_PROCL Serpin (Fragment) OS=Procambarus clarkii OX=6728 PE=2 SV=1
+39	tr|C0LU07|C0LU07_PROCL	tr	6728	Y	native		1	tr|C0LU07|C0LU07_PROCL tr|C0LU07|C0LU07_PROCL Tropomysin OS=Procambarus clarkii OX=6728 PE=2 SV=1
+40	tr|A0A346QRB4|A0A346QRB4_PROCL	tr	6728	Y	native		1	tr|A0A346QRB4|A0A346QRB4_PROCL tr|A0A346QRB4|A0A346QRB4_PROCL Fibronectin type-III domain-containing protein 3A-like protein (Fragment) OS=Procambarus clarkii OX=6728 GN=Fndc3a PE=2 SV=1
+41	tr|Q6V4H5|Q6V4H5_PROCL	tr	6728	Y	native		1	tr|Q6V4H5|Q6V4H5_PROCL tr|Q6V4H5|Q6V4H5_PROCL Serine proteinase inhibitor OS=Procambarus clarkii OX=6728 PE=2 SV=1
+42	tr|A0A8B0M626|A0A8B0M626_PROCL	tr	6728	Y	native		1	tr|A0A8B0M626|A0A8B0M626_PROCL tr|A0A8B0M626|A0A8B0M626_PROCL Penlectin 5-2 OS=Procambarus clarkii OX=6728 PE=2 SV=1
+43	tr|F5A6C6|F5A6C6_PROCL	tr	6728	Y	native		1	tr|F5A6C6|F5A6C6_PROCL tr|F5A6C6|F5A6C6_PROCL arginine kinase OS=Procambarus clarkii OX=6728 PE=2 SV=1
+44	tr|F5A6F1|F5A6F1_PROCL	tr	6728	Y	native		1	tr|F5A6F1|F5A6F1_PROCL tr|F5A6F1|F5A6F1_PROCL Glyceraldehyde-3-phosphate dehydrogenase OS=Procambarus clarkii OX=6728 PE=2 SV=1
+45	tr|H6VY59|H6VY59_PROCL	tr	6728	Y	native		2	tr|H6VY59|H6VY59_PROCL tr|H6VY59|H6VY59_PROCL Cytochrome c oxidase subunit 2 OS=Procambarus clarkii OX=6728 GN=cox2 PE=3 SV=1
+46	tr|A0A1C6ZZM7|A0A1C6ZZM7_PROCL	tr	6728	Y	native		1	tr|A0A1C6ZZM7|A0A1C6ZZM7_PROCL tr|A0A1C6ZZM7|A0A1C6ZZM7_PROCL Proteinase inhibitor (Fragment) OS=Procambarus clarkii OX=6728 PE=2 SV=1
+47	tr|A0A5Q1L2E3|A0A5Q1L2E3_PROCL	tr	6728	Y	native		1	tr|A0A5Q1L2E3|A0A5Q1L2E3_PROCL tr|A0A5Q1L2E3|A0A5Q1L2E3_PROCL Spectrin beta chain non-erythrocytic 1-like protein (Fragment) OS=Procambarus clarkii OX=6728 GN=sptbn1 PE=2 SV=1
+48	tr|F5A6B8|F5A6B8_PROCL	tr	6728	Y	native		1	tr|F5A6B8|F5A6B8_PROCL tr|F5A6B8|F5A6B8_PROCL Actin3 OS=Procambarus clarkii OX=6728 PE=2 SV=1
+49	tr|A0A286RXR2|A0A286RXR2_PROCL	tr	6728	Y	native		1	tr|A0A286RXR2|A0A286RXR2_PROCL tr|A0A286RXR2|A0A286RXR2_PROCL Neo-calmodulin-like protein (Fragment) OS=Procambarus clarkii OX=6728 GN=LOC106167983 PE=2 SV=1
+50	tr|A0A6C0T731|A0A6C0T731_PROCL	tr	6728	Y	native		1	tr|A0A6C0T731|A0A6C0T731_PROCL tr|A0A6C0T731|A0A6C0T731_PROCL Neurocalcin-like protein (Fragment) OS=Procambarus clarkii OX=6728 GN=Nca PE=2 SV=1
+51	tr|A0A0U1W3G0|A0A0U1W3G0_PROCL	tr	6728	Y	native		1	tr|A0A0U1W3G0|A0A0U1W3G0_PROCL tr|A0A0U1W3G0|A0A0U1W3G0_PROCL Serine/threonine-protein (Fragment) OS=Procambarus clarkii OX=6728 PE=2 SV=1
+52	tr|D8VNK0|D8VNK0_PROCL	tr	6728	Y	native		1	tr|D8VNK0|D8VNK0_PROCL tr|D8VNK0|D8VNK0_PROCL Kazal-type serine proteinase inhibitor 4 OS=Procambarus clarkii OX=6728 PE=2 SV=1
+53	tr|I6TKW6|I6TKW6_PROCL	tr	6728	Y	native		1	tr|I6TKW6|I6TKW6_PROCL tr|I6TKW6|I6TKW6_PROCL Myosin light chain 2 OS=Procambarus clarkii OX=6728 PE=2 SV=1
+54	tr|D8VNJ7|D8VNJ7_PROCL	tr	6728	Y	native		1	tr|D8VNJ7|D8VNJ7_PROCL tr|D8VNJ7|D8VNJ7_PROCL Kazal-type serine proteinase inhibitor 1 OS=Procambarus clarkii OX=6728 PE=2 SV=1
+55	tr|F5A6E7|F5A6E7_PROCL	tr	6728	Y	native		1	tr|F5A6E7|F5A6E7_PROCL tr|F5A6E7|F5A6E7_PROCL Ubiquitin-ribosomal protein eS31 fusion protein OS=Procambarus clarkii OX=6728 PE=2 SV=1
+56	sp|J7HCX7|MLC1_PROCL	sp	6728	Y	native		1	sp|J7HCX7|MLC1_PROCL sp|J7HCX7|MLC1_PROCL Myosin light chain 1 OS=Procambarus clarkii OX=6728 GN=MLC1 PE=1 SV=1
+57	tr|A0A346QR72|A0A346QR72_PROCL	tr	6728	Y	native		1	tr|A0A346QR72|A0A346QR72_PROCL tr|A0A346QR72|A0A346QR72_PROCL Calmodulin (Fragment) OS=Procambarus clarkii OX=6728 GN=Calm PE=2 SV=1
+58	tr|B6DYD6|B6DYD6_PROCL	tr	6728	Y	native		1	tr|B6DYD6|B6DYD6_PROCL tr|B6DYD6|B6DYD6_PROCL Calmodulin OS=Procambarus clarkii OX=6728 PE=2 SV=1
+59	tr|A0A140WWB5|A0A140WWB5_PROCL	tr	6728	Y	native		1	tr|A0A140WWB5|A0A140WWB5_PROCL tr|A0A140WWB5|A0A140WWB5_PROCL Calmodulin (Fragment) OS=Procambarus clarkii OX=6728 PE=2 SV=1
+60	tr|A0A2P1M9K7|A0A2P1M9K7_PROCL	tr	6728	Y	native		1	tr|A0A2P1M9K7|A0A2P1M9K7_PROCL tr|A0A2P1M9K7|A0A2P1M9K7_PROCL 1,4-beta-N-acetylmuramidase C OS=Procambarus clarkii OX=6728 PE=2 SV=1
+61	tr|D8VNJ8|D8VNJ8_PROCL	tr	6728	Y	native		1	tr|D8VNJ8|D8VNJ8_PROCL tr|D8VNJ8|D8VNJ8_PROCL Kazal-type serine proteinase inhibitor 2 OS=Procambarus clarkii OX=6728 PE=2 SV=1
+62	tr|D8VNJ9|D8VNJ9_PROCL	tr	6728	Y	native		1	tr|D8VNJ9|D8VNJ9_PROCL tr|D8VNJ9|D8VNJ9_PROCL Kazal-type serine proteinase inhibitor 3 OS=Procambarus clarkii OX=6728 PE=2 SV=1
+63	tr|A0A075BV55|A0A075BV55_PROCL	tr	6728	Y	native		1	tr|A0A075BV55|A0A075BV55_PROCL tr|A0A075BV55|A0A075BV55_PROCL Kazal-type serine proteinase inhibitor 4 (Fragment) OS=Procambarus clarkii OX=6728 GN=SPINK4 PE=2 SV=1
+64	tr|F5A6B6|F5A6B6_PROCL	tr	6728	Y	native		1	tr|F5A6B6|F5A6B6_PROCL tr|F5A6B6|F5A6B6_PROCL Actin1 OS=Procambarus clarkii OX=6728 PE=2 SV=1

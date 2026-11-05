@@ -1,0 +1,10 @@
+sseqid	count	has_sequence	stitle
+tr|D5L0U8|D5L0U8_SCOJP	1	Y	tr|D5L0U8|D5L0U8_SCOJP Beta actin (Fragment) OS=Scomber japonicus OX=13676 GN=Act PE=2 SV=1
+tr|Q90W41|Q90W41_SCOJP	4	Y	tr|Q90W41|Q90W41_SCOJP Myosin light chain 1 OS=Scomber japonicus OX=13676 GN=mlc1 PE=2 SV=1
+tr|Q90W40|Q90W40_SCOJP	4	Y	tr|Q90W40|Q90W40_SCOJP Myosin light chain 3 OS=Scomber japonicus OX=13676 GN=mlc3 PE=2 SV=1
+sp|P59747|PRVB_SCOJP	2	Y	sp|P59747|PRVB_SCOJP Parvalbumin beta OS=Scomber japonicus OX=13676 PE=1 SV=2
+tr|A0A0M4ASV3|A0A0M4ASV3_SCOJP	3	Y	tr|A0A0M4ASV3|A0A0M4ASV3_SCOJP Myh6 (Fragment) OS=Scomber japonicus OX=13676 GN=myh6 PE=2 SV=1
+sp|Q9DGI9|MYG_SCOJP	2	Y	sp|Q9DGI9|MYG_SCOJP Myoglobin OS=Scomber japonicus OX=13676 GN=mb PE=2 SV=3
+tr|Q56AW1|Q56AW1_SCOJP	1	Y	tr|Q56AW1|Q56AW1_SCOJP Cytochrome c oxidase subunit 2 (Fragment) OS=Scomber japonicus OX=13676 GN=COXII PE=3 SV=1
+tr|A0A0M4AY70|A0A0M4AY70_SCOJP	1	Y	tr|A0A0M4AY70|A0A0M4AY70_SCOJP Tmo4c4 (Fragment) OS=Scomber japonicus OX=13676 GN=mot4c4 PE=2 SV=1
+tr|G9I591|G9I591_SCOJP	1	Y	tr|G9I591|G9I591_SCOJP Parvalbumin OS=Scomber japonicus OX=13676 PE=2 SV=1

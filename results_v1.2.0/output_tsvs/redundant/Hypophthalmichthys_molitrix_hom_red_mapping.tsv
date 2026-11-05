@@ -1,0 +1,30 @@
+cluster_id	seq_id	db_type	taxid	is_favoured	source_type	source_detail	cluster_size	title
+0	tr|A8R0Q4|A8R0Q4_HYPMO	tr	13095	Y	native		1	tr|A8R0Q4|A8R0Q4_HYPMO tr|A8R0Q4|A8R0Q4_HYPMO Myosin heavy chain fast skeletal type 2 OS=Hypophthalmichthys molitrix OX=13095 GN=MYH scfast2 PE=2 SV=1
+1	tr|A8R0Q2|A8R0Q2_HYPMO	tr	13095	Y	native		1	tr|A8R0Q2|A8R0Q2_HYPMO tr|A8R0Q2|A8R0Q2_HYPMO Myosin heavy chain fast skeletal type 1 OS=Hypophthalmichthys molitrix OX=13095 GN=MYH scfast1 PE=2 SV=1
+2	tr|A8R0Q7|A8R0Q7_HYPMO	tr	13095	Y	native		1	tr|A8R0Q7|A8R0Q7_HYPMO tr|A8R0Q7|A8R0Q7_HYPMO Myosin heavy chain fast skeletal type 3 OS=Hypophthalmichthys molitrix OX=13095 GN=MYH scfast3 PE=2 SV=1
+3	tr|A0A077B3P8|A0A077B3P8_HYPMO	tr	13095	Y	native		1	tr|A0A077B3P8|A0A077B3P8_HYPMO tr|A0A077B3P8|A0A077B3P8_HYPMO Collagen type I alpha 1 OS=Hypophthalmichthys molitrix OX=13095 GN=COL1A1 PE=2 SV=1
+4	tr|A0A2H4ZEX8|A0A2H4ZEX8_HYPMO	tr	13095	Y	native		1	tr|A0A2H4ZEX8|A0A2H4ZEX8_HYPMO tr|A0A2H4ZEX8|A0A2H4ZEX8_HYPMO Collagen type I alpha 2 OS=Hypophthalmichthys molitrix OX=13095 GN=COLlA2 PE=2 SV=1
+5	tr|D0ETJ2|D0ETJ2_HYPMO	tr	13095	Y	native		1	tr|D0ETJ2|D0ETJ2_HYPMO tr|D0ETJ2|D0ETJ2_HYPMO Myosin low-temperature type S1 heavy chain (Fragment) OS=Hypophthalmichthys molitrix OX=13095 PE=2 SV=1
+6	tr|D0ETJ3|D0ETJ3_HYPMO	tr	13095	Y	native		1	tr|D0ETJ3|D0ETJ3_HYPMO tr|D0ETJ3|D0ETJ3_HYPMO Myosin high-temperature type S1 heavy chain (Fragment) OS=Hypophthalmichthys molitrix OX=13095 PE=2 SV=1
+7	tr|D6R735|D6R735_HYPMO	tr	13095	Y	native		1	tr|D6R735|D6R735_HYPMO tr|D6R735|D6R735_HYPMO Serotransferrin OS=Hypophthalmichthys molitrix OX=13095 PE=2 SV=1
+8	tr|E2IU44|E2IU44_HYPMO	tr	13095	Y	native		1	tr|E2IU44|E2IU44_HYPMO tr|E2IU44|E2IU44_HYPMO Serotransferrin OS=Hypophthalmichthys molitrix OX=13095 PE=2 SV=1
+9	tr|F4ZQR5|F4ZQR5_HYPMO	tr	13095	Y	native		1	tr|F4ZQR5|F4ZQR5_HYPMO tr|F4ZQR5|F4ZQR5_HYPMO Low-temperature type light meromyosin (Fragment) OS=Hypophthalmichthys molitrix OX=13095 PE=2 SV=1
+10	tr|A0A0F6N0R1|A0A0F6N0R1_HYPMO	tr	13095	Y	native		1	tr|A0A0F6N0R1|A0A0F6N0R1_HYPMO tr|A0A0F6N0R1|A0A0F6N0R1_HYPMO ATP synthase subunit beta OS=Hypophthalmichthys molitrix OX=13095 PE=2 SV=1
+11	tr|S4U1R3|S4U1R3_HYPMO	tr	13095	Y	native		1	tr|S4U1R3|S4U1R3_HYPMO tr|S4U1R3|S4U1R3_HYPMO Actin alpha 1b OS=Hypophthalmichthys molitrix OX=13095 PE=2 SV=1
+12	tr|Q9DF40|Q9DF40_HYPMO	tr	13095	Y	native		1	tr|Q9DF40|Q9DF40_HYPMO tr|Q9DF40|Q9DF40_HYPMO Beta-actin OS=Hypophthalmichthys molitrix OX=13095 PE=3 SV=1
+13	tr|A1E2C6|A1E2C6_HYPMO	tr	13095	Y	native		1	tr|A1E2C6|A1E2C6_HYPMO tr|A1E2C6|A1E2C6_HYPMO Dicarboxylate carrier UCP2 OS=Hypophthalmichthys molitrix OX=13095 PE=2 SV=1
+14	tr|H9C506|H9C506_HYPMO	tr	13095	Y	native		1	tr|H9C506|H9C506_HYPMO tr|H9C506|H9C506_HYPMO Cytochrome c oxidase subunit 2 OS=Hypophthalmichthys molitrix OX=13095 GN=COX2 PE=3 SV=1
+15	tr|A0A075XE56|A0A075XE56_HYPMO	tr	13095	Y	native		1	tr|A0A075XE56|A0A075XE56_HYPMO tr|A0A075XE56|A0A075XE56_HYPMO Cytochrome c oxidase subunit 2 OS=Hypophthalmichthys molitrix OX=13095 GN=COX2 PE=3 SV=1
+16	tr|A0A075X887|A0A075X887_HYPMO	tr	13095	Y	native		1	tr|A0A075X887|A0A075X887_HYPMO tr|A0A075X887|A0A075X887_HYPMO Cytochrome c oxidase subunit 2 OS=Hypophthalmichthys molitrix OX=13095 GN=COX2 PE=3 SV=1
+17	tr|A0A075X8S1|A0A075X8S1_HYPMO	tr	13095	Y	native		1	tr|A0A075X8S1|A0A075X8S1_HYPMO tr|A0A075X8S1|A0A075X8S1_HYPMO Cytochrome c oxidase subunit 2 (Fragment) OS=Hypophthalmichthys molitrix OX=13095 GN=COX2 PE=3 SV=1
+18	tr|D6R704|D6R704_HYPMO	tr	13095	Y	native		1	tr|D6R704|D6R704_HYPMO tr|D6R704|D6R704_HYPMO fructose-bisphosphate aldolase (Fragment) OS=Hypophthalmichthys molitrix OX=13095 PE=2 SV=1
+19	tr|D6R731|D6R731_HYPMO	tr	13095	Y	native		1	tr|D6R731|D6R731_HYPMO tr|D6R731|D6R731_HYPMO Hemoglobin beta chain OS=Hypophthalmichthys molitrix OX=13095 PE=2 SV=1
+20	tr|A8R0R0|A8R0R0_HYPMO	tr	13095	Y	native		1	tr|A8R0R0|A8R0R0_HYPMO tr|A8R0R0|A8R0R0_HYPMO Myosin heavy chain fast skeletal type 4 (Fragment) OS=Hypophthalmichthys molitrix OX=13095 GN=MYH scfast4 PE=2 SV=1
+21	tr|A8R0R2|A8R0R2_HYPMO	tr	13095	Y	native		1	tr|A8R0R2|A8R0R2_HYPMO tr|A8R0R2|A8R0R2_HYPMO Myosin heavy chain fast skeletal type 5 (Fragment) OS=Hypophthalmichthys molitrix OX=13095 GN=MYH scfast5 PE=2 SV=1
+22	tr|U3MGD8|U3MGD8_HYPMO	tr	13095	Y	native		1	tr|U3MGD8|U3MGD8_HYPMO tr|U3MGD8|U3MGD8_HYPMO Cystatin (Fragment) OS=Hypophthalmichthys molitrix OX=13095 PE=2 SV=1
+23	tr|B6UV98|B6UV98_HYPMO	tr	13095	Y	native		1	tr|B6UV98|B6UV98_HYPMO tr|B6UV98|B6UV98_HYPMO Parvalbumin OS=Hypophthalmichthys molitrix OX=13095 PE=2 SV=1
+24	tr|R9R015|R9R015_HYPMO	tr	13095	Y	native		1	tr|R9R015|R9R015_HYPMO tr|R9R015|R9R015_HYPMO Parvalbumin OS=Hypophthalmichthys molitrix OX=13095 PE=2 SV=1
+25	tr|B6UV97|B6UV97_HYPMO	tr	13095	Y	native		1	tr|B6UV97|B6UV97_HYPMO tr|B6UV97|B6UV97_HYPMO Parvalbumin OS=Hypophthalmichthys molitrix OX=13095 PE=2 SV=1
+26	tr|I6SN93|I6SN93_HYPMO	tr	13095	Y	native		1	tr|I6SN93|I6SN93_HYPMO tr|I6SN93|I6SN93_HYPMO Alpha-actin (Fragment) OS=Hypophthalmichthys molitrix OX=13095 PE=2 SV=1
+27	tr|I3V645|I3V645_HYPMO	tr	13095	Y	native		1	tr|I3V645|I3V645_HYPMO tr|I3V645|I3V645_HYPMO glyceraldehyde-3-phosphate dehydrogenase (phosphorylating) (Fragment) OS=Hypophthalmichthys molitrix OX=13095 PE=2 SV=1
+28	tr|A7DZC5|A7DZC5_HYPMO	tr	13095	Y	native		1	tr|A7DZC5|A7DZC5_HYPMO tr|A7DZC5|A7DZC5_HYPMO Complement component C3 (Fragment) OS=Hypophthalmichthys molitrix OX=13095 GN=C3 PE=2 SV=1

@@ -1,0 +1,55 @@
+cluster_id	seq_id	db_type	taxid	is_favoured	source_type	source_detail	cluster_size	title
+0	sp|P38414|LOX1_LENCU	sp	3864	Y	native		1	sp|P38414|LOX1_LENCU sp|P38414|LOX1_LENCU Linoleate 9S-lipoxygenase OS=Lens culinaris OX=3864 GN=LOX1.1 PE=2 SV=1
+1	tr|A0A4D6Q4M7|A0A4D6Q4M7_LENCU	tr	3864	Y	native		1	tr|A0A4D6Q4M7|A0A4D6Q4M7_LENCU tr|A0A4D6Q4M7|A0A4D6Q4M7_LENCU Receptor-like serine/threonine-protein kinase OS=Lens culinaris OX=3864 PE=2 SV=1
+2	tr|Q70WI0|Q70WI0_LENCU	tr	3864	Y	native		1	tr|Q70WI0|Q70WI0_LENCU tr|Q70WI0|Q70WI0_LENCU ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase (Fragment) OS=Lens culinaris OX=3864 GN=rga PE=4 SV=1
+3	tr|A0A088LHV2|A0A088LHV2_LENCU	tr	3864	Y	native		1	tr|A0A088LHV2|A0A088LHV2_LENCU tr|A0A088LHV2|A0A088LHV2_LENCU Beta-amyrin 24-hydroxylase CYP93E7 OS=Lens culinaris OX=3864 PE=2 SV=1
+4	tr|Q9M6D1|Q9M6D1_LENCU	tr	3864	Y	native		1	tr|Q9M6D1|Q9M6D1_LENCU tr|Q9M6D1|Q9M6D1_LENCU Isoflavone synthase 1 (Fragment) OS=Lens culinaris OX=3864 GN=ifs1 PE=2 SV=1
+5	tr|Q9M6D0|Q9M6D0_LENCU	tr	3864	Y	native		1	tr|Q9M6D0|Q9M6D0_LENCU tr|Q9M6D0|Q9M6D0_LENCU Isoflavone synthase 2 (Fragment) OS=Lens culinaris OX=3864 GN=ifs2 PE=2 SV=1
+6	tr|A0A4D6Q3X5|A0A4D6Q3X5_LENCU	tr	3864	Y	native		1	tr|A0A4D6Q3X5|A0A4D6Q3X5_LENCU tr|A0A4D6Q3X5|A0A4D6Q3X5_LENCU Aspartyl protease AED3-like protein OS=Lens culinaris OX=3864 PE=2 SV=1
+7	tr|Q84UI1|Q84UI1_LENCU	tr	3864	Y	keyword	vicilin,globulin	1	tr|Q84UI1|Q84UI1_LENCU tr|Q84UI1|Q84UI1_LENCU Allergen Len c 1.0101 (Fragment) OS=Lens culinaris OX=3864 PE=1 SV=1 [KEYWORD:vicilin,globulin]
+8	tr|Q84UI0|Q84UI0_LENCU	tr	3864	Y	keyword	vicilin	1	tr|Q84UI0|Q84UI0_LENCU tr|Q84UI0|Q84UI0_LENCU Allergen Len c 1.0102 (Fragment) OS=Lens culinaris OX=3864 PE=2 SV=1 [KEYWORD:vicilin]
+9	tr|A0A650DLL3|A0A650DLL3_LENCC	tr	362247	N	native		1	tr|A0A650DLL3|A0A650DLL3_LENCC tr|A0A650DLL3|A0A650DLL3_LENCC Dehydration responsive element binding protein OS=Lens culinaris subsp. culinaris OX=362247 GN=DREB2A PE=2 SV=1
+10	tr|A0A385MIS4|A0A385MIS4_LENCC	tr	362247	N	native		1	tr|A0A385MIS4|A0A385MIS4_LENCC tr|A0A385MIS4|A0A385MIS4_LENCC Oxophytodienoic acid reductase OS=Lens culinaris subsp. culinaris OX=362247 PE=2 SV=1
+11	tr|K4L9M6|K4L9M6_LENCU	tr	3864	Y	native		1	tr|K4L9M6|K4L9M6_LENCU tr|K4L9M6|K4L9M6_LENCU glucan endo-1,3-beta-D-glucosidase OS=Lens culinaris OX=3864 PE=2 SV=1
+12	tr|Q9AT19|Q9AT19_LENCU	tr	3864	Y	native		1	tr|Q9AT19|Q9AT19_LENCU tr|Q9AT19|Q9AT19_LENCU Histone H1 (Fragment) OS=Lens culinaris OX=3864 GN=His1 PE=3 SV=1
+13	tr|Q9AT18|Q9AT18_LENCU	tr	3864	Y	native		1	tr|Q9AT18|Q9AT18_LENCU tr|Q9AT18|Q9AT18_LENCU Histone H1 (Fragment) OS=Lens culinaris OX=3864 GN=His1 PE=3 SV=1
+14	tr|Q9AT20|Q9AT20_LENCU	tr	3864	Y	native		1	tr|Q9AT20|Q9AT20_LENCU tr|Q9AT20|Q9AT20_LENCU Histone H1 (Fragment) OS=Lens culinaris OX=3864 GN=His1 PE=3 SV=1
+15	tr|Q70WJ7|Q70WJ7_LENCU	tr	3864	Y	native		1	tr|Q70WJ7|Q70WJ7_LENCU tr|Q70WJ7|Q70WJ7_LENCU Putative resistance gene analogue protein (Fragment) OS=Lens culinaris OX=3864 GN=rga PE=4 SV=1
+16	sp|Q93WH6|LEC_LENCC	sp	362247	N	native		1	sp|Q93WH6|LEC_LENCC sp|Q93WH6|LEC_LENCC Lectin OS=Lens culinaris subsp. culinaris OX=362247 PE=3 SV=2
+17	tr|Q93X41|Q93X41_LENCU	tr	129390	N	native		1	tr|Q93X41|Q93X41_LENCU tr|Q93X41|Q93X41_LENCU Lectin OS=Lens culinaris subsp. odemensis OX=129390 GN=lectin PE=3 SV=2
+18	sp|Q93X49|LEC_VICOR	sp	129392	N	native		1	sp|Q93X49|LEC_VICOR sp|Q93X49|LEC_VICOR Lectin OS=Vicia orientalis OX=129392 PE=3 SV=2
+19	sp|P02870|LEC_LENCU	sp	3864	Y	native		1	sp|P02870|LEC_LENCU sp|P02870|LEC_LENCU Lectin OS=Lens culinaris OX=3864 PE=1 SV=2
+20	sp|Q8VXF2|LEC_LENCT	sp	175770	N	native		1	sp|Q8VXF2|LEC_LENCT sp|Q8VXF2|LEC_LENCT Lectin OS=Lens culinaris subsp. tomentosus OX=175770 PE=3 SV=2
+21	tr|Q70WJ8|Q70WJ8_LENCU	tr	3864	Y	native		1	tr|Q70WJ8|Q70WJ8_LENCU tr|Q70WJ8|Q70WJ8_LENCU Putative resistance gene analogue protein (Fragment) OS=Lens culinaris OX=3864 GN=rga PE=4 SV=1
+22	tr|Q70WJ2|Q70WJ2_LENCU	tr	3864	Y	native		1	tr|Q70WJ2|Q70WJ2_LENCU tr|Q70WJ2|Q70WJ2_LENCU Putative resistance gene analogue protein (Fragment) OS=Lens culinaris OX=3864 GN=rga PE=4 SV=1
+23	tr|Q70WJ4|Q70WJ4_LENCU	tr	3864	Y	native		1	tr|Q70WJ4|Q70WJ4_LENCU tr|Q70WJ4|Q70WJ4_LENCU Putative resistance gene analogue protein (Fragment) OS=Lens culinaris OX=3864 GN=rga PE=4 SV=1
+24	tr|Q70WJ0|Q70WJ0_LENCU	tr	3864	Y	native		1	tr|Q70WJ0|Q70WJ0_LENCU tr|Q70WJ0|Q70WJ0_LENCU Putative resistance gene analogue protein (Fragment) OS=Lens culinaris OX=3864 GN=rga PE=4 SV=1
+25	tr|Q70WJ1|Q70WJ1_LENCU	tr	3864	Y	native		1	tr|Q70WJ1|Q70WJ1_LENCU tr|Q70WJ1|Q70WJ1_LENCU Putative resistance gene analogue protein (Fragment) OS=Lens culinaris OX=3864 GN=rga PE=4 SV=1
+26	tr|A0A345S7Y0|A0A345S7Y0_LENCC	tr	362247	N	native		1	tr|A0A345S7Y0|A0A345S7Y0_LENCC tr|A0A345S7Y0|A0A345S7Y0_LENCC NAD(P)H oxidase OS=Lens culinaris subsp. culinaris OX=362247 PE=2 SV=1
+27	tr|A0A5C0PBL8|A0A5C0PBL8_LENCC	tr	362247	N	native		1	tr|A0A5C0PBL8|A0A5C0PBL8_LENCC tr|A0A5C0PBL8|A0A5C0PBL8_LENCC Superoxide dismutase OS=Lens culinaris subsp. culinaris OX=362247 PE=2 SV=1
+28	tr|Q0Z8W9|Q0Z8W9_LENCU	tr	3864	Y	native		1	tr|Q0Z8W9|Q0Z8W9_LENCU tr|Q0Z8W9|Q0Z8W9_LENCU Lectin (Fragment) OS=Lens culinaris OX=3864 PE=2 SV=1
+29	tr|Q70WK3|Q70WK3_LENCU	tr	3864	Y	native		1	tr|Q70WK3|Q70WK3_LENCU tr|Q70WK3|Q70WK3_LENCU Putative resistance gene analogue protein (Fragment) OS=Lens culinaris OX=3864 GN=rga PE=4 SV=1
+30	tr|Q70WK4|Q70WK4_LENCU	tr	3864	Y	native		1	tr|Q70WK4|Q70WK4_LENCU tr|Q70WK4|Q70WK4_LENCU Putative resistance gene analogue protein (Fragment) OS=Lens culinaris OX=3864 GN=rga PE=4 SV=1
+31	tr|A0A5C0PDD4|A0A5C0PDD4_LENCU	tr	3864	Y	native		1	tr|A0A5C0PDD4|A0A5C0PDD4_LENCU tr|A0A5C0PDD4|A0A5C0PDD4_LENCU Superoxide dismutase [Cu-Zn] OS=Lens culinaris OX=3864 PE=2 SV=1
+32	tr|A0A218NL02|A0A218NL02_LENCU	tr	3864	Y	native		1	tr|A0A218NL02|A0A218NL02_LENCU tr|A0A218NL02|A0A218NL02_LENCU L-ascorbate peroxidase (Fragment) OS=Lens culinaris OX=3864 PE=2 SV=1
+33	tr|Q70WK6|Q70WK6_LENCU	tr	3864	Y	native		1	tr|Q70WK6|Q70WK6_LENCU tr|Q70WK6|Q70WK6_LENCU Putative resistance gene analogue protein (Fragment) OS=Lens culinaris OX=3864 GN=rga PE=4 SV=1
+34	tr|Q70WL1|Q70WL1_LENCU	tr	3864	Y	native		1	tr|Q70WL1|Q70WL1_LENCU tr|Q70WL1|Q70WL1_LENCU Putative resistance gene analogue protein (Fragment) OS=Lens culinaris OX=3864 GN=rga PE=4 SV=1
+35	tr|Q70WI3|Q70WI3_LENCU	tr	129390	N	native		1	tr|Q70WI3|Q70WI3_LENCU tr|Q70WI3|Q70WI3_LENCU Putative resistance gene analogue protein (Fragment) OS=Lens culinaris subsp. odemensis OX=129390 GN=rga PE=4 SV=1
+36	tr|B0BCI7|B0BCI7_LENCT	tr	175770	N	native		2	tr|B0BCI7|B0BCI7_LENCT tr|B0BCI7|B0BCI7_LENCT Convicilin (Fragment) OS=Lens culinaris subsp. tomentosus OX=175770 GN=cvc PE=4 SV=1
+37	tr|B0BCI5|B0BCI5_VICOR	tr	129392	N	native		1	tr|B0BCI5|B0BCI5_VICOR tr|B0BCI5|B0BCI5_VICOR Convicilin (Fragment) OS=Vicia orientalis OX=129392 GN=cvc PE=4 SV=1
+38	tr|K4LMW7|K4LMW7_LENCU	tr	3864	Y	native		1	tr|K4LMW7|K4LMW7_LENCU tr|K4LMW7|K4LMW7_LENCU Pathogenesis-related protein 10b OS=Lens culinaris OX=3864 GN=PR-10b PE=2 SV=1
+39	tr|K4LBQ3|K4LBQ3_LENCU	tr	3864	Y	native		1	tr|K4LBQ3|K4LBQ3_LENCU tr|K4LBQ3|K4LBQ3_LENCU Pathogenesis-related protein 10a OS=Lens culinaris OX=3864 GN=PR-10a PE=2 SV=1
+40	tr|A0A4D6Q4Q6|A0A4D6Q4Q6_LENCU	tr	3864	Y	native		1	tr|A0A4D6Q4Q6|A0A4D6Q4Q6_LENCU tr|A0A4D6Q4Q6|A0A4D6Q4Q6_LENCU NAD(P)H oxidase (Fragment) OS=Lens culinaris OX=3864 PE=2 SV=1
+41	sp|A0AT29|NLTP2_LENCU	sp	3864	Y	keyword	albumin	1	sp|A0AT29|NLTP2_LENCU sp|A0AT29|NLTP2_LENCU Non-specific lipid-transfer protein 2 OS=Lens culinaris OX=3864 PE=1 SV=1 [KEYWORD:albumin]
+42	sp|A0AT28|NLTP1_LENCU	sp	3864	Y	keyword	albumin	1	sp|A0AT28|NLTP1_LENCU sp|A0AT28|NLTP1_LENCU Non-specific lipid-transfer protein 1 OS=Lens culinaris OX=3864 PE=3 SV=1 [KEYWORD:albumin]
+43	sp|A0AT32|NLTP6_LENCU	sp	3864	Y	keyword	albumin	1	sp|A0AT32|NLTP6_LENCU sp|A0AT32|NLTP6_LENCU Non-specific lipid-transfer protein 6 OS=Lens culinaris OX=3864 PE=1 SV=1 [KEYWORD:albumin]
+44	sp|A0AT30|NLTP3_LENCU	sp	3864	Y	keyword	albumin	1	sp|A0AT30|NLTP3_LENCU sp|A0AT30|NLTP3_LENCU Non-specific lipid-transfer protein 3 OS=Lens culinaris OX=3864 PE=3 SV=1 [KEYWORD:albumin]
+45	sp|A0AT31|NLTP5_LENCU	sp	3864	Y	keyword	albumin	1	sp|A0AT31|NLTP5_LENCU sp|A0AT31|NLTP5_LENCU Non-specific lipid-transfer protein 5 OS=Lens culinaris OX=3864 PE=3 SV=1 [KEYWORD:albumin]
+46	sp|A0AT33|NLTP4_LENCU	sp	3864	Y	keyword	albumin	1	sp|A0AT33|NLTP4_LENCU sp|A0AT33|NLTP4_LENCU Non-specific lipid-transfer protein 4 (Fragment) OS=Lens culinaris OX=3864 PE=1 SV=1 [KEYWORD:albumin]
+47	tr|A0A343KJC1|A0A343KJC1_LENCU	tr	3864	Y	native		1	tr|A0A343KJC1|A0A343KJC1_LENCU tr|A0A343KJC1|A0A343KJC1_LENCU Defensin 4 OS=Lens culinaris OX=3864 PE=2 SV=1
+48	tr|A0A343KJC0|A0A343KJC0_LENCU	tr	3864	Y	native		1	tr|A0A343KJC0|A0A343KJC0_LENCU tr|A0A343KJC0|A0A343KJC0_LENCU Defensin 3 OS=Lens culinaris OX=3864 PE=2 SV=1
+49	tr|A0A343KJC3|A0A343KJC3_LENCU	tr	3864	Y	native		1	tr|A0A343KJC3|A0A343KJC3_LENCU tr|A0A343KJC3|A0A343KJC3_LENCU Defensin 6 OS=Lens culinaris OX=3864 PE=2 SV=1
+50	tr|A0A343KJC2|A0A343KJC2_LENCU	tr	3864	Y	native		1	tr|A0A343KJC2|A0A343KJC2_LENCU tr|A0A343KJC2|A0A343KJC2_LENCU Defensin 5 OS=Lens culinaris OX=3864 PE=2 SV=1
+51	sp|B3F051|DEF_LENCC	sp	362247	N	native		2	sp|B3F051|DEF_LENCC sp|B3F051|DEF_LENCC Defensin Lc-def OS=Lens culinaris subsp. culinaris OX=362247 PE=1 SV=1
+52	tr|A0A343KJB8|A0A343KJB8_LENCU	tr	3864	Y	native		1	tr|A0A343KJB8|A0A343KJB8_LENCU tr|A0A343KJB8|A0A343KJB8_LENCU Defensin 1 OS=Lens culinaris OX=3864 PE=2 SV=1
+53	sp|P86782|ALB2_LENCU	sp	3864	Y	keyword	albumin,keyword:KW-0708	1	sp|P86782|ALB2_LENCU sp|P86782|ALB2_LENCU Albumin-2 (Fragment) OS=Lens culinaris OX=3864 PE=1 SV=1 [KEYWORD:albumin,keyword:KW-0708]

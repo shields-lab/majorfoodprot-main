@@ -1,0 +1,3 @@
+sp|P06732|KCRM_HUMAN	sp|P06732|KCRM_HUMAN Creatine kinase M-type OS=Homo sapiens OX=9606 GN=CKM PE=1 SV=2	tr|Q8MWR8|Q8MWR8_ENSDI	tr|Q8MWR8|Q8MWR8_ENSDI Creatine kinase OS=Ensis directus OX=58666 PE=2 SV=1	5.34e-68	217	38.2
+sp|P17540|KCRS_HUMAN	sp|P17540|KCRS_HUMAN Creatine kinase S-type, mitochondrial OS=Homo sapiens OX=9606 GN=CKMT2 PE=1 SV=2	tr|Q8MWR8|Q8MWR8_ENSDI	tr|Q8MWR8|Q8MWR8_ENSDI Creatine kinase OS=Ensis directus OX=58666 PE=2 SV=1	8.08e-73	231	37.9
+sp|Q004B5|KARG0_PENVA	sp|Q004B5|KARG0_PENVA Arginine kinase Lit v 2.0101 OS=Penaeus vannamei OX=6689 PE=1 SV=1	tr|Q8MWR8|Q8MWR8_ENSDI	tr|Q8MWR8|Q8MWR8_ENSDI Creatine kinase OS=Ensis directus OX=58666 PE=2 SV=1	1.35e-119	351	51.6

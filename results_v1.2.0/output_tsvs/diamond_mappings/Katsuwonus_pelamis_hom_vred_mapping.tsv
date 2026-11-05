@@ -1,0 +1,7 @@
+sseqid	count	has_sequence	stitle
+tr|Q9IB36|Q9IB36_KATPE	4	Y	tr|Q9IB36|Q9IB36_KATPE Myosin light chain 1 OS=Katsuwonus pelamis OX=8226 GN=mlc1 PE=2 SV=1
+tr|Q9IB35|Q9IB35_KATPE	4	Y	tr|Q9IB35|Q9IB35_KATPE Myosin light chain 3 OS=Katsuwonus pelamis OX=8226 GN=mlc3 PE=2 SV=1
+tr|Q9IB34|Q9IB34_KATPE	5	Y	tr|Q9IB34|Q9IB34_KATPE Myosin light chain 2 OS=Katsuwonus pelamis OX=8226 GN=mlc2 PE=2 SV=1
+tr|A9ZTF1|A9ZTF1_KATPE	2	Y	tr|A9ZTF1|A9ZTF1_KATPE Parvalbumin OS=Katsuwonus pelamis OX=8226 GN=Kat p 1 PE=2 SV=1
+sp|Q9DGI8|MYG_KATPE	4	Y	sp|Q9DGI8|MYG_KATPE Myoglobin OS=Katsuwonus pelamis OX=8226 GN=mb PE=2 SV=3
+tr|Q76HI3|Q76HI3_KATPE	1	Y	tr|Q76HI3|Q76HI3_KATPE Cytochrome c oxidase subunit 2 OS=Katsuwonus pelamis OX=8226 GN=COII PE=3 SV=1

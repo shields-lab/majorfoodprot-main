@@ -53,3 +53,11 @@ nohup.out
 # duplicate legacy FASTAs (only Homo_sapiens.fa is referenced by the input TSV)
 releases/*/query_fasta_files/Homo_sapiens.fasta
 releases/*/query_fasta_files/Homo_sapiens_proteome.fasta
+
+# Local pipeline intermediates for database v1.2.0
+/results_v1.2.0/homologs/
+/results_v1.2.0/orthologs/
+/results_v1.2.0/proteomes/
+/results_v1.2.0/subproteomes/
+/results_v1.2.0/uniprot_records/
+.DS_Store

@@ -1,0 +1,224 @@
+2026-10-25T16:25:22+00:00	Bos taurus	9913	proteomes/Bos_taurus_fasta.gz	DOWNLOADED	103918 sequences
+2026-10-25T16:25:29+00:00	Bubalus bubalis	89462	proteomes/Bubalus_bubalis_fasta.gz	DOWNLOADED	1294 sequences
+2026-10-25T16:27:44+00:00	Camelus dromedarius	9838	proteomes/Camelus_dromedarius_fasta.gz	DOWNLOADED	31354 sequences
+2026-10-25T16:31:29+00:00	Gallus gallus	9031	proteomes/Gallus_gallus_fasta.gz	DOWNLOADED	50735 sequences
+2026-10-25T16:33:27+00:00	Anas platyrhynchos platyrhynchos	8840	proteomes/Anas_platyrhynchos_platyrhynchos_fasta.gz	DOWNLOADED	27056 sequences
+2026-10-25T16:35:58+00:00	Meleagris gallopavo	9103	proteomes/Meleagris_gallopavo_fasta.gz	DOWNLOADED	28719 sequences
+2026-10-25T16:38:35+00:00	Capra hircus	9925	proteomes/Capra_hircus_fasta.gz	DOWNLOADED	34359 sequences
+2026-10-25T16:42:04+00:00	Sus scrofa	9823	proteomes/Sus_scrofa_fasta.gz	DOWNLOADED	53817 sequences
+2026-10-25T16:46:12+00:00	Ovis aries	9940	proteomes/Ovis_aries_fasta.gz	DOWNLOADED	69486 sequences
+2026-10-25T16:46:13+00:00	Bos taurus	9913	proteomes/Bos_taurus_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T16:46:13+00:00	Bubalus bubalis	89462	proteomes/Bubalus_bubalis_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T16:46:13+00:00	Ovis aries	9940	proteomes/Ovis_aries_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T16:46:13+00:00	Capra hircus	9925	proteomes/Capra_hircus_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T16:46:13+00:00	Camelus dromedarius	9838	proteomes/Camelus_dromedarius_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T16:46:13+00:00	Gallus gallus	9031	proteomes/Gallus_gallus_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T16:46:13+00:00	Anas platyrhynchos platyrhynchos	8840	proteomes/Anas_platyrhynchos_platyrhynchos_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T16:46:14+00:00	Engraulis ringens	217494	proteomes/Engraulis_ringens_fasta.gz	DOWNLOADED	2 sequences
+2026-10-25T16:46:16+00:00	Gadus chalcogrammus	1042646	proteomes/Gadus_chalcogrammus_fasta.gz	DOWNLOADED	99 sequences
+2026-10-25T16:46:18+00:00	Katsuwonus pelamis	8226	proteomes/Katsuwonus_pelamis_fasta.gz	DOWNLOADED	18 sequences
+2026-10-25T16:49:16+00:00	Clupea harengus	7950	proteomes/Clupea_harengus_fasta.gz	DOWNLOADED	40795 sequences
+2026-10-25T16:49:18+00:00	Micromesistius poutassou	81636	proteomes/Micromesistius_poutassou_fasta.gz	DOWNLOADED	17 sequences
+2026-10-25T16:49:20+00:00	Sardina pilchardus	27697	proteomes/Sardina_pilchardus_fasta.gz	DOWNLOADED	19 sequences
+2026-10-25T16:49:23+00:00	Scomber japonicus	13676	proteomes/Scomber_japonicus_fasta.gz	DOWNLOADED	63 sequences
+2026-10-25T16:49:25+00:00	Sardinops sagax	28381	proteomes/Sardinops_sagax_fasta.gz	DOWNLOADED	3 sequences
+2026-10-25T16:49:27+00:00	Thunnus albacares	8236	proteomes/Thunnus_albacares_fasta.gz	DOWNLOADED	82 sequences
+2026-10-25T16:56:18+00:00	Gadus morhua	8049	proteomes/Gadus_morhua_fasta.gz	DOWNLOADED	97030 sequences
+2026-10-25T16:56:20+00:00	Trichiurus lepturus	13733	proteomes/Trichiurus_lepturus_fasta.gz	DOWNLOADED	29 sequences
+2026-10-25T16:58:46+00:00	Scomber scombrus	13677	proteomes/Scomber_scombrus_fasta.gz	DOWNLOADED	35492 sequences
+2026-10-25T16:58:48+00:00	Trachurus murphyi	192602	proteomes/Trachurus_murphyi_fasta.gz	DOWNLOADED	1 sequences
+2026-10-25T16:58:56+00:00	Ctenopharyngodon idella	7959	proteomes/Ctenopharyngodon_idella_fasta.gz	DOWNLOADED	1757 sequences
+2026-10-25T16:58:59+00:00	Hypophthalmichthys molitrix	13095	proteomes/Hypophthalmichthys_molitrix_fasta.gz	DOWNLOADED	244 sequences
+2026-10-25T17:03:56+00:00	Oreochromis niloticus	8128	proteomes/Oreochromis_niloticus_fasta.gz	DOWNLOADED	75829 sequences
+2026-10-25T17:21:42+00:00	Cyprinus carpio	7962	proteomes/Cyprinus_carpio_fasta.gz	DOWNLOADED	264508 sequences
+2026-10-25T17:21:44+00:00	Labeo catla	72446	proteomes/Labeo_catla_fasta.gz	DOWNLOADED	133 sequences
+2026-10-25T17:27:03+00:00	Salmo salar	8030	proteomes/Salmo_salar_fasta.gz	DOWNLOADED	90196 sequences
+2026-10-25T17:30:04+00:00	Ictalurus punctatus	7998	proteomes/Ictalurus_punctatus_fasta.gz	DOWNLOADED	50302 sequences
+2026-10-25T17:30:09+00:00	Ictalurus furcatus	66913	proteomes/Ictalurus_furcatus_fasta.gz	DOWNLOADED	737 sequences
+2026-10-25T17:30:11+00:00	Clarias gariepinus	13013	proteomes/Clarias_gariepinus_fasta.gz	DOWNLOADED	155 sequences
+2026-10-25T17:30:13+00:00	Pangasius bocourti	365578	proteomes/Pangasius_bocourti_fasta.gz	DOWNLOADED	17 sequences
+2026-10-25T17:32:05+00:00	Chanos chanos	29144	proteomes/Chanos_chanos_fasta.gz	DOWNLOADED	29054 sequences
+2026-10-25T17:40:29+00:00	Oncorhynchus mykiss	8022	proteomes/Oncorhynchus_mykiss_fasta.gz	DOWNLOADED	123346 sequences
+2026-10-25T17:42:09+00:00	Penaeus vannamei	6689	proteomes/Penaeus_vannamei_fasta.gz	DOWNLOADED	26387 sequences
+2026-10-25T17:42:13+00:00	Procambarus clarkii	6728	proteomes/Procambarus_clarkii_fasta.gz	DOWNLOADED	807 sequences
+2026-10-25T17:42:15+00:00	Dosidicus gigas	346249	proteomes/Dosidicus_gigas_fasta.gz	DOWNLOADED	27 sequences
+2026-10-25T17:46:01+00:00	Magallana gigas	29159	proteomes/Magallana_gigas_fasta.gz	DOWNLOADED	58641 sequences
+2026-10-25T17:49:27+00:00	Crassostrea virginica	6565	proteomes/Crassostrea_virginica_fasta.gz	DOWNLOADED	50329 sequences
+2026-10-25T17:49:29+00:00	Magallana angulata	2784310	proteomes/Magallana_angulata_fasta.gz	DOWNLOADED	90 sequences
+2026-10-25T17:49:32+00:00	Ruditapes philippinarum	129788	proteomes/Ruditapes_philippinarum_fasta.gz	DOWNLOADED	434 sequences
+2026-10-25T17:51:17+00:00	Mizuhopecten yessoensis	6573	proteomes/Mizuhopecten_yessoensis_fasta.gz	DOWNLOADED	22710 sequences
+2026-10-25T17:51:20+00:00	Placopecten magellanicus	6577	proteomes/Placopecten_magellanicus_fasta.gz	DOWNLOADED	29 sequences
+2026-10-25T17:51:22+00:00	Argopecten purpuratus	228297	proteomes/Argopecten_purpuratus_fasta.gz	DOWNLOADED	24 sequences
+2026-10-25T17:56:24+00:00	Mytilus edulis	6550	proteomes/Mytilus_edulis_fasta.gz	DOWNLOADED	74071 sequences
+2026-10-25T18:01:24+00:00	Mytilus galloprovincialis	29158	proteomes/Mytilus_galloprovincialis_fasta.gz	DOWNLOADED	81997 sequences
+2026-10-25T18:01:25+00:00	Perna canaliculus	38949	proteomes/Perna_canaliculus_fasta.gz	DOWNLOADED	39 sequences
+2026-10-25T18:01:27+00:00	Mytilus chilensis	173667	proteomes/Mytilus_chilensis_fasta.gz	DOWNLOADED	30 sequences
+2026-10-25T18:01:29+00:00	Mytilus edulis	6550	proteomes/Mytilus_edulis_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T18:01:29+00:00	Ensis directus	58666	proteomes/Ensis_directus_fasta.gz	DOWNLOADED	6 sequences
+2026-10-25T18:01:31+00:00	Ensis arcuatus	251530	proteomes/Ensis_arcuatus_fasta.gz	DOWNLOADED	0 sequences
+2026-10-25T18:01:33+00:00	Ensis minor	6587	proteomes/Ensis_minor_fasta.gz	DOWNLOADED	4 sequences
+2026-10-25T18:01:35+00:00	Siliqua patula	798082	proteomes/Siliqua_patula_fasta.gz	DOWNLOADED	1 sequences
+2026-10-25T18:01:37+00:00	Solen strictus	194331	proteomes/Solen_strictus_fasta.gz	DOWNLOADED	17 sequences
+2026-10-25T18:03:11+00:00	Tegillarca granosa	220873	proteomes/Tegillarca_granosa_fasta.gz	DOWNLOADED	24910 sequences
+2026-10-25T18:03:13+00:00	Anadara broughtonii	148819	proteomes/Anadara_broughtonii_fasta.gz	DOWNLOADED	72 sequences
+2026-10-25T18:03:15+00:00	Mercenaria mercenaria	6596	proteomes/Mercenaria_mercenaria_fasta.gz	DOWNLOADED	22 sequences
+2026-10-25T18:12:09+00:00	Triticum aestivum	4565	proteomes/Triticum_aestivum_fasta.gz	DOWNLOADED	136850 sequences
+2026-10-25T18:22:21+00:00	Oryza sativa	4530	proteomes/Oryza_sativa_fasta.gz	DOWNLOADED	148723 sequences
+2026-10-25T18:28:33+00:00	Zea mays	4577	proteomes/Zea_mays_fasta.gz	DOWNLOADED	106164 sequences
+2026-10-25T18:37:43+00:00	Avena sativa	4498	proteomes/Avena_sativa_fasta.gz	FAILED	page 79, 39062 sequences
+2026-10-25T18:40:26+00:00	Sorghum bicolor	4558	proteomes/Sorghum_bicolor_fasta.gz	DOWNLOADED	42193 sequences
+2026-10-25T18:40:29+00:00	Cenchrus americanus	4543	proteomes/Cenchrus_americanus_fasta.gz	DOWNLOADED	235 sequences
+2026-10-25T18:43:57+00:00	Eleusine coracana	4511	proteomes/Eleusine_coracana_fasta.gz	DOWNLOADED	55412 sequences
+2026-10-25T18:43:59+00:00	Secale cereale	4550	proteomes/Secale_cereale_fasta.gz	DOWNLOADED	473 sequences
+2026-10-25T18:47:52+00:00	Hordeum vulgare	4513	proteomes/Hordeum_vulgare_fasta.gz	DOWNLOADED	60289 sequences
+2026-10-25T18:50:49+00:00	Prunus dulcis	3755	proteomes/Prunus_dulcis_fasta.gz	DOWNLOADED	45236 sequences
+2026-10-25T18:53:33+00:00	Juglans regia	51240	proteomes/Juglans_regia_fasta.gz	DOWNLOADED	38501 sequences
+2026-10-25T18:53:35+00:00	Anacardium occidentale	171929	proteomes/Anacardium_occidentale_fasta.gz	DOWNLOADED	15 sequences
+2026-10-25T18:53:37+00:00	Pistacia vera	55513	proteomes/Pistacia_vera_fasta.gz	DOWNLOADED	10 sequences
+2026-10-25T18:55:42+00:00	Corylus avellana	13451	proteomes/Corylus_avellana_fasta.gz	DOWNLOADED	31408 sequences
+2026-10-25T18:55:45+00:00	Linum usitatissimum	4006	proteomes/Linum_usitatissimum_fasta.gz	DOWNLOADED	479 sequences
+2026-10-25T18:55:47+00:00	Salvia hispanica	49212	proteomes/Salvia_hispanica_fasta.gz	DOWNLOADED	32 sequences
+2026-10-25T18:58:07+00:00	Cucurbita maxima	3661	proteomes/Cucurbita_maxima_fasta.gz	DOWNLOADED	34610 sequences
+2026-10-25T19:04:19+00:00	Helianthus annuus	4232	proteomes/Helianthus_annuus_fasta.gz	DOWNLOADED	89523 sequences
+2026-10-25T19:07:37+00:00	Papaver somniferum	3469	proteomes/Papaver_somniferum_fasta.gz	DOWNLOADED	41631 sequences
+2026-10-25T19:09:50+00:00	Sesamum indicum	4182	proteomes/Sesamum_indicum_fasta.gz	DOWNLOADED	29842 sequences
+2026-10-25T19:09:52+00:00	Sinapis alba	3728	proteomes/Sinapis_alba_fasta.gz	DOWNLOADED	155 sequences
+2026-10-25T19:19:49+00:00	Arachis hypogaea	3818	proteomes/Arachis_hypogaea_fasta.gz	DOWNLOADED	169708 sequences
+2026-10-25T19:25:21+00:00	Glycine max	3847	proteomes/Glycine_max_fasta.gz	DOWNLOADED	88078 sequences
+2026-10-25T19:29:06+00:00	Pisum sativum	3888	proteomes/Pisum_sativum_fasta.gz	DOWNLOADED	65713 sequences
+2026-10-25T19:31:10+00:00	Cicer arietinum	3827	proteomes/Cicer_arietinum_fasta.gz	DOWNLOADED	31327 sequences
+2026-10-25T19:33:33+00:00	Phaseolus vulgaris	3885	proteomes/Phaseolus_vulgaris_fasta.gz	DOWNLOADED	33144 sequences
+2026-10-25T19:33:35+00:00	Lens culinaris	3864	proteomes/Lens_culinaris_fasta.gz	DOWNLOADED	236 sequences
+2026-10-25T19:36:01+00:00	Vicia faba	3906	proteomes/Vicia_faba_fasta.gz	DOWNLOADED	36642 sequences
+2026-10-25T19:36:03+00:00	Phaseolus lunatus	3884	proteomes/Phaseolus_lunatus_fasta.gz	DOWNLOADED	75 sequences
+2026-10-25T19:38:46+00:00	Vigna unguiculata	3917	proteomes/Vigna_unguiculata_fasta.gz	DOWNLOADED	39856 sequences
+2026-10-25T19:41:24+00:00	Lupinus albus	3870	proteomes/Lupinus_albus_fasta.gz	DOWNLOADED	38108 sequences
+2026-10-25T19:43:43+00:00	Vigna radiata	157791	proteomes/Vigna_radiata_fasta.gz	DOWNLOADED	35801 sequences
+2026-10-25T19:45:15+00:00	Cajanus cajan	3821	proteomes/Cajanus_cajan_fasta.gz	DOWNLOADED	23053 sequences
+2026-10-25T19:45:17+00:00	Vigna subterranea	115715	proteomes/Vigna_subterranea_fasta.gz	DOWNLOADED	4 sequences
+2026-10-25T19:51:46+00:00	Solanum tuberosum	4113	proteomes/Solanum_tuberosum_fasta.gz	DOWNLOADED	92930 sequences
+2026-10-25T19:51:50+00:00	Ipomoea batatas	4120	proteomes/Ipomoea_batatas_fasta.gz	DOWNLOADED	894 sequences
+2026-10-25T19:55:26+00:00	Colocasia esculenta	4460	proteomes/Colocasia_esculenta_fasta.gz	DOWNLOADED	56380 sequences
+2026-10-25T19:59:18+00:00	Manihot esculenta	3983	proteomes/Manihot_esculenta_fasta.gz	DOWNLOADED	55591 sequences
+2026-10-25T19:59:20+00:00	Dioscorea cayenensis	55577	proteomes/Dioscorea_cayenensis_fasta.gz	DOWNLOADED	1 sequences
+2026-10-25T19:59:21+00:00	Manihot esculenta	3983	proteomes/Manihot_esculenta_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T20:03:08+00:00	Brassica oleracea	36774	proteomes/Brassica_oleracea_fasta.gz	DOWNLOADED	59656 sequences
+2026-10-25T20:05:26+00:00	Spinacia oleracea	3562	proteomes/Spinacia_oleracea_fasta.gz	DOWNLOADED	34481 sequences
+2026-10-25T20:08:13+00:00	Brassica rapa	93385	proteomes/Brassica_rapa_fasta.gz	DOWNLOADED	43385 sequences
+2026-10-25T20:11:12+00:00	Lactuca sativa	4236	proteomes/Lactuca_sativa_fasta.gz	DOWNLOADED	44491 sequences
+2026-10-25T20:13:55+00:00	Musa acuminata	4641	proteomes/Musa_acuminata_fasta.gz	DOWNLOADED	41349 sequences
+2026-10-25T20:16:12+00:00	Musa balbisiana	52838	proteomes/Musa_balbisiana_fasta.gz	DOWNLOADED	32271 sequences
+2026-10-25T20:16:14+00:00	Musa paradisiaca	89151	proteomes/Musa_paradisiaca_fasta.gz	DOWNLOADED	2 sequences
+2026-10-25T20:28:47+00:00	Homo sapiens	9606	proteomes/Homo_sapiens_fasta.gz	DOWNLOADED	210790 sequences
+2026-10-25T22:10:30+00:00	Bos taurus	9913	proteomes/Bos_taurus_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Bubalus bubalis	89462	proteomes/Bubalus_bubalis_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Camelus dromedarius	9838	proteomes/Camelus_dromedarius_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Gallus gallus	9031	proteomes/Gallus_gallus_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Anas platyrhynchos platyrhynchos	8840	proteomes/Anas_platyrhynchos_platyrhynchos_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Meleagris gallopavo	9103	proteomes/Meleagris_gallopavo_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Capra hircus	9925	proteomes/Capra_hircus_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Sus scrofa	9823	proteomes/Sus_scrofa_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Ovis aries	9940	proteomes/Ovis_aries_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Bos taurus	9913	proteomes/Bos_taurus_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Bubalus bubalis	89462	proteomes/Bubalus_bubalis_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Ovis aries	9940	proteomes/Ovis_aries_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Capra hircus	9925	proteomes/Capra_hircus_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Camelus dromedarius	9838	proteomes/Camelus_dromedarius_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Gallus gallus	9031	proteomes/Gallus_gallus_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Anas platyrhynchos platyrhynchos	8840	proteomes/Anas_platyrhynchos_platyrhynchos_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Engraulis ringens	217494	proteomes/Engraulis_ringens_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Gadus chalcogrammus	1042646	proteomes/Gadus_chalcogrammus_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Katsuwonus pelamis	8226	proteomes/Katsuwonus_pelamis_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Clupea harengus	7950	proteomes/Clupea_harengus_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Micromesistius poutassou	81636	proteomes/Micromesistius_poutassou_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Sardina pilchardus	27697	proteomes/Sardina_pilchardus_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Scomber japonicus	13676	proteomes/Scomber_japonicus_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Sardinops sagax	28381	proteomes/Sardinops_sagax_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Thunnus albacares	8236	proteomes/Thunnus_albacares_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Gadus morhua	8049	proteomes/Gadus_morhua_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Trichiurus lepturus	13733	proteomes/Trichiurus_lepturus_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Scomber scombrus	13677	proteomes/Scomber_scombrus_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Trachurus murphyi	192602	proteomes/Trachurus_murphyi_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Ctenopharyngodon idella	7959	proteomes/Ctenopharyngodon_idella_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Hypophthalmichthys molitrix	13095	proteomes/Hypophthalmichthys_molitrix_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Oreochromis niloticus	8128	proteomes/Oreochromis_niloticus_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Cyprinus carpio	7962	proteomes/Cyprinus_carpio_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Labeo catla	72446	proteomes/Labeo_catla_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Salmo salar	8030	proteomes/Salmo_salar_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Ictalurus punctatus	7998	proteomes/Ictalurus_punctatus_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Ictalurus furcatus	66913	proteomes/Ictalurus_furcatus_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Clarias gariepinus	13013	proteomes/Clarias_gariepinus_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Pangasius bocourti	365578	proteomes/Pangasius_bocourti_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Chanos chanos	29144	proteomes/Chanos_chanos_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Oncorhynchus mykiss	8022	proteomes/Oncorhynchus_mykiss_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Penaeus vannamei	6689	proteomes/Penaeus_vannamei_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Procambarus clarkii	6728	proteomes/Procambarus_clarkii_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Dosidicus gigas	346249	proteomes/Dosidicus_gigas_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Magallana gigas	29159	proteomes/Magallana_gigas_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Crassostrea virginica	6565	proteomes/Crassostrea_virginica_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Magallana angulata	2784310	proteomes/Magallana_angulata_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Ruditapes philippinarum	129788	proteomes/Ruditapes_philippinarum_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Mizuhopecten yessoensis	6573	proteomes/Mizuhopecten_yessoensis_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Placopecten magellanicus	6577	proteomes/Placopecten_magellanicus_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Argopecten purpuratus	228297	proteomes/Argopecten_purpuratus_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Mytilus edulis	6550	proteomes/Mytilus_edulis_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Mytilus galloprovincialis	29158	proteomes/Mytilus_galloprovincialis_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Perna canaliculus	38949	proteomes/Perna_canaliculus_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Mytilus chilensis	173667	proteomes/Mytilus_chilensis_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Mytilus edulis	6550	proteomes/Mytilus_edulis_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Ensis directus	58666	proteomes/Ensis_directus_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Ensis arcuatus	251530	proteomes/Ensis_arcuatus_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Ensis minor	6587	proteomes/Ensis_minor_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Siliqua patula	798082	proteomes/Siliqua_patula_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Solen strictus	194331	proteomes/Solen_strictus_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Tegillarca granosa	220873	proteomes/Tegillarca_granosa_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Anadara broughtonii	148819	proteomes/Anadara_broughtonii_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Mercenaria mercenaria	6596	proteomes/Mercenaria_mercenaria_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Triticum aestivum	4565	proteomes/Triticum_aestivum_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Oryza sativa	4530	proteomes/Oryza_sativa_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:10:30+00:00	Zea mays	4577	proteomes/Zea_mays_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:37+00:00	Avena sativa	4498	proteomes/Avena_sativa_fasta.gz	DOWNLOADED	87080 sequences
+2026-10-25T22:15:38+00:00	Sorghum bicolor	4558	proteomes/Sorghum_bicolor_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Cenchrus americanus	4543	proteomes/Cenchrus_americanus_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Eleusine coracana	4511	proteomes/Eleusine_coracana_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Secale cereale	4550	proteomes/Secale_cereale_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Hordeum vulgare	4513	proteomes/Hordeum_vulgare_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Prunus dulcis	3755	proteomes/Prunus_dulcis_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Juglans regia	51240	proteomes/Juglans_regia_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Anacardium occidentale	171929	proteomes/Anacardium_occidentale_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Pistacia vera	55513	proteomes/Pistacia_vera_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Corylus avellana	13451	proteomes/Corylus_avellana_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Linum usitatissimum	4006	proteomes/Linum_usitatissimum_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Salvia hispanica	49212	proteomes/Salvia_hispanica_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Cucurbita maxima	3661	proteomes/Cucurbita_maxima_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Helianthus annuus	4232	proteomes/Helianthus_annuus_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Papaver somniferum	3469	proteomes/Papaver_somniferum_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Sesamum indicum	4182	proteomes/Sesamum_indicum_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Sinapis alba	3728	proteomes/Sinapis_alba_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Arachis hypogaea	3818	proteomes/Arachis_hypogaea_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Glycine max	3847	proteomes/Glycine_max_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Pisum sativum	3888	proteomes/Pisum_sativum_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Cicer arietinum	3827	proteomes/Cicer_arietinum_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Phaseolus vulgaris	3885	proteomes/Phaseolus_vulgaris_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Lens culinaris	3864	proteomes/Lens_culinaris_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Vicia faba	3906	proteomes/Vicia_faba_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Phaseolus lunatus	3884	proteomes/Phaseolus_lunatus_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Vigna unguiculata	3917	proteomes/Vigna_unguiculata_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Lupinus albus	3870	proteomes/Lupinus_albus_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Vigna radiata	157791	proteomes/Vigna_radiata_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Cajanus cajan	3821	proteomes/Cajanus_cajan_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Vigna subterranea	115715	proteomes/Vigna_subterranea_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Solanum tuberosum	4113	proteomes/Solanum_tuberosum_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Ipomoea batatas	4120	proteomes/Ipomoea_batatas_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Colocasia esculenta	4460	proteomes/Colocasia_esculenta_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Manihot esculenta	3983	proteomes/Manihot_esculenta_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Dioscorea cayenensis	55577	proteomes/Dioscorea_cayenensis_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Manihot esculenta	3983	proteomes/Manihot_esculenta_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Brassica oleracea	36774	proteomes/Brassica_oleracea_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Spinacia oleracea	3562	proteomes/Spinacia_oleracea_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Brassica rapa	93385	proteomes/Brassica_rapa_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Lactuca sativa	4236	proteomes/Lactuca_sativa_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Musa acuminata	4641	proteomes/Musa_acuminata_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Musa balbisiana	52838	proteomes/Musa_balbisiana_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Musa paradisiaca	89151	proteomes/Musa_paradisiaca_fasta.gz	SKIPPED_EXISTS	
+2026-10-25T22:15:38+00:00	Homo sapiens	9606	proteomes/Homo_sapiens_fasta.gz	SKIPPED_EXISTS	

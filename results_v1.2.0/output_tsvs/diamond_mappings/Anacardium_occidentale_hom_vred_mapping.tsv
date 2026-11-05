@@ -1,0 +1,9 @@
+sseqid	count	has_sequence	stitle
+tr|Q8H2B8|Q8H2B8_ANAOC	197	Y	tr|Q8H2B8|Q8H2B8_ANAOC 2s albumin OS=Anacardium occidentale OX=171929 GN=ana o 3 PE=2 SV=1
+tr|A0A891LTQ0|A0A891LTQ0_ANAOC	200	Y	tr|A0A891LTQ0|A0A891LTQ0_ANAOC 2S albumin OS=Anacardium occidentale OX=171929 PE=2 SV=1
+tr|A0A891LW61|A0A891LW61_ANAOC	158	Y	tr|A0A891LW61|A0A891LW61_ANAOC 2S albumin OS=Anacardium occidentale OX=171929 PE=2 SV=1
+tr|A0A891LTK2|A0A891LTK2_ANAOC	157	Y	tr|A0A891LTK2|A0A891LTK2_ANAOC 2S albumin OS=Anacardium occidentale OX=171929 PE=2 SV=1
+tr|Q8L5L5|Q8L5L5_ANAOC	520	Y	tr|Q8L5L5|Q8L5L5_ANAOC Vicilin-like protein OS=Anacardium occidentale OX=171929 GN=Ana o 1.0101 PE=1 SV=1
+tr|Q8L5L6|Q8L5L6_ANAOC	520	Y	tr|Q8L5L6|Q8L5L6_ANAOC Vicilin-like protein (Fragment) OS=Anacardium occidentale OX=171929 GN=Ana o 1.0102 PE=1 SV=1
+sp|Q8GZP6|ANAO2_ANAOC	650	Y	sp|Q8GZP6|ANAO2_ANAOC 11S globulin seed storage protein Ana o 2.0101 (Fragment) OS=Anacardium occidentale OX=171929 PE=1 SV=1
+tr|A0A7D9N402|A0A7D9N402_ANAOC	1	Y	tr|A0A7D9N402|A0A7D9N402_ANAOC Pathogenesis-related protein 10 OS=Anacardium occidentale OX=171929 PE=2 SV=1

@@ -1,0 +1,522 @@
+cluster_id	seq_id	db_type	taxid	is_favoured	source_type	source_detail	cluster_size	title
+0	tr|U3IV84|U3IV84_ANAPP	tr	8840	Y	native		1	tr|U3IV84|U3IV84_ANAPP tr|U3IV84|U3IV84_ANAPP Hemicentin-1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=HMCN1 PE=4 SV=2
+1	tr|A0A493T655|A0A493T655_ANAPP	tr	8840	Y	native		1	tr|A0A493T655|A0A493T655_ANAPP tr|A0A493T655|A0A493T655_ANAPP Hemicentin-1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=HMCN1 PE=4 SV=1
+2	tr|A0A493TWE9|A0A493TWE9_ANAPP	tr	8840	Y	native		1	tr|A0A493TWE9|A0A493TWE9_ANAPP tr|A0A493TWE9|A0A493TWE9_ANAPP Hemicentin-1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=HMCN1 PE=4 SV=1
+3	tr|A0A493SVF6|A0A493SVF6_ANAPP	tr	8840	Y	native		1	tr|A0A493SVF6|A0A493SVF6_ANAPP tr|A0A493SVF6|A0A493SVF6_ANAPP Ig-like domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+4	tr|A0A493TUK4|A0A493TUK4_ANAPP	tr	8840	Y	native		1	tr|A0A493TUK4|A0A493TUK4_ANAPP tr|A0A493TUK4|A0A493TUK4_ANAPP Ig-like domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+5	tr|U3IWA4|U3IWA4_ANAPP	tr	8840	Y	native		1	tr|U3IWA4|U3IWA4_ANAPP tr|U3IWA4|U3IWA4_ANAPP Apolipoprotein B OS=Anas platyrhynchos platyrhynchos OX=8840 GN=APOB PE=4 SV=2
+6	tr|U3I584|U3I584_ANAPP	tr	8840	Y	native		1	tr|U3I584|U3I584_ANAPP tr|U3I584|U3I584_ANAPP VWFC domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+7	tr|A0A493TBD3|A0A493TBD3_ANAPP	tr	8840	Y	native		1	tr|A0A493TBD3|A0A493TBD3_ANAPP tr|A0A493TBD3|A0A493TBD3_ANAPP Plectin OS=Anas platyrhynchos platyrhynchos OX=8840 GN=PLEC PE=3 SV=1
+8	tr|A0A493T453|A0A493T453_ANAPP	tr	8840	Y	native		1	tr|A0A493T453|A0A493T453_ANAPP tr|A0A493T453|A0A493T453_ANAPP Plectin OS=Anas platyrhynchos platyrhynchos OX=8840 GN=PLEC PE=3 SV=1
+9	tr|A0A493SV34|A0A493SV34_ANAPP	tr	8840	Y	native		1	tr|A0A493SV34|A0A493SV34_ANAPP tr|A0A493SV34|A0A493SV34_ANAPP Plectin OS=Anas platyrhynchos platyrhynchos OX=8840 GN=PLEC PE=3 SV=1
+10	tr|A0A493SV91|A0A493SV91_ANAPP	tr	8840	Y	native		1	tr|A0A493SV91|A0A493SV91_ANAPP tr|A0A493SV91|A0A493SV91_ANAPP Plectin OS=Anas platyrhynchos platyrhynchos OX=8840 GN=PLEC PE=3 SV=1
+11	tr|U3ILB0|U3ILB0_ANAPP	tr	8840	Y	native		1	tr|U3ILB0|U3ILB0_ANAPP tr|U3ILB0|U3ILB0_ANAPP Calponin-homology (CH) domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+12	tr|U3IKH9|U3IKH9_ANAPP	tr	8840	Y	native		1	tr|U3IKH9|U3IKH9_ANAPP tr|U3IKH9|U3IKH9_ANAPP Otogelin OS=Anas platyrhynchos platyrhynchos OX=8840 GN=OTOG PE=4 SV=2
+13	tr|U3I539|U3I539_ANAPP	tr	8840	Y	native		1	tr|U3I539|U3I539_ANAPP tr|U3I539|U3I539_ANAPP von Willebrand factor OS=Anas platyrhynchos platyrhynchos OX=8840 GN=VWF PE=4 SV=2
+14	tr|A0A493TMG0|A0A493TMG0_ANAPP	tr	8840	Y	native		1	tr|A0A493TMG0|A0A493TMG0_ANAPP tr|A0A493TMG0|A0A493TMG0_ANAPP von Willebrand factor OS=Anas platyrhynchos platyrhynchos OX=8840 GN=VWF PE=4 SV=1
+15	tr|U3IPY8|U3IPY8_ANAPP	tr	8840	Y	native		1	tr|U3IPY8|U3IPY8_ANAPP tr|U3IPY8|U3IPY8_ANAPP Filamin B OS=Anas platyrhynchos platyrhynchos OX=8840 GN=FLNB PE=3 SV=2
+16	tr|A0A493TNE5|A0A493TNE5_ANAPP	tr	8840	Y	native		1	tr|A0A493TNE5|A0A493TNE5_ANAPP tr|A0A493TNE5|A0A493TNE5_ANAPP Filamin B OS=Anas platyrhynchos platyrhynchos OX=8840 GN=FLNB PE=3 SV=1
+17	tr|A0A493TFP1|A0A493TFP1_ANAPP	tr	8840	Y	native		1	tr|A0A493TFP1|A0A493TFP1_ANAPP tr|A0A493TFP1|A0A493TFP1_ANAPP Spectrin beta chain OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SPTB PE=3 SV=1
+18	tr|A0A493T4W9|A0A493T4W9_ANAPP	tr	8840	Y	native		1	tr|A0A493T4W9|A0A493T4W9_ANAPP tr|A0A493T4W9|A0A493T4W9_ANAPP Spectrin beta chain OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SPTB PE=3 SV=1
+19	tr|U3J5Y3|U3J5Y3_ANAPP	tr	8840	Y	native		1	tr|U3J5Y3|U3J5Y3_ANAPP tr|U3J5Y3|U3J5Y3_ANAPP Spectrin alpha chain, non-erythrocytic 1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SPTAN1 PE=3 SV=2
+20	tr|U3J3S7|U3J3S7_ANAPP	tr	8840	Y	native		1	tr|U3J3S7|U3J3S7_ANAPP tr|U3J3S7|U3J3S7_ANAPP Immunoglobulin like and fibronectin type III domain containing 1 OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=2
+21	tr|A0A493TUX9|A0A493TUX9_ANAPP	tr	8840	Y	native		1	tr|A0A493TUX9|A0A493TUX9_ANAPP tr|A0A493TUX9|A0A493TUX9_ANAPP Spectrin beta chain OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SPTB PE=3 SV=1
+22	tr|U3J802|U3J802_ANAPP	tr	8840	Y	native		1	tr|U3J802|U3J802_ANAPP tr|U3J802|U3J802_ANAPP Spectrin beta chain OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SPTB PE=3 SV=2
+23	tr|U3IJE5|U3IJE5_ANAPP	tr	8840	Y	native		1	tr|U3IJE5|U3IJE5_ANAPP tr|U3IJE5|U3IJE5_ANAPP Myosin VIIA OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MYO7A PE=3 SV=2
+24	tr|A0A493TF18|A0A493TF18_ANAPP	tr	8840	Y	native		1	tr|A0A493TF18|A0A493TF18_ANAPP tr|A0A493TF18|A0A493TF18_ANAPP Obscurin like cytoskeletal adaptor 1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=OBSL1 PE=4 SV=1
+25	tr|A0A493TI76|A0A493TI76_ANAPP	tr	8840	Y	native		1	tr|A0A493TI76|A0A493TI76_ANAPP tr|A0A493TI76|A0A493TI76_ANAPP Spectrin beta chain OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SPTB PE=3 SV=1
+26	tr|U3ITS7|U3ITS7_ANAPP	tr	8840	Y	native		1	tr|U3ITS7|U3ITS7_ANAPP tr|U3ITS7|U3ITS7_ANAPP MUC5B protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=2
+27	tr|U3IIV0|U3IIV0_ANAPP	tr	8840	Y	native		1	tr|U3IIV0|U3IIV0_ANAPP tr|U3IIV0|U3IIV0_ANAPP Spectrin beta chain OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+28	tr|U3J262|U3J262_ANAPP	tr	8840	Y	native		1	tr|U3J262|U3J262_ANAPP tr|U3J262|U3J262_ANAPP Alpha-tectorin OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TECTA PE=4 SV=2
+29	tr|A0A493SY47|A0A493SY47_ANAPP	tr	8840	Y	native		1	tr|A0A493SY47|A0A493SY47_ANAPP tr|A0A493SY47|A0A493SY47_ANAPP Myosin heavy chain 10 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MYH10 PE=3 SV=1
+30	tr|U3IFD3|U3IFD3_ANAPP	tr	8840	Y	native		1	tr|U3IFD3|U3IFD3_ANAPP tr|U3IFD3|U3IFD3_ANAPP Myosin heavy chain 11 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MYH11 PE=3 SV=1
+31	tr|U3J7L2|U3J7L2_ANAPP	tr	8840	Y	native		2	tr|U3J7L2|U3J7L2_ANAPP tr|U3J7L2|U3J7L2_ANAPP Myosin heavy chain 10 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MYH10 PE=3 SV=2
+32	tr|U3J7N0|U3J7N0_ANAPP	tr	8840	Y	native		1	tr|U3J7N0|U3J7N0_ANAPP tr|U3J7N0|U3J7N0_ANAPP Agrin OS=Anas platyrhynchos platyrhynchos OX=8840 GN=AGRN PE=4 SV=2
+33	tr|U3J8L8|U3J8L8_ANAPP	tr	8840	Y	native		1	tr|U3J8L8|U3J8L8_ANAPP tr|U3J8L8|U3J8L8_ANAPP Otogelin like OS=Anas platyrhynchos platyrhynchos OX=8840 GN=OTOGL PE=3 SV=2
+34	tr|A0A493TLQ2|A0A493TLQ2_ANAPP	tr	8840	Y	native		1	tr|A0A493TLQ2|A0A493TLQ2_ANAPP tr|A0A493TLQ2|A0A493TLQ2_ANAPP Myosin motor domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+35	tr|U3IVT5|U3IVT5_ANAPP	tr	8840	Y	native		1	tr|U3IVT5|U3IVT5_ANAPP tr|U3IVT5|U3IVT5_ANAPP Myosin heavy chain 7B OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+36	tr|U3IIG1|U3IIG1_ANAPP	tr	8840	Y	native		1	tr|U3IIG1|U3IIG1_ANAPP tr|U3IIG1|U3IIG1_ANAPP Nebulin OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=2
+37	tr|A0A493T3H1|A0A493T3H1_ANAPP	tr	8840	Y	native		1	tr|A0A493T3H1|A0A493T3H1_ANAPP tr|A0A493T3H1|A0A493T3H1_ANAPP Unconventional myosin-Va OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MYO5A PE=3 SV=1
+38	tr|A0A493SYU7|A0A493SYU7_ANAPP	tr	8840	Y	native		1	tr|A0A493SYU7|A0A493SYU7_ANAPP tr|A0A493SYU7|A0A493SYU7_ANAPP Otogelin like OS=Anas platyrhynchos platyrhynchos OX=8840 GN=OTOGL PE=3 SV=1
+39	tr|U3IV20|U3IV20_ANAPP	tr	8840	Y	native		1	tr|U3IV20|U3IV20_ANAPP tr|U3IV20|U3IV20_ANAPP VWFD domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=2
+40	tr|U3IDT9|U3IDT9_ANAPP	tr	8840	Y	native		1	tr|U3IDT9|U3IDT9_ANAPP tr|U3IDT9|U3IDT9_ANAPP Serine/threonine-protein OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MYLK PE=3 SV=2
+41	tr|U3I653|U3I653_ANAPP	tr	8840	Y	native		1	tr|U3I653|U3I653_ANAPP tr|U3I653|U3I653_ANAPP Unconventional myosin-Va OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MYO5A PE=3 SV=2
+42	tr|A0A493U1L4|A0A493U1L4_ANAPP	tr	8840	Y	native		1	tr|A0A493U1L4|A0A493U1L4_ANAPP tr|A0A493U1L4|A0A493U1L4_ANAPP Unconventional myosin-Va OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MYO5A PE=3 SV=1
+43	tr|U3I8J0|U3I8J0_ANAPP	tr	8840	Y	native		1	tr|U3I8J0|U3I8J0_ANAPP tr|U3I8J0|U3I8J0_ANAPP Uncharacterized protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=2
+44	tr|A0A493TGB6|A0A493TGB6_ANAPP	tr	8840	Y	native		1	tr|A0A493TGB6|A0A493TGB6_ANAPP tr|A0A493TGB6|A0A493TGB6_ANAPP Myosin heavy chain 6 OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+45	tr|U3ICS9|U3ICS9_ANAPP	tr	8840	Y	native		1	tr|U3ICS9|U3ICS9_ANAPP tr|U3ICS9|U3ICS9_ANAPP Unconventional myosin-Vb OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MYO5B PE=3 SV=2
+46	tr|U3J280|U3J280_ANAPP	tr	8840	Y	native		1	tr|U3J280|U3J280_ANAPP tr|U3J280|U3J280_ANAPP Myosin heavy chain 2 OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+47	tr|U3IIB9|U3IIB9_ANAPP	tr	8840	Y	native		1	tr|U3IIB9|U3IIB9_ANAPP tr|U3IIB9|U3IIB9_ANAPP Myosin-9 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MYH9 PE=3 SV=2
+48	tr|A0A493TF01|A0A493TF01_ANAPP	tr	8840	Y	native		1	tr|A0A493TF01|A0A493TF01_ANAPP tr|A0A493TF01|A0A493TF01_ANAPP Uncharacterized protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+49	tr|U3JA11|U3JA11_ANAPP	tr	8840	Y	native		1	tr|U3JA11|U3JA11_ANAPP tr|U3JA11|U3JA11_ANAPP Uncharacterized protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=2
+50	tr|A0A493TMU5|A0A493TMU5_ANAPP	tr	8840	Y	native		1	tr|A0A493TMU5|A0A493TMU5_ANAPP tr|A0A493TMU5|A0A493TMU5_ANAPP Myosin VC OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MYO5C PE=3 SV=1
+51	tr|A0A493TGP4|A0A493TGP4_ANAPP	tr	8840	Y	native		1	tr|A0A493TGP4|A0A493TGP4_ANAPP tr|A0A493TGP4|A0A493TGP4_ANAPP Unconventional myosin-Vb OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MYO5B PE=3 SV=2
+52	tr|A0A493T9F7|A0A493T9F7_ANAPP	tr	8840	Y	native		1	tr|A0A493T9F7|A0A493T9F7_ANAPP tr|A0A493T9F7|A0A493T9F7_ANAPP Complement C3 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=C3 PE=4 SV=1
+53	tr|U3I8R2|U3I8R2_ANAPP	tr	8840	Y	native		1	tr|U3I8R2|U3I8R2_ANAPP tr|U3I8R2|U3I8R2_ANAPP Uncharacterized protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=2
+54	tr|U3J6P0|U3J6P0_ANAPP	tr	8840	Y	native		1	tr|U3J6P0|U3J6P0_ANAPP tr|U3J6P0|U3J6P0_ANAPP Complement C3 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=C3 PE=4 SV=2
+55	tr|A0A493T8J4|A0A493T8J4_ANAPP	tr	8840	Y	native		1	tr|A0A493T8J4|A0A493T8J4_ANAPP tr|A0A493T8J4|A0A493T8J4_ANAPP VWFD domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+56	tr|A0A493TC74|A0A493TC74_ANAPP	tr	8840	Y	native		1	tr|A0A493TC74|A0A493TC74_ANAPP tr|A0A493TC74|A0A493TC74_ANAPP Uncharacterized protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+57	tr|A0A493TLV8|A0A493TLV8_ANAPP	tr	8840	Y	native		1	tr|A0A493TLV8|A0A493TLV8_ANAPP tr|A0A493TLV8|A0A493TLV8_ANAPP Uncharacterized protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+58	tr|A0A493T4Q2|A0A493T4Q2_ANAPP	tr	8840	Y	native		1	tr|A0A493T4Q2|A0A493T4Q2_ANAPP tr|A0A493T4Q2|A0A493T4Q2_ANAPP Uncharacterized protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+59	tr|A0A493TJM2|A0A493TJM2_ANAPP	tr	8840	Y	native		1	tr|A0A493TJM2|A0A493TJM2_ANAPP tr|A0A493TJM2|A0A493TJM2_ANAPP Fibrillar collagen NC1 domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+60	tr|U3IWZ2|U3IWZ2_ANAPP	tr	8840	Y	native		1	tr|U3IWZ2|U3IWZ2_ANAPP tr|U3IWZ2|U3IWZ2_ANAPP Myosin heavy chain 2 OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+61	tr|U3IWZ4|U3IWZ4_ANAPP	tr	8840	Y	native		1	tr|U3IWZ4|U3IWZ4_ANAPP tr|U3IWZ4|U3IWZ4_ANAPP Myosin heavy chain 2 OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+62	tr|U3J7T0|U3J7T0_ANAPP	tr	8840	Y	native		1	tr|U3J7T0|U3J7T0_ANAPP tr|U3J7T0|U3J7T0_ANAPP Myosin heavy chain 2 OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+63	tr|A0A493TJ56|A0A493TJ56_ANAPP	tr	8840	Y	native		1	tr|A0A493TJ56|A0A493TJ56_ANAPP tr|A0A493TJ56|A0A493TJ56_ANAPP Nebulin related anchoring protein OS=Anas platyrhynchos platyrhynchos OX=8840 GN=NRAP PE=4 SV=1
+64	tr|U3J1M5|U3J1M5_ANAPP	tr	8840	Y	native		1	tr|U3J1M5|U3J1M5_ANAPP tr|U3J1M5|U3J1M5_ANAPP Nebulin related anchoring protein OS=Anas platyrhynchos platyrhynchos OX=8840 GN=NRAP PE=4 SV=2
+65	tr|U3IAE6|U3IAE6_ANAPP	tr	8840	Y	native		1	tr|U3IAE6|U3IAE6_ANAPP tr|U3IAE6|U3IAE6_ANAPP Myosin heavy chain 6 OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+66	tr|U3ILZ6|U3ILZ6_ANAPP	tr	8840	Y	native		1	tr|U3ILZ6|U3ILZ6_ANAPP tr|U3ILZ6|U3ILZ6_ANAPP Myosin heavy chain 2 OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+67	tr|U3ITY0|U3ITY0_ANAPP	tr	8840	Y	native		1	tr|U3ITY0|U3ITY0_ANAPP tr|U3ITY0|U3ITY0_ANAPP Fibrillar collagen NC1 domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+68	tr|A0A493TC64|A0A493TC64_ANAPP	tr	8840	Y	native		1	tr|A0A493TC64|A0A493TC64_ANAPP tr|A0A493TC64|A0A493TC64_ANAPP Fibrillar collagen NC1 domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+69	tr|U3IC03|U3IC03_ANAPP	tr	8840	Y	native		1	tr|U3IC03|U3IC03_ANAPP tr|U3IC03|U3IC03_ANAPP NAD(P)H oxidase (H2O2-forming) OS=Anas platyrhynchos platyrhynchos OX=8840 GN=DUOX2 PE=3 SV=2
+70	tr|A0A493T350|A0A493T350_ANAPP	tr	8840	Y	native		1	tr|A0A493T350|A0A493T350_ANAPP tr|A0A493T350|A0A493T350_ANAPP Alpha-2-macroglobulin OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+71	tr|U3IKI8|U3IKI8_ANAPP	tr	8840	Y	native		1	tr|U3IKI8|U3IKI8_ANAPP tr|U3IKI8|U3IKI8_ANAPP Mucin 2, oligomeric mucus/gel-forming OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MUC2 PE=4 SV=2
+72	tr|A0A493TGS8|A0A493TGS8_ANAPP	tr	8840	Y	native		1	tr|A0A493TGS8|A0A493TGS8_ANAPP tr|A0A493TGS8|A0A493TGS8_ANAPP Adhesion G protein-coupled receptor L3 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ADGRL3 PE=3 SV=1
+73	tr|U3ITB1|U3ITB1_ANAPP	tr	8840	Y	native		1	tr|U3ITB1|U3ITB1_ANAPP tr|U3ITB1|U3ITB1_ANAPP A2ML1 protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+74	tr|U3IGH7|U3IGH7_ANAPP	tr	8840	Y	native		1	tr|U3IGH7|U3IGH7_ANAPP tr|U3IGH7|U3IGH7_ANAPP Alpha-2-macroglobulin OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+75	tr|U3J3N2|U3J3N2_ANAPP	tr	8840	Y	native		1	tr|U3J3N2|U3J3N2_ANAPP tr|U3J3N2|U3J3N2_ANAPP VWFD domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=2
+76	tr|A0A493TGL1|A0A493TGL1_ANAPP	tr	8840	Y	native		1	tr|A0A493TGL1|A0A493TGL1_ANAPP tr|A0A493TGL1|A0A493TGL1_ANAPP Adhesion G protein-coupled receptor L2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ADGRL2 PE=3 SV=1
+77	tr|U3J4N5|U3J4N5_ANAPP	tr	8840	Y	native		1	tr|U3J4N5|U3J4N5_ANAPP tr|U3J4N5|U3J4N5_ANAPP Alpha-2-macroglobulin like 1 OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+78	tr|A0A493SXB6|A0A493SXB6_ANAPP	tr	8840	Y	native		1	tr|A0A493SXB6|A0A493SXB6_ANAPP tr|A0A493SXB6|A0A493SXB6_ANAPP Adhesion G protein-coupled receptor L2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ADGRL2 PE=3 SV=1
+79	tr|A0A493T0I8|A0A493T0I8_ANAPP	tr	8840	Y	native		1	tr|A0A493T0I8|A0A493T0I8_ANAPP tr|A0A493T0I8|A0A493T0I8_ANAPP Collagen type III alpha 1 chain OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+80	tr|U3J2X2|U3J2X2_ANAPP	tr	8840	Y	native		1	tr|U3J2X2|U3J2X2_ANAPP tr|U3J2X2|U3J2X2_ANAPP Myomesin 2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MYOM2 PE=4 SV=2
+81	tr|U3IL67|U3IL67_ANAPP	tr	8840	Y	native		1	tr|U3IL67|U3IL67_ANAPP tr|U3IL67|U3IL67_ANAPP Collagen type V alpha 2 chain OS=Anas platyrhynchos platyrhynchos OX=8840 GN=COL5A2 PE=3 SV=2
+82	tr|A0A493TRW8|A0A493TRW8_ANAPP	tr	8840	Y	native		1	tr|A0A493TRW8|A0A493TRW8_ANAPP tr|A0A493TRW8|A0A493TRW8_ANAPP Myomesin 2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MYOM2 PE=4 SV=1
+83	tr|A0A493U2S4|A0A493U2S4_ANAPP	tr	8840	Y	native		1	tr|A0A493U2S4|A0A493U2S4_ANAPP tr|A0A493U2S4|A0A493U2S4_ANAPP Adhesion G protein-coupled receptor L2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ADGRL2 PE=3 SV=1
+84	tr|U3IJS9|U3IJS9_ANAPP	tr	8840	Y	native		1	tr|U3IJS9|U3IJS9_ANAPP tr|U3IJS9|U3IJS9_ANAPP Ovostatin OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+85	tr|U3I3X7|U3I3X7_ANAPP	tr	8840	Y	native		1	tr|U3I3X7|U3I3X7_ANAPP tr|U3I3X7|U3I3X7_ANAPP Collagen type III alpha 1 chain OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+86	tr|U3IK21|U3IK21_ANAPP	tr	8840	Y	native		1	tr|U3IK21|U3IK21_ANAPP tr|U3IK21|U3IK21_ANAPP CD109 antigen OS=Anas platyrhynchos platyrhynchos OX=8840 GN=CD109 PE=3 SV=2
+87	tr|A0A493SXR9|A0A493SXR9_ANAPP	tr	8840	Y	native		1	tr|A0A493SXR9|A0A493SXR9_ANAPP tr|A0A493SXR9|A0A493SXR9_ANAPP Adhesion G protein-coupled receptor L3 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ADGRL3 PE=3 SV=1
+88	tr|A0A493SZP6|A0A493SZP6_ANAPP	tr	8840	Y	native		1	tr|A0A493SZP6|A0A493SZP6_ANAPP tr|A0A493SZP6|A0A493SZP6_ANAPP Collagen type III alpha 1 chain OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+89	tr|A0A493TXT7|A0A493TXT7_ANAPP	tr	8840	Y	native		1	tr|A0A493TXT7|A0A493TXT7_ANAPP tr|A0A493TXT7|A0A493TXT7_ANAPP Adhesion G protein-coupled receptor L3 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ADGRL3 PE=3 SV=1
+90	tr|A0A493SUZ5|A0A493SUZ5_ANAPP	tr	8840	Y	native		1	tr|A0A493SUZ5|A0A493SUZ5_ANAPP tr|A0A493SUZ5|A0A493SUZ5_ANAPP Adhesion G protein-coupled receptor L2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ADGRL2 PE=3 SV=1
+91	tr|A0A493SWQ7|A0A493SWQ7_ANAPP	tr	8840	Y	native		1	tr|A0A493SWQ7|A0A493SWQ7_ANAPP tr|A0A493SWQ7|A0A493SWQ7_ANAPP Myomesin 2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MYOM2 PE=4 SV=1
+92	tr|A0A493TUB1|A0A493TUB1_ANAPP	tr	8840	Y	native		1	tr|A0A493TUB1|A0A493TUB1_ANAPP tr|A0A493TUB1|A0A493TUB1_ANAPP Ig-like domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+93	tr|U3I8V3|U3I8V3_ANAPP	tr	8840	Y	native		1	tr|U3I8V3|U3I8V3_ANAPP tr|U3I8V3|U3I8V3_ANAPP Adhesion G protein-coupled receptor L2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ADGRL2 PE=3 SV=2
+94	tr|U3IHV1|U3IHV1_ANAPP	tr	8840	Y	native		1	tr|U3IHV1|U3IHV1_ANAPP tr|U3IHV1|U3IHV1_ANAPP Alpha-2-macroglobulin like 1 OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+95	tr|U3IK17|U3IK17_ANAPP	tr	8840	Y	native		1	tr|U3IK17|U3IK17_ANAPP tr|U3IK17|U3IK17_ANAPP Ig-like domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+96	tr|A0A493U4A1|A0A493U4A1_ANAPP	tr	8840	Y	native		1	tr|A0A493U4A1|A0A493U4A1_ANAPP tr|A0A493U4A1|A0A493U4A1_ANAPP Collagen type I alpha 2 chain OS=Anas platyrhynchos platyrhynchos OX=8840 GN=COL1A2 PE=3 SV=1
+97	tr|A0A493T9T7|A0A493T9T7_ANAPP	tr	8840	Y	native		1	tr|A0A493T9T7|A0A493T9T7_ANAPP tr|A0A493T9T7|A0A493T9T7_ANAPP Titin OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+98	tr|U3ILC9|U3ILC9_ANAPP	tr	8840	Y	native		1	tr|U3ILC9|U3ILC9_ANAPP tr|U3ILC9|U3ILC9_ANAPP Ovostatin OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+99	tr|A0A493T0N1|A0A493T0N1_ANAPP	tr	8840	Y	native		1	tr|A0A493T0N1|A0A493T0N1_ANAPP tr|A0A493T0N1|A0A493T0N1_ANAPP Collagen type I alpha 2 chain OS=Anas platyrhynchos platyrhynchos OX=8840 GN=COL1A2 PE=3 SV=1
+100	tr|A0A493TXP2|A0A493TXP2_ANAPP	tr	8840	Y	native		1	tr|A0A493TXP2|A0A493TXP2_ANAPP tr|A0A493TXP2|A0A493TXP2_ANAPP Calcium-transporting ATPase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ATP2B4 PE=3 SV=1
+101	tr|U3I4F7|U3I4F7_ANAPP	tr	8840	Y	native		1	tr|U3I4F7|U3I4F7_ANAPP tr|U3I4F7|U3I4F7_ANAPP Adhesion G protein-coupled receptor L3 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ADGRL3 PE=3 SV=2
+102	tr|A0A493TR70|A0A493TR70_ANAPP	tr	8840	Y	native		1	tr|A0A493TR70|A0A493TR70_ANAPP tr|A0A493TR70|A0A493TR70_ANAPP Calcium-transporting ATPase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ATP2B4 PE=3 SV=1
+103	tr|A0A493T2R2|A0A493T2R2_ANAPP	tr	8840	Y	native		1	tr|A0A493T2R2|A0A493T2R2_ANAPP tr|A0A493T2R2|A0A493T2R2_ANAPP Calcium-transporting ATPase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ATP2B2 PE=3 SV=1
+104	tr|A0A493T6V3|A0A493T6V3_ANAPP	tr	8840	Y	native		1	tr|A0A493T6V3|A0A493T6V3_ANAPP tr|A0A493T6V3|A0A493T6V3_ANAPP Calcium-transporting ATPase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ATP2B2 PE=3 SV=1
+105	tr|U3IES5|U3IES5_ANAPP	tr	8840	Y	native		1	tr|U3IES5|U3IES5_ANAPP tr|U3IES5|U3IES5_ANAPP Calcium-transporting ATPase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ATP2B2 PE=3 SV=2
+106	tr|A0A493TYA8|A0A493TYA8_ANAPP	tr	8840	Y	native		1	tr|A0A493TYA8|A0A493TYA8_ANAPP tr|A0A493TYA8|A0A493TYA8_ANAPP Collagen type I alpha 2 chain OS=Anas platyrhynchos platyrhynchos OX=8840 GN=COL1A2 PE=3 SV=1
+107	tr|A0A493T2S5|A0A493T2S5_ANAPP	tr	8840	Y	native		1	tr|A0A493T2S5|A0A493T2S5_ANAPP tr|A0A493T2S5|A0A493T2S5_ANAPP Calcium-transporting ATPase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ATP2B2 PE=3 SV=1
+108	tr|U3I742|U3I742_ANAPP	tr	8840	Y	native		1	tr|U3I742|U3I742_ANAPP tr|U3I742|U3I742_ANAPP Alpha-2-macroglobulin OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+109	tr|U3J9W2|U3J9W2_ANAPP	tr	8840	Y	native		1	tr|U3J9W2|U3J9W2_ANAPP tr|U3J9W2|U3J9W2_ANAPP Myosin-binding protein C, cardiac-type OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MYBPC3 PE=3 SV=2
+110	tr|U3J686|U3J686_ANAPP	tr	8840	Y	native		1	tr|U3J686|U3J686_ANAPP tr|U3J686|U3J686_ANAPP Mucin 6, oligomeric mucus/gel-forming/pseudo OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MUC6 PE=4 SV=2
+111	tr|A0A493U1V2|A0A493U1V2_ANAPP	tr	8840	Y	native		1	tr|A0A493U1V2|A0A493U1V2_ANAPP tr|A0A493U1V2|A0A493U1V2_ANAPP Titin OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+112	tr|A0A493TH85|A0A493TH85_ANAPP	tr	8840	Y	native		1	tr|A0A493TH85|A0A493TH85_ANAPP tr|A0A493TH85|A0A493TH85_ANAPP Calcium-transporting ATPase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ATP2B2 PE=3 SV=1
+113	tr|U3IW58|U3IW58_ANAPP	tr	8840	Y	native		1	tr|U3IW58|U3IW58_ANAPP tr|U3IW58|U3IW58_ANAPP Collagen type I alpha 2 chain OS=Anas platyrhynchos platyrhynchos OX=8840 GN=COL1A2 PE=3 SV=2
+114	tr|A0A493U2S8|A0A493U2S8_ANAPP	tr	8840	Y	native		1	tr|A0A493U2S8|A0A493U2S8_ANAPP tr|A0A493U2S8|A0A493U2S8_ANAPP Titin OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+115	tr|A0A493SX19|A0A493SX19_ANAPP	tr	8840	Y	native		1	tr|A0A493SX19|A0A493SX19_ANAPP tr|A0A493SX19|A0A493SX19_ANAPP Calcium-transporting ATPase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ATP2B2 PE=3 SV=1
+116	tr|A0A493TVT5|A0A493TVT5_ANAPP	tr	8840	Y	native		1	tr|A0A493TVT5|A0A493TVT5_ANAPP tr|A0A493TVT5|A0A493TVT5_ANAPP Adhesion G protein-coupled receptor L3 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ADGRL3 PE=3 SV=1
+117	tr|A0A493TX03|A0A493TX03_ANAPP	tr	8840	Y	native		1	tr|A0A493TX03|A0A493TX03_ANAPP tr|A0A493TX03|A0A493TX03_ANAPP Plasma membrane calcium-transporting ATPase 1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ATP2B1 PE=3 SV=1
+118	tr|A0A493TP56|A0A493TP56_ANAPP	tr	8840	Y	native		1	tr|A0A493TP56|A0A493TP56_ANAPP tr|A0A493TP56|A0A493TP56_ANAPP Calcium-transporting ATPase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ATP2B2 PE=3 SV=1
+119	tr|A0A493TMI5|A0A493TMI5_ANAPP	tr	8840	Y	native		1	tr|A0A493TMI5|A0A493TMI5_ANAPP tr|A0A493TMI5|A0A493TMI5_ANAPP Myosin binding protein C1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MYBPC1 PE=3 SV=1
+120	tr|A0A493T5C0|A0A493T5C0_ANAPP	tr	8840	Y	native		1	tr|A0A493T5C0|A0A493T5C0_ANAPP tr|A0A493T5C0|A0A493T5C0_ANAPP Myosin VIIA OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MYO7A PE=3 SV=1
+121	tr|U3J830|U3J830_ANAPP	tr	8840	Y	native		1	tr|U3J830|U3J830_ANAPP tr|U3J830|U3J830_ANAPP Peroxidasin OS=Anas platyrhynchos platyrhynchos OX=8840 GN=PXDN PE=3 SV=2
+122	tr|A0A493TTB0|A0A493TTB0_ANAPP	tr	8840	Y	native		1	tr|A0A493TTB0|A0A493TTB0_ANAPP tr|A0A493TTB0|A0A493TTB0_ANAPP Myosin binding protein C1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MYBPC1 PE=3 SV=1
+123	tr|U3IHS1|U3IHS1_ANAPP	tr	8840	Y	native		1	tr|U3IHS1|U3IHS1_ANAPP tr|U3IHS1|U3IHS1_ANAPP Myosin-binding protein C, slow-type OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MYBPC1 PE=3 SV=2
+124	tr|U3IV89|U3IV89_ANAPP	tr	8840	Y	native		1	tr|U3IV89|U3IV89_ANAPP tr|U3IV89|U3IV89_ANAPP Sodium/potassium-transporting ATPase subunit alpha-1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ATP1A1 PE=3 SV=2
+125	tr|U3IPX6|U3IPX6_ANAPP	tr	8840	Y	native		1	tr|U3IPX6|U3IPX6_ANAPP tr|U3IPX6|U3IPX6_ANAPP Thrombospondin-2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=THBS2 PE=3 SV=2
+126	tr|U3IR05|U3IR05_ANAPP	tr	8840	Y	native		1	tr|U3IR05|U3IR05_ANAPP tr|U3IR05|U3IR05_ANAPP Calcium-transporting ATPase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ATP2B1 PE=3 SV=2
+127	tr|A0A493TVM8|A0A493TVM8_ANAPP	tr	8840	Y	native		1	tr|A0A493TVM8|A0A493TVM8_ANAPP tr|A0A493TVM8|A0A493TVM8_ANAPP Myosin binding protein C1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MYBPC1 PE=3 SV=1
+128	tr|A0A493SY13|A0A493SY13_ANAPP	tr	8840	Y	native		1	tr|A0A493SY13|A0A493SY13_ANAPP tr|A0A493SY13|A0A493SY13_ANAPP Myosin binding protein C1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MYBPC1 PE=3 SV=1
+129	tr|A0A493T8L7|A0A493T8L7_ANAPP	tr	8840	Y	native		1	tr|A0A493T8L7|A0A493T8L7_ANAPP tr|A0A493T8L7|A0A493T8L7_ANAPP Thrombospondin-1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=THBS1 PE=3 SV=1
+130	tr|A0A493TNQ7|A0A493TNQ7_ANAPP	tr	8840	Y	native		1	tr|A0A493TNQ7|A0A493TNQ7_ANAPP tr|A0A493TNQ7|A0A493TNQ7_ANAPP Calcium-transporting ATPase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ATP2B2 PE=3 SV=1
+131	tr|A0A493SU13|A0A493SU13_ANAPP	tr	8840	Y	native		1	tr|A0A493SU13|A0A493SU13_ANAPP tr|A0A493SU13|A0A493SU13_ANAPP Myosin-binding protein C, slow-type OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MYBPC1 PE=3 SV=1
+132	tr|A0A493TX92|A0A493TX92_ANAPP	tr	8840	Y	native		1	tr|A0A493TX92|A0A493TX92_ANAPP tr|A0A493TX92|A0A493TX92_ANAPP Myosin binding protein C1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MYBPC1 PE=3 SV=1
+133	tr|U3IZN9|U3IZN9_ANAPP	tr	8840	Y	native		1	tr|U3IZN9|U3IZN9_ANAPP tr|U3IZN9|U3IZN9_ANAPP Calcium-transporting ATPase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ATP2B4 PE=3 SV=2
+134	tr|A0A493TE27|A0A493TE27_ANAPP	tr	8840	Y	native		1	tr|A0A493TE27|A0A493TE27_ANAPP tr|A0A493TE27|A0A493TE27_ANAPP Titin OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+135	tr|U3I892|U3I892_ANAPP	tr	8840	Y	native		1	tr|U3I892|U3I892_ANAPP tr|U3I892|U3I892_ANAPP Thrombospondin 1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=THBS1 PE=4 SV=2
+136	tr|U3IY36|U3IY36_ANAPP	tr	8840	Y	native		1	tr|U3IY36|U3IY36_ANAPP tr|U3IY36|U3IY36_ANAPP Cysteine rich transmembrane BMP regulator 1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=CRIM1 PE=4 SV=2
+137	tr|A0A493U0Z4|A0A493U0Z4_ANAPP	tr	8840	Y	native		1	tr|A0A493U0Z4|A0A493U0Z4_ANAPP tr|A0A493U0Z4|A0A493U0Z4_ANAPP Unconventional myosin-Ib OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MYO1B PE=3 SV=1
+138	tr|A0A493TTF8|A0A493TTF8_ANAPP	tr	8840	Y	native		1	tr|A0A493TTF8|A0A493TTF8_ANAPP tr|A0A493TTF8|A0A493TTF8_ANAPP Sorbin and SH3 domain containing 2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SORBS2 PE=4 SV=1
+139	tr|A0A493TXN8|A0A493TXN8_ANAPP	tr	8840	Y	native		1	tr|A0A493TXN8|A0A493TXN8_ANAPP tr|A0A493TXN8|A0A493TXN8_ANAPP Myosin IH OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MYO1H PE=3 SV=1
+140	tr|A0A493TTT2|A0A493TTT2_ANAPP	tr	8840	Y	native		1	tr|A0A493TTT2|A0A493TTT2_ANAPP tr|A0A493TTT2|A0A493TTT2_ANAPP Sorbin and SH3 domain containing 2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SORBS2 PE=4 SV=1
+141	tr|A0A493TMU0|A0A493TMU0_ANAPP	tr	8840	Y	native		1	tr|A0A493TMU0|A0A493TMU0_ANAPP tr|A0A493TMU0|A0A493TMU0_ANAPP Sorbin and SH3 domain containing 2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SORBS2 PE=4 SV=1
+142	tr|A0A493TTM2|A0A493TTM2_ANAPP	tr	8840	Y	native		1	tr|A0A493TTM2|A0A493TTM2_ANAPP tr|A0A493TTM2|A0A493TTM2_ANAPP Calcium-transporting ATPase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ATP2A3 PE=3 SV=1
+143	tr|U3IQ75|U3IQ75_ANAPP	tr	8840	Y	native		1	tr|U3IQ75|U3IQ75_ANAPP tr|U3IQ75|U3IQ75_ANAPP Sodium/potassium-transporting ATPase subunit alpha OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ATP12A PE=3 SV=2
+144	tr|A0A493TNA0|A0A493TNA0_ANAPP	tr	8840	Y	native		1	tr|A0A493TNA0|A0A493TNA0_ANAPP tr|A0A493TNA0|A0A493TNA0_ANAPP Reversion-inducing cysteine-rich protein with Kazal motifs OS=Anas platyrhynchos platyrhynchos OX=8840 GN=RECK PE=3 SV=1
+145	tr|U3IAL4|U3IAL4_ANAPP	tr	8840	Y	native		1	tr|U3IAL4|U3IAL4_ANAPP tr|U3IAL4|U3IAL4_ANAPP Calcium-transporting ATPase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ATP2A2 PE=3 SV=2
+146	tr|A0A493TMI6|A0A493TMI6_ANAPP	tr	8840	Y	native		1	tr|A0A493TMI6|A0A493TMI6_ANAPP tr|A0A493TMI6|A0A493TMI6_ANAPP Calcium-transporting ATPase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ATP2A2 PE=3 SV=1
+147	tr|U3I5M9|U3I5M9_ANAPP	tr	8840	Y	native		1	tr|U3I5M9|U3I5M9_ANAPP tr|U3I5M9|U3I5M9_ANAPP Myosin IH OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MYO1H PE=3 SV=2
+148	tr|U3I0V8|U3I0V8_ANAPP	tr	8840	Y	native		1	tr|U3I0V8|U3I0V8_ANAPP tr|U3I0V8|U3I0V8_ANAPP Reversion-inducing cysteine-rich protein with Kazal motifs OS=Anas platyrhynchos platyrhynchos OX=8840 GN=RECK PE=3 SV=2
+149	tr|A0A493T850|A0A493T850_ANAPP	tr	8840	Y	native		1	tr|A0A493T850|A0A493T850_ANAPP tr|A0A493T850|A0A493T850_ANAPP Sorbin and SH3 domain containing 2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SORBS2 PE=4 SV=1
+150	tr|A0A493SV79|A0A493SV79_ANAPP	tr	8840	Y	native		1	tr|A0A493SV79|A0A493SV79_ANAPP tr|A0A493SV79|A0A493SV79_ANAPP Sodium/potassium-transporting ATPase subunit alpha OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ATP12A PE=3 SV=1
+151	tr|A0A493ST25|A0A493ST25_ANAPP	tr	8840	Y	native		1	tr|A0A493ST25|A0A493ST25_ANAPP tr|A0A493ST25|A0A493ST25_ANAPP Unconventional myosin-Id OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MYO1D PE=3 SV=1
+152	tr|A0A493U2C2|A0A493U2C2_ANAPP	tr	8840	Y	native		1	tr|A0A493U2C2|A0A493U2C2_ANAPP tr|A0A493U2C2|A0A493U2C2_ANAPP Calponin-homology (CH) domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+153	tr|U3I9V3|U3I9V3_ANAPP	tr	8840	Y	native		1	tr|U3I9V3|U3I9V3_ANAPP tr|U3I9V3|U3I9V3_ANAPP Calcium-transporting ATPase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ATP2A3 PE=3 SV=2
+154	tr|A0A493TAS9|A0A493TAS9_ANAPP	tr	8840	Y	native		1	tr|A0A493TAS9|A0A493TAS9_ANAPP tr|A0A493TAS9|A0A493TAS9_ANAPP Alpha-2-macroglobulin like 1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=A2ML1 PE=3 SV=1
+155	tr|A0A493TK60|A0A493TK60_ANAPP	tr	8840	Y	native		1	tr|A0A493TK60|A0A493TK60_ANAPP tr|A0A493TK60|A0A493TK60_ANAPP Myosin IH OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MYO1H PE=3 SV=1
+156	tr|A0A493TJS5|A0A493TJS5_ANAPP	tr	8840	Y	native		1	tr|A0A493TJS5|A0A493TJS5_ANAPP tr|A0A493TJS5|A0A493TJS5_ANAPP Calcium-transporting ATPase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ATP2C1 PE=3 SV=1
+157	tr|U3IYF7|U3IYF7_ANAPP	tr	8840	Y	native		1	tr|U3IYF7|U3IYF7_ANAPP tr|U3IYF7|U3IYF7_ANAPP Calcium-transporting ATPase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ATP2C2 PE=3 SV=2
+158	tr|A0A493TKH2|A0A493TKH2_ANAPP	tr	8840	Y	native		1	tr|A0A493TKH2|A0A493TKH2_ANAPP tr|A0A493TKH2|A0A493TKH2_ANAPP Actinin alpha 4 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ACTN4 PE=4 SV=1
+159	tr|A0A493TZG9|A0A493TZG9_ANAPP	tr	8840	Y	native		1	tr|A0A493TZG9|A0A493TZG9_ANAPP tr|A0A493TZG9|A0A493TZG9_ANAPP Actinin alpha 4 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ACTN4 PE=4 SV=1
+160	tr|A0A493TY77|A0A493TY77_ANAPP	tr	8840	Y	native		1	tr|A0A493TY77|A0A493TY77_ANAPP tr|A0A493TY77|A0A493TY77_ANAPP Titin OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+161	tr|U3ITG5|U3ITG5_ANAPP	tr	8840	Y	native		1	tr|U3ITG5|U3ITG5_ANAPP tr|U3ITG5|U3ITG5_ANAPP Calcium-transporting ATPase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ATP2C1 PE=3 SV=2
+162	tr|U3IAR4|U3IAR4_ANAPP	tr	8840	Y	native		1	tr|U3IAR4|U3IAR4_ANAPP tr|U3IAR4|U3IAR4_ANAPP Calcium-transporting ATPase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ATP2C1 PE=3 SV=2
+163	tr|A0A493TYL0|A0A493TYL0_ANAPP	tr	8840	Y	native		1	tr|A0A493TYL0|A0A493TYL0_ANAPP tr|A0A493TYL0|A0A493TYL0_ANAPP SH3 domain containing 19 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SH3D19 PE=4 SV=1
+164	tr|A0A493TVI5|A0A493TVI5_ANAPP	tr	8840	Y	native		1	tr|A0A493TVI5|A0A493TVI5_ANAPP tr|A0A493TVI5|A0A493TVI5_ANAPP Actinin alpha 1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ACTN1 PE=3 SV=1
+165	tr|A0A493T2G1|A0A493T2G1_ANAPP	tr	8840	Y	native		1	tr|A0A493T2G1|A0A493T2G1_ANAPP tr|A0A493T2G1|A0A493T2G1_ANAPP Actinin alpha 1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ACTN1 PE=3 SV=1
+166	tr|A0A493TQG9|A0A493TQG9_ANAPP	tr	8840	Y	native		1	tr|A0A493TQG9|A0A493TQG9_ANAPP tr|A0A493TQG9|A0A493TQG9_ANAPP Alpha-1,4 glucan phosphorylase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=PYGL PE=3 SV=1
+167	tr|A0A493TCE5|A0A493TCE5_ANAPP	tr	8840	Y	native		1	tr|A0A493TCE5|A0A493TCE5_ANAPP tr|A0A493TCE5|A0A493TCE5_ANAPP Actinin alpha 2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ACTN2 PE=3 SV=1
+168	tr|U3I559|U3I559_ANAPP	tr	8840	Y	native		1	tr|U3I559|U3I559_ANAPP tr|U3I559|U3I559_ANAPP Microsomal triglyceride transfer protein OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MTTP PE=4 SV=2
+169	tr|U3I4I9|U3I4I9_ANAPP	tr	8840	Y	native		1	tr|U3I4I9|U3I4I9_ANAPP tr|U3I4I9|U3I4I9_ANAPP Actinin alpha 1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ACTN1 PE=3 SV=2
+170	tr|U3IMG7|U3IMG7_ANAPP	tr	8840	Y	native		1	tr|U3IMG7|U3IMG7_ANAPP tr|U3IMG7|U3IMG7_ANAPP Actinin alpha 2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ACTN2 PE=3 SV=2
+171	tr|A0A493TX75|A0A493TX75_ANAPP	tr	8840	Y	native		1	tr|A0A493TX75|A0A493TX75_ANAPP tr|A0A493TX75|A0A493TX75_ANAPP Actinin alpha 1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ACTN1 PE=3 SV=1
+172	tr|U3IIY3|U3IIY3_ANAPP	tr	8840	Y	native		1	tr|U3IIY3|U3IIY3_ANAPP tr|U3IIY3|U3IIY3_ANAPP Complement C5 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=C5 PE=4 SV=2
+173	tr|A0A493TG00|A0A493TG00_ANAPP	tr	8840	Y	native		1	tr|A0A493TG00|A0A493TG00_ANAPP tr|A0A493TG00|A0A493TG00_ANAPP Calcium-transporting ATPase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ATP2C1 PE=3 SV=1
+174	tr|A0A493T195|A0A493T195_ANAPP	tr	8840	Y	native		1	tr|A0A493T195|A0A493T195_ANAPP tr|A0A493T195|A0A493T195_ANAPP Sorbin and SH3 domain containing 2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SORBS2 PE=4 SV=1
+175	tr|U3IDS4|U3IDS4_ANAPP	tr	8840	Y	native		1	tr|U3IDS4|U3IDS4_ANAPP tr|U3IDS4|U3IDS4_ANAPP Nebulette OS=Anas platyrhynchos platyrhynchos OX=8840 GN=NEBL PE=4 SV=2
+176	tr|U3J7X2|U3J7X2_ANAPP	tr	8840	Y	native		1	tr|U3J7X2|U3J7X2_ANAPP tr|U3J7X2|U3J7X2_ANAPP Thyroid peroxidase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TPO PE=3 SV=2
+177	tr|U3J9R8|U3J9R8_ANAPP	tr	8840	Y	native		1	tr|U3J9R8|U3J9R8_ANAPP tr|U3J9R8|U3J9R8_ANAPP Alpha-1,4 glucan phosphorylase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=PYGL PE=3 SV=2
+178	tr|U3ISG6|U3ISG6_ANAPP	tr	8840	Y	native		1	tr|U3ISG6|U3ISG6_ANAPP tr|U3ISG6|U3ISG6_ANAPP Alpha-1,4 glucan phosphorylase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=PYGB PE=3 SV=2
+179	tr|U3J013|U3J013_ANAPP	tr	8840	Y	native		1	tr|U3J013|U3J013_ANAPP tr|U3J013|U3J013_ANAPP E3 ubiquitin-protein ligase UHRF OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=2
+180	tr|A0A493T2C0|A0A493T2C0_ANAPP	tr	8840	Y	native		1	tr|A0A493T2C0|A0A493T2C0_ANAPP tr|A0A493T2C0|A0A493T2C0_ANAPP Solute carrier family 25 member 13 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SLC25A13 PE=3 SV=1
+181	tr|U3ITN4|U3ITN4_ANAPP	tr	8840	Y	native		1	tr|U3ITN4|U3ITN4_ANAPP tr|U3ITN4|U3ITN4_ANAPP Eosinophil peroxidase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=EPX PE=3 SV=2
+182	tr|U3J4T9|U3J4T9_ANAPP	tr	8840	Y	native		1	tr|U3J4T9|U3J4T9_ANAPP tr|U3J4T9|U3J4T9_ANAPP E3 ubiquitin-protein ligase UHRF OS=Anas platyrhynchos platyrhynchos OX=8840 GN=UHRF1 PE=4 SV=2
+183	tr|U3IWM0|U3IWM0_ANAPP	tr	8840	Y	native		2	tr|U3IWM0|U3IWM0_ANAPP tr|U3IWM0|U3IWM0_ANAPP BMP-binding endothelial regulator protein OS=Anas platyrhynchos platyrhynchos OX=8840 GN=BMPER PE=4 SV=2
+184	tr|U3I730|U3I730_ANAPP	tr	8840	Y	native		1	tr|U3I730|U3I730_ANAPP tr|U3I730|U3I730_ANAPP SH3 domain containing 19 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SH3D19 PE=4 SV=2
+185	tr|U3IFT3|U3IFT3_ANAPP	tr	8840	Y	native		1	tr|U3IFT3|U3IFT3_ANAPP tr|U3IFT3|U3IFT3_ANAPP Calponin-homology (CH) domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+186	tr|A0A493TSX2|A0A493TSX2_ANAPP	tr	8840	Y	native		1	tr|A0A493TSX2|A0A493TSX2_ANAPP tr|A0A493TSX2|A0A493TSX2_ANAPP SH3 domain containing 19 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SH3D19 PE=4 SV=1
+187	tr|A0A493TNX2|A0A493TNX2_ANAPP	tr	8840	Y	native		1	tr|A0A493TNX2|A0A493TNX2_ANAPP tr|A0A493TNX2|A0A493TNX2_ANAPP Ovotransferrin OS=Anas platyrhynchos platyrhynchos OX=8840 GN=LTF PE=3 SV=1
+188	tr|U3I9G7|U3I9G7_ANAPP	tr	8840	Y	native		1	tr|U3I9G7|U3I9G7_ANAPP tr|U3I9G7|U3I9G7_ANAPP Olfactomedin like 2B OS=Anas platyrhynchos platyrhynchos OX=8840 GN=OLFML2B PE=4 SV=2
+189	tr|U3IES2|U3IES2_ANAPP	tr	8840	Y	native		1	tr|U3IES2|U3IES2_ANAPP tr|U3IES2|U3IES2_ANAPP Ovotransferrin OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MELTF PE=3 SV=2
+190	tr|U3ING0|U3ING0_ANAPP	tr	8840	Y	native		1	tr|U3ING0|U3ING0_ANAPP tr|U3ING0|U3ING0_ANAPP Splicing factor 3A subunit 1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SF3A1 PE=4 SV=2
+191	tr|A0A493TBB4|A0A493TBB4_ANAPP	tr	8840	Y	native		1	tr|A0A493TBB4|A0A493TBB4_ANAPP tr|A0A493TBB4|A0A493TBB4_ANAPP Ovotransferrin OS=Anas platyrhynchos platyrhynchos OX=8840 GN=LTF PE=3 SV=1
+192	tr|U3J2Z5|U3J2Z5_ANAPP	tr	8840	Y	native		1	tr|U3J2Z5|U3J2Z5_ANAPP tr|U3J2Z5|U3J2Z5_ANAPP Olfactomedin like 2B OS=Anas platyrhynchos platyrhynchos OX=8840 GN=OLFML2B PE=4 SV=2
+193	tr|A0A493U1N2|A0A493U1N2_ANAPP	tr	8840	Y	native		1	tr|A0A493U1N2|A0A493U1N2_ANAPP tr|A0A493U1N2|A0A493U1N2_ANAPP Myosin VB OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MYO5B PE=3 SV=1
+194	tr|A0A493THG6|A0A493THG6_ANAPP	tr	8840	Y	native		1	tr|A0A493THG6|A0A493THG6_ANAPP tr|A0A493THG6|A0A493THG6_ANAPP Neural EGFL like 1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=NELL1 PE=4 SV=1
+195	tr|U3IQV6|U3IQV6_ANAPP	tr	8840	Y	native		1	tr|U3IQV6|U3IQV6_ANAPP tr|U3IQV6|U3IQV6_ANAPP Lactoperoxidase N-terminal domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+196	tr|U3I8E2|U3I8E2_ANAPP	tr	8840	Y	native		1	tr|U3I8E2|U3I8E2_ANAPP tr|U3I8E2|U3I8E2_ANAPP Zinc finger AN1-type containing 4 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ZFAND4 PE=4 SV=2
+197	tr|A0A493TBI8|A0A493TBI8_ANAPP	tr	8840	Y	native		1	tr|A0A493TBI8|A0A493TBI8_ANAPP tr|A0A493TBI8|A0A493TBI8_ANAPP Titin OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=2
+198	tr|U3J851|U3J851_ANAPP	tr	8840	Y	native		1	tr|U3J851|U3J851_ANAPP tr|U3J851|U3J851_ANAPP Ovotransferrin OS=Anas platyrhynchos platyrhynchos OX=8840 GN=LTF PE=3 SV=2
+199	tr|U3IBQ7|U3IBQ7_ANAPP	tr	8840	Y	native		1	tr|U3IBQ7|U3IBQ7_ANAPP tr|U3IBQ7|U3IBQ7_ANAPP Extracellular matrix protein 2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ECM2 PE=4 SV=2
+200	tr|U3INH3|U3INH3_ANAPP	tr	8840	Y	native		1	tr|U3INH3|U3INH3_ANAPP tr|U3INH3|U3INH3_ANAPP Sorbin and SH3 domain containing 2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SORBS2 PE=4 SV=2
+201	tr|A0A493TIC6|A0A493TIC6_ANAPP	tr	8840	Y	native		1	tr|A0A493TIC6|A0A493TIC6_ANAPP tr|A0A493TIC6|A0A493TIC6_ANAPP Ovotransferrin OS=Anas platyrhynchos platyrhynchos OX=8840 GN=LTF PE=3 SV=1
+202	tr|A0A493TZ70|A0A493TZ70_ANAPP	tr	8840	Y	native		1	tr|A0A493TZ70|A0A493TZ70_ANAPP tr|A0A493TZ70|A0A493TZ70_ANAPP Neural EGFL like 1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=NELL1 PE=4 SV=1
+203	tr|A0A493TNM0|A0A493TNM0_ANAPP	tr	8840	Y	native		1	tr|A0A493TNM0|A0A493TNM0_ANAPP tr|A0A493TNM0|A0A493TNM0_ANAPP Ovotransferrin OS=Anas platyrhynchos platyrhynchos OX=8840 GN=LTF PE=3 SV=1
+204	tr|A0A493U1H0|A0A493U1H0_ANAPP	tr	8840	Y	native		1	tr|A0A493U1H0|A0A493U1H0_ANAPP tr|A0A493U1H0|A0A493U1H0_ANAPP Ovotransferrin OS=Anas platyrhynchos platyrhynchos OX=8840 GN=LTF PE=3 SV=1
+205	tr|U3I503|U3I503_ANAPP	tr	8840	Y	native		1	tr|U3I503|U3I503_ANAPP tr|U3I503|U3I503_ANAPP Solute carrier family 25 member 12 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SLC25A12 PE=3 SV=2
+206	tr|A0A493TA61|A0A493TA61_ANAPP	tr	8840	Y	native		1	tr|A0A493TA61|A0A493TA61_ANAPP tr|A0A493TA61|A0A493TA61_ANAPP Zinc finger AN1-type containing 4 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ZFAND4 PE=4 SV=1
+207	tr|A0A493TCX7|A0A493TCX7_ANAPP	tr	8840	Y	native		1	tr|A0A493TCX7|A0A493TCX7_ANAPP tr|A0A493TCX7|A0A493TCX7_ANAPP Calponin-homology (CH) domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+208	tr|A0A493TYE5|A0A493TYE5_ANAPP	tr	8840	Y	native		1	tr|A0A493TYE5|A0A493TYE5_ANAPP tr|A0A493TYE5|A0A493TYE5_ANAPP Tomoregulin-1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TMEFF1 PE=3 SV=1
+209	tr|U3J8L3|U3J8L3_ANAPP	tr	8840	Y	native		1	tr|U3J8L3|U3J8L3_ANAPP tr|U3J8L3|U3J8L3_ANAPP Solute carrier family 25 member 13 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SLC25A13 PE=3 SV=2
+210	tr|U3IPL2|U3IPL2_ANAPP	tr	8840	Y	native		1	tr|U3IPL2|U3IPL2_ANAPP tr|U3IPL2|U3IPL2_ANAPP Tomoregulin-1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TMEFF1 PE=3 SV=1
+211	tr|A0A493U0H9|A0A493U0H9_ANAPP	tr	8840	Y	native		1	tr|A0A493U0H9|A0A493U0H9_ANAPP tr|A0A493U0H9|A0A493U0H9_ANAPP Solute carrier family 25 member 13 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SLC25A13 PE=3 SV=1
+212	tr|U3IRC5|U3IRC5_ANAPP	tr	8840	Y	native		1	tr|U3IRC5|U3IRC5_ANAPP tr|U3IRC5|U3IRC5_ANAPP Enolase 4 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ENO4 PE=3 SV=2
+213	tr|A0A493SVL3|A0A493SVL3_ANAPP	tr	8840	Y	native		1	tr|A0A493SVL3|A0A493SVL3_ANAPP tr|A0A493SVL3|A0A493SVL3_ANAPP Enolase 4 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ENO4 PE=3 SV=1
+214	tr|A0A493TF00|A0A493TF00_ANAPP	tr	8840	Y	native		1	tr|A0A493TF00|A0A493TF00_ANAPP tr|A0A493TF00|A0A493TF00_ANAPP H(+)-transporting two-sector ATPase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ATP6V1A PE=3 SV=1
+215	tr|U3IFX9|U3IFX9_ANAPP	tr	8840	Y	native		1	tr|U3IFX9|U3IFX9_ANAPP tr|U3IFX9|U3IFX9_ANAPP Kininogen 1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=KNG1 PE=4 SV=2
+216	tr|U3IJ04|U3IJ04_ANAPP	tr	8840	Y	native		1	tr|U3IJ04|U3IJ04_ANAPP tr|U3IJ04|U3IJ04_ANAPP Actin-related protein 5 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ACTR5 PE=3 SV=2
+217	tr|U3IL89|U3IL89_ANAPP	tr	8840	Y	native		1	tr|U3IL89|U3IL89_ANAPP tr|U3IL89|U3IL89_ANAPP Mucin 2, oligomeric mucus/gel-forming OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=2
+218	tr|U3J3T3|U3J3T3_ANAPP	tr	8840	Y	native		1	tr|U3J3T3|U3J3T3_ANAPP tr|U3J3T3|U3J3T3_ANAPP Prostaglandin G/H synthase 1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=PTGS1 PE=3 SV=2
+219	tr|A0A493SZG1|A0A493SZG1_ANAPP	tr	8840	Y	native		1	tr|A0A493SZG1|A0A493SZG1_ANAPP tr|A0A493SZG1|A0A493SZG1_ANAPP Ig-like domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+220	tr|U3J2J1|U3J2J1_ANAPP	tr	8840	Y	native		1	tr|U3J2J1|U3J2J1_ANAPP tr|U3J2J1|U3J2J1_ANAPP Prostaglandin G/H synthase 2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=PTGS2 PE=3 SV=2
+221	tr|U3IWV6|U3IWV6_ANAPP	tr	8840	Y	native		1	tr|U3IWV6|U3IWV6_ANAPP tr|U3IWV6|U3IWV6_ANAPP Albumin domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+222	tr|A0A493TIR6|A0A493TIR6_ANAPP	tr	8840	Y	native		1	tr|A0A493TIR6|A0A493TIR6_ANAPP tr|A0A493TIR6|A0A493TIR6_ANAPP Albumin OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ALB PE=3 SV=1
+223	tr|A0A493TED5|A0A493TED5_ANAPP	tr	8840	Y	native		1	tr|A0A493TED5|A0A493TED5_ANAPP tr|A0A493TED5|A0A493TED5_ANAPP Creatine kinase M-type OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+224	tr|U3IVV0|U3IVV0_ANAPP	tr	8840	Y	native		1	tr|U3IVV0|U3IVV0_ANAPP tr|U3IVV0|U3IVV0_ANAPP Ubiquilin 1 OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=2
+225	tr|U3IU92|U3IU92_ANAPP	tr	8840	Y	native		1	tr|U3IU92|U3IU92_ANAPP tr|U3IU92|U3IU92_ANAPP Albumin OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ALB PE=3 SV=2
+226	tr|U3IB67|U3IB67_ANAPP	tr	8840	Y	native		2	tr|U3IB67|U3IB67_ANAPP tr|U3IB67|U3IB67_ANAPP Antithrombin-III OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SERPINC1 PE=3 SV=2
+227	tr|A0A493TWJ4|A0A493TWJ4_ANAPP	tr	8840	Y	native		1	tr|A0A493TWJ4|A0A493TWJ4_ANAPP tr|A0A493TWJ4|A0A493TWJ4_ANAPP Mitochondrial adenyl nucleotide antiporter SLC25A25 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SLC25A25 PE=3 SV=1
+228	tr|U3IVL6|U3IVL6_ANAPP	tr	8840	Y	native		1	tr|U3IVL6|U3IVL6_ANAPP tr|U3IVL6|U3IVL6_ANAPP ATP synthase subunit alpha OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ATP5F1A PE=3 SV=2
+229	tr|A0A493T7V3|A0A493T7V3_ANAPP	tr	8840	Y	native		1	tr|A0A493T7V3|A0A493T7V3_ANAPP tr|A0A493T7V3|A0A493T7V3_ANAPP Titin OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+230	tr|A0A493SZZ4|A0A493SZZ4_ANAPP	tr	8840	Y	native		1	tr|A0A493SZZ4|A0A493SZZ4_ANAPP tr|A0A493SZZ4|A0A493SZZ4_ANAPP RAD23 homolog B, nucleotide excision repair protein OS=Anas platyrhynchos platyrhynchos OX=8840 GN=RAD23B PE=3 SV=1
+231	tr|A0A493TZ64|A0A493TZ64_ANAPP	tr	8840	Y	native		1	tr|A0A493TZ64|A0A493TZ64_ANAPP tr|A0A493TZ64|A0A493TZ64_ANAPP H(+)-transporting two-sector ATPase OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+232	tr|A0A493T8L0|A0A493T8L0_ANAPP	tr	8840	Y	native		1	tr|A0A493T8L0|A0A493T8L0_ANAPP tr|A0A493T8L0|A0A493T8L0_ANAPP Serpin family B member 11 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SERPINB11 PE=3 SV=1
+233	tr|U3IKP6|U3IKP6_ANAPP	tr	8840	Y	native		1	tr|U3IKP6|U3IKP6_ANAPP tr|U3IKP6|U3IKP6_ANAPP Gliomedin OS=Anas platyrhynchos platyrhynchos OX=8840 GN=GLDN PE=4 SV=2
+234	tr|U3HZW4|U3HZW4_ANAPP	tr	8840	Y	native		1	tr|U3HZW4|U3HZW4_ANAPP tr|U3HZW4|U3HZW4_ANAPP Kazal-like domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=2
+235	tr|A0A493TN43|A0A493TN43_ANAPP	tr	8840	Y	native		1	tr|A0A493TN43|A0A493TN43_ANAPP tr|A0A493TN43|A0A493TN43_ANAPP Mitochondrial adenyl nucleotide antiporter SLC25A25 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SLC25A25 PE=3 SV=1
+236	tr|A0A493T8I0|A0A493T8I0_ANAPP	tr	8840	Y	native		1	tr|A0A493T8I0|A0A493T8I0_ANAPP tr|A0A493T8I0|A0A493T8I0_ANAPP Collagen type I alpha 1 chain OS=Anas platyrhynchos platyrhynchos OX=8840 GN=COL1A1 PE=3 SV=1
+237	tr|U3I3Q3|U3I3Q3_ANAPP	tr	8840	Y	native		1	tr|U3I3Q3|U3I3Q3_ANAPP tr|U3I3Q3|U3I3Q3_ANAPP Mitochondrial adenyl nucleotide antiporter SLC25A25 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SLC25A25 PE=3 SV=2
+238	tr|A0A493TJ09|A0A493TJ09_ANAPP	tr	8840	Y	native		1	tr|A0A493TJ09|A0A493TJ09_ANAPP tr|A0A493TJ09|A0A493TJ09_ANAPP E3 ubiquitin-protein ligase parkin OS=Anas platyrhynchos platyrhynchos OX=8840 GN=PRKN PE=3 SV=1
+239	tr|U3IEA5|U3IEA5_ANAPP	tr	8840	Y	native		1	tr|U3IEA5|U3IEA5_ANAPP tr|U3IEA5|U3IEA5_ANAPP Cortactin OS=Anas platyrhynchos platyrhynchos OX=8840 GN=CTTN PE=4 SV=2
+240	tr|A0A493TN82|A0A493TN82_ANAPP	tr	8840	Y	native		1	tr|A0A493TN82|A0A493TN82_ANAPP tr|A0A493TN82|A0A493TN82_ANAPP Solute carrier family 25 member 25 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SLC25A25 PE=3 SV=1
+241	tr|A0A493T856|A0A493T856_ANAPP	tr	8840	Y	native		1	tr|A0A493T856|A0A493T856_ANAPP tr|A0A493T856|A0A493T856_ANAPP 2'-5'-oligoadenylate synthetase like OS=Anas platyrhynchos platyrhynchos OX=8840 GN=OASL PE=3 SV=1
+242	tr|A0A493SZK2|A0A493SZK2_ANAPP	tr	8840	Y	native		1	tr|A0A493SZK2|A0A493SZK2_ANAPP tr|A0A493SZK2|A0A493SZK2_ANAPP E3 ubiquitin-protein ligase parkin OS=Anas platyrhynchos platyrhynchos OX=8840 GN=PRKN PE=3 SV=1
+243	tr|U3IP65|U3IP65_ANAPP	tr	8840	Y	native		1	tr|U3IP65|U3IP65_ANAPP tr|U3IP65|U3IP65_ANAPP ATP synthase subunit beta OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ATP5F1B PE=3 SV=2
+244	tr|A0A493T0E9|A0A493T0E9_ANAPP	tr	8840	Y	native		1	tr|A0A493T0E9|A0A493T0E9_ANAPP tr|A0A493T0E9|A0A493T0E9_ANAPP E3 ubiquitin-protein ligase parkin OS=Anas platyrhynchos platyrhynchos OX=8840 GN=PRKN PE=3 SV=1
+245	tr|A0A493TYC2|A0A493TYC2_ANAPP	tr	8840	Y	native		2	tr|A0A493TYC2|A0A493TYC2_ANAPP tr|A0A493TYC2|A0A493TYC2_ANAPP Olfactomedin 4 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=OLFM4 PE=4 SV=1
+246	tr|A0A493TR31|A0A493TR31_ANAPP	tr	8840	Y	native		1	tr|A0A493TR31|A0A493TR31_ANAPP tr|A0A493TR31|A0A493TR31_ANAPP Fibrillar collagen NC1 domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+247	tr|A0A493T834|A0A493T834_ANAPP	tr	8840	Y	native		1	tr|A0A493T834|A0A493T834_ANAPP tr|A0A493T834|A0A493T834_ANAPP E3 ubiquitin-protein ligase parkin OS=Anas platyrhynchos platyrhynchos OX=8840 GN=PRKN PE=3 SV=1
+248	tr|U3IA87|U3IA87_ANAPP	tr	8840	Y	native		1	tr|U3IA87|U3IA87_ANAPP tr|U3IA87|U3IA87_ANAPP Serpin family D member 1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SERPIND1 PE=3 SV=1
+249	tr|U3INN5|U3INN5_ANAPP	tr	8840	Y	native		1	tr|U3INN5|U3INN5_ANAPP tr|U3INN5|U3INN5_ANAPP Protein kinase C and casein kinase substrate in neurons 2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=PACSIN2 PE=3 SV=1
+250	tr|U3IUC3|U3IUC3_ANAPP	tr	8840	Y	native		1	tr|U3IUC3|U3IUC3_ANAPP tr|U3IUC3|U3IUC3_ANAPP Vitamin D-binding protein OS=Anas platyrhynchos platyrhynchos OX=8840 GN=GC PE=3 SV=2
+251	tr|A0A493TBK9|A0A493TBK9_ANAPP	tr	8840	Y	native		1	tr|A0A493TBK9|A0A493TBK9_ANAPP tr|A0A493TBK9|A0A493TBK9_ANAPP Thyroxine-binding globulin OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+252	tr|A0A493SZJ9|A0A493SZJ9_ANAPP	tr	8840	Y	native		1	tr|A0A493SZJ9|A0A493SZJ9_ANAPP tr|A0A493SZJ9|A0A493SZJ9_ANAPP Myocilin OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MYOC PE=4 SV=1
+253	tr|U3IY14|U3IY14_ANAPP	tr	8840	Y	native		1	tr|U3IY14|U3IY14_ANAPP tr|U3IY14|U3IY14_ANAPP TAP binding protein like OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TAPBPL PE=4 SV=2
+254	tr|U3IER7|U3IER7_ANAPP	tr	8840	Y	native		1	tr|U3IER7|U3IER7_ANAPP tr|U3IER7|U3IER7_ANAPP Solute carrier family 25 member 24 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SLC25A24 PE=3 SV=2
+255	tr|A0A493T8X7|A0A493T8X7_ANAPP	tr	8840	Y	native		1	tr|A0A493T8X7|A0A493T8X7_ANAPP tr|A0A493T8X7|A0A493T8X7_ANAPP E3 ubiquitin-protein ligase parkin OS=Anas platyrhynchos platyrhynchos OX=8840 GN=PRKN PE=3 SV=1
+256	tr|U3IS86|U3IS86_ANAPP	tr	8840	Y	native		1	tr|U3IS86|U3IS86_ANAPP tr|U3IS86|U3IS86_ANAPP CTCK domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=2
+257	tr|A0A493TQ39|A0A493TQ39_ANAPP	tr	8840	Y	native		1	tr|A0A493TQ39|A0A493TQ39_ANAPP tr|A0A493TQ39|A0A493TQ39_ANAPP Protein kinase domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+258	tr|U3IXN8|U3IXN8_ANAPP	tr	8840	Y	native		1	tr|U3IXN8|U3IXN8_ANAPP tr|U3IXN8|U3IXN8_ANAPP C3 and PZP like alpha-2-macroglobulin domain containing 8 OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+259	tr|A0A493TN78|A0A493TN78_ANAPP	tr	8840	Y	native		1	tr|A0A493TN78|A0A493TN78_ANAPP tr|A0A493TN78|A0A493TN78_ANAPP Fructose-bisphosphate aldolase OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+260	tr|A0A493TUX8|A0A493TUX8_ANAPP	tr	8840	Y	native		1	tr|A0A493TUX8|A0A493TUX8_ANAPP tr|A0A493TUX8|A0A493TUX8_ANAPP Mitochondrial adenyl nucleotide antiporter SLC25A25 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SLC25A25 PE=3 SV=1
+261	tr|A0A493TJF6|A0A493TJF6_ANAPP	tr	8840	Y	native		1	tr|A0A493TJF6|A0A493TJF6_ANAPP tr|A0A493TJF6|A0A493TJF6_ANAPP E3 ubiquitin-protein ligase parkin OS=Anas platyrhynchos platyrhynchos OX=8840 GN=PRKN PE=3 SV=1
+262	tr|A0A493STY7|A0A493STY7_ANAPP	tr	8840	Y	native		1	tr|A0A493STY7|A0A493STY7_ANAPP tr|A0A493STY7|A0A493STY7_ANAPP Titin OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+263	tr|A0A493TJN2|A0A493TJN2_ANAPP	tr	8840	Y	native		1	tr|A0A493TJN2|A0A493TJN2_ANAPP tr|A0A493TJN2|A0A493TJN2_ANAPP Actin gamma 2, smooth muscle OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ACTG2 PE=3 SV=1
+264	tr|A0A493TVI8|A0A493TVI8_ANAPP	tr	8840	Y	native		1	tr|A0A493TVI8|A0A493TVI8_ANAPP tr|A0A493TVI8|A0A493TVI8_ANAPP E3 ubiquitin-protein ligase parkin OS=Anas platyrhynchos platyrhynchos OX=8840 GN=PRKN PE=3 SV=1
+265	tr|A0A493TBH3|A0A493TBH3_ANAPP	tr	8840	Y	native		1	tr|A0A493TBH3|A0A493TBH3_ANAPP tr|A0A493TBH3|A0A493TBH3_ANAPP HtrA serine peptidase 3 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=HTRA3 PE=3 SV=1
+266	tr|A0A493U3R6|A0A493U3R6_ANAPP	tr	8840	Y	native		1	tr|A0A493U3R6|A0A493U3R6_ANAPP tr|A0A493U3R6|A0A493U3R6_ANAPP Lipocalin/cytosolic fatty-acid binding domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+267	tr|A0A493TLR7|A0A493TLR7_ANAPP	tr	8840	Y	native		1	tr|A0A493TLR7|A0A493TLR7_ANAPP tr|A0A493TLR7|A0A493TLR7_ANAPP Actin related protein 3 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ACTR3 PE=3 SV=1
+268	tr|U3IYU6|U3IYU6_ANAPP	tr	8840	Y	native		1	tr|U3IYU6|U3IYU6_ANAPP tr|U3IYU6|U3IYU6_ANAPP E3 ubiquitin-protein ligase parkin OS=Anas platyrhynchos platyrhynchos OX=8840 GN=PRKN PE=3 SV=2
+269	tr|U3J9J8|U3J9J8_ANAPP	tr	8840	Y	native		1	tr|U3J9J8|U3J9J8_ANAPP tr|U3J9J8|U3J9J8_ANAPP Vacuolar proton pump subunit B OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ATP6V1B2 PE=3 SV=2
+270	tr|A0A493U2S1|A0A493U2S1_ANAPP	tr	8840	Y	native		1	tr|A0A493U2S1|A0A493U2S1_ANAPP tr|A0A493U2S1|A0A493U2S1_ANAPP 2'-5'-oligoadenylate synthetase like OS=Anas platyrhynchos platyrhynchos OX=8840 GN=OASL PE=3 SV=1
+271	tr|U3IRI3|U3IRI3_ANAPP	tr	8840	Y	native		1	tr|U3IRI3|U3IRI3_ANAPP tr|U3IRI3|U3IRI3_ANAPP Bactericidal permeability-increasing protein OS=Anas platyrhynchos platyrhynchos OX=8840 GN=BPIFC PE=3 SV=2
+272	tr|U3IYJ8|U3IYJ8_ANAPP	tr	8840	Y	native		1	tr|U3IYJ8|U3IYJ8_ANAPP tr|U3IYJ8|U3IYJ8_ANAPP Olfactomedin 3 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=OLFM3 PE=4 SV=2
+273	tr|A0A493TZW6|A0A493TZW6_ANAPP	tr	8840	Y	native		1	tr|A0A493TZW6|A0A493TZW6_ANAPP tr|A0A493TZW6|A0A493TZW6_ANAPP Ig-like domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+274	tr|A0A493TMD5|A0A493TMD5_ANAPP	tr	8840	Y	native		1	tr|A0A493TMD5|A0A493TMD5_ANAPP tr|A0A493TMD5|A0A493TMD5_ANAPP ADP/ATP translocase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SLC25A4 PE=3 SV=1
+275	tr|U3IXK9|U3IXK9_ANAPP	tr	8840	Y	native		1	tr|U3IXK9|U3IXK9_ANAPP tr|U3IXK9|U3IXK9_ANAPP Serpin domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+276	tr|A0A493SUY5|A0A493SUY5_ANAPP	tr	8840	Y	native		1	tr|A0A493SUY5|A0A493SUY5_ANAPP tr|A0A493SUY5|A0A493SUY5_ANAPP Follistatin like 3 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=FSTL3 PE=4 SV=1
+277	tr|U3HZV7|U3HZV7_ANAPP	tr	8840	Y	native		1	tr|U3HZV7|U3HZV7_ANAPP tr|U3HZV7|U3HZV7_ANAPP Kazal-like domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=2
+278	tr|U3IL87|U3IL87_ANAPP	tr	8840	Y	native		1	tr|U3IL87|U3IL87_ANAPP tr|U3IL87|U3IL87_ANAPP Protein kinase C and casein kinase substrate in neurons protein 1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=PACSIN1 PE=4 SV=2
+279	tr|A0A493TU40|A0A493TU40_ANAPP	tr	8840	Y	native		1	tr|A0A493TU40|A0A493TU40_ANAPP tr|A0A493TU40|A0A493TU40_ANAPP ADP/ATP translocase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SLC25A5 PE=3 SV=1
+280	tr|A0A493TAH4|A0A493TAH4_ANAPP	tr	8840	Y	native		1	tr|A0A493TAH4|A0A493TAH4_ANAPP tr|A0A493TAH4|A0A493TAH4_ANAPP Lipid-binding serum glycoprotein C-terminal domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=2
+281	tr|A0A493T047|A0A493T047_ANAPP	tr	8840	Y	native		1	tr|A0A493T047|A0A493T047_ANAPP tr|A0A493T047|A0A493T047_ANAPP Serpin family E member 2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SERPINE2 PE=3 SV=1
+282	tr|U3IWL5|U3IWL5_ANAPP	tr	8840	Y	native		1	tr|U3IWL5|U3IWL5_ANAPP tr|U3IWL5|U3IWL5_ANAPP Serpin family A member 10 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SERPINA10 PE=3 SV=2
+283	tr|U3IK76|U3IK76_ANAPP	tr	8840	Y	native		1	tr|U3IK76|U3IK76_ANAPP tr|U3IK76|U3IK76_ANAPP Protein kinase C and casein kinase substrate in neurons 3 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=PACSIN3 PE=4 SV=2
+284	tr|U3I6N8|U3I6N8_ANAPP	tr	8840	Y	native		1	tr|U3I6N8|U3I6N8_ANAPP tr|U3I6N8|U3I6N8_ANAPP Lipid-binding serum glycoprotein C-terminal domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=3
+285	tr|A0A493TB12|A0A493TB12_ANAPP	tr	8840	Y	native		1	tr|A0A493TB12|A0A493TB12_ANAPP tr|A0A493TB12|A0A493TB12_ANAPP Serpin family E member 2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SERPINE2 PE=3 SV=1
+286	tr|A0A493TNM4|A0A493TNM4_ANAPP	tr	8840	Y	native		1	tr|A0A493TNM4|A0A493TNM4_ANAPP tr|A0A493TNM4|A0A493TNM4_ANAPP SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SPOCK3 PE=4 SV=1
+287	tr|A0A493T2D7|A0A493T2D7_ANAPP	tr	8840	Y	native		1	tr|A0A493T2D7|A0A493T2D7_ANAPP tr|A0A493T2D7|A0A493T2D7_ANAPP Creatine kinase OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+288	tr|A0A493TTY7|A0A493TTY7_ANAPP	tr	8840	Y	native		1	tr|A0A493TTY7|A0A493TTY7_ANAPP tr|A0A493TTY7|A0A493TTY7_ANAPP Serpin family E member 2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SERPINE2 PE=3 SV=1
+289	tr|A0A493T078|A0A493T078_ANAPP	tr	8840	Y	native		1	tr|A0A493T078|A0A493T078_ANAPP tr|A0A493T078|A0A493T078_ANAPP Serpin family I member 1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SERPINI1 PE=3 SV=1
+290	tr|A0A493T6X4|A0A493T6X4_ANAPP	tr	8840	Y	native		1	tr|A0A493T6X4|A0A493T6X4_ANAPP tr|A0A493T6X4|A0A493T6X4_ANAPP Serpin family E member 2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SERPINE2 PE=3 SV=1
+291	tr|U3IZX5|U3IZX5_ANAPP	tr	8840	Y	native		1	tr|U3IZX5|U3IZX5_ANAPP tr|U3IZX5|U3IZX5_ANAPP Fibrillar collagen NC1 domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+292	tr|U3I5S1|U3I5S1_ANAPP	tr	8840	Y	native		1	tr|U3I5S1|U3I5S1_ANAPP tr|U3I5S1|U3I5S1_ANAPP Lipid-binding serum glycoprotein N-terminal domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=2
+293	tr|U3IXI7|U3IXI7_ANAPP	tr	8840	Y	native		1	tr|U3IXI7|U3IXI7_ANAPP tr|U3IXI7|U3IXI7_ANAPP Serpin domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+294	tr|A0A493T2Q5|A0A493T2Q5_ANAPP	tr	8840	Y	native		1	tr|A0A493T2Q5|A0A493T2Q5_ANAPP tr|A0A493T2Q5|A0A493T2Q5_ANAPP Serpin family E member 2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SERPINE2 PE=3 SV=1
+295	tr|U3I0R2|U3I0R2_ANAPP	tr	8840	Y	native		1	tr|U3I0R2|U3I0R2_ANAPP tr|U3I0R2|U3I0R2_ANAPP Actin like 9 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ACTL9 PE=3 SV=2
+296	tr|A0A493T583|A0A493T583_ANAPP	tr	8840	Y	native		1	tr|A0A493T583|A0A493T583_ANAPP tr|A0A493T583|A0A493T583_ANAPP ADP/ATP translocase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SLC25A5 PE=3 SV=1
+297	tr|A0A493THS0|A0A493THS0_ANAPP	tr	8840	Y	native		1	tr|A0A493THS0|A0A493THS0_ANAPP tr|A0A493THS0|A0A493THS0_ANAPP Uncharacterized protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+298	tr|U3IGH1|U3IGH1_ANAPP	tr	8840	Y	native		1	tr|U3IGH1|U3IGH1_ANAPP tr|U3IGH1|U3IGH1_ANAPP Creatine kinase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=CKMT2 PE=3 SV=2
+299	tr|U3IY44|U3IY44_ANAPP	tr	8840	Y	native		1	tr|U3IY44|U3IY44_ANAPP tr|U3IY44|U3IY44_ANAPP Serpin domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+300	tr|U3IAT5|U3IAT5_ANAPP	tr	8840	Y	native		1	tr|U3IAT5|U3IAT5_ANAPP tr|U3IAT5|U3IAT5_ANAPP Actin related protein 3B OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+301	tr|A0A493U453|A0A493U453_ANAPP	tr	8840	Y	native		1	tr|A0A493U453|A0A493U453_ANAPP tr|A0A493U453|A0A493U453_ANAPP Actin related protein 3 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ACTR3 PE=3 SV=1
+302	tr|U3J944|U3J944_ANAPP	tr	8840	Y	native		1	tr|U3J944|U3J944_ANAPP tr|U3J944|U3J944_ANAPP Actin-related protein 10 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ACTR10 PE=3 SV=2
+303	tr|U3J114|U3J114_ANAPP	tr	8840	Y	native		1	tr|U3J114|U3J114_ANAPP tr|U3J114|U3J114_ANAPP Serpin family I member 1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SERPINI1 PE=3 SV=2
+304	tr|U3IWR8|U3IWR8_ANAPP	tr	8840	Y	native		1	tr|U3IWR8|U3IWR8_ANAPP tr|U3IWR8|U3IWR8_ANAPP Serpin domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+305	tr|A0A493TT88|A0A493TT88_ANAPP	tr	8840	Y	native		1	tr|A0A493TT88|A0A493TT88_ANAPP tr|A0A493TT88|A0A493TT88_ANAPP Ig-like domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+306	tr|A0A493SZW3|A0A493SZW3_ANAPP	tr	8840	Y	native		1	tr|A0A493SZW3|A0A493SZW3_ANAPP tr|A0A493SZW3|A0A493SZW3_ANAPP Actin like 7A OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ACTL7A PE=3 SV=1
+307	tr|A0A493U080|A0A493U080_ANAPP	tr	8840	Y	native		1	tr|A0A493U080|A0A493U080_ANAPP tr|A0A493U080|A0A493U080_ANAPP Glyceraldehyde-3-phosphate dehydrogenase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TAPBPL PE=3 SV=1
+308	tr|A0A493TVV5|A0A493TVV5_ANAPP	tr	8840	Y	native		1	tr|A0A493TVV5|A0A493TVV5_ANAPP tr|A0A493TVV5|A0A493TVV5_ANAPP Serpin family E member 2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SERPINE2 PE=3 SV=1
+309	tr|A0A493TRG9|A0A493TRG9_ANAPP	tr	8840	Y	native		1	tr|A0A493TRG9|A0A493TRG9_ANAPP tr|A0A493TRG9|A0A493TRG9_ANAPP H(+)-transporting two-sector ATPase OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+310	tr|A0A493T0U2|A0A493T0U2_ANAPP	tr	8840	Y	native		1	tr|A0A493T0U2|A0A493T0U2_ANAPP tr|A0A493T0U2|A0A493T0U2_ANAPP Troponin T3, fast skeletal type OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TNNT3 PE=3 SV=1
+311	tr|A0A493T6U6|A0A493T6U6_ANAPP	tr	8840	Y	native		1	tr|A0A493T6U6|A0A493T6U6_ANAPP tr|A0A493T6U6|A0A493T6U6_ANAPP phosphopyruvate hydratase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ENO2 PE=3 SV=1
+312	tr|U3IW20|U3IW20_ANAPP	tr	8840	Y	native		1	tr|U3IW20|U3IW20_ANAPP tr|U3IW20|U3IW20_ANAPP Endoplasmic reticulum protein 44 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ERP44 PE=4 SV=2
+313	tr|U3I171|U3I171_ANAPP	tr	8840	Y	native		1	tr|U3I171|U3I171_ANAPP tr|U3I171|U3I171_ANAPP Serpin B10 OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+314	tr|U3IUW7|U3IUW7_ANAPP	tr	8840	Y	native		1	tr|U3IUW7|U3IUW7_ANAPP tr|U3IUW7|U3IUW7_ANAPP Calsequestrin OS=Anas platyrhynchos platyrhynchos OX=8840 GN=CASQ2 PE=3 SV=1
+315	tr|U3IZI5|U3IZI5_ANAPP	tr	8840	Y	native		1	tr|U3IZI5|U3IZI5_ANAPP tr|U3IZI5|U3IZI5_ANAPP Actin related protein 3 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ACTR3 PE=3 SV=2
+316	tr|A0A493SVK7|A0A493SVK7_ANAPP	tr	8840	Y	native		1	tr|A0A493SVK7|A0A493SVK7_ANAPP tr|A0A493SVK7|A0A493SVK7_ANAPP Troponin T3, fast skeletal type OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TNNT3 PE=3 SV=1
+317	tr|A0A493STR2|A0A493STR2_ANAPP	tr	8840	Y	native		1	tr|A0A493STR2|A0A493STR2_ANAPP tr|A0A493STR2|A0A493STR2_ANAPP Troponin C, skeletal muscle OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TNNC2 PE=3 SV=1
+318	tr|U3IM97|U3IM97_ANAPP	tr	8840	Y	native		1	tr|U3IM97|U3IM97_ANAPP tr|U3IM97|U3IM97_ANAPP Serpin family E member 2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SERPINE2 PE=3 SV=2
+319	tr|A0A493TYC3|A0A493TYC3_ANAPP	tr	8840	Y	native		1	tr|A0A493TYC3|A0A493TYC3_ANAPP tr|A0A493TYC3|A0A493TYC3_ANAPP Actin related protein 3 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ACTR3 PE=3 SV=1
+320	tr|A0A493TRW0|A0A493TRW0_ANAPP	tr	8840	Y	native		1	tr|A0A493TRW0|A0A493TRW0_ANAPP tr|A0A493TRW0|A0A493TRW0_ANAPP Actin-related protein 2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ACTR2 PE=3 SV=1
+321	tr|U3IGE7|U3IGE7_ANAPP	tr	8840	Y	native		1	tr|U3IGE7|U3IGE7_ANAPP tr|U3IGE7|U3IGE7_ANAPP Olfactomedin like 1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=OLFML1 PE=4 SV=2
+322	tr|A0A493SS61|A0A493SS61_ANAPP	tr	8840	Y	native		1	tr|A0A493SS61|A0A493SS61_ANAPP tr|A0A493SS61|A0A493SS61_ANAPP Serpin domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+323	tr|U3IPM3|U3IPM3_ANAPP	tr	8840	Y	native		1	tr|U3IPM3|U3IPM3_ANAPP tr|U3IPM3|U3IPM3_ANAPP Actin-related protein 2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ACTR2 PE=3 SV=2
+324	tr|U3ISZ7|U3ISZ7_ANAPP	tr	8840	Y	native		1	tr|U3ISZ7|U3ISZ7_ANAPP tr|U3ISZ7|U3ISZ7_ANAPP Creatine kinase OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+325	tr|U3IKY8|U3IKY8_ANAPP	tr	8840	Y	native		1	tr|U3IKY8|U3IKY8_ANAPP tr|U3IKY8|U3IKY8_ANAPP Serpin domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+326	tr|U3ILX5|U3ILX5_ANAPP	tr	8840	Y	native		1	tr|U3ILX5|U3ILX5_ANAPP tr|U3ILX5|U3ILX5_ANAPP Serpin domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+327	tr|U3IEJ7|U3IEJ7_ANAPP	tr	8840	Y	native		1	tr|U3IEJ7|U3IEJ7_ANAPP tr|U3IEJ7|U3IEJ7_ANAPP Actin alpha 2, smooth muscle OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ACTA2 PE=3 SV=2
+328	tr|U3ITV7|U3ITV7_ANAPP	tr	8840	Y	native		1	tr|U3ITV7|U3ITV7_ANAPP tr|U3ITV7|U3ITV7_ANAPP Olfactomedin like 3 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=OLFML3 PE=3 SV=2
+329	tr|U3IWJ4|U3IWJ4_ANAPP	tr	8840	Y	native		1	tr|U3IWJ4|U3IWJ4_ANAPP tr|U3IWJ4|U3IWJ4_ANAPP Actin like 6A OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ACTL6A PE=3 SV=2
+330	tr|A0A493TFK1|A0A493TFK1_ANAPP	tr	8840	Y	native		1	tr|A0A493TFK1|A0A493TFK1_ANAPP tr|A0A493TFK1|A0A493TFK1_ANAPP Creatine kinase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=CKB PE=3 SV=1
+331	tr|A0A493TK65|A0A493TK65_ANAPP	tr	8840	Y	native		1	tr|A0A493TK65|A0A493TK65_ANAPP tr|A0A493TK65|A0A493TK65_ANAPP H(+)-transporting two-sector ATPase OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+332	tr|A0A493U3S5|A0A493U3S5_ANAPP	tr	8840	Y	native		1	tr|A0A493U3S5|A0A493U3S5_ANAPP tr|A0A493U3S5|A0A493U3S5_ANAPP SH3 domain containing 19 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SH3D19 PE=4 SV=1
+333	tr|A0A493TXG7|A0A493TXG7_ANAPP	tr	8840	Y	native		1	tr|A0A493TXG7|A0A493TXG7_ANAPP tr|A0A493TXG7|A0A493TXG7_ANAPP Serpin family I member 1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SERPINI1 PE=3 SV=1
+334	tr|U3IYQ0|U3IYQ0_ANAPP	tr	8840	Y	native		1	tr|U3IYQ0|U3IYQ0_ANAPP tr|U3IYQ0|U3IYQ0_ANAPP Serpin B6 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SERPINB8 PE=3 SV=2
+335	tr|U3IZV0|U3IZV0_ANAPP	tr	8840	Y	native		1	tr|U3IZV0|U3IZV0_ANAPP tr|U3IZV0|U3IZV0_ANAPP Serpin family B member 1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SERPINB1 PE=3 SV=2
+336	tr|U3I8T6|U3I8T6_ANAPP	tr	8840	Y	native		1	tr|U3I8T6|U3I8T6_ANAPP tr|U3I8T6|U3I8T6_ANAPP Actin alpha 1, skeletal muscle OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ACTA1 PE=3 SV=2
+337	tr|U3IP16|U3IP16_ANAPP	tr	8840	Y	native		1	tr|U3IP16|U3IP16_ANAPP tr|U3IP16|U3IP16_ANAPP Actin alpha cardiac muscle 1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ACTC1 PE=3 SV=2
+338	tr|A0A493TVF5|A0A493TVF5_ANAPP	tr	8840	Y	native		1	tr|A0A493TVF5|A0A493TVF5_ANAPP tr|A0A493TVF5|A0A493TVF5_ANAPP Actin alpha 2, smooth muscle OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ACTA2 PE=3 SV=1
+339	tr|U3IFT6|U3IFT6_ANAPP	tr	8840	Y	native		1	tr|U3IFT6|U3IFT6_ANAPP tr|U3IFT6|U3IFT6_ANAPP Actin alpha 2, smooth muscle OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+340	tr|U3I174|U3I174_ANAPP	tr	8840	Y	native		1	tr|U3I174|U3I174_ANAPP tr|U3I174|U3I174_ANAPP Uncharacterized protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+341	tr|A0A493TZX0|A0A493TZX0_ANAPP	tr	8840	Y	native		1	tr|A0A493TZX0|A0A493TZX0_ANAPP tr|A0A493TZX0|A0A493TZX0_ANAPP Serpin family B member 5 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SERPINB5 PE=3 SV=1
+342	tr|A0A493T8E7|A0A493T8E7_ANAPP	tr	8840	Y	native		1	tr|A0A493T8E7|A0A493T8E7_ANAPP tr|A0A493T8E7|A0A493T8E7_ANAPP Actin gamma 1 OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+343	tr|U3ITW9|U3ITW9_ANAPP	tr	8840	Y	native		1	tr|U3ITW9|U3ITW9_ANAPP tr|U3ITW9|U3ITW9_ANAPP Creatine kinase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=CKB PE=3 SV=1
+344	tr|A0A493THF1|A0A493THF1_ANAPP	tr	8840	Y	native		1	tr|A0A493THF1|A0A493THF1_ANAPP tr|A0A493THF1|A0A493THF1_ANAPP SH3 domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+345	tr|A0A493T1W0|A0A493T1W0_ANAPP	tr	8840	Y	native		1	tr|A0A493T1W0|A0A493T1W0_ANAPP tr|A0A493T1W0|A0A493T1W0_ANAPP superoxide dismutase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=CYGB PE=3 SV=1
+346	tr|U3I560|U3I560_ANAPP	tr	8840	Y	native		1	tr|U3I560|U3I560_ANAPP tr|U3I560|U3I560_ANAPP Actin alpha 2, smooth muscle OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ACTA2 PE=3 SV=2
+347	tr|A0A493T6J7|A0A493T6J7_ANAPP	tr	8840	Y	native		1	tr|A0A493T6J7|A0A493T6J7_ANAPP tr|A0A493T6J7|A0A493T6J7_ANAPP Alpha-macroglobulin receptor-binding domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+348	tr|U3IHG8|U3IHG8_ANAPP	tr	8840	Y	native		1	tr|U3IHG8|U3IHG8_ANAPP tr|U3IHG8|U3IHG8_ANAPP Fructose-bisphosphate aldolase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ALDOB PE=3 SV=2
+349	tr|A0A493TUY2|A0A493TUY2_ANAPP	tr	8840	Y	native		1	tr|A0A493TUY2|A0A493TUY2_ANAPP tr|A0A493TUY2|A0A493TUY2_ANAPP Glyceraldehyde-3-phosphate dehydrogenase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TAPBPL PE=3 SV=1
+350	tr|U3J820|U3J820_ANAPP	tr	8840	Y	native		1	tr|U3J820|U3J820_ANAPP tr|U3J820|U3J820_ANAPP Calcium binding protein 1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=CABP1 PE=4 SV=2
+351	tr|A0A493TRM1|A0A493TRM1_ANAPP	tr	8840	Y	native		2	tr|A0A493TRM1|A0A493TRM1_ANAPP tr|A0A493TRM1|A0A493TRM1_ANAPP Tropomyosin 3 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TPM3 PE=3 SV=1
+352	tr|A0A493U0C7|A0A493U0C7_ANAPP	tr	8840	Y	native		1	tr|A0A493U0C7|A0A493U0C7_ANAPP tr|A0A493U0C7|A0A493U0C7_ANAPP Nebulette OS=Anas platyrhynchos platyrhynchos OX=8840 GN=NEBL PE=4 SV=1
+353	tr|U3INW9|U3INW9_ANAPP	tr	8840	Y	native		1	tr|U3INW9|U3INW9_ANAPP tr|U3INW9|U3INW9_ANAPP CCN family member 2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=CCN2 PE=3 SV=2
+354	tr|U3J3Q4|U3J3Q4_ANAPP	tr	8840	Y	native		1	tr|U3J3Q4|U3J3Q4_ANAPP tr|U3J3Q4|U3J3Q4_ANAPP Follistatin OS=Anas platyrhynchos platyrhynchos OX=8840 GN=FST PE=4 SV=2
+355	tr|A0A493TRJ4|A0A493TRJ4_ANAPP	tr	8840	Y	native		1	tr|A0A493TRJ4|A0A493TRJ4_ANAPP tr|A0A493TRJ4|A0A493TRJ4_ANAPP Solute carrier family 25 member 43 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SLC25A43 PE=3 SV=1
+356	tr|U3IXN4|U3IXN4_ANAPP	tr	8840	Y	native		1	tr|U3IXN4|U3IXN4_ANAPP tr|U3IXN4|U3IXN4_ANAPP Actin related protein 6 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ACTR6 PE=3 SV=2
+357	tr|A0A493TQC9|A0A493TQC9_ANAPP	tr	8840	Y	native		1	tr|A0A493TQC9|A0A493TQC9_ANAPP tr|A0A493TQC9|A0A493TQC9_ANAPP Glyceraldehyde-3-phosphate dehydrogenase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TAPBPL PE=3 SV=1
+358	tr|A0A493TZ56|A0A493TZ56_ANAPP	tr	8840	Y	native		1	tr|A0A493TZ56|A0A493TZ56_ANAPP tr|A0A493TZ56|A0A493TZ56_ANAPP Uncharacterized protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+359	tr|U3J334|U3J334_ANAPP	tr	8840	Y	native		1	tr|U3J334|U3J334_ANAPP tr|U3J334|U3J334_ANAPP Transmembrane protein with EGF like and two follistatin like domains 2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TMEFF2 PE=3 SV=1
+360	tr|U3IRK7|U3IRK7_ANAPP	tr	8840	Y	native		1	tr|U3IRK7|U3IRK7_ANAPP tr|U3IRK7|U3IRK7_ANAPP Actin beta OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+361	tr|A0A493U3V6|A0A493U3V6_ANAPP	tr	8840	Y	native		1	tr|A0A493U3V6|A0A493U3V6_ANAPP tr|A0A493U3V6|A0A493U3V6_ANAPP Tropomyosin 3 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TPM3 PE=3 SV=1
+362	tr|A0A493U192|A0A493U192_ANAPP	tr	8840	Y	native		1	tr|A0A493U192|A0A493U192_ANAPP tr|A0A493U192|A0A493U192_ANAPP Nebulette OS=Anas platyrhynchos platyrhynchos OX=8840 GN=NEBL PE=4 SV=1
+363	tr|A0A493TBW8|A0A493TBW8_ANAPP	tr	8840	Y	native		1	tr|A0A493TBW8|A0A493TBW8_ANAPP tr|A0A493TBW8|A0A493TBW8_ANAPP Nebulette OS=Anas platyrhynchos platyrhynchos OX=8840 GN=NEBL PE=4 SV=1
+364	tr|A0A493TUJ0|A0A493TUJ0_ANAPP	tr	8840	Y	native		1	tr|A0A493TUJ0|A0A493TUJ0_ANAPP tr|A0A493TUJ0|A0A493TUJ0_ANAPP ADP/ATP translocase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SLC25A6 PE=3 SV=1
+365	tr|U3IG12|U3IG12_ANAPP	tr	8840	Y	native		1	tr|U3IG12|U3IG12_ANAPP tr|U3IG12|U3IG12_ANAPP Mitochondrial coenzyme A transporter SLC25A42 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SLC25A42 PE=3 SV=2
+366	tr|U3I3Q8|U3I3Q8_ANAPP	tr	8840	Y	native		1	tr|U3I3Q8|U3I3Q8_ANAPP tr|U3I3Q8|U3I3Q8_ANAPP Myosin binding protein H OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MYBPH PE=4 SV=2
+367	tr|A0A493TNW0|A0A493TNW0_ANAPP	tr	8840	Y	native		1	tr|A0A493TNW0|A0A493TNW0_ANAPP tr|A0A493TNW0|A0A493TNW0_ANAPP Fibronectin type-III domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+368	tr|A0A493TJC7|A0A493TJC7_ANAPP	tr	8840	Y	native		1	tr|A0A493TJC7|A0A493TJC7_ANAPP tr|A0A493TJC7|A0A493TJC7_ANAPP Fibronectin type-III domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+369	tr|U3J6C6|U3J6C6_ANAPP	tr	8840	Y	native		1	tr|U3J6C6|U3J6C6_ANAPP tr|U3J6C6|U3J6C6_ANAPP Solute carrier family 25 member 16 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SLC25A16 PE=3 SV=1
+370	tr|A0A493TG90|A0A493TG90_ANAPP	tr	8840	Y	native		1	tr|A0A493TG90|A0A493TG90_ANAPP tr|A0A493TG90|A0A493TG90_ANAPP Troponin T3, fast skeletal type OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TNNT3 PE=3 SV=1
+371	tr|A0A493U2V9|A0A493U2V9_ANAPP	tr	8840	Y	native		1	tr|A0A493U2V9|A0A493U2V9_ANAPP tr|A0A493U2V9|A0A493U2V9_ANAPP Troponin T3, fast skeletal type OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TNNT3 PE=3 SV=1
+372	tr|U3J1L1|U3J1L1_ANAPP	tr	8840	Y	native		1	tr|U3J1L1|U3J1L1_ANAPP tr|U3J1L1|U3J1L1_ANAPP Glyceraldehyde-3-phosphate dehydrogenase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TAPBPL PE=3 SV=2
+373	tr|A0A493TBZ5|A0A493TBZ5_ANAPP	tr	8840	Y	native		1	tr|A0A493TBZ5|A0A493TBZ5_ANAPP tr|A0A493TBZ5|A0A493TBZ5_ANAPP Globin domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+374	tr|A0A493T9A7|A0A493T9A7_ANAPP	tr	8840	Y	native		1	tr|A0A493T9A7|A0A493T9A7_ANAPP tr|A0A493T9A7|A0A493T9A7_ANAPP Globin domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+375	tr|U3IZA4|U3IZA4_ANAPP	tr	8840	Y	native		1	tr|U3IZA4|U3IZA4_ANAPP tr|U3IZA4|U3IZA4_ANAPP Troponin T2, cardiac type OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TNNT2 PE=3 SV=2
+376	tr|A0A493TS54|A0A493TS54_ANAPP	tr	8840	Y	native		1	tr|A0A493TS54|A0A493TS54_ANAPP tr|A0A493TS54|A0A493TS54_ANAPP Nebulette OS=Anas platyrhynchos platyrhynchos OX=8840 GN=NEBL PE=4 SV=1
+377	tr|A0A493T9K5|A0A493T9K5_ANAPP	tr	8840	Y	native		1	tr|A0A493T9K5|A0A493T9K5_ANAPP tr|A0A493T9K5|A0A493T9K5_ANAPP Troponin T3, fast skeletal type OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TNNT3 PE=3 SV=1
+378	tr|U3I7D6|U3I7D6_ANAPP	tr	8840	Y	native		1	tr|U3I7D6|U3I7D6_ANAPP tr|U3I7D6|U3I7D6_ANAPP superoxide dismutase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=CYGB PE=3 SV=2
+379	tr|A0A493TVA4|A0A493TVA4_ANAPP	tr	8840	Y	native		1	tr|A0A493TVA4|A0A493TVA4_ANAPP tr|A0A493TVA4|A0A493TVA4_ANAPP Myosin light chain 9 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MYL9 PE=4 SV=1
+380	tr|A0A493SZK9|A0A493SZK9_ANAPP	tr	8840	Y	native		1	tr|A0A493SZK9|A0A493SZK9_ANAPP tr|A0A493SZK9|A0A493SZK9_ANAPP Glyceraldehyde-3-phosphate dehydrogenase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TAPBPL PE=3 SV=1
+381	tr|A0A493TLF3|A0A493TLF3_ANAPP	tr	8840	Y	native		1	tr|A0A493TLF3|A0A493TLF3_ANAPP tr|A0A493TLF3|A0A493TLF3_ANAPP ADP/ATP translocase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SLC25A6 PE=3 SV=1
+382	tr|U3J6G2|U3J6G2_ANAPP	tr	8840	Y	native		1	tr|U3J6G2|U3J6G2_ANAPP tr|U3J6G2|U3J6G2_ANAPP Tropomyosin 3 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TPM3 PE=3 SV=2
+383	tr|U3IUQ7|U3IUQ7_ANAPP	tr	8840	Y	native		1	tr|U3IUQ7|U3IUQ7_ANAPP tr|U3IUQ7|U3IUQ7_ANAPP ADP/ATP translocase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SLC25A4 PE=3 SV=2
+384	tr|U3IXX4|U3IXX4_ANAPP	tr	8840	Y	native		1	tr|U3IXX4|U3IXX4_ANAPP tr|U3IXX4|U3IXX4_ANAPP ADP/ATP translocase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SLC25A6 PE=3 SV=2
+385	tr|A0A493TZT0|A0A493TZT0_ANAPP	tr	8840	Y	native		2	tr|A0A493TZT0|A0A493TZT0_ANAPP tr|A0A493TZT0|A0A493TZT0_ANAPP Solute carrier family 25 member 30 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SLC25A30 PE=3 SV=1
+386	tr|U3I466|U3I466_ANAPP	tr	8840	Y	native		1	tr|U3I466|U3I466_ANAPP tr|U3I466|U3I466_ANAPP Apolipoprotein M OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=2
+387	tr|A0A493T2H9|A0A493T2H9_ANAPP	tr	8840	Y	native		1	tr|A0A493T2H9|A0A493T2H9_ANAPP tr|A0A493T2H9|A0A493T2H9_ANAPP Myosin light chain 4 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MYL4 PE=4 SV=1
+388	tr|A0A493TVG4|A0A493TVG4_ANAPP	tr	8840	Y	native		1	tr|A0A493TVG4|A0A493TVG4_ANAPP tr|A0A493TVG4|A0A493TVG4_ANAPP Drebrin like OS=Anas platyrhynchos platyrhynchos OX=8840 GN=DBNL PE=4 SV=1
+389	tr|A0A493SZ00|A0A493SZ00_ANAPP	tr	8840	Y	native		1	tr|A0A493SZ00|A0A493SZ00_ANAPP tr|A0A493SZ00|A0A493SZ00_ANAPP ADP/ATP translocase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SLC25A31 PE=3 SV=1
+390	tr|A0A493TGA4|A0A493TGA4_ANAPP	tr	8840	Y	native		1	tr|A0A493TGA4|A0A493TGA4_ANAPP tr|A0A493TGA4|A0A493TGA4_ANAPP Troponin T3, fast skeletal type OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TNNT3 PE=3 SV=1
+391	tr|A0A493TU54|A0A493TU54_ANAPP	tr	8840	Y	native		1	tr|A0A493TU54|A0A493TU54_ANAPP tr|A0A493TU54|A0A493TU54_ANAPP Tropomyosin 3 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TPM3 PE=3 SV=1
+392	tr|A0A493TWB7|A0A493TWB7_ANAPP	tr	8840	Y	native		1	tr|A0A493TWB7|A0A493TWB7_ANAPP tr|A0A493TWB7|A0A493TWB7_ANAPP Creatine kinase M-type OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+393	tr|A0A493TUS7|A0A493TUS7_ANAPP	tr	8840	Y	native		1	tr|A0A493TUS7|A0A493TUS7_ANAPP tr|A0A493TUS7|A0A493TUS7_ANAPP Tropomyosin 3 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TPM3 PE=3 SV=1
+394	tr|A0A493TQN0|A0A493TQN0_ANAPP	tr	8840	Y	native		1	tr|A0A493TQN0|A0A493TQN0_ANAPP tr|A0A493TQN0|A0A493TQN0_ANAPP Tropomyosin 2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TPM2 PE=3 SV=1
+395	tr|A0A493TGU8|A0A493TGU8_ANAPP	tr	8840	Y	native		1	tr|A0A493TGU8|A0A493TGU8_ANAPP tr|A0A493TGU8|A0A493TGU8_ANAPP Tropomyosin 4 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TPM4 PE=3 SV=1
+396	tr|U3I7J8|U3I7J8_ANAPP	tr	8840	Y	native		1	tr|U3I7J8|U3I7J8_ANAPP tr|U3I7J8|U3I7J8_ANAPP Tropomyosin alpha-1 chain OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TPM1 PE=3 SV=1
+397	tr|U3J937|U3J937_ANAPP	tr	8840	Y	native		1	tr|U3J937|U3J937_ANAPP tr|U3J937|U3J937_ANAPP Ovomucoid OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=2
+398	tr|U3I9S0|U3I9S0_ANAPP	tr	8840	Y	native		1	tr|U3I9S0|U3I9S0_ANAPP tr|U3I9S0|U3I9S0_ANAPP Tropomyosin 2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TPM2 PE=3 SV=2
+399	tr|A0A493SX33|A0A493SX33_ANAPP	tr	8840	Y	native		1	tr|A0A493SX33|A0A493SX33_ANAPP tr|A0A493SX33|A0A493SX33_ANAPP Calcium binding protein 4 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=CABP4 PE=4 SV=1
+400	tr|A0A493THR4|A0A493THR4_ANAPP	tr	8840	Y	native		1	tr|A0A493THR4|A0A493THR4_ANAPP tr|A0A493THR4|A0A493THR4_ANAPP Tropomyosin 2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TPM2 PE=3 SV=1
+401	tr|A0A493TRV2|A0A493TRV2_ANAPP	tr	8840	Y	native		1	tr|A0A493TRV2|A0A493TRV2_ANAPP tr|A0A493TRV2|A0A493TRV2_ANAPP Tropomyosin 3 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TPM3 PE=3 SV=1
+402	tr|A0A493TXG5|A0A493TXG5_ANAPP	tr	8840	Y	native		1	tr|A0A493TXG5|A0A493TXG5_ANAPP tr|A0A493TXG5|A0A493TXG5_ANAPP Troponin T3, fast skeletal type OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TNNT3 PE=3 SV=1
+403	tr|A0A493TLJ4|A0A493TLJ4_ANAPP	tr	8840	Y	native		1	tr|A0A493TLJ4|A0A493TLJ4_ANAPP tr|A0A493TLJ4|A0A493TLJ4_ANAPP ADP/ATP translocase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SLC25A31 PE=3 SV=1
+404	tr|A0A493THB9|A0A493THB9_ANAPP	tr	8840	Y	native		1	tr|A0A493THB9|A0A493THB9_ANAPP tr|A0A493THB9|A0A493THB9_ANAPP Tropomyosin 3 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TPM3 PE=3 SV=1
+405	tr|A0A493T5S9|A0A493T5S9_ANAPP	tr	8840	Y	native		1	tr|A0A493T5S9|A0A493T5S9_ANAPP tr|A0A493T5S9|A0A493T5S9_ANAPP Troponin T3, fast skeletal type OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TNNT3 PE=3 SV=1
+406	tr|U3IE20|U3IE20_ANAPP	tr	8840	Y	native		1	tr|U3IE20|U3IE20_ANAPP tr|U3IE20|U3IE20_ANAPP Calbindin OS=Anas platyrhynchos platyrhynchos OX=8840 GN=CALB1 PE=3 SV=2
+407	tr|U3IX27|U3IX27_ANAPP	tr	8840	Y	native		1	tr|U3IX27|U3IX27_ANAPP tr|U3IX27|U3IX27_ANAPP Troponin T3, fast skeletal type OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TNNT3 PE=3 SV=2
+408	tr|A0A493TQH5|A0A493TQH5_ANAPP	tr	8840	Y	native		1	tr|A0A493TQH5|A0A493TQH5_ANAPP tr|A0A493TQH5|A0A493TQH5_ANAPP ADP/ATP translocase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SLC25A31 PE=3 SV=1
+409	tr|A0A493TSH1|A0A493TSH1_ANAPP	tr	8840	Y	native		1	tr|A0A493TSH1|A0A493TSH1_ANAPP tr|A0A493TSH1|A0A493TSH1_ANAPP glyceraldehyde-3-phosphate dehydrogenase (phosphorylating) OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TAPBPL PE=3 SV=1
+410	tr|A0A493T8A8|A0A493T8A8_ANAPP	tr	8840	Y	native		1	tr|A0A493T8A8|A0A493T8A8_ANAPP tr|A0A493T8A8|A0A493T8A8_ANAPP Follistatin-related protein 3 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=FSTL3 PE=4 SV=1
+411	tr|A0A493T891|A0A493T891_ANAPP	tr	8840	Y	native		1	tr|A0A493T891|A0A493T891_ANAPP tr|A0A493T891|A0A493T891_ANAPP Lysozyme g OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+412	tr|A0A493SXF3|A0A493SXF3_ANAPP	tr	8840	Y	native		1	tr|A0A493SXF3|A0A493SXF3_ANAPP tr|A0A493SXF3|A0A493SXF3_ANAPP Tropomyosin 4 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TPM4 PE=3 SV=1
+413	tr|U3IY10|U3IY10_ANAPP	tr	8840	Y	native		1	tr|U3IY10|U3IY10_ANAPP tr|U3IY10|U3IY10_ANAPP Tropomyosin 2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TPM2 PE=3 SV=2
+414	tr|U3ISR5|U3ISR5_ANAPP	tr	8840	Y	native		1	tr|U3ISR5|U3ISR5_ANAPP tr|U3ISR5|U3ISR5_ANAPP LIM and SH3 protein 1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=LASP1 PE=4 SV=2
+415	tr|A0A493T8X2|A0A493T8X2_ANAPP	tr	8840	Y	native		1	tr|A0A493T8X2|A0A493T8X2_ANAPP tr|A0A493T8X2|A0A493T8X2_ANAPP Glyceraldehyde-3-phosphate dehydrogenase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TAPBPL PE=3 SV=1
+416	tr|A0A493TTU5|A0A493TTU5_ANAPP	tr	8840	Y	native		1	tr|A0A493TTU5|A0A493TTU5_ANAPP tr|A0A493TTU5|A0A493TTU5_ANAPP Ovomucoid OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+417	tr|A0A493SY10|A0A493SY10_ANAPP	tr	8840	Y	native		1	tr|A0A493SY10|A0A493SY10_ANAPP tr|A0A493SY10|A0A493SY10_ANAPP Ovomucoid OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+418	tr|A0A493TRT2|A0A493TRT2_ANAPP	tr	8840	Y	native		1	tr|A0A493TRT2|A0A493TRT2_ANAPP tr|A0A493TRT2|A0A493TRT2_ANAPP Folate receptor-like domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+419	tr|A0A493TPG0|A0A493TPG0_ANAPP	tr	8840	Y	native		1	tr|A0A493TPG0|A0A493TPG0_ANAPP tr|A0A493TPG0|A0A493TPG0_ANAPP Creatine kinase M-type OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+420	tr|U3IEN3|U3IEN3_ANAPP	tr	8840	Y	native		1	tr|U3IEN3|U3IEN3_ANAPP tr|U3IEN3|U3IEN3_ANAPP Folate receptor-like domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+421	tr|A0A493TTV7|A0A493TTV7_ANAPP	tr	8840	Y	native		1	tr|A0A493TTV7|A0A493TTV7_ANAPP tr|A0A493TTV7|A0A493TTV7_ANAPP Calcium binding protein 4 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=CABP4 PE=4 SV=1
+422	tr|A0A493STY5|A0A493STY5_ANAPP	tr	8840	Y	native		1	tr|A0A493STY5|A0A493STY5_ANAPP tr|A0A493STY5|A0A493STY5_ANAPP Mucin 2, oligomeric mucus/gel-forming OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MUC2 PE=4 SV=1
+423	tr|A0A493SW00|A0A493SW00_ANAPP	tr	8840	Y	native		1	tr|A0A493SW00|A0A493SW00_ANAPP tr|A0A493SW00|A0A493SW00_ANAPP Calneuron 1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=CALN1 PE=4 SV=1
+424	tr|A0A493TMV9|A0A493TMV9_ANAPP	tr	8840	Y	native		1	tr|A0A493TMV9|A0A493TMV9_ANAPP tr|A0A493TMV9|A0A493TMV9_ANAPP Ubiquitin domain containing 2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=UBTD2 PE=4 SV=1
+425	tr|A0A493U0B1|A0A493U0B1_ANAPP	tr	8840	Y	native		1	tr|A0A493U0B1|A0A493U0B1_ANAPP tr|A0A493U0B1|A0A493U0B1_ANAPP Uncharacterized protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+426	tr|U3ISQ9|U3ISQ9_ANAPP	tr	8840	Y	native		1	tr|U3ISQ9|U3ISQ9_ANAPP tr|U3ISQ9|U3ISQ9_ANAPP EF-hand domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+427	tr|A0A493T250|A0A493T250_ANAPP	tr	8840	Y	native		1	tr|A0A493T250|A0A493T250_ANAPP tr|A0A493T250|A0A493T250_ANAPP Troponin I, fast skeletal muscle OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TNNI1 PE=3 SV=1
+428	tr|A0A493TYX0|A0A493TYX0_ANAPP	tr	8840	Y	native		2	tr|A0A493TYX0|A0A493TYX0_ANAPP tr|A0A493TYX0|A0A493TYX0_ANAPP Calneuron 1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=CALN1 PE=4 SV=1
+429	tr|A0A493T2H4|A0A493T2H4_ANAPP	tr	8840	Y	native		1	tr|A0A493T2H4|A0A493T2H4_ANAPP tr|A0A493T2H4|A0A493T2H4_ANAPP Myosin light chain 12B OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+430	tr|A0A493TM41|A0A493TM41_ANAPP	tr	8840	Y	native		1	tr|A0A493TM41|A0A493TM41_ANAPP tr|A0A493TM41|A0A493TM41_ANAPP VWFD domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+431	tr|A0A493STL9|A0A493STL9_ANAPP	tr	8840	Y	native		2	tr|A0A493STL9|A0A493STL9_ANAPP tr|A0A493STL9|A0A493STL9_ANAPP Centrin 3 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=CETN3 PE=4 SV=1
+432	tr|U3I636|U3I636_ANAPP	tr	8840	Y	native		1	tr|U3I636|U3I636_ANAPP tr|U3I636|U3I636_ANAPP Ubiquitin domain containing 2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=UBTD2 PE=4 SV=1
+433	tr|A0A493SSG5|A0A493SSG5_ANAPP	tr	8840	Y	native		1	tr|A0A493SSG5|A0A493SSG5_ANAPP tr|A0A493SSG5|A0A493SSG5_ANAPP Myosin light chain 1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MYL1 PE=4 SV=1
+434	tr|A0A493SU68|A0A493SU68_ANAPP	tr	8840	Y	native		1	tr|A0A493SU68|A0A493SU68_ANAPP tr|A0A493SU68|A0A493SU68_ANAPP Actin gamma 1 OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+435	tr|A0A493T8X9|A0A493T8X9_ANAPP	tr	8840	Y	native		1	tr|A0A493T8X9|A0A493T8X9_ANAPP tr|A0A493T8X9|A0A493T8X9_ANAPP FAU ubiquitin like and ribosomal protein S30 fusion OS=Anas platyrhynchos platyrhynchos OX=8840 GN=FAU PE=4 SV=1
+436	tr|A0A493T4N9|A0A493T4N9_ANAPP	tr	8840	Y	native		1	tr|A0A493T4N9|A0A493T4N9_ANAPP tr|A0A493T4N9|A0A493T4N9_ANAPP Transferrin-like domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+437	tr|A0A493TDE2|A0A493TDE2_ANAPP	tr	8840	Y	native		1	tr|A0A493TDE2|A0A493TDE2_ANAPP tr|A0A493TDE2|A0A493TDE2_ANAPP Ubiquitin-like domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+438	tr|U3J696|U3J696_ANAPP	tr	8840	Y	native		1	tr|U3J696|U3J696_ANAPP tr|U3J696|U3J696_ANAPP Lysozyme g OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+439	tr|U3I6W0|U3I6W0_ANAPP	tr	8840	Y	native		1	tr|U3I6W0|U3I6W0_ANAPP tr|U3I6W0|U3I6W0_ANAPP Folate receptor-like domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+440	tr|A0A493T4J9|A0A493T4J9_ANAPP	tr	8840	Y	native		1	tr|A0A493T4J9|A0A493T4J9_ANAPP tr|A0A493T4J9|A0A493T4J9_ANAPP Ovomucoid OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+441	tr|A0A493TVR1|A0A493TVR1_ANAPP	tr	8840	Y	native		1	tr|A0A493TVR1|A0A493TVR1_ANAPP tr|A0A493TVR1|A0A493TVR1_ANAPP Macroglobulin domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+442	tr|A0A493T5F9|A0A493T5F9_ANAPP	tr	8840	Y	native		1	tr|A0A493T5F9|A0A493T5F9_ANAPP tr|A0A493T5F9|A0A493T5F9_ANAPP Centrin 1 OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+443	tr|U3I5M6|U3I5M6_ANAPP	tr	8840	Y	native		1	tr|U3I5M6|U3I5M6_ANAPP tr|U3I5M6|U3I5M6_ANAPP Calmodulin-like protein 4 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=CALML4 PE=3 SV=2
+444	tr|U3IDU0|U3IDU0_ANAPP	tr	8840	Y	native		1	tr|U3IDU0|U3IDU0_ANAPP tr|U3IDU0|U3IDU0_ANAPP Myosin light chain 3 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MYL3 PE=4 SV=1
+445	tr|A0A493TTK8|A0A493TTK8_ANAPP	tr	8840	Y	native		1	tr|A0A493TTK8|A0A493TTK8_ANAPP tr|A0A493TTK8|A0A493TTK8_ANAPP Uncharacterized protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+446	tr|U3IA79|U3IA79_ANAPP	tr	8840	Y	native		1	tr|U3IA79|U3IA79_ANAPP tr|U3IA79|U3IA79_ANAPP Myosin light chain 1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MYL1 PE=4 SV=2
+447	tr|A0A493T1N9|A0A493T1N9_ANAPP	tr	8840	Y	native		1	tr|A0A493T1N9|A0A493T1N9_ANAPP tr|A0A493T1N9|A0A493T1N9_ANAPP Lysozyme g OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+448	tr|U3IY33|U3IY33_ANAPP	tr	8840	Y	native		1	tr|U3IY33|U3IY33_ANAPP tr|U3IY33|U3IY33_ANAPP EF-hand calcium binding domain 2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=EFCAB2 PE=4 SV=2
+449	tr|A0A493SV65|A0A493SV65_ANAPP	tr	8840	Y	native		1	tr|A0A493SV65|A0A493SV65_ANAPP tr|A0A493SV65|A0A493SV65_ANAPP Myosin light chain 1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MYL1 PE=4 SV=1
+450	tr|A0A2P9JZB4|A0A2P9JZB4_ANAPP	tr	8840	Y	native		1	tr|A0A2P9JZB4|A0A2P9JZB4_ANAPP tr|A0A2P9JZB4|A0A2P9JZB4_ANAPP Troponin I, fast skeletal muscle OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TNNI1 PE=2 SV=1
+451	tr|A0A493U0F0|A0A493U0F0_ANAPP	tr	8840	Y	native		1	tr|A0A493U0F0|A0A493U0F0_ANAPP tr|A0A493U0F0|A0A493U0F0_ANAPP Macroglobulin domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+452	tr|U3IUV2|U3IUV2_ANAPP	tr	8840	Y	native		1	tr|U3IUV2|U3IUV2_ANAPP tr|U3IUV2|U3IUV2_ANAPP Troponin I, fast skeletal muscle OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TNNI2 PE=3 SV=2
+453	tr|A0A493TML3|A0A493TML3_ANAPP	tr	8840	Y	native		1	tr|A0A493TML3|A0A493TML3_ANAPP tr|A0A493TML3|A0A493TML3_ANAPP Globin domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+454	tr|U3ISU6|U3ISU6_ANAPP	tr	8840	Y	native		1	tr|U3ISU6|U3ISU6_ANAPP tr|U3ISU6|U3ISU6_ANAPP Ubiquitin domain containing 1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=UBTD1 PE=4 SV=2
+455	tr|A0A493TBV8|A0A493TBV8_ANAPP	tr	8840	Y	native		1	tr|A0A493TBV8|A0A493TBV8_ANAPP tr|A0A493TBV8|A0A493TBV8_ANAPP Kazal type serine peptidase inhibitor domain 1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=KAZALD1 PE=4 SV=1
+456	tr|A0A493T8D8|A0A493T8D8_ANAPP	tr	8840	Y	native		1	tr|A0A493T8D8|A0A493T8D8_ANAPP tr|A0A493T8D8|A0A493T8D8_ANAPP Folate receptor-like domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+457	tr|U3J165|U3J165_ANAPP	tr	8840	Y	native		1	tr|U3J165|U3J165_ANAPP tr|U3J165|U3J165_ANAPP EF-hand domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=2
+458	tr|A0A493TXF7|A0A493TXF7_ANAPP	tr	8840	Y	native		1	tr|A0A493TXF7|A0A493TXF7_ANAPP tr|A0A493TXF7|A0A493TXF7_ANAPP Avidin OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+459	tr|A0A493T7D4|A0A493T7D4_ANAPP	tr	8840	Y	native		1	tr|A0A493T7D4|A0A493T7D4_ANAPP tr|A0A493T7D4|A0A493T7D4_ANAPP Calmodulin 2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=CALM2 PE=3 SV=1
+460	tr|A0A493TRK5|A0A493TRK5_ANAPP	tr	8840	Y	native		1	tr|A0A493TRK5|A0A493TRK5_ANAPP tr|A0A493TRK5|A0A493TRK5_ANAPP Globin domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+461	tr|A0A493TRU2|A0A493TRU2_ANAPP	tr	8840	Y	native		1	tr|A0A493TRU2|A0A493TRU2_ANAPP tr|A0A493TRU2|A0A493TRU2_ANAPP Myosin light chain 1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MYL1 PE=4 SV=1
+462	tr|A0A493TDI3|A0A493TDI3_ANAPP	tr	8840	Y	native		1	tr|A0A493TDI3|A0A493TDI3_ANAPP tr|A0A493TDI3|A0A493TDI3_ANAPP Enolase OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+463	tr|U3I9B1|U3I9B1_ANAPP	tr	8840	Y	native		1	tr|U3I9B1|U3I9B1_ANAPP tr|U3I9B1|U3I9B1_ANAPP Myosin light chain 2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MYL2 PE=4 SV=2
+464	tr|A0A493U3F8|A0A493U3F8_ANAPP	tr	8840	Y	native		1	tr|A0A493U3F8|A0A493U3F8_ANAPP tr|A0A493U3F8|A0A493U3F8_ANAPP EF-hand domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+465	tr|A0A493TR42|A0A493TR42_ANAPP	tr	8840	Y	native		1	tr|A0A493TR42|A0A493TR42_ANAPP tr|A0A493TR42|A0A493TR42_ANAPP Protein phosphatase 3 regulatory subunit B, alpha OS=Anas platyrhynchos platyrhynchos OX=8840 GN=PPP3R1 PE=3 SV=1
+466	tr|U3IKA5|U3IKA5_ANAPP	tr	8840	Y	native		1	tr|U3IKA5|U3IKA5_ANAPP tr|U3IKA5|U3IKA5_ANAPP Centrin 3 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=CETN3 PE=4 SV=2
+467	tr|A0A493TNU4|A0A493TNU4_ANAPP	tr	8840	Y	native		1	tr|A0A493TNU4|A0A493TNU4_ANAPP tr|A0A493TNU4|A0A493TNU4_ANAPP Folate receptor-like domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+468	tr|U3I0Q1|U3I0Q1_ANAPP	tr	8840	Y	native		1	tr|U3I0Q1|U3I0Q1_ANAPP tr|U3I0Q1|U3I0Q1_ANAPP EF-hand domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=2
+469	tr|A0A493TRB1|A0A493TRB1_ANAPP	tr	8840	Y	native		1	tr|A0A493TRB1|A0A493TRB1_ANAPP tr|A0A493TRB1|A0A493TRB1_ANAPP fructose-bisphosphate aldolase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=ALDOC PE=3 SV=1
+470	tr|A0A493SW13|A0A493SW13_ANAPP	tr	8840	Y	native		1	tr|A0A493SW13|A0A493SW13_ANAPP tr|A0A493SW13|A0A493SW13_ANAPP lysozyme OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+471	tr|A0A493SXQ1|A0A493SXQ1_ANAPP	tr	8840	Y	native		1	tr|A0A493SXQ1|A0A493SXQ1_ANAPP tr|A0A493SXQ1|A0A493SXQ1_ANAPP VWFD domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+472	tr|U3ILK3|U3ILK3_ANAPP	tr	8840	Y	native		1	tr|U3ILK3|U3ILK3_ANAPP tr|U3ILK3|U3ILK3_ANAPP Troponin C, slow skeletal and cardiac muscles OS=Anas platyrhynchos platyrhynchos OX=8840 GN=TNNC1 PE=3 SV=2
+473	tr|A0A493STR4|A0A493STR4_ANAPP	tr	8840	Y	native		1	tr|A0A493STR4|A0A493STR4_ANAPP tr|A0A493STR4|A0A493STR4_ANAPP Neuroglobin OS=Anas platyrhynchos platyrhynchos OX=8840 GN=NGB PE=3 SV=1
+474	tr|U3J9L4|U3J9L4_ANAPP	tr	8840	Y	native		1	tr|U3J9L4|U3J9L4_ANAPP tr|U3J9L4|U3J9L4_ANAPP Lipid droplet assembly factor 1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=LDAF1 PE=3 SV=2
+475	tr|A0A493TKG6|A0A493TKG6_ANAPP	tr	8840	Y	native		1	tr|A0A493TKG6|A0A493TKG6_ANAPP tr|A0A493TKG6|A0A493TKG6_ANAPP Uncharacterized protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+476	tr|U3ICL0|U3ICL0_ANAPP	tr	8840	Y	native		1	tr|U3ICL0|U3ICL0_ANAPP tr|U3ICL0|U3ICL0_ANAPP Ubiquitin-ribosomal protein eS31 fusion protein OS=Anas platyrhynchos platyrhynchos OX=8840 GN=RPS27A PE=3 SV=2
+477	tr|U3I5H8|U3I5H8_ANAPP	tr	8840	Y	native		1	tr|U3I5H8|U3I5H8_ANAPP tr|U3I5H8|U3I5H8_ANAPP Egg-white cystatin OS=Anas platyrhynchos platyrhynchos OX=8840 GN=CST7 PE=3 SV=2
+478	tr|A0A493TDP7|A0A493TDP7_ANAPP	tr	8840	Y	native		1	tr|A0A493TDP7|A0A493TDP7_ANAPP tr|A0A493TDP7|A0A493TDP7_ANAPP Myosin light chain 6 OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+479	tr|U3IJ58|U3IJ58_ANAPP	tr	8840	Y	native		1	tr|U3IJ58|U3IJ58_ANAPP tr|U3IJ58|U3IJ58_ANAPP Myoglobin OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MB PE=3 SV=2
+480	tr|A0A493SVL6|A0A493SVL6_ANAPP	tr	8840	Y	native		1	tr|A0A493SVL6|A0A493SVL6_ANAPP tr|A0A493SVL6|A0A493SVL6_ANAPP Folate receptor-like domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+481	tr|U3IBJ1|U3IBJ1_ANAPP	tr	8840	Y	native		1	tr|U3IBJ1|U3IBJ1_ANAPP tr|U3IBJ1|U3IBJ1_ANAPP superoxide dismutase OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+482	tr|U3II03|U3II03_ANAPP	tr	8840	Y	native		1	tr|U3II03|U3II03_ANAPP tr|U3II03|U3II03_ANAPP Calmodulin like 3 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=CALML3 PE=3 SV=2
+483	tr|A0A493T2L6|A0A493T2L6_ANAPP	tr	8840	Y	native		1	tr|A0A493T2L6|A0A493T2L6_ANAPP tr|A0A493T2L6|A0A493T2L6_ANAPP Calmodulin 1 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=CALM1 PE=3 SV=1
+484	tr|U3IY23|U3IY23_ANAPP	tr	8840	Y	native		1	tr|U3IY23|U3IY23_ANAPP tr|U3IY23|U3IY23_ANAPP Avidin OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+485	sp|P02115|HBB_ANAPP	sp	8840	Y	native		1	sp|P02115|HBB_ANAPP sp|P02115|HBB_ANAPP Hemoglobin subunit beta OS=Anas platyrhynchos platyrhynchos OX=8840 GN=HBB PE=1 SV=1
+486	tr|U3I956|U3I956_ANAPP	tr	8840	Y	native		1	tr|U3I956|U3I956_ANAPP tr|U3I956|U3I956_ANAPP Avidin OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+487	sp|P01988|HBA_ANAPP	sp	8840	Y	native		1	sp|P01988|HBA_ANAPP sp|P01988|HBA_ANAPP Hemoglobin subunit alpha-A OS=Anas platyrhynchos platyrhynchos OX=8840 GN=HBAA PE=1 SV=2
+488	tr|U3IDC6|U3IDC6_ANAPP	tr	8840	Y	native		1	tr|U3IDC6|U3IDC6_ANAPP tr|U3IDC6|U3IDC6_ANAPP Hemoglobin subunit zeta OS=Anas platyrhynchos platyrhynchos OX=8840 GN=HBZ PE=3 SV=1
+489	tr|U3II77|U3II77_ANAPP	tr	8840	Y	native		1	tr|U3II77|U3II77_ANAPP tr|U3II77|U3II77_ANAPP Avidin OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+490	tr|A0A493TPP3|A0A493TPP3_ANAPP	tr	8840	Y	native		1	tr|A0A493TPP3|A0A493TPP3_ANAPP tr|A0A493TPP3|A0A493TPP3_ANAPP Egg-white cystatin OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+491	tr|A0A493SXU9|A0A493SXU9_ANAPP	tr	8840	Y	native		1	tr|A0A493SXU9|A0A493SXU9_ANAPP tr|A0A493SXU9|A0A493SXU9_ANAPP Avidin OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+492	tr|A0A493TQQ8|A0A493TQQ8_ANAPP	tr	8840	Y	native		1	tr|A0A493TQQ8|A0A493TQQ8_ANAPP tr|A0A493TQQ8|A0A493TQQ8_ANAPP glyceraldehyde-3-phosphate dehydrogenase (phosphorylating) OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+493	tr|U3J3I6|U3J3I6_ANAPP	tr	8840	Y	native		1	tr|U3J3I6|U3J3I6_ANAPP tr|U3J3I6|U3J3I6_ANAPP EF-hand domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=2
+494	tr|U3I516|U3I516_ANAPP	tr	8840	Y	native		1	tr|U3I516|U3I516_ANAPP tr|U3I516|U3I516_ANAPP Egg-white cystatin OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+495	tr|A0A493TI25|A0A493TI25_ANAPP	tr	8840	Y	native		1	tr|A0A493TI25|A0A493TI25_ANAPP tr|A0A493TI25|A0A493TI25_ANAPP Ubiquitin-like domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+496	tr|U3I3M7|U3I3M7_ANAPP	tr	8840	Y	native		1	tr|U3I3M7|U3I3M7_ANAPP tr|U3I3M7|U3I3M7_ANAPP Parvalbumin OS=Anas platyrhynchos platyrhynchos OX=8840 GN=PVALB PE=3 SV=2
+497	tr|U3IKV6|U3IKV6_ANAPP	tr	8840	Y	native		1	tr|U3IKV6|U3IKV6_ANAPP tr|U3IKV6|U3IKV6_ANAPP FAU ubiquitin like and ribosomal protein S30 fusion OS=Anas platyrhynchos platyrhynchos OX=8840 GN=FAU PE=4 SV=2
+498	tr|U3IWK2|U3IWK2_ANAPP	tr	8840	Y	native		1	tr|U3IWK2|U3IWK2_ANAPP tr|U3IWK2|U3IWK2_ANAPP Globin domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+499	tr|A0A493TI81|A0A493TI81_ANAPP	tr	8840	Y	native		1	tr|A0A493TI81|A0A493TI81_ANAPP tr|A0A493TI81|A0A493TI81_ANAPP Enolase OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+500	tr|A0A493TJJ6|A0A493TJJ6_ANAPP	tr	8840	Y	native		1	tr|A0A493TJJ6|A0A493TJJ6_ANAPP tr|A0A493TJJ6|A0A493TJJ6_ANAPP Globin domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+501	tr|A0A493T557|A0A493T557_ANAPP	tr	8840	Y	native		1	tr|A0A493T557|A0A493T557_ANAPP tr|A0A493T557|A0A493T557_ANAPP EF-hand domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+502	tr|U3IAT1|U3IAT1_ANAPP	tr	8840	Y	native		1	tr|U3IAT1|U3IAT1_ANAPP tr|U3IAT1|U3IAT1_ANAPP Fibrillar collagen NC1 domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=3
+503	tr|U3ICK9|U3ICK9_ANAPP	tr	8840	Y	native		1	tr|U3ICK9|U3ICK9_ANAPP tr|U3ICK9|U3ICK9_ANAPP Parvalbumin OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+504	tr|A0A493TNC7|A0A493TNC7_ANAPP	tr	8840	Y	native		1	tr|A0A493TNC7|A0A493TNC7_ANAPP tr|A0A493TNC7|A0A493TNC7_ANAPP Fibrillar collagen NC1 domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+505	tr|A0A493U3H8|A0A493U3H8_ANAPP	tr	8840	Y	native		1	tr|A0A493U3H8|A0A493U3H8_ANAPP tr|A0A493U3H8|A0A493U3H8_ANAPP Fibrillar collagen NC1 domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+506	tr|U3J4M9|U3J4M9_ANAPP	tr	8840	Y	native		1	tr|U3J4M9|U3J4M9_ANAPP tr|U3J4M9|U3J4M9_ANAPP Myosin light chain 6 OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=2
+507	tr|A0A493SZH8|A0A493SZH8_ANAPP	tr	8840	Y	native		1	tr|A0A493SZH8|A0A493SZH8_ANAPP tr|A0A493SZH8|A0A493SZH8_ANAPP lysozyme OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+508	tr|A0A493TMS0|A0A493TMS0_ANAPP	tr	8840	Y	native		1	tr|A0A493TMS0|A0A493TMS0_ANAPP tr|A0A493TMS0|A0A493TMS0_ANAPP lysozyme OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+509	tr|U3ICH8|U3ICH8_ANAPP	tr	8840	Y	native		1	tr|U3ICH8|U3ICH8_ANAPP tr|U3ICH8|U3ICH8_ANAPP Parvalbumin OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+510	tr|U3J6E8|U3J6E8_ANAPP	tr	8840	Y	native		1	tr|U3J6E8|U3J6E8_ANAPP tr|U3J6E8|U3J6E8_ANAPP Apovitellenin-1 OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=2
+511	tr|A0A493T411|A0A493T411_ANAPP	tr	8840	Y	native		1	tr|A0A493T411|A0A493T411_ANAPP tr|A0A493T411|A0A493T411_ANAPP Parvalbumin OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+512	tr|A0A493T6C4|A0A493T6C4_ANAPP	tr	8840	Y	native		1	tr|A0A493T6C4|A0A493T6C4_ANAPP tr|A0A493T6C4|A0A493T6C4_ANAPP Parvalbumin OS=Anas platyrhynchos platyrhynchos OX=8840 PE=3 SV=1
+513	tr|A0A493TZX5|A0A493TZX5_ANAPP	tr	8840	Y	native		1	tr|A0A493TZX5|A0A493TZX5_ANAPP tr|A0A493TZX5|A0A493TZX5_ANAPP Ovomucoid OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+514	tr|A0A493TMF4|A0A493TMF4_ANAPP	tr	8840	Y	native		1	tr|A0A493TMF4|A0A493TMF4_ANAPP tr|A0A493TMF4|A0A493TMF4_ANAPP Enolase OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+515	tr|A0A493TVP0|A0A493TVP0_ANAPP	tr	8840	Y	native		1	tr|A0A493TVP0|A0A493TVP0_ANAPP tr|A0A493TVP0|A0A493TVP0_ANAPP Ovomucoid OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+516	tr|A0A493THY6|A0A493THY6_ANAPP	tr	8840	Y	native		1	tr|A0A493THY6|A0A493THY6_ANAPP tr|A0A493THY6|A0A493THY6_ANAPP Serine peptidase inhibitor Kazal type 4 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=SPINK4 PE=4 SV=1
+517	tr|U3I075|U3I075_ANAPP	tr	8840	Y	native		1	tr|U3I075|U3I075_ANAPP tr|U3I075|U3I075_ANAPP Kazal-like domain-containing protein OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=2
+518	tr|A0A493TI01|A0A493TI01_ANAPP	tr	8840	Y	native		1	tr|A0A493TI01|A0A493TI01_ANAPP tr|A0A493TI01|A0A493TI01_ANAPP Ovomucoid OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+519	tr|A0A493TEQ1|A0A493TEQ1_ANAPP	tr	8840	Y	native		1	tr|A0A493TEQ1|A0A493TEQ1_ANAPP tr|A0A493TEQ1|A0A493TEQ1_ANAPP Ovomucoid OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=1
+520	tr|U3I1H9|U3I1H9_ANAPP	tr	8840	Y	native		1	tr|U3I1H9|U3I1H9_ANAPP tr|U3I1H9|U3I1H9_ANAPP Ovomucoid OS=Anas platyrhynchos platyrhynchos OX=8840 PE=4 SV=2

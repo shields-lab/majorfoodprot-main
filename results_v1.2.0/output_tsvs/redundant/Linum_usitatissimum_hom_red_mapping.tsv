@@ -1,0 +1,113 @@
+cluster_id	seq_id	db_type	taxid	is_favoured	source_type	source_detail	cluster_size	title
+0	tr|Q9XEH1|Q9XEH1_LINUS	tr	4006	Y	native		1	tr|Q9XEH1|Q9XEH1_LINUS tr|Q9XEH1|Q9XEH1_LINUS Flax rust resistance protein OS=Linum usitatissimum OX=4006 GN=L PE=4 SV=1
+1	tr|C6JW24|C6JW24_LINUS	tr	4006	Y	native		1	tr|C6JW24|C6JW24_LINUS tr|C6JW24|C6JW24_LINUS M1-comp1 OS=Linum usitatissimum OX=4006 PE=4 SV=1
+2	tr|Q9XEH3|Q9XEH3_LINUS	tr	4006	Y	native		1	tr|Q9XEH3|Q9XEH3_LINUS tr|Q9XEH3|Q9XEH3_LINUS Flax rust resistance protein OS=Linum usitatissimum OX=4006 GN=L PE=4 SV=1
+3	tr|Q9XEG8|Q9XEG8_LINUS	tr	4006	Y	native		1	tr|Q9XEG8|Q9XEG8_LINUS tr|Q9XEG8|Q9XEG8_LINUS Flax rust resistance protein OS=Linum usitatissimum OX=4006 GN=L PE=4 SV=1
+4	tr|Q9XEH2|Q9XEH2_LINUS	tr	4006	Y	native		1	tr|Q9XEH2|Q9XEH2_LINUS tr|Q9XEH2|Q9XEH2_LINUS Flax rust resistance protein OS=Linum usitatissimum OX=4006 GN=L PE=4 SV=1
+5	tr|Q9S778|Q9S778_LINUS	tr	4006	Y	native		1	tr|Q9S778|Q9S778_LINUS tr|Q9S778|Q9S778_LINUS Flax rust resistance protein OS=Linum usitatissimum OX=4006 GN=L PE=4 SV=1
+6	tr|Q9XEH7|Q9XEH7_LINUS	tr	4006	Y	native		1	tr|Q9XEH7|Q9XEH7_LINUS tr|Q9XEH7|Q9XEH7_LINUS Flax rust resistance protein OS=Linum usitatissimum OX=4006 GN=L PE=4 SV=1
+7	sp|Q40253|L6_LINUS	sp	4006	Y	native		1	sp|Q40253|L6_LINUS sp|Q40253|L6_LINUS Disease resistance protein L6 OS=Linum usitatissimum OX=4006 GN=L6 PE=1 SV=1
+8	tr|Q9XEH4|Q9XEH4_LINUS	tr	4006	Y	native		1	tr|Q9XEH4|Q9XEH4_LINUS tr|Q9XEH4|Q9XEH4_LINUS Flax rust resistance protein OS=Linum usitatissimum OX=4006 GN=L PE=1 SV=1
+9	tr|C6JW23|C6JW23_LINUS	tr	4006	Y	native		1	tr|C6JW23|C6JW23_LINUS tr|C6JW23|C6JW23_LINUS M3 OS=Linum usitatissimum OX=4006 PE=4 SV=1
+10	tr|Q9XEH6|Q9XEH6_LINUS	tr	4006	Y	native		1	tr|Q9XEH6|Q9XEH6_LINUS tr|Q9XEH6|Q9XEH6_LINUS Flax rust resistance protein OS=Linum usitatissimum OX=4006 GN=L PE=4 SV=1
+11	tr|A0A2D1GVF7|A0A2D1GVF7_LINUS	tr	4006	Y	native		1	tr|A0A2D1GVF7|A0A2D1GVF7_LINUS tr|A0A2D1GVF7|A0A2D1GVF7_LINUS Serine/threonine-protein OS=Linum usitatissimum OX=4006 GN=BRI1 PE=2 SV=1
+12	tr|A0A0U1ZHB2|A0A0U1ZHB2_LINUS	tr	4006	Y	native		1	tr|A0A0U1ZHB2|A0A0U1ZHB2_LINUS tr|A0A0U1ZHB2|A0A0U1ZHB2_LINUS Serine/threonine-protein OS=Linum usitatissimum OX=4006 GN=bri1 PE=2 SV=1
+13	tr|Q9ARC0|Q9ARC0_LINUS	tr	4006	Y	native		1	tr|Q9ARC0|Q9ARC0_LINUS tr|Q9ARC0|Q9ARC0_LINUS Ngc-C protein OS=Linum usitatissimum OX=4006 GN=Ngc-C PE=4 SV=1
+14	tr|Q9ARB7|Q9ARB7_LINUS	tr	4006	Y	native		1	tr|Q9ARB7|Q9ARB7_LINUS tr|Q9ARB7|Q9ARB7_LINUS N1-C protein OS=Linum usitatissimum OX=4006 GN=N1-C PE=4 SV=1
+15	tr|Q9ARB3|Q9ARB3_LINUS	tr	4006	Y	native		1	tr|Q9ARB3|Q9ARB3_LINUS tr|Q9ARB3|Q9ARB3_LINUS N2-C protein OS=Linum usitatissimum OX=4006 GN=N2-C PE=4 SV=1
+16	tr|Q9AR40|Q9AR40_LINUS	tr	4006	Y	native		1	tr|Q9AR40|Q9AR40_LINUS tr|Q9AR40|Q9AR40_LINUS Nbi-B protein OS=Linum usitatissimum OX=4006 GN=Nbi-B PE=4 SV=1
+17	tr|Q9ARB4|Q9ARB4_LINUS	tr	4006	Y	native		1	tr|Q9ARB4|Q9ARB4_LINUS tr|Q9ARB4|Q9ARB4_LINUS N2-B protein OS=Linum usitatissimum OX=4006 GN=N2-B PE=4 SV=1
+18	tr|Q9ARB8|Q9ARB8_LINUS	tr	4006	Y	native		1	tr|Q9ARB8|Q9ARB8_LINUS tr|Q9ARB8|Q9ARB8_LINUS N1-B protein OS=Linum usitatissimum OX=4006 GN=N1-B PE=4 SV=1
+19	tr|Q9ARB0|Q9ARB0_LINUS	tr	4006	Y	native		1	tr|Q9ARB0|Q9ARB0_LINUS tr|Q9ARB0|Q9ARB0_LINUS Nbi-D protein OS=Linum usitatissimum OX=4006 GN=Nbi-D PE=4 SV=1
+20	tr|Q9ARB2|Q9ARB2_LINUS	tr	4006	Y	native		1	tr|Q9ARB2|Q9ARB2_LINUS tr|Q9ARB2|Q9ARB2_LINUS N2-D protein OS=Linum usitatissimum OX=4006 GN=N2-D PE=4 SV=1
+21	tr|Q9ARB1|Q9ARB1_LINUS	tr	4006	Y	native		1	tr|Q9ARB1|Q9ARB1_LINUS tr|Q9ARB1|Q9ARB1_LINUS Nbi-C protein OS=Linum usitatissimum OX=4006 GN=Nbi-C PE=4 SV=1
+22	tr|A0A126WZD0|A0A126WZD0_LINUS	tr	4006	Y	native		1	tr|A0A126WZD0|A0A126WZD0_LINUS tr|A0A126WZD0|A0A126WZD0_LINUS Serine/threonine-protein OS=Linum usitatissimum OX=4006 PE=2 SV=1
+23	tr|Q9XEG9|Q9XEG9_LINUS	tr	4006	Y	native		1	tr|Q9XEG9|Q9XEG9_LINUS tr|Q9XEG9|Q9XEG9_LINUS Flax rust resistance protein OS=Linum usitatissimum OX=4006 GN=L PE=4 SV=1
+24	tr|A0A172MLB2|A0A172MLB2_LINUS	tr	4006	Y	native		1	tr|A0A172MLB2|A0A172MLB2_LINUS tr|A0A172MLB2|A0A172MLB2_LINUS mitogen-activated protein kinase kinase kinase OS=Linum usitatissimum OX=4006 PE=3 SV=1
+25	tr|A0A126WZM6|A0A126WZM6_LINUS	tr	4006	Y	native		1	tr|A0A126WZM6|A0A126WZM6_LINUS tr|A0A126WZM6|A0A126WZM6_LINUS Serine/threonine-protein OS=Linum usitatissimum OX=4006 PE=2 SV=1
+26	tr|A0A172MLK8|A0A172MLK8_LINUS	tr	4006	Y	native		1	tr|A0A172MLK8|A0A172MLK8_LINUS tr|A0A172MLK8|A0A172MLK8_LINUS mitogen-activated protein kinase kinase kinase OS=Linum usitatissimum OX=4006 PE=3 SV=1
+27	tr|A0A126WZD8|A0A126WZD8_LINUS	tr	4006	Y	native		1	tr|A0A126WZD8|A0A126WZD8_LINUS tr|A0A126WZD8|A0A126WZD8_LINUS Serine/threonine-protein OS=Linum usitatissimum OX=4006 PE=2 SV=1
+28	tr|A0A126X0H8|A0A126X0H8_LINUS	tr	4006	Y	native		1	tr|A0A126X0H8|A0A126X0H8_LINUS tr|A0A126X0H8|A0A126X0H8_LINUS Serine/threonine-protein OS=Linum usitatissimum OX=4006 PE=2 SV=1
+29	tr|Q9XEH5|Q9XEH5_LINUS	tr	4006	Y	native		1	tr|Q9XEH5|Q9XEH5_LINUS tr|Q9XEH5|Q9XEH5_LINUS Flax rust resistance protein OS=Linum usitatissimum OX=4006 GN=L PE=4 SV=1
+30	tr|A0A126X0K0|A0A126X0K0_LINUS	tr	4006	Y	native		1	tr|A0A126X0K0|A0A126X0K0_LINUS tr|A0A126X0K0|A0A126X0K0_LINUS Serine/threonine-protein OS=Linum usitatissimum OX=4006 PE=2 SV=1
+31	tr|A0A172MLK1|A0A172MLK1_LINUS	tr	4006	Y	native		1	tr|A0A172MLK1|A0A172MLK1_LINUS tr|A0A172MLK1|A0A172MLK1_LINUS RING-type E3 ubiquitin transferase OS=Linum usitatissimum OX=4006 PE=4 SV=1
+32	tr|A0A172MLG9|A0A172MLG9_LINUS	tr	4006	Y	native		1	tr|A0A172MLG9|A0A172MLG9_LINUS tr|A0A172MLG9|A0A172MLG9_LINUS RING-type E3 ubiquitin transferase OS=Linum usitatissimum OX=4006 PE=4 SV=1
+33	tr|A0A172MLL4|A0A172MLL4_LINUS	tr	4006	Y	native		1	tr|A0A172MLL4|A0A172MLL4_LINUS tr|A0A172MLL4|A0A172MLL4_LINUS Putative NADPH oxidase OS=Linum usitatissimum OX=4006 PE=4 SV=1
+34	tr|Q40254|Q40254_LINUS	tr	4006	Y	native		1	tr|Q40254|Q40254_LINUS tr|Q40254|Q40254_LINUS L6tr OS=Linum usitatissimum OX=4006 GN=L6 PE=4 SV=1
+35	tr|A0A172MLD4|A0A172MLD4_LINUS	tr	4006	Y	native		1	tr|A0A172MLD4|A0A172MLD4_LINUS tr|A0A172MLD4|A0A172MLD4_LINUS Putative GRAS domain family protein OS=Linum usitatissimum OX=4006 PE=3 SV=1
+36	tr|A0A0G3VRH1|A0A0G3VRH1_LINUS	tr	4006	Y	native		1	tr|A0A0G3VRH1|A0A0G3VRH1_LINUS tr|A0A0G3VRH1|A0A0G3VRH1_LINUS mitogen-activated protein kinase OS=Linum usitatissimum OX=4006 GN=MPK3 PE=2 SV=1
+37	sp|P48417|CP74_LINUS	sp	4006	Y	native		1	sp|P48417|CP74_LINUS sp|P48417|CP74_LINUS Allene oxide synthase, chloroplastic OS=Linum usitatissimum OX=4006 GN=CYP74A PE=1 SV=1
+38	tr|A0A3G1KLG9|A0A3G1KLG9_LINUS	tr	4006	Y	native		1	tr|A0A3G1KLG9|A0A3G1KLG9_LINUS tr|A0A3G1KLG9|A0A3G1KLG9_LINUS WRKY transcription factor 36 OS=Linum usitatissimum OX=4006 GN=WRKY36 PE=2 SV=1
+39	tr|A0A4P2LVY5|A0A4P2LVY5_LINUS	tr	4006	Y	native		1	tr|A0A4P2LVY5|A0A4P2LVY5_LINUS tr|A0A4P2LVY5|A0A4P2LVY5_LINUS AP2/EREBP transcription factor WRI1b (Fragment) OS=Linum usitatissimum OX=4006 GN=WRI1b PE=2 SV=1
+40	tr|A0A4V0N1S0|A0A4V0N1S0_LINUS	tr	4006	Y	native		1	tr|A0A4V0N1S0|A0A4V0N1S0_LINUS tr|A0A4V0N1S0|A0A4V0N1S0_LINUS AP2/EREBP transcription factor WRI1a (Fragment) OS=Linum usitatissimum OX=4006 GN=WRI1a PE=2 SV=1
+41	tr|G9BER4|G9BER4_LINUS	tr	4006	Y	native		1	tr|G9BER4|G9BER4_LINUS tr|G9BER4|G9BER4_LINUS Glycosyltransferase OS=Linum usitatissimum OX=4006 PE=2 SV=1
+42	tr|A0A2D1GVF1|A0A2D1GVF1_LINUS	tr	4006	Y	native		1	tr|A0A2D1GVF1|A0A2D1GVF1_LINUS tr|A0A2D1GVF1|A0A2D1GVF1_LINUS Cytochrome P450 monooxygenase OS=Linum usitatissimum OX=4006 GN=DWF4 PE=2 SV=1
+43	tr|A8WEP1|A8WEP1_LINUS	tr	4006	Y	native		1	tr|A8WEP1|A8WEP1_LINUS tr|A8WEP1|A8WEP1_LINUS linamarin synthase OS=Linum usitatissimum OX=4006 PE=2 SV=1
+44	tr|M9PMU3|M9PMU3_LINUS	tr	4006	Y	native		1	tr|M9PMU3|M9PMU3_LINUS tr|M9PMU3|M9PMU3_LINUS Glycosyltransferase OS=Linum usitatissimum OX=4006 GN=UGT PE=2 SV=1
+45	tr|M9PNF2|M9PNF2_LINUS	tr	4006	Y	native		1	tr|M9PNF2|M9PNF2_LINUS tr|M9PNF2|M9PNF2_LINUS Glycosyltransferase OS=Linum usitatissimum OX=4006 GN=UGT89B3 PE=2 SV=1
+46	tr|M9PMP4|M9PMP4_LINUS	tr	4006	Y	native		1	tr|M9PMP4|M9PMP4_LINUS tr|M9PMP4|M9PMP4_LINUS UDP-glucosyltransferase OS=Linum usitatissimum OX=4006 GN=UGT712B1 PE=2 SV=1
+47	tr|I2BH61|I2BH61_LINUS	tr	4006	Y	native		1	tr|I2BH61|I2BH61_LINUS tr|I2BH61|I2BH61_LINUS Glycosyltransferase OS=Linum usitatissimum OX=4006 GN=UGT74T1 PE=2 SV=1
+48	tr|K4KDQ2|K4KDQ2_LINUS	tr	4006	Y	native		1	tr|K4KDQ2|K4KDQ2_LINUS tr|K4KDQ2|K4KDQ2_LINUS Ribulose bisphosphate carboxylase large chain (Fragment) OS=Linum usitatissimum OX=4006 GN=rbcL PE=3 SV=1
+49	tr|E3VWA8|E3VWA8_LINUS	tr	4006	Y	native		1	tr|E3VWA8|E3VWA8_LINUS tr|E3VWA8|E3VWA8_LINUS Cytochrome P450 CYP74B16 OS=Linum usitatissimum OX=4006 PE=2 SV=2
+50	tr|M9PMU1|M9PMU1_LINUS	tr	4006	Y	native		1	tr|M9PMU1|M9PMU1_LINUS tr|M9PMU1|M9PMU1_LINUS Glycosyltransferase OS=Linum usitatissimum OX=4006 GN=UGT74S1 PE=2 SV=1
+51	tr|A0A190V5F6|A0A190V5F6_LINUS	tr	4006	Y	native		1	tr|A0A190V5F6|A0A190V5F6_LINUS tr|A0A190V5F6|A0A190V5F6_LINUS Protein TIFY OS=Linum usitatissimum OX=4006 GN=BS1 PE=2 SV=1
+52	tr|A0A126X1K4|A0A126X1K4_LINUS	tr	4006	Y	native		1	tr|A0A126X1K4|A0A126X1K4_LINUS tr|A0A126X1K4|A0A126X1K4_LINUS Serine/threonine-protein OS=Linum usitatissimum OX=4006 PE=2 SV=1
+53	tr|G3CIZ2|G3CIZ2_LINUS	tr	4006	Y	native		1	tr|G3CIZ2|G3CIZ2_LINUS tr|G3CIZ2|G3CIZ2_LINUS Fatty acid desaturase 3C OS=Linum usitatissimum OX=4006 GN=FAD3C PE=3 SV=1
+54	tr|W5QL00|W5QL00_LINUS	tr	4006	Y	native		1	tr|W5QL00|W5QL00_LINUS tr|W5QL00|W5QL00_LINUS Fatty acid desaturase 3 OS=Linum usitatissimum OX=4006 GN=FAD3A PE=3 SV=1
+55	tr|G4XRL7|G4XRL7_LINUS	tr	4006	Y	native		1	tr|G4XRL7|G4XRL7_LINUS tr|G4XRL7|G4XRL7_LINUS Omega-3 desaturase OS=Linum usitatissimum OX=4006 GN=FAD3A PE=2 SV=1
+56	tr|G4XRL3|G4XRL3_LINUS	tr	4006	Y	native		1	tr|G4XRL3|G4XRL3_LINUS tr|G4XRL3|G4XRL3_LINUS Omega-3 desaturase OS=Linum usitatissimum OX=4006 GN=FAD3A PE=2 SV=1
+57	tr|G4XRL5|G4XRL5_LINUS	tr	4006	Y	native		1	tr|G4XRL5|G4XRL5_LINUS tr|G4XRL5|G4XRL5_LINUS Omega-3 desaturase OS=Linum usitatissimum OX=4006 GN=FAD3A PE=2 SV=1
+58	tr|Q3SAG0|Q3SAG0_LINUS	tr	4006	Y	native		2	tr|Q3SAG0|Q3SAG0_LINUS tr|Q3SAG0|Q3SAG0_LINUS Fatty acid desaturase 3A OS=Linum usitatissimum OX=4006 GN=FAD3A PE=2 SV=1
+59	tr|W5QKZ5|W5QKZ5_LINUS	tr	4006	Y	native		1	tr|W5QKZ5|W5QKZ5_LINUS tr|W5QKZ5|W5QKZ5_LINUS Fatty acid desaturase 3 OS=Linum usitatissimum OX=4006 GN=FAD3A PE=3 SV=1
+60	tr|G4XRL4|G4XRL4_LINUS	tr	4006	Y	native		1	tr|G4XRL4|G4XRL4_LINUS tr|G4XRL4|G4XRL4_LINUS Omega-3 desaturase OS=Linum usitatissimum OX=4006 GN=FAD3A PE=2 SV=1
+61	tr|A0A1S6KKE9|A0A1S6KKE9_LINUS	tr	4006	Y	native		1	tr|A0A1S6KKE9|A0A1S6KKE9_LINUS tr|A0A1S6KKE9|A0A1S6KKE9_LINUS Fatty acid desaturase OS=Linum usitatissimum OX=4006 GN=fad3 PE=2 SV=1
+62	tr|Q3SAF9|Q3SAF9_LINUS	tr	4006	Y	native		1	tr|Q3SAF9|Q3SAF9_LINUS tr|Q3SAF9|Q3SAF9_LINUS Fatty acid desaturase 3B OS=Linum usitatissimum OX=4006 GN=FAD3B PE=2 SV=1
+63	tr|G3CIY9|G3CIY9_LINUS	tr	4006	Y	native		1	tr|G3CIY9|G3CIY9_LINUS tr|G3CIY9|G3CIY9_LINUS Fatty acid desaturase 3B OS=Linum usitatissimum OX=4006 GN=FAD3B PE=3 SV=1
+64	tr|G4XRL9|G4XRL9_LINUS	tr	4006	Y	native		1	tr|G4XRL9|G4XRL9_LINUS tr|G4XRL9|G4XRL9_LINUS Omega-3 desaturase OS=Linum usitatissimum OX=4006 GN=FAD3B PE=2 SV=1
+65	tr|G4XRM0|G4XRM0_LINUS	tr	4006	Y	native		1	tr|G4XRM0|G4XRM0_LINUS tr|G4XRM0|G4XRM0_LINUS Omega-3 desaturase OS=Linum usitatissimum OX=4006 GN=FAD3B PE=2 SV=1
+66	tr|A6ZI29|A6ZI29_LINUS	tr	4006	Y	native		1	tr|A6ZI29|A6ZI29_LINUS tr|A6ZI29|A6ZI29_LINUS 1-aminocyclopropane-1-carboxylate synthase (Fragment) OS=Linum usitatissimum OX=4006 PE=2 SV=1
+67	tr|M9T8L0|M9T8L0_LINUS	tr	4006	Y	native		1	tr|M9T8L0|M9T8L0_LINUS tr|M9T8L0|M9T8L0_LINUS Fatty acid desaturase 2-1 OS=Linum usitatissimum OX=4006 GN=FAD2-1 PE=2 SV=1
+68	tr|B7ST72|B7ST72_LINUS	tr	4006	Y	native		1	tr|B7ST72|B7ST72_LINUS tr|B7ST72|B7ST72_LINUS Omega-6 desaturase OS=Linum usitatissimum OX=4006 GN=FAD2-2 PE=3 SV=1
+69	tr|A0A0G3VPH4|A0A0G3VPH4_LINUS	tr	4006	Y	native		1	tr|A0A0G3VPH4|A0A0G3VPH4_LINUS tr|A0A0G3VPH4|A0A0G3VPH4_LINUS Serine/threonine-protein OS=Linum usitatissimum OX=4006 GN=MPK10 PE=2 SV=1
+70	tr|I2BHE5|I2BHE5_LINUS	tr	4006	Y	native		1	tr|I2BHE5|I2BHE5_LINUS tr|I2BHE5|I2BHE5_LINUS anthocyanidin 3-O-glucosyltransferase OS=Linum usitatissimum OX=4006 GN=UGT94H1 PE=2 SV=1
+71	tr|B7ST73|B7ST73_LINUS	tr	4006	Y	native		1	tr|B7ST73|B7ST73_LINUS tr|B7ST73|B7ST73_LINUS Omega-6 desaturase OS=Linum usitatissimum OX=4006 GN=FAD2 PE=3 SV=1
+72	tr|A0A0G3VRA6|A0A0G3VRA6_LINUS	tr	4006	Y	native		1	tr|A0A0G3VRA6|A0A0G3VRA6_LINUS tr|A0A0G3VRA6|A0A0G3VRA6_LINUS Mitogen-activated protein kinase OS=Linum usitatissimum OX=4006 GN=MPK13 PE=2 SV=1
+73	tr|A0A190V562|A0A190V562_LINUS	tr	4006	Y	native		1	tr|A0A190V562|A0A190V562_LINUS tr|A0A190V562|A0A190V562_LINUS Protein TIFY OS=Linum usitatissimum OX=4006 GN=BS2 PE=2 SV=1
+74	tr|A6ZI28|A6ZI28_LINUS	tr	4006	Y	native		1	tr|A6ZI28|A6ZI28_LINUS tr|A6ZI28|A6ZI28_LINUS 1-aminocyclopropane-1-carboxylate synthase (Fragment) OS=Linum usitatissimum OX=4006 PE=2 SV=1
+75	tr|A0A0G3VQ86|A0A0G3VQ86_LINUS	tr	4006	Y	native		1	tr|A0A0G3VQ86|A0A0G3VQ86_LINUS tr|A0A0G3VQ86|A0A0G3VQ86_LINUS Mitogen-activated protein kinase OS=Linum usitatissimum OX=4006 GN=MPK16 PE=2 SV=1
+76	tr|A0A0G3VSU4|A0A0G3VSU4_LINUS	tr	4006	Y	native		1	tr|A0A0G3VSU4|A0A0G3VSU4_LINUS tr|A0A0G3VSU4|A0A0G3VSU4_LINUS Mitogen-activated protein kinase OS=Linum usitatissimum OX=4006 GN=MPK18 PE=2 SV=1
+77	tr|A6ZI27|A6ZI27_LINUS	tr	4006	Y	native		1	tr|A6ZI27|A6ZI27_LINUS tr|A6ZI27|A6ZI27_LINUS 1-aminocyclopropane-1-carboxylate synthase (Fragment) OS=Linum usitatissimum OX=4006 PE=2 SV=1
+78	tr|A6ZI26|A6ZI26_LINUS	tr	4006	Y	native		1	tr|A6ZI26|A6ZI26_LINUS tr|A6ZI26|A6ZI26_LINUS 1-aminocyclopropane-1-carboxylate synthase (Fragment) OS=Linum usitatissimum OX=4006 PE=2 SV=1
+79	tr|A6ZI25|A6ZI25_LINUS	tr	4006	Y	native		1	tr|A6ZI25|A6ZI25_LINUS tr|A6ZI25|A6ZI25_LINUS 1-aminocyclopropane-1-carboxylate synthase (Fragment) OS=Linum usitatissimum OX=4006 PE=2 SV=1
+80	tr|Q42905|Q42905_LINUS	tr	4006	Y	native		1	tr|Q42905|Q42905_LINUS tr|Q42905|Q42905_LINUS Peroxidase OS=Linum usitatissimum OX=4006 GN=FLXPER1 PE=2 SV=1
+81	tr|Q43782|Q43782_LINUS	tr	4006	Y	native		1	tr|Q43782|Q43782_LINUS tr|Q43782|Q43782_LINUS Peroxidase OS=Linum usitatissimum OX=4006 GN=FLXPER3 PE=2 SV=1
+82	sp|E6Y2X0|PILR2_LINUS	sp	4006	Y	native		1	sp|E6Y2X0|PILR2_LINUS sp|E6Y2X0|PILR2_LINUS Bifunctional pinoresinol-lariciresinol reductase 2 OS=Linum usitatissimum OX=4006 GN=PLR_Lu2 PE=1 SV=1
+83	tr|Q42904|Q42904_LINUS	tr	4006	Y	native		1	tr|Q42904|Q42904_LINUS tr|Q42904|Q42904_LINUS Peroxidase (Fragment) OS=Linum usitatissimum OX=4006 PE=2 SV=2
+84	sp|P0DKC8|PILR_LINUS	sp	4006	Y	native		1	sp|P0DKC8|PILR_LINUS sp|P0DKC8|PILR_LINUS Bifunctional pinoresinol-lariciresinol reductase OS=Linum usitatissimum OX=4006 PE=2 SV=1
+85	sp|Q4R0H9|PILR1_LINUS	sp	4006	Y	native		1	sp|Q4R0H9|PILR1_LINUS sp|Q4R0H9|PILR1_LINUS Bifunctional pinoresinol-lariciresinol reductase 1 OS=Linum usitatissimum OX=4006 GN=PLR_Lu1 PE=1 SV=1
+86	tr|O65029|O65029_LINUS	tr	4006	Y	native		1	tr|O65029|O65029_LINUS tr|O65029|O65029_LINUS Peroxidase (Fragment) OS=Linum usitatissimum OX=4006 GN=PER4 PE=2 SV=1
+87	tr|H9E8V8|H9E8V8_LINUS	tr	4006	Y	native		1	tr|H9E8V8|H9E8V8_LINUS tr|H9E8V8|H9E8V8_LINUS glucan endo-1,3-beta-D-glucosidase (Fragment) OS=Linum usitatissimum OX=4006 PE=2 SV=1
+88	tr|A0A172MLA6|A0A172MLA6_LINUS	tr	4006	Y	native		1	tr|A0A172MLA6|A0A172MLA6_LINUS tr|A0A172MLA6|A0A172MLA6_LINUS glucan endo-1,3-beta-D-glucosidase OS=Linum usitatissimum OX=4006 PE=3 SV=1
+89	tr|Q8GUQ2|Q8GUQ2_LINUS	tr	4006	Y	native		1	tr|Q8GUQ2|Q8GUQ2_LINUS tr|Q8GUQ2|Q8GUQ2_LINUS Osmotin-like protein linusitin OS=Linum usitatissimum OX=4006 PE=2 SV=1
+90	tr|D4P869|D4P869_LINUS	tr	4006	Y	native		1	tr|D4P869|D4P869_LINUS tr|D4P869|D4P869_LINUS Protein kinase domain-containing protein (Fragment) OS=Linum usitatissimum OX=4006 PE=2 SV=1
+91	tr|A0A172MLF8|A0A172MLF8_LINUS	tr	4006	Y	native		1	tr|A0A172MLF8|A0A172MLF8_LINUS tr|A0A172MLF8|A0A172MLF8_LINUS BHLH domain-containing protein OS=Linum usitatissimum OX=4006 PE=4 SV=1
+92	tr|A0A172MLC0|A0A172MLC0_LINUS	tr	4006	Y	native		1	tr|A0A172MLC0|A0A172MLC0_LINUS tr|A0A172MLC0|A0A172MLC0_LINUS Peptidyl-prolyl cis-trans isomerase OS=Linum usitatissimum OX=4006 PE=3 SV=1
+93	tr|A0A172MLI5|A0A172MLI5_LINUS	tr	4006	Y	native		1	tr|A0A172MLI5|A0A172MLI5_LINUS tr|A0A172MLI5|A0A172MLI5_LINUS Peptidyl-prolyl cis-trans isomerase OS=Linum usitatissimum OX=4006 PE=3 SV=1
+94	tr|G4XRL8|G4XRL8_LINUS	tr	4006	Y	native		1	tr|G4XRL8|G4XRL8_LINUS tr|G4XRL8|G4XRL8_LINUS Omega-3 desaturase OS=Linum usitatissimum OX=4006 GN=FAD3B PE=2 SV=1
+95	tr|Q9ATZ1|Q9ATZ1_LINUS	tr	4006	Y	native		1	tr|Q9ATZ1|Q9ATZ1_LINUS tr|Q9ATZ1|Q9ATZ1_LINUS Germin-like protein OS=Linum usitatissimum OX=4006 PE=3 SV=1
+96	tr|Q2VSW9|Q2VSW9_LINUS	tr	4006	Y	native		1	tr|Q2VSW9|Q2VSW9_LINUS tr|Q2VSW9|Q2VSW9_LINUS Putative cinnamoyl-CoA reductase (Fragment) OS=Linum usitatissimum OX=4006 PE=2 SV=1
+97	tr|A0RZJ4|A0RZJ4_LINUS	tr	4006	Y	keyword	oleosin	1	tr|A0RZJ4|A0RZJ4_LINUS tr|A0RZJ4|A0RZJ4_LINUS Oleosin high molecular weight isoform OS=Linum usitatissimum OX=4006 GN=G3 PE=2 SV=1 [KEYWORD:oleosin]
+98	tr|Q8LPD4|Q8LPD4_LINUS	tr	4006	Y	keyword	albumin,napin,xref:interpro-IPR000617	1	tr|Q8LPD4|Q8LPD4_LINUS tr|Q8LPD4|Q8LPD4_LINUS Conlinin OS=Linum usitatissimum OX=4006 GN=cnl1 PE=2 SV=1 [KEYWORD:albumin,napin,xref:interpro-IPR000617]
+99	tr|Q8LPD3|Q8LPD3_LINUS	tr	4006	Y	keyword	albumin,napin,xref:interpro-IPR000617	1	tr|Q8LPD3|Q8LPD3_LINUS tr|Q8LPD3|Q8LPD3_LINUS Conlinin OS=Linum usitatissimum OX=4006 GN=cnl2 PE=2 SV=1 [KEYWORD:albumin,napin,xref:interpro-IPR000617]
+100	tr|Q2VSX0|Q2VSX0_LINUS	tr	4006	Y	native		1	tr|Q2VSX0|Q2VSX0_LINUS tr|Q2VSX0|Q2VSX0_LINUS Putative phenylcoumaran benzylic ether reductase (Fragment) OS=Linum usitatissimum OX=4006 PE=2 SV=1
+101	tr|G4XRL6|G4XRL6_LINUS	tr	4006	Y	native		1	tr|G4XRL6|G4XRL6_LINUS tr|G4XRL6|G4XRL6_LINUS Omega-3 desaturase OS=Linum usitatissimum OX=4006 GN=FAD3A PE=2 SV=1
+102	tr|A0RZJ6|A0RZJ6_LINUS	tr	4006	Y	keyword	oleosin	1	tr|A0RZJ6|A0RZJ6_LINUS tr|A0RZJ6|A0RZJ6_LINUS Oleosin low molecular weight isoform OS=Linum usitatissimum OX=4006 GN=G1 PE=2 SV=1 [KEYWORD:oleosin]
+103	tr|A0RZJ5|A0RZJ5_LINUS	tr	4006	Y	keyword	oleosin	1	tr|A0RZJ5|A0RZJ5_LINUS tr|A0RZJ5|A0RZJ5_LINUS Oleosin low molecular weight isoform OS=Linum usitatissimum OX=4006 GN=G2 PE=2 SV=1 [KEYWORD:oleosin]
+104	tr|A0RZJ7|A0RZJ7_LINUS	tr	4006	Y	keyword	oleosin	1	tr|A0RZJ7|A0RZJ7_LINUS tr|A0RZJ7|A0RZJ7_LINUS Oleosin (Fragment) OS=Linum usitatissimum OX=4006 GN=9I PE=2 SV=1 [KEYWORD:oleosin]
+105	tr|A0RZJ8|A0RZJ8_LINUS	tr	4006	Y	keyword	oleosin	1	tr|A0RZJ8|A0RZJ8_LINUS tr|A0RZJ8|A0RZJ8_LINUS Oleosin (Fragment) OS=Linum usitatissimum OX=4006 GN=17Q PE=2 SV=1 [KEYWORD:oleosin]
+106	tr|Q9ARA0|Q9ARA0_LINUS	tr	4006	Y	native		1	tr|Q9ARA0|Q9ARA0_LINUS tr|Q9ARA0|Q9ARA0_LINUS RGA4.5 protein (Fragment) OS=Linum usitatissimum OX=4006 PE=4 SV=1
+107	tr|Q9AR94|Q9AR94_LINUS	tr	4006	Y	native		1	tr|Q9AR94|Q9AR94_LINUS tr|Q9AR94|Q9AR94_LINUS RGA6.3 protein (Fragment) OS=Linum usitatissimum OX=4006 PE=4 SV=1
+108	tr|D4P883|D4P883_LINUS	tr	4006	Y	native		1	tr|D4P883|D4P883_LINUS tr|D4P883|D4P883_LINUS Putative serpin family protein (Fragment) OS=Linum usitatissimum OX=4006 PE=2 SV=1
+109	tr|G3CIY5|G3CIY5_LINUS	tr	4006	Y	native		1	tr|G3CIY5|G3CIY5_LINUS tr|G3CIY5|G3CIY5_LINUS Truncated fatty acid desaturase 3A OS=Linum usitatissimum OX=4006 GN=FAD3A PE=3 SV=1
+110	tr|D4P886|D4P886_LINUS	tr	4006	Y	native		1	tr|D4P886|D4P886_LINUS tr|D4P886|D4P886_LINUS Vacuolar processing enzyme (Fragment) OS=Linum usitatissimum OX=4006 PE=2 SV=1
+111	tr|Q9S8X1|Q9S8X1_LINUS	tr	4006	Y	native		1	tr|Q9S8X1|Q9S8X1_LINUS tr|Q9S8X1|Q9S8X1_LINUS 25 kDa antifungal protein (Fragment) OS=Linum usitatissimum OX=4006 PE=3 SV=1

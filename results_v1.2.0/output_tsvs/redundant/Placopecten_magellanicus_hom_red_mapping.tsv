@@ -1,0 +1,10 @@
+cluster_id	seq_id	db_type	taxid	is_favoured	source_type	source_detail	cluster_size	title
+0	tr|Q26080|Q26080_PLAMG	tr	6577	Y	native		1	tr|Q26080|Q26080_PLAMG tr|Q26080|Q26080_PLAMG Myosin heavy chain OS=Placopecten magellanicus OX=6577 PE=1 SV=1
+1	tr|Q26079|Q26079_PLAMG	tr	6577	Y	native		1	tr|Q26079|Q26079_PLAMG tr|Q26079|Q26079_PLAMG Myosin heavy chain OS=Placopecten magellanicus OX=6577 PE=1 SV=1
+2	tr|O77070|O77070_PLAMG	tr	6577	Y	native		1	tr|O77070|O77070_PLAMG tr|O77070|O77070_PLAMG Calcium-transporting ATPase OS=Placopecten magellanicus OX=6577 PE=2 SV=1
+3	sp|Q26065|ACT_PLAMG	sp	6577	Y	native		1	sp|Q26065|ACT_PLAMG sp|Q26065|ACT_PLAMG Actin, adductor muscle OS=Placopecten magellanicus OX=6577 PE=2 SV=1
+4	tr|Q4FE08|Q4FE08_PLAMG	tr	6577	Y	native		1	tr|Q4FE08|Q4FE08_PLAMG tr|Q4FE08|Q4FE08_PLAMG Cytochrome c oxidase subunit 2 OS=Placopecten magellanicus OX=6577 GN=COXII PE=3 SV=1
+5	tr|Q26069|Q26069_PLAMG	tr	6577	Y	native		1	tr|Q26069|Q26069_PLAMG tr|Q26069|Q26069_PLAMG Myosin regulatory light chain OS=Placopecten magellanicus OX=6577 PE=1 SV=1
+6	tr|Q26066|Q26066_PLAMG	tr	6577	Y	native		1	tr|Q26066|Q26066_PLAMG tr|Q26066|Q26066_PLAMG Sulfhydryl light chain OS=Placopecten magellanicus OX=6577 PE=1 SV=1
+7	tr|Q26067|Q26067_PLAMG	tr	6577	Y	native		1	tr|Q26067|Q26067_PLAMG tr|Q26067|Q26067_PLAMG Myosin regulatory light chain OS=Placopecten magellanicus OX=6577 PE=2 SV=1
+8	tr|Q26068|Q26068_PLAMG	tr	6577	Y	native		1	tr|Q26068|Q26068_PLAMG tr|Q26068|Q26068_PLAMG Myosin regulatory light chain OS=Placopecten magellanicus OX=6577 PE=1 SV=1
