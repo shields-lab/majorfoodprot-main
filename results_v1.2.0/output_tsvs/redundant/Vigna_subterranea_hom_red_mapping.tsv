@@ -1,0 +1,2 @@
+cluster_id	seq_id	db_type	taxid	is_favoured	source_type	source_detail	cluster_size	title
+0	tr|Q6A1C0|Q6A1C0_VIGSU	tr	115715	Y	keyword	albumin,keyword:KW-0708	1	tr|Q6A1C0|Q6A1C0_VIGSU tr|Q6A1C0|Q6A1C0_VIGSU Putative albumin 1 (Fragment) OS=Vigna subterranea OX=115715 GN=pa1 PE=4 SV=1 [KEYWORD:albumin,keyword:KW-0708]

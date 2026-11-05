@@ -1,0 +1,105 @@
+Rerunning major food protein database
+Cloned from https://github.com/shields-lab/majorfoodprot-code
+
+Ran the following steps :
+
+conda activate fooddb
+
+python validate_input.py Food_peptide_database-input.tsv
+python get_searchterm_proteins.py Food_peptide_database-input.tsv
+python get_proteomes.py Food_peptide_database-input.tsv
+python get_homologs.py Food_peptide_database-input.tsv
+python get_subproteomes.py Food_peptide_database-input.tsv
+python build_species_tree.py Food_peptide_database-input.tsv --mode ortho
+python build_species_tree.py Food_peptide_database-input.tsv --mode food
+
+conda activate orthofinder
+
+orthofinder -f subproteomes -s orthofinder_input_tree_rooted
+
+conda activate fooddb
+
+python red_orthologs.py Food_peptide_database-input.tsv
+python nonred_orthologs.py Food_peptide_database-input.tsv --identity 0.95
+python remove_signals.py
+
+
+All ran without any errors.
+2 things had to be fixed
+
+1) In input some rows  requiring fasta sequences , were in .fa and some in .fasta.
+
+So I chamged the Food_peptide_databases-input.tsv
+
+2) After running orthofinder, subproteomes/OrthoFinder/Results_Oct25/Orthologues  had files in .gz format.  For next steps files were neeeded in .tsv so I unzipped them with
+
+python - <<'PY'
+from pathlib import Path
+import gzip
+import shutil
+
+results = Path("subproteomes/OrthoFinder/Results_Oct25")
+source = results / "Orthologs"
+destination = results / "Orthologues"
+
+files = sorted(source.glob("*.tsv.gz"))
+if not files:
+    raise SystemExit(f"No .tsv.gz files found in {source}")
+
+destination.mkdir(exist_ok=True)
+created = 0
+
+for compressed in files:
+    output = destination / compressed.stem
+
+    if output.exists():
+        print(f"Already exists; left unchanged: {output.name}")
+        continue
+
+    with gzip.open(compressed, "rb") as reader:
+        with output.open("xb") as writer:
+            shutil.copyfileobj(reader, writer)
+
+    created += 1
+
+print(f"\nCreated {created} uncompressed tables in {destination}")
+PY
+
+3) The output 
+
+| Check | 13 October | Updated 26 October |
+|---|---:|---:|
+| Data rows, excluding header | **10,137** | **10,723** |
+| Columns | 35 | 35 |
+| Species represented | 89 | 90 |
+| Exact duplicate rows | 0 | 0 |
+| Rows with an incorrect number of columns | 0 | 0 |
+
+
+| Species | Name recorded in your file | New protein | Accession |
+|---|---|---|---|
+| *Mytilus chilensis* | Chilean mussel | Cytochrome c oxidase subunit 2 | A0A185RMG9 |
+| *Trichiurus lepturus* | Atlantic cutlassfish / Largehead hairtail | Cytochrome c oxidase subunit 2 | J9VF20 |
+
+Ensis directus was present on 13 October but is absent from the updated file. Thus, species coverage changes from 89 to 90: two added and one lost.
+
+| Sequence-quality issue | 13 October | 26 October |
+|---|---:|---:|
+| Candidate sequences containing “too long for display here” | 58 | **152** |
+| Homolog-sequence fields containing that text | 70 | **182** |
+
+
+4) Eight chicken proteins have very long sequences, ranging from 32,783 to 35,040 characters. Each appears in both candidate_sequence and Mature_Sequence—giving 16 long cells.
+ These have to removed or written "too long sequence". 
+| Accession | Sequence length in 26 October | Present on 13 October? |
+|---|---:|---|
+| A0A8V0ZRJ3 | 33,141 | Yes |
+| A0A8V0ZT61 | 32,783 | Yes |
+| A0A8V0ZTE9 | 33,329 | Yes |
+| A0A8V0ZTY8 | 32,867 | Yes |
+| **A0A8V0ZUU8** | **35,040** | **No** |
+| A0A8V0ZYE2 | 34,547 | Yes |
+| A0A8V0ZYU2 | 33,413 | Yes |
+| A0A8V0ZZ81 | 34,378 | Yes |
+
+This has to be checked why these didn't get removed. Rest all seems ok. 

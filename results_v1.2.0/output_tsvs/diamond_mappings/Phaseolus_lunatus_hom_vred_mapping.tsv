@@ -1,0 +1,42 @@
+sseqid	count	has_sequence	stitle
+sp|Q43617|PHS2_PHALU	487	Y	sp|Q43617|PHS2_PHALU Phaseolin (Fragment) OS=Phaseolus lunatus OX=3884 GN=PHS PE=2 SV=1
+sp|P80463|PHS1_PHALU	522	Y	sp|P80463|PHS1_PHALU Phaseolin OS=Phaseolus lunatus OX=3884 GN=PHA PE=1 SV=2
+sp|Q9ZSK5|ZOG_PHALU	1	Y	sp|Q9ZSK5|ZOG_PHALU Zeatin O-glucosyltransferase OS=Phaseolus lunatus OX=3884 GN=ZOG1 PE=1 SV=1
+tr|Q8S3B5|Q8S3B5_PHALU	1	Y	tr|Q8S3B5|Q8S3B5_PHALU Glycosyltransferase OS=Phaseolus lunatus OX=3884 PE=2 SV=1
+tr|A0A6H2TWT0|A0A6H2TWT0_PHALU	1	Y	tr|A0A6H2TWT0|A0A6H2TWT0_PHALU Glycosyltransferase OS=Phaseolus lunatus OX=3884 GN=UGT85K31 PE=2 SV=1
+tr|E3VPY7|E3VPY7_PHALU	1	Y	tr|E3VPY7|E3VPY7_PHALU Microsomal omega-6 desaturase OS=Phaseolus lunatus OX=3884 GN=FAD2 PE=2 SV=1
+tr|E3VPY8|E3VPY8_PHALU	1	Y	tr|E3VPY8|E3VPY8_PHALU Microsomal omega-3 desaturase OS=Phaseolus lunatus OX=3884 GN=FAD3 PE=2 SV=1
+tr|Q3S615|Q3S615_PHALU	5	Y	tr|Q3S615|Q3S615_PHALU Peroxidase (Fragment) OS=Phaseolus lunatus OX=3884 GN=PER1 PE=2 SV=1
+tr|P93455|P93455_PHALU	20	Y	tr|P93455|P93455_PHALU Lectin 1 OS=Phaseolus lunatus OX=3884 PE=2 SV=1
+tr|Q9LED7|Q9LED7_PHALU	20	Y	tr|Q9LED7|Q9LED7_PHALU Arcelin-like protein OS=Phaseolus lunatus OX=3884 GN=arl2 PE=2 SV=1
+tr|Q9LED6|Q9LED6_PHALU	20	Y	tr|Q9LED6|Q9LED6_PHALU Alpha-amylase inhibitor-like protein OS=Phaseolus lunatus OX=3884 GN=ail2 PE=2 SV=1
+tr|P93456|P93456_PHALU	20	Y	tr|P93456|P93456_PHALU Lectin 2 OS=Phaseolus lunatus OX=3884 PE=2 SV=1
+tr|Q9LED5|Q9LED5_PHALU	20	Y	tr|Q9LED5|Q9LED5_PHALU Alpha-amylase inhibitor-like protein OS=Phaseolus lunatus OX=3884 GN=ail3 PE=2 SV=1
+tr|Q9LED9|Q9LED9_PHALU	20	Y	tr|Q9LED9|Q9LED9_PHALU Lectin OS=Phaseolus lunatus OX=3884 GN=lbl5 PE=2 SV=1
+tr|Q9LED8|Q9LED8_PHALU	20	Y	tr|Q9LED8|Q9LED8_PHALU Lectin OS=Phaseolus lunatus OX=3884 GN=lbl6 PE=2 SV=1
+tr|P93458|P93458_PHALU	20	Y	tr|P93458|P93458_PHALU Lectin 4 (Fragment) OS=Phaseolus lunatus OX=3884 PE=2 SV=1
+tr|P93457|P93457_PHALU	20	Y	tr|P93457|P93457_PHALU Lectin 3 (Fragment) OS=Phaseolus lunatus OX=3884 PE=2 SV=2
+tr|Q40912|Q40912_PHALU	20	Y	tr|Q40912|Q40912_PHALU Lectin II (Fragment) OS=Phaseolus lunatus OX=3884 PE=3 SV=1
+sp|P16300|LEC_PHALU	20	Y	sp|P16300|LEC_PHALU Lectin OS=Phaseolus lunatus OX=3884 PE=1 SV=1
+tr|A0A6H2TXB6|A0A6H2TXB6_PHALU	2	Y	tr|A0A6H2TXB6|A0A6H2TXB6_PHALU Cytochrome P450 OS=Phaseolus lunatus OX=3884 GN=CYP736A222 PE=2 SV=1
+tr|A0A6H2TX00|A0A6H2TX00_PHALU	1	Y	tr|A0A6H2TX00|A0A6H2TX00_PHALU Cytochrome P450 OS=Phaseolus lunatus OX=3884 GN=CYP79D71 PE=2 SV=1
+tr|A0A6H2TXE1|A0A6H2TXE1_PHALU	2	Y	tr|A0A6H2TXE1|A0A6H2TXE1_PHALU Cytochrome P450 OS=Phaseolus lunatus OX=3884 GN=CYP83E46 PE=2 SV=1
+tr|A0A6H2TWV5|A0A6H2TWV5_PHALU	2	Y	tr|A0A6H2TWV5|A0A6H2TWV5_PHALU Cytochrome P450 OS=Phaseolus lunatus OX=3884 GN=CYP83E47 PE=2 SV=1
+tr|Q4ZJ68|Q4ZJ68_PHALU	3	Y	tr|Q4ZJ68|Q4ZJ68_PHALU L-ascorbate peroxidase (Fragment) OS=Phaseolus lunatus OX=3884 GN=AP1 PE=2 SV=1
+tr|A0A097GTZ1|A0A097GTZ1_PHALU	3	Y	tr|A0A097GTZ1|A0A097GTZ1_PHALU Protein TIFY (Fragment) OS=Phaseolus lunatus OX=3884 PE=3 SV=1
+tr|A0A097GTY5|A0A097GTY5_PHALU	3	Y	tr|A0A097GTY5|A0A097GTY5_PHALU Protein TIFY (Fragment) OS=Phaseolus lunatus OX=3884 PE=3 SV=1
+tr|A0A097GTY4|A0A097GTY4_PHALU	3	Y	tr|A0A097GTY4|A0A097GTY4_PHALU Protein TIFY (Fragment) OS=Phaseolus lunatus OX=3884 PE=3 SV=1
+tr|Q4ZJ67|Q4ZJ67_PHALU	2	Y	tr|Q4ZJ67|Q4ZJ67_PHALU Glutathione peroxidase (Fragment) OS=Phaseolus lunatus OX=3884 GN=GP1 PE=2 SV=1
+tr|Q4ZJ69|Q4ZJ69_PHALU	2	Y	tr|Q4ZJ69|Q4ZJ69_PHALU catalase (Fragment) OS=Phaseolus lunatus OX=3884 GN=CAT1 PE=2 SV=1
+tr|A0A097GU01|A0A097GU01_PHALU	2	Y	tr|A0A097GU01|A0A097GU01_PHALU Coronatine-insensitive 1 (Fragment) OS=Phaseolus lunatus OX=3884 PE=4 SV=1
+tr|Q3S614|Q3S614_PHALU	1	Y	tr|Q3S614|Q3S614_PHALU Superoxide dismutase (Fragment) OS=Phaseolus lunatus OX=3884 GN=SOD1 PE=2 SV=1
+tr|B9UP22|B9UP22_PHALU	5	Y	tr|B9UP22|B9UP22_PHALU Ribulose bisphosphate carboxylase large chain (Fragment) OS=Phaseolus lunatus OX=3884 GN=rbcL PE=3 SV=1
+tr|B9UP21|B9UP21_PHALU	5	Y	tr|B9UP21|B9UP21_PHALU Ribulose bisphosphate carboxylase large chain (Fragment) OS=Phaseolus lunatus OX=3884 GN=rbcL PE=3 SV=1
+tr|B9UP62|B9UP62_PHALU	5	Y	tr|B9UP62|B9UP62_PHALU Ribulose bisphosphate carboxylase large chain (Fragment) OS=Phaseolus lunatus OX=3884 GN=rbcL PE=3 SV=1
+tr|B9UP70|B9UP70_PHALU	5	Y	tr|B9UP70|B9UP70_PHALU Ribulose bisphosphate carboxylase large chain (Fragment) OS=Phaseolus lunatus OX=3884 GN=rbcL PE=3 SV=1
+tr|B9UP24|B9UP24_PHALU	5	Y	tr|B9UP24|B9UP24_PHALU Ribulose bisphosphate carboxylase large chain (Fragment) OS=Phaseolus lunatus OX=3884 GN=rbcL PE=3 SV=1
+tr|B9UP72|B9UP72_PHALU	5	Y	tr|B9UP72|B9UP72_PHALU Ribulose bisphosphate carboxylase large chain (Fragment) OS=Phaseolus lunatus OX=3884 GN=rbcL PE=3 SV=1
+tr|B9UP69|B9UP69_PHALU	5	Y	tr|B9UP69|B9UP69_PHALU Ribulose bisphosphate carboxylase large chain (Fragment) OS=Phaseolus lunatus OX=3884 GN=rbcL PE=3 SV=1
+tr|B9UP32|B9UP32_PHALU	5	Y	tr|B9UP32|B9UP32_PHALU Ribulose bisphosphate carboxylase large chain (Fragment) OS=Phaseolus lunatus OX=3884 GN=rbcL PE=3 SV=1
+tr|B9UP68|B9UP68_PHALU	5	Y	tr|B9UP68|B9UP68_PHALU Ribulose bisphosphate carboxylase large chain (Fragment) OS=Phaseolus lunatus OX=3884 GN=rbcL PE=3 SV=1
+tr|B9UP64|B9UP64_PHALU	5	Y	tr|B9UP64|B9UP64_PHALU Ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (Fragment) OS=Phaseolus lunatus OX=3884 GN=rbcL PE=4 SV=1

@@ -1,0 +1,15 @@
+cluster_id	seq_id	db_type	taxid	is_favoured	source_type	source_detail	cluster_size	title
+0	tr|D2CIT8|D2CIT8_LABCA	tr	72446	Y	native		1	tr|D2CIT8|D2CIT8_LABCA tr|D2CIT8|D2CIT8_LABCA Vitellogenin OS=Labeo catla OX=72446 GN=VgB1 PE=2 SV=2
+1	tr|C0KWF2|C0KWF2_LABCA	tr	72446	Y	native		1	tr|C0KWF2|C0KWF2_LABCA tr|C0KWF2|C0KWF2_LABCA VgB2 (Fragment) OS=Labeo catla OX=72446 GN=VgB2 PE=2 SV=1
+2	tr|J9TGM4|J9TGM4_LABCA	tr	72446	Y	native		1	tr|J9TGM4|J9TGM4_LABCA tr|J9TGM4|J9TGM4_LABCA Glyceraldehyde-3-phosphate dehydrogenase (Fragment) OS=Labeo catla OX=72446 PE=2 SV=1
+3	tr|I3QDN2|I3QDN2_LABCA	tr	72446	Y	native		1	tr|I3QDN2|I3QDN2_LABCA tr|I3QDN2|I3QDN2_LABCA Cytochrome c oxidase subunit 2 OS=Labeo catla OX=72446 GN=COII PE=3 SV=1
+4	tr|B1VB87|B1VB87_LABCA	tr	72446	Y	native		1	tr|B1VB87|B1VB87_LABCA tr|B1VB87|B1VB87_LABCA Transferrin (Fragment) OS=Labeo catla OX=72446 GN=tf PE=2 SV=1
+5	tr|I6TLM7|I6TLM7_LABCA	tr	72446	Y	native		1	tr|I6TLM7|I6TLM7_LABCA tr|I6TLM7|I6TLM7_LABCA Beta-actin (Fragment) OS=Labeo catla OX=72446 PE=2 SV=1
+6	tr|A0A075C121|A0A075C121_LABCA	tr	72446	Y	native		1	tr|A0A075C121|A0A075C121_LABCA tr|A0A075C121|A0A075C121_LABCA Heat shock protein 47 (Fragment) OS=Labeo catla OX=72446 PE=2 SV=1
+7	tr|H9NKK4|H9NKK4_LABCA	tr	72446	Y	native		1	tr|H9NKK4|H9NKK4_LABCA tr|H9NKK4|H9NKK4_LABCA 1,4-beta-N-acetylmuramidase C (Fragment) OS=Labeo catla OX=72446 PE=2 SV=1
+8	tr|S5PZ96|S5PZ96_LABCA	tr	72446	Y	native		1	tr|S5PZ96|S5PZ96_LABCA tr|S5PZ96|S5PZ96_LABCA Beta-actin (Fragment) OS=Labeo catla OX=72446 PE=2 SV=1
+9	tr|S5YYM8|S5YYM8_LABCA	tr	72446	Y	native		1	tr|S5YYM8|S5YYM8_LABCA tr|S5YYM8|S5YYM8_LABCA Enolase (Fragment) OS=Labeo catla OX=72446 PE=2 SV=1
+10	tr|S5GB13|S5GB13_LABCA	tr	72446	Y	native		1	tr|S5GB13|S5GB13_LABCA tr|S5GB13|S5GB13_LABCA fructose-bisphosphate aldolase (Fragment) OS=Labeo catla OX=72446 PE=2 SV=1
+11	tr|S5Q260|S5Q260_LABCA	tr	72446	Y	native		1	tr|S5Q260|S5Q260_LABCA tr|S5Q260|S5Q260_LABCA creatine kinase (Fragment) OS=Labeo catla OX=72446 PE=2 SV=1
+12	tr|S5G1K3|S5G1K3_LABCA	tr	72446	Y	native		1	tr|S5G1K3|S5G1K3_LABCA tr|S5G1K3|S5G1K3_LABCA glyceraldehyde-3-phosphate dehydrogenase (phosphorylating) (Fragment) OS=Labeo catla OX=72446 PE=2 SV=1
+13	tr|H9NKK3|H9NKK3_LABCA	tr	72446	Y	native		1	tr|H9NKK3|H9NKK3_LABCA tr|H9NKK3|H9NKK3_LABCA Lysozyme g (Fragment) OS=Labeo catla OX=72446 PE=2 SV=1

@@ -1,0 +1,2 @@
+cluster_id	seq_id	db_type	taxid	is_favoured	source_type	source_detail	cluster_size	title
+0	tr|A0A185RMG9|A0A185RMG9_MYTCH	tr	173667	Y	native		1	tr|A0A185RMG9|A0A185RMG9_MYTCH tr|A0A185RMG9|A0A185RMG9_MYTCH Cytochrome c oxidase subunit 2 OS=Mytilus chilensis OX=173667 GN=COX2 PE=3 SV=1

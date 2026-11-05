@@ -1,0 +1,64 @@
+sseqid	count	has_sequence	stitle
+tr|A0A089PAU0|A0A089PAU0_CENAM	1	Y	tr|A0A089PAU0|A0A089PAU0_CENAM Peptidyl-prolyl cis-trans isomerase (Fragment) OS=Cenchrus americanus OX=4543 PE=2 SV=1
+tr|L7P8C9|L7P8C9_CENAM	11	Y	tr|L7P8C9|L7P8C9_CENAM Mitogen-activated protein kinase (Fragment) OS=Cenchrus americanus OX=4543 GN=MAPK1 PE=2 SV=1
+tr|W5U037|W5U037_CENAM	11	Y	tr|W5U037|W5U037_CENAM Mitogen-activated protein kinase OS=Cenchrus americanus OX=4543 GN=MPK4 PE=2 SV=1
+tr|Q8H1L3|Q8H1L3_CENAM	13	Y	tr|Q8H1L3|Q8H1L3_CENAM Serine/threonine-protein (Fragment) OS=Cenchrus americanus OX=4543 PE=2 SV=1
+tr|A0A076Q103|A0A076Q103_CENAM	7	Y	tr|A0A076Q103|A0A076Q103_CENAM Serine/threonine-protein OS=Cenchrus americanus OX=4543 GN=CDPK PE=2 SV=1
+tr|A0A3G8G7F7|A0A3G8G7F7_CENAM	5	Y	tr|A0A3G8G7F7|A0A3G8G7F7_CENAM NAC21 protein OS=Cenchrus americanus OX=4543 GN=NAC21 PE=2 SV=1
+tr|Q5MGQ9|Q5MGQ9_CENAM	1	Y	tr|Q5MGQ9|Q5MGQ9_CENAM Rab7 OS=Cenchrus americanus OX=4543 PE=2 SV=1
+tr|A6N4D2|A6N4D2_CENAM	186	Y	tr|A6N4D2|A6N4D2_CENAM 21 kDa pennisetin OS=Cenchrus americanus OX=4543 PE=2 SV=1
+tr|A6N4D3|A6N4D3_CENAM	180	Y	tr|A6N4D3|A6N4D3_CENAM 21 kDa pennisetin OS=Cenchrus americanus OX=4543 PE=2 SV=1
+tr|I3RJW9|I3RJW9_CENAM	1	Y	tr|I3RJW9|I3RJW9_CENAM PgDwarf8 (Fragment) OS=Cenchrus americanus OX=4543 GN=PgDwarf8 PE=3 SV=1
+tr|I3RJY6|I3RJY6_CENAM	1	Y	tr|I3RJY6|I3RJY6_CENAM PgDwarf8 (Fragment) OS=Cenchrus americanus OX=4543 GN=PgDwarf8 PE=3 SV=1
+tr|I3RJZ1|I3RJZ1_CENAM	1	Y	tr|I3RJZ1|I3RJZ1_CENAM PgDwarf8 (Fragment) OS=Cenchrus americanus OX=4543 GN=PgDwarf8 PE=3 SV=1
+tr|I3RJV4|I3RJV4_CENAM	1	Y	tr|I3RJV4|I3RJV4_CENAM PgDwarf8 (Fragment) OS=Cenchrus americanus OX=4543 GN=PgDwarf8 PE=3 SV=1
+tr|I3RJV6|I3RJV6_CENAM	1	Y	tr|I3RJV6|I3RJV6_CENAM PgDwarf8 (Fragment) OS=Cenchrus americanus OX=4543 GN=PgDwarf8 PE=3 SV=1
+tr|I3RJY8|I3RJY8_CENAM	1	Y	tr|I3RJY8|I3RJY8_CENAM PgDwarf8 (Fragment) OS=Cenchrus americanus OX=4543 GN=PgDwarf8 PE=3 SV=1
+tr|I3RJX0|I3RJX0_CENAM	1	Y	tr|I3RJX0|I3RJX0_CENAM PgDwarf8 (Fragment) OS=Cenchrus americanus OX=4543 GN=PgDwarf8 PE=3 SV=1
+tr|I3RJY9|I3RJY9_CENAM	1	Y	tr|I3RJY9|I3RJY9_CENAM PgDwarf8 (Fragment) OS=Cenchrus americanus OX=4543 GN=PgDwarf8 PE=3 SV=1
+tr|I3RJX7|I3RJX7_CENAM	1	Y	tr|I3RJX7|I3RJX7_CENAM PgDwarf8 (Fragment) OS=Cenchrus americanus OX=4543 GN=PgDwarf8 PE=3 SV=1
+tr|I3RJV0|I3RJV0_CENAM	1	Y	tr|I3RJV0|I3RJV0_CENAM PgDwarf8 (Fragment) OS=Cenchrus americanus OX=4543 GN=PgDwarf8 PE=3 SV=1
+tr|I3RJW2|I3RJW2_CENAM	1	Y	tr|I3RJW2|I3RJW2_CENAM PgDwarf8 (Fragment) OS=Cenchrus americanus OX=4543 GN=PgDwarf8 PE=3 SV=1
+tr|I3RJW3|I3RJW3_CENAM	1	Y	tr|I3RJW3|I3RJW3_CENAM PgDwarf8 (Fragment) OS=Cenchrus americanus OX=4543 GN=PgDwarf8 PE=3 SV=1
+tr|I3RJX6|I3RJX6_CENAM	1	Y	tr|I3RJX6|I3RJX6_CENAM PgDwarf8 (Fragment) OS=Cenchrus americanus OX=4543 GN=PgDwarf8 PE=3 SV=1
+tr|I3RJX9|I3RJX9_CENAM	1	Y	tr|I3RJX9|I3RJX9_CENAM PgDwarf8 (Fragment) OS=Cenchrus americanus OX=4543 GN=PgDwarf8 PE=3 SV=1
+tr|I3RJY7|I3RJY7_CENAM	1	Y	tr|I3RJY7|I3RJY7_CENAM PgDwarf8 (Fragment) OS=Cenchrus americanus OX=4543 GN=PgDwarf8 PE=4 SV=1
+tr|I3RJX8|I3RJX8_CENAM	1	Y	tr|I3RJX8|I3RJX8_CENAM PgDwarf8 (Fragment) OS=Cenchrus americanus OX=4543 GN=PgDwarf8 PE=3 SV=1
+tr|I3RJV8|I3RJV8_CENAM	1	Y	tr|I3RJV8|I3RJV8_CENAM PgDwarf8 (Fragment) OS=Cenchrus americanus OX=4543 GN=PgDwarf8 PE=3 SV=1
+tr|I3RJZ0|I3RJZ0_CENAM	1	Y	tr|I3RJZ0|I3RJZ0_CENAM PgDwarf8 (Fragment) OS=Cenchrus americanus OX=4543 GN=PgDwarf8 PE=3 SV=1
+tr|I3RJY3|I3RJY3_CENAM	1	Y	tr|I3RJY3|I3RJY3_CENAM PgDwarf8 (Fragment) OS=Cenchrus americanus OX=4543 GN=PgDwarf8 PE=3 SV=1
+tr|I3RJV3|I3RJV3_CENAM	1	Y	tr|I3RJV3|I3RJV3_CENAM PgDwarf8 (Fragment) OS=Cenchrus americanus OX=4543 GN=PgDwarf8 PE=3 SV=1
+tr|I3RJW6|I3RJW6_CENAM	1	Y	tr|I3RJW6|I3RJW6_CENAM PgDwarf8 (Fragment) OS=Cenchrus americanus OX=4543 GN=PgDwarf8 PE=3 SV=1
+tr|I3RJY4|I3RJY4_CENAM	1	Y	tr|I3RJY4|I3RJY4_CENAM PgDwarf8 (Fragment) OS=Cenchrus americanus OX=4543 GN=PgDwarf8 PE=3 SV=1
+tr|I3RJV2|I3RJV2_CENAM	1	Y	tr|I3RJV2|I3RJV2_CENAM PgDwarf8 (Fragment) OS=Cenchrus americanus OX=4543 GN=PgDwarf8 PE=3 SV=1
+tr|I3RJX5|I3RJX5_CENAM	1	Y	tr|I3RJX5|I3RJX5_CENAM PgDwarf8 (Fragment) OS=Cenchrus americanus OX=4543 GN=PgDwarf8 PE=3 SV=1
+tr|I3RJX3|I3RJX3_CENAM	1	Y	tr|I3RJX3|I3RJX3_CENAM PgDwarf8 (Fragment) OS=Cenchrus americanus OX=4543 GN=PgDwarf8 PE=3 SV=1
+tr|Q7M1G1|Q7M1G1_CENAM	3	Y	tr|Q7M1G1|Q7M1G1_CENAM Prolamin (Fragment) OS=Cenchrus americanus OX=4543 PE=1 SV=1
+tr|A6N4D1|A6N4D1_CENAM	3	Y	tr|A6N4D1|A6N4D1_CENAM 22 kDa pennisetin OS=Cenchrus americanus OX=4543 PE=2 SV=1
+tr|A6N4D4|A6N4D4_CENAM	3	Y	tr|A6N4D4|A6N4D4_CENAM 27 kDa pennisetin OS=Cenchrus americanus OX=4543 PE=2 SV=1
+tr|A0A1B0RMG0|A0A1B0RMG0_CENAM	1	Y	tr|A0A1B0RMG0|A0A1B0RMG0_CENAM Purple acid phosphatase OS=Cenchrus americanus OX=4543 PE=2 SV=1
+tr|A9LL83|A9LL83_CENAM	4	Y	tr|A9LL83|A9LL83_CENAM Membrane-bound peroxidase (Fragment) OS=Cenchrus americanus OX=4543 PE=2 SV=1
+tr|Q8H1L2|Q8H1L2_CENAM	2	Y	tr|Q8H1L2|Q8H1L2_CENAM mitogen-activated protein kinase kinase (Fragment) OS=Cenchrus americanus OX=4543 PE=2 SV=1
+tr|A5A496|A5A496_CENAM	2	Y	tr|A5A496|A5A496_CENAM non-specific serine/threonine protein kinase (Fragment) OS=Cenchrus americanus OX=4543 GN=BIF2 PE=4 SV=1
+tr|Q43808|Q43808_CENAM	1	Y	tr|Q43808|Q43808_CENAM Alcohol dehydrogenase 1 (Fragment) OS=Cenchrus americanus OX=4543 GN=Adh1 PE=3 SV=2
+tr|Q7DMZ6|Q7DMZ6_CENAM	1	Y	tr|Q7DMZ6|Q7DMZ6_CENAM Alcohol dehydrogenase 1 (Fragment) OS=Cenchrus americanus OX=4543 GN=Adh1 PE=3 SV=1
+tr|Q43807|Q43807_CENAM	1	Y	tr|Q43807|Q43807_CENAM Alcohol dehydrogenase 1 (Fragment) OS=Cenchrus americanus OX=4543 GN=Adh1 PE=3 SV=1
+tr|Q43805|Q43805_CENAM	1	Y	tr|Q43805|Q43805_CENAM Alcohol dehydrogenase 1 (Fragment) OS=Cenchrus americanus OX=4543 GN=Adh1 PE=3 SV=1
+tr|Q43722|Q43722_CENAM	1	Y	tr|Q43722|Q43722_CENAM Alcohol dehydrogenase 1 (Fragment) OS=Cenchrus americanus OX=4543 GN=Adh1 PE=3 SV=1
+tr|Q43806|Q43806_CENAM	1	Y	tr|Q43806|Q43806_CENAM Alcohol dehydrogenase 1 (Fragment) OS=Cenchrus americanus OX=4543 GN=Adh1 PE=3 SV=1
+sp|P14219|ADH1_CENAM	1	Y	sp|P14219|ADH1_CENAM Alcohol dehydrogenase 1 OS=Cenchrus americanus OX=4543 GN=ADH1 PE=2 SV=1
+tr|Q94IL8|Q94IL8_CENAM	1	Y	tr|Q94IL8|Q94IL8_CENAM Alcohol dehydrogenase 1 OS=Cenchrus americanus OX=4543 GN=adh1C PE=2 SV=1
+tr|Q94IL9|Q94IL9_CENAM	1	Y	tr|Q94IL9|Q94IL9_CENAM Alcohol dehydrogenase 1 OS=Cenchrus americanus OX=4543 GN=adh1F PE=2 SV=1
+tr|A0A0B5ACT4|A0A0B5ACT4_CENAM	1	Y	tr|A0A0B5ACT4|A0A0B5ACT4_CENAM NBS-LRR-like protein OS=Cenchrus americanus OX=4543 PE=2 SV=1
+tr|E2JF19|E2JF19_CENAM	1	Y	tr|E2JF19|E2JF19_CENAM NBS-LRR-like protein OS=Cenchrus americanus OX=4543 PE=2 SV=1
+tr|A4ZYP9|A4ZYP9_CENAM	4	Y	tr|A4ZYP9|A4ZYP9_CENAM NAD(P)H oxidase OS=Cenchrus americanus OX=4543 PE=2 SV=1
+tr|Q5MJ31|Q5MJ31_CENAM	4	Y	tr|Q5MJ31|Q5MJ31_CENAM NAD(P)H oxidase OS=Cenchrus americanus OX=4543 GN=Apx PE=2 SV=1
+tr|Q40833|Q40833_CENAM	4	Y	tr|Q40833|Q40833_CENAM Myc-like regulatory R gene product (Fragment) OS=Cenchrus americanus OX=4543 PE=3 SV=1
+tr|Q40835|Q40835_CENAM	4	Y	tr|Q40835|Q40835_CENAM Myc-like regulatory R gene product (Fragment) OS=Cenchrus americanus OX=4543 PE=3 SV=1
+tr|Q40834|Q40834_CENAM	4	Y	tr|Q40834|Q40834_CENAM Myc-like regulatory R gene product (Fragment) OS=Cenchrus americanus OX=4543 PE=3 SV=1
+tr|Q40836|Q40836_CENAM	4	Y	tr|Q40836|Q40836_CENAM Myc-like regulatory R gene product (Fragment) OS=Cenchrus americanus OX=4543 PE=3 SV=1
+tr|A4ZYP8|A4ZYP8_CENAM	1	Y	tr|A4ZYP8|A4ZYP8_CENAM Superoxide dismutase [Cu-Zn] OS=Cenchrus americanus OX=4543 PE=2 SV=1
+tr|Q5MJ23|Q5MJ23_CENAM	1	Y	tr|Q5MJ23|Q5MJ23_CENAM superoxide dismutase (Fragment) OS=Cenchrus americanus OX=4543 PE=2 SV=1
+tr|A0A0E3KMT5|A0A0E3KMT5_CENAM	2	Y	tr|A0A0E3KMT5|A0A0E3KMT5_CENAM Putative 12-oxophytodienoate reductase (Fragment) OS=Cenchrus americanus OX=4543 PE=2 SV=1
+tr|Q5MGQ8|Q5MGQ8_CENAM	3	Y	tr|Q5MGQ8|Q5MGQ8_CENAM DREB 2A OS=Cenchrus americanus OX=4543 GN=DREB2A PE=2 SV=1
+tr|A0A4Y1NY14|A0A4Y1NY14_CENAM	3	Y	tr|A0A4Y1NY14|A0A4Y1NY14_CENAM Dehydration responsive element binding protein 2A OS=Cenchrus americanus OX=4543 GN=DREB2A PE=2 SV=1

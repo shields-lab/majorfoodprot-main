@@ -1,0 +1,10 @@
+sseqid	count	has_sequence	stitle
+sp|Q26065|ACT_PLAMG	1	Y	sp|Q26065|ACT_PLAMG Actin, adductor muscle OS=Placopecten magellanicus OX=6577 PE=2 SV=1
+tr|Q26066|Q26066_PLAMG	4	Y	tr|Q26066|Q26066_PLAMG Sulfhydryl light chain OS=Placopecten magellanicus OX=6577 PE=1 SV=1
+tr|Q26067|Q26067_PLAMG	3	Y	tr|Q26067|Q26067_PLAMG Myosin regulatory light chain OS=Placopecten magellanicus OX=6577 PE=2 SV=1
+tr|Q26068|Q26068_PLAMG	5	Y	tr|Q26068|Q26068_PLAMG Myosin regulatory light chain OS=Placopecten magellanicus OX=6577 PE=1 SV=1
+tr|Q26069|Q26069_PLAMG	3	Y	tr|Q26069|Q26069_PLAMG Myosin regulatory light chain OS=Placopecten magellanicus OX=6577 PE=1 SV=1
+tr|Q26079|Q26079_PLAMG	4	Y	tr|Q26079|Q26079_PLAMG Myosin heavy chain OS=Placopecten magellanicus OX=6577 PE=1 SV=1
+tr|Q26080|Q26080_PLAMG	4	Y	tr|Q26080|Q26080_PLAMG Myosin heavy chain OS=Placopecten magellanicus OX=6577 PE=1 SV=1
+tr|O77070|O77070_PLAMG	2	Y	tr|O77070|O77070_PLAMG Calcium-transporting ATPase OS=Placopecten magellanicus OX=6577 PE=2 SV=1
+tr|Q4FE08|Q4FE08_PLAMG	1	Y	tr|Q4FE08|Q4FE08_PLAMG Cytochrome c oxidase subunit 2 OS=Placopecten magellanicus OX=6577 GN=COXII PE=3 SV=1

@@ -1,0 +1,113 @@
+input_row	Subset	Food Group	Food Category	Food as Consumed	Common name	Species name	Favoured Taxonomy ID	Query fasta files	Uniprot_searchterms	References	keyword_search_entries	status
+1	Animal	Meat and meat products	Cattle Beef	Beef and veal (Bovine meat) 	Cow	Bos taurus	9913	Homo_sapiens.fasta			0	
+2	Animal	Meat and meat products	Cattle Buffalo	Buffalo meat	Buffalo	Bubalus bubalis	89462	Homo_sapiens.fasta			0	
+3	Animal	Meat and meat products	Camel	Camel meat	Camel	Camelus dromedarius	9838	Homo_sapiens.fasta			0	
+4	Animal	Meat and meat products	Poultry	Chicken meat	Chicken	Gallus gallus	9031	Homo_sapiens.fasta			0	
+5	Animal	Meat and meat products	Poultry	Duck meat	Duck	Anas platyrhynchos platyrhynchos	8840	Homo_sapiens.fasta			0	
+6	Animal	Meat and meat products	Poultry	Turkey meat	Turkey	Meleagris gallopavo	9103	Homo_sapiens.fasta			0	
+7	Animal	Meat and meat products	Goat	Goat meat	Goat	Capra hircus	9925	Homo_sapiens.fasta			0	
+8	Animal	Meat and meat products	Pork	Pork (porcine meat)	Pig	Sus scrofa	9823	Homo_sapiens.fasta			0	
+9	Animal	Meat and meat products	Lamb and mutton	Sheep (ovine meat)	Sheep	Ovis aries	9940	Homo_sapiens.fasta			0	
+10	Animal	Milk and dairy products	Milk	Bovine milk (dairy cow)	Cow	Bos taurus	9913	dairy.fasta			0	
+11	Animal	Milk and dairy products	Milk	Buffalo milk	Buffalo	Bubalus bubalis	89462	dairy.fasta			0	
+12	Animal	Milk and dairy products	Milk	Ovine milk (sheep milk)	Sheep	Ovis aries	9940	dairy.fasta			0	
+13	Animal	Milk and dairy products	Milk	Goat milk	Goat	Capra hircus	9925	dairy.fasta			0	
+14	Animal	Milk and dairy products	Milk	Camel milk	Camel	Camelus dromedarius	9838	dairy.fasta			0	
+15	Animal	Eggs and egg products	Eggs	Hen egg	Chicken	Gallus gallus	9031	eggs.fasta			0	
+16	Animal	Eggs and egg products	Eggs	Duck egg	Duck	Anas platyrhynchos platyrhynchos	8840	eggs.fasta			0	
+17	Animal	Seafood	Finfish	Peruvian Anchoveta	Peruvian anchovy	Engraulis ringens	217494	Homo_sapiens.fasta, parvalbumin.fasta			0	
+18	Animal	Seafood	Finfish	Alaska pollock	Alaska pollock	Gadus chalcogrammus	1042646	Homo_sapiens.fasta, parvalbumin.fasta			0	
+19	Animal	Seafood	Finfish	Skipjack tuna	Skipjack tuna	Katsuwonus pelamis	8226	Homo_sapiens.fasta, parvalbumin.fasta			0	
+20	Animal	Seafood	Finfish	Atlantic herring	Atlantic herring	Clupea harengus	7950	Homo_sapiens.fasta, parvalbumin.fasta			0	
+21	Animal	Seafood	Finfish	Blue whiting	Blue whiting	Micromesistius poutassou	81636	Homo_sapiens.fasta, parvalbumin.fasta			0	
+22	Animal	Seafood	Finfish	European pilchard	Sardina	Sardina pilchardus	27697	Homo_sapiens.fasta, parvalbumin.fasta			0	
+23	Animal	Seafood	Finfish	Pacific chub mackerel	chub mackerel	Scomber japonicus	13676	Homo_sapiens.fasta, parvalbumin.fasta			0	
+24	Animal	Seafood	Finfish	Pacific sardine	Sardinops	Sardinops sagax	28381	Homo_sapiens.fasta, parvalbumin.fasta			0	
+25	Animal	Seafood	Finfish	Yellowfin tuna	Yellowfin tuna	Thunnus albacares	8236	Homo_sapiens.fasta, parvalbumin.fasta			0	
+26	Animal	Seafood	Finfish	Atlantic cod	Atlantic cod	Gadus morhua	8049	Homo_sapiens.fasta, parvalbumin.fasta			0	
+27	Animal	Seafood	Finfish	Largehead hairtail	Atlantic cutlassfish	Trichiurus lepturus	13733	Homo_sapiens.fasta, parvalbumin.fasta			0	
+28	Animal	Seafood	Finfish	Atlantic mackerel	Atlantic mackerel	Scomber scombrus	13677	Homo_sapiens.fasta, parvalbumin.fasta			0	
+29	Animal	Seafood	Finfish	Chilean jack mackerel	Inca scad	Trachurus murphyi	192602	Homo_sapiens.fasta, parvalbumin.fasta			0	
+30	Animal	Seafood	Finfish	Grass carp (White Amur)	grass carp	Ctenopharyngodon idella	7959	Homo_sapiens.fasta, parvalbumin.fasta			0	
+31	Animal	Seafood	Finfish	Silver carp	Silver carp	Hypophthalmichthys molitrix	13095	Homo_sapiens.fasta, parvalbumin.fasta			0	
+32	Animal	Seafood	Finfish	Nile tilapia	Nile tilapia	Oreochromis niloticus	8128	Homo_sapiens.fasta, parvalbumin.fasta			0	
+33	Animal	Seafood	Finfish	Common carp	common carp	Cyprinus carpio	7962	Homo_sapiens.fasta, parvalbumin.fasta			0	
+34	Animal	Seafood	Finfish	Catla	Catla	Labeo catla	72446	Homo_sapiens.fasta, parvalbumin.fasta			0	
+35	Animal	Seafood	Finfish	Atlantic salmon	Atlantic salmon	Salmo salar	8030	Homo_sapiens.fasta, parvalbumin.fasta			0	
+36	Animal	Seafood	Finfish	Channel catfish	Channel catfish	Ictalurus punctatus	7998	Homo_sapiens.fasta, parvalbumin.fasta			0	
+37	Animal	Seafood	Finfish	Blue catfish	Blue catfish	Ictalurus furcatus	66913	Homo_sapiens.fasta, parvalbumin.fasta			0	
+38	Animal	Seafood	Finfish	Clarias (African catfish)	North African catfish	Clarias gariepinus	13013	Homo_sapiens.fasta, parvalbumin.fasta			0	
+39	Animal	Seafood	Finfish	Basa	Basa	Pangasius bocourti	365578	Homo_sapiens.fasta, parvalbumin.fasta			0	
+40	Animal	Seafood	Finfish	Milkfish	milkfish	Chanos chanos	29144	Homo_sapiens.fasta, parvalbumin.fasta			0	
+41	Animal	Seafood	Finfish	Rainbow trout	Rainbow trout	Oncorhynchus mykiss	8022	Homo_sapiens.fasta, parvalbumin.fasta			0	
+42	Animal	Seafood	Crustaceans	Whiteleg shrimp	Pacific white shrimp	Penaeus vannamei	6689	Homo_sapiens.fasta, parvalbumin.fasta, argininekinase_paramyosin.fasta			0	
+43	Animal	Seafood	Crustaceans	Red swamp crayfish	Red swamp crayfish	Procambarus clarkii	6728	Homo_sapiens.fasta, parvalbumin.fasta, argininekinase_paramyosin.fasta			0	
+44	Animal	Seafood	Molluscs	Jumbo flying squid	Jumbo flying squid	Dosidicus gigas	346249	Homo_sapiens.fasta, parvalbumin.fasta, argininekinase_paramyosin.fasta			0	
+45	Animal	Seafood	Molluscs	Pacific cupped oyster	Pacific oyster	Magallana gigas	29159	Homo_sapiens.fasta, parvalbumin.fasta, argininekinase_paramyosin.fasta			0	
+46	Animal	Seafood	Molluscs	Eastern oyster	Eastern oyster	Crassostrea virginica	6565	Homo_sapiens.fasta, parvalbumin.fasta, argininekinase_paramyosin.fasta			0	
+47	Animal	Seafood	Molluscs	Portuguese oyster	Portuguese oyster	Magallana angulata	2784310	Homo_sapiens.fasta, parvalbumin.fasta, argininekinase_paramyosin.fasta			0	
+48	Animal	Seafood	Molluscs	Japanese carpet shell	Manila clam	Ruditapes philippinarum	129788	Homo_sapiens.fasta, parvalbumin.fasta, argininekinase_paramyosin.fasta			0	
+49	Animal	Seafood	Molluscs	Yesso scallop (Japnese scallop)	Yesso scallop	Mizuhopecten yessoensis	6573	Homo_sapiens.fasta, parvalbumin.fasta, argininekinase_paramyosin.fasta			0	
+50	Animal	Seafood	Molluscs	Atlantic sea scallop	sea scallop	Placopecten magellanicus	6577	Homo_sapiens.fasta, parvalbumin.fasta, argininekinase_paramyosin.fasta			0	
+51	Animal	Seafood	Molluscs	Chilean northern scallop	Chilean northern scallop	Argopecten purpuratus	228297	Homo_sapiens.fasta, parvalbumin.fasta, argininekinase_paramyosin.fasta			0	
+52	Animal	Seafood	Molluscs	Blue mussel	Blue mussel	Mytilus edulis	6550	Homo_sapiens.fasta, parvalbumin.fasta, argininekinase_paramyosin.fasta			0	
+53	Animal	Seafood	Molluscs	Mediterranean mussel	Mediterranean mussel	Mytilus galloprovincialis	29158	Homo_sapiens.fasta, parvalbumin.fasta, argininekinase_paramyosin.fasta			0	
+54	Animal	Seafood	Molluscs	New Zealand greenlip mussel	greenshell mussel	Perna canaliculus	38949	Homo_sapiens.fasta, parvalbumin.fasta, argininekinase_paramyosin.fasta			0	
+55	Animal	Seafood	Molluscs	Chilean mussel	Chilean mussel	Mytilus chilensis	173667	Homo_sapiens.fasta, parvalbumin.fasta, argininekinase_paramyosin.fasta			0	
+56	Animal	Seafood	Molluscs	Blue mussel	Blue mussel	Mytilus edulis	6550	Homo_sapiens.fasta, parvalbumin.fasta, argininekinase_paramyosin.fasta			0	
+57	Animal	Seafood	Molluscs	Atlantic jackknife clam	Atlantic jackknife clam	Ensis directus	58666	Homo_sapiens.fasta, parvalbumin.fasta, argininekinase_paramyosin.fasta			0	
+58	Animal	Seafood	Molluscs	Razor shell	Razor shell	Ensis arcuatus	251530	Homo_sapiens.fasta, parvalbumin.fasta, argininekinase_paramyosin.fasta			0	
+59	Animal	Seafood	Molluscs	Atlantic jackknife clam	minor jackknife clam	Ensis minor	6587	Homo_sapiens.fasta, parvalbumin.fasta, argininekinase_paramyosin.fasta			0	
+60	Animal	Seafood	Molluscs	Pacific razor clam	Pacific razor clam	Siliqua patula	798082	Homo_sapiens.fasta, parvalbumin.fasta, argininekinase_paramyosin.fasta			0	
+61	Animal	Seafood	Molluscs	Gould's razor shell	Gould's razor shell	Solen strictus	194331	Homo_sapiens.fasta, parvalbumin.fasta, argininekinase_paramyosin.fasta			0	
+62	Animal	Seafood	Molluscs	blood cockle	blood cockle	Tegillarca granosa	220873	Homo_sapiens.fasta, parvalbumin.fasta, argininekinase_paramyosin.fasta			0	
+63	Animal	Seafood	Molluscs	Japanese akagai	Japanese akagai	Anadara broughtonii	148819	Homo_sapiens.fasta, parvalbumin.fasta, argininekinase_paramyosin.fasta			0	
+64	Animal	Seafood	Molluscs	Hard clam	Hard clam	Mercenaria mercenaria	6596	Homo_sapiens.fasta, parvalbumin.fasta, argininekinase_paramyosin.fasta			0	
+65	Plant	Cereals and their products	Wheat	Wheat	Bread wheat	Triticum aestivum	4565		albumin, globulin, glutelin, prolamin, glutenin, gliadin, hordein, secalin, zein, kafirin, avenin, keyword:KW-0708, legumin, triticin, glycinin, arachin, conarachin, arcelin, xref:interpro-IPR006044, xref:interpro-IPR000617, xref:interpro-IPR001954		1716	OK
+66	Plant	Cereals and their products	Rice	Rice	Asian cultivated rice	Oryza sativa	4530		albumin, globulin, glutelin, prolamin, glutenin, gliadin, hordein, secalin, zein, kafirin, avenin, keyword:KW-0708, legumin, triticin, glycinin, arachin, conarachin, arcelin, xref:interpro-IPR006044, xref:interpro-IPR000617, xref:interpro-IPR001954		791	OK
+67	Plant	Cereals and their products	Maize	Maize (corn)	maize	Zea mays	4577		albumin, globulin, glutelin, prolamin, glutenin, gliadin, hordein, secalin, zein, kafirin, avenin, keyword:KW-0708, legumin, triticin, glycinin, arachin, conarachin, arcelin, xref:interpro-IPR006044, xref:interpro-IPR000617, xref:interpro-IPR001954		798	OK
+68	Plant	Cereals and their products	Oat	Oat	oats	Avena sativa	4498		albumin, globulin, glutelin, prolamin, glutenin, gliadin, hordein, secalin, zein, kafirin, avenin, keyword:KW-0708, legumin, triticin, glycinin, arachin, conarachin, arcelin, xref:interpro-IPR006044, xref:interpro-IPR000617, xref:interpro-IPR001954		468	OK
+69	Plant	Cereals and their products	Millet	Sorghum	sorghum	Sorghum bicolor	4558		albumin, globulin, glutelin, prolamin, glutenin, gliadin, hordein, secalin, zein, kafirin, avenin, keyword:KW-0708, legumin, triticin, glycinin, arachin, conarachin, arcelin, xref:interpro-IPR006044, xref:interpro-IPR000617, xref:interpro-IPR001954		222	OK
+70	Plant	Cereals and their products	Millet	Millet (pearl)	pearl millet	Cenchrus americanus	4543		albumin, globulin, glutelin, prolamin, glutenin, gliadin, hordein, secalin, zein, kafirin, avenin, keyword:KW-0708, legumin, triticin, glycinin, arachin, conarachin, arcelin, xref:interpro-IPR006044, xref:interpro-IPR000617, xref:interpro-IPR001954		5	OK
+71	Plant	Cereals and their products	Millet	Millet (finger)	finger millet	Eleusine coracana	4511		albumin, globulin, glutelin, prolamin, glutenin, gliadin, hordein, secalin, zein, kafirin, avenin, keyword:KW-0708, legumin, triticin, glycinin, arachin, conarachin, arcelin, xref:interpro-IPR006044, xref:interpro-IPR000617, xref:interpro-IPR001954		275	OK
+72	Plant	Cereals and their products	Rye	Rye	rye	Secale cereale	4550		albumin, globulin, glutelin, prolamin, glutenin, gliadin, hordein, secalin, zein, kafirin, avenin, keyword:KW-0708, legumin, triticin, glycinin, arachin, conarachin, arcelin, xref:interpro-IPR006044, xref:interpro-IPR000617, xref:interpro-IPR001954		43	OK
+73	Plant	Cereals and their products	Barley	Barley	barley	Hordeum vulgare	4513		provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin, keyword:KW-0708, legumin, triticin, glycinin, arachin, conarachin, arcelin, hordein, xref:interpro-IPR006044, xref:interpro-IPR000617, xref:interpro-IPR001954		473	OK
+74	Plant	Nuts and seeds	Nuts	Almond	almond	Prunus dulcis	3755		provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin, keyword:KW-0708, legumin, triticin, glycinin, arachin, conarachin, arcelin, xref:interpro-IPR006044, xref:interpro-IPR000617, xref:interpro-IPR001954		123	OK
+75	Plant	Nuts and seeds	Nuts	Walnut	Persian walnut	Juglans regia	51240		provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin, keyword:KW-0708, legumin, triticin, glycinin, arachin, conarachin, arcelin, xref:interpro-IPR006044, xref:interpro-IPR000617, xref:interpro-IPR001954		104	OK
+76	Plant	Nuts and seeds	Nuts	Cashew	cashew	Anacardium occidentale	171929		provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin, keyword:KW-0708, legumin, triticin, glycinin, arachin, conarachin, arcelin, xref:interpro-IPR006044, xref:interpro-IPR000617, xref:interpro-IPR001954		7	OK
+77	Plant	Nuts and seeds	Nuts	Pistachio	pistachio	Pistacia vera	55513		provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin, keyword:KW-0708, legumin, triticin, glycinin, arachin, conarachin, arcelin, xref:interpro-IPR006044, xref:interpro-IPR000617, xref:interpro-IPR001954		6	OK
+78	Plant	Nuts and seeds	Nuts	Hazelnut	European hazelnut	Corylus avellana	13451		provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin, keyword:KW-0708, legumin, triticin, glycinin, arachin, conarachin, arcelin, xref:interpro-IPR006044, xref:interpro-IPR000617, xref:interpro-IPR001954		108	OK
+79	Plant	Nuts and seeds	Seeds	Linseed/flaxseed	flax	Linum usitatissimum	4006		provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin, keyword:KW-0708, legumin, triticin, glycinin, arachin, conarachin, arcelin, xref:interpro-IPR006044, xref:interpro-IPR000617, xref:interpro-IPR001954		7	OK
+80	Plant	Nuts and seeds	Seeds	Chia seeds	chia	Salvia hispanica	49212		provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin, keyword:KW-0708, legumin, triticin, glycinin, arachin, conarachin, arcelin, xref:interpro-IPR006044, xref:interpro-IPR000617, xref:interpro-IPR001954		1	OK
+81	Plant	Nuts and seeds	Seeds	Pumpkin seeds	winter squash	Cucurbita maxima	3661		provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin, keyword:KW-0708, legumin, triticin, glycinin, arachin, conarachin, arcelin, xref:interpro-IPR006044, xref:interpro-IPR000617, xref:interpro-IPR001954		105	OK
+82	Plant	Nuts and seeds	Seeds	Sunflower seeds	common sunflower	Helianthus annuus	4232		provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin, keyword:KW-0708, legumin, triticin, glycinin, arachin, conarachin, arcelin, xref:interpro-IPR006044, xref:interpro-IPR000617, xref:interpro-IPR001954		275	OK
+83	Plant	Nuts and seeds	Seeds	Poppy seeds	opium poppy	Papaver somniferum	3469		provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin, keyword:KW-0708, legumin, triticin, glycinin, arachin, conarachin, arcelin, xref:interpro-IPR006044, xref:interpro-IPR000617, xref:interpro-IPR001954		182	OK
+84	Plant	Nuts and seeds	Seeds	Sesame seeds	sesame	Sesamum indicum	4182		provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin, keyword:KW-0708, legumin, triticin, glycinin, arachin, conarachin, arcelin, xref:interpro-IPR006044, xref:interpro-IPR000617, xref:interpro-IPR001954		156	OK
+85	Plant	Nuts and seeds	Seeds	Mustard seeds	white mustard	Sinapis alba	3728		provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin, keyword:KW-0708, legumin, triticin, glycinin, arachin, conarachin, arcelin, xref:interpro-IPR006044, xref:interpro-IPR000617, xref:interpro-IPR001954		6	OK
+86	Plant	Legume	Oilseeds	Peanut	peanut	Arachis hypogaea	3818		provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin, keyword:KW-0708, legumin, triticin, glycinin, arachin, conarachin, arcelin, xref:interpro-IPR006044, xref:interpro-IPR000617, xref:interpro-IPR001954		572	OK
+87	Plant	Legume	Oilseeds	Soybean	soybean	Glycine max	3847		provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin, keyword:KW-0708, legumin, triticin, glycinin, arachin, conarachin, arcelin, xref:interpro-IPR006044, xref:interpro-IPR000617, xref:interpro-IPR001954		399	OK
+88	Plant	Legume	Pulses	Green pea	garden pea	Pisum sativum	3888		provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin, keyword:KW-0708, legumin, triticin, glycinin, arachin, conarachin, arcelin, xref:interpro-IPR006044, xref:interpro-IPR000617, xref:interpro-IPR001954		269	OK
+89	Plant	Legume	Pulses	Chickpea	chickpea	Cicer arietinum	3827		provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin, keyword:KW-0708, legumin, triticin, glycinin, arachin, conarachin, arcelin, xref:interpro-IPR006044, xref:interpro-IPR000617, xref:interpro-IPR001954		132	OK
+90	Plant	Legume	Pulses	Bean*	common bean	Phaseolus vulgaris	3885		provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin, keyword:KW-0708, legumin, triticin, glycinin, arachin, conarachin, arcelin, xref:interpro-IPR006044, xref:interpro-IPR000617, xref:interpro-IPR001954		256	OK
+91	Plant	Legume	Pulses	Lentil	lentil	Lens culinaris	3864		provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin, keyword:KW-0708, legumin, triticin, glycinin, arachin, conarachin, arcelin, xref:interpro-IPR006044, xref:interpro-IPR000617, xref:interpro-IPR001954		9	OK
+92	Plant	Legume	Pulses	Faba bean	faba bean	Vicia faba	3906		provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin, keyword:KW-0708, legumin, triticin, glycinin, arachin, conarachin, arcelin, xref:interpro-IPR006044, xref:interpro-IPR000617, xref:interpro-IPR001954		180	OK
+93	Plant	Legume	Pulses	Lima/butter bean	lima bean	Phaseolus lunatus	3884		provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin, keyword:KW-0708, legumin, triticin, glycinin, arachin, conarachin, arcelin, xref:interpro-IPR006044, xref:interpro-IPR000617, xref:interpro-IPR001954		3	OK
+94	Plant	Legume	Pulses	Cowpea (black-eyed pea)	cowpea	Vigna unguiculata	3917		provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin, keyword:KW-0708, legumin, triticin, glycinin, arachin, conarachin, arcelin, xref:interpro-IPR006044, xref:interpro-IPR000617, xref:interpro-IPR001954		149	OK
+95	Plant	Legume	Pulses	Lupine	white lupine	Lupinus albus	3870		provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin, keyword:KW-0708, legumin, triticin, glycinin, arachin, conarachin, arcelin, xref:interpro-IPR006044, xref:interpro-IPR000617, xref:interpro-IPR001954		180	OK
+96	Plant	Legume	Pulses	Mung bean	mung bean	Vigna radiata	157791		provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin, keyword:KW-0708, legumin, triticin, glycinin, arachin, conarachin, arcelin, xref:interpro-IPR006044, xref:interpro-IPR000617, xref:interpro-IPR001954		162	OK
+97	Plant	Legume	Pulses	Pigeon pea	pigeon pea	Cajanus cajan	3821		provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin, keyword:KW-0708, legumin, triticin, glycinin, arachin, conarachin, arcelin, xref:interpro-IPR006044, xref:interpro-IPR000617, xref:interpro-IPR001954		71	OK
+98	Plant	Legume	Pulses	Bambara bean	Bambara groundnut	Vigna subterranea	115715		provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin, keyword:KW-0708, legumin, triticin, glycinin, arachin, conarachin, arcelin, xref:interpro-IPR006044, xref:interpro-IPR000617, xref:interpro-IPR001954		1	OK
+99	Plant	Roots, tubers and plantains	Root	Potato	potatoes	Solanum tuberosum	4113		tuberin, patatin, sporamin, dioscorin, G2 globulin, tarin, G1 globulin, globulin		279	OK
+100	Plant	Roots, tubers and plantains	Root	Sweet potato	sweet potato	Ipomoea batatas	4120		tuberin, patatin, sporamin, dioscorin, G2 globulin, tarin, G1 globulin, globulin		73	OK
+101	Plant	Roots, tubers and plantains	Root	Taro (cocoyam)	taro	Colocasia esculenta	4460		tuberin, patatin, sporamin, dioscorin, G2 globulin, tarin, G1 globulin, globulin		32	OK
+102	Plant	Roots, tubers and plantains	Root	Cassava	cassava	Manihot esculenta	3983		tuberin, patatin, sporamin, dioscorin, G2 globulin, tarin, G1 globulin, globulin		53	OK
+103	Plant	Roots, tubers and plantains	Root	Yam	white yam	Dioscorea cayenensis	55577		tuberin, patatin, sporamin, dioscorin, G2 globulin, tarin, G1 globulin, globulin		1	OK
+104	Plant	Leaves	Leaves	Cassava	cassava	Manihot esculenta	3983		rbcS, rbcL		14	OK
+105	Plant	Leaves	Leaves	Brassica greens	cabbage/broccoli/kale	Brassica oleracea 	36774		rbcS, rbcL		24	OK
+106	Plant	Leaves	Leaves	Spinach	spinach	Spinacia oleracea	3562		rbcS, rbcL		13	OK
+107	Plant	Leaves	Leaves	Brassica greens	bok choy, collared greens	Brassica rapa	93385		rbcS, rbcL		15	OK
+108	Plant	Leaves	Leaves	Lettuce	lettuce	Lactuca sativa	4236		rbcS, rbcL		13	OK
+109	Plant	Roots, tubers and plantains	Fruit	Banana/Plaintain ancestor	Banana/Plaintain ancestor	Musa acuminata	4641		"protein_name:""thaumatin-like protein"" AND length:[220 TO 330]"		41	OK
+110	Plant	Roots, tubers and plantains	Fruit	Banana/Plaintain ancestor	Banana/Plaintain ancestor	Musa balbisiana	52838		"protein_name:""thaumatin-like protein"" AND length:[220 TO 330]"		22	OK
+111	Plant	Roots, tubers and plantains	Fruit	Plantain	plantain	Musa paradisiaca	89151		"protein_name:""thaumatin-like protein"" AND length:[220 TO 330]"		0	OK
+112	Reference	Reference	Reference	Reference	Human	Homo sapiens	9606	Homo_sapiens.fasta			0	

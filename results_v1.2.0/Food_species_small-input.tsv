@@ -1,0 +1,27 @@
+Subset	Food Group	Food Category	Food as Consumed	Common name	Species name	Favoured Taxonomy ID	Query fasta files	Uniprot_searchterms	References
+Animal	Meat and meat products	Cattle Beef	Beef and veal (Bovine meat) 	Cow	Bos taurus	9913	Homo_sapiens.fa		
+Animal	Meat and meat products	Poultry	Chicken meat	Chicken	Gallus gallus	9031	Homo_sapiens.fa		
+Animal	Meat and meat products	Pork	Pork (porcine meat)	Pig	Sus scrofa	9823	Homo_sapiens.fa		
+Animal	Milk and dairy products	Milk	Bovine milk (dairy cow)	Cow	Bos taurus	9913	dairy.fa		
+Animal	Milk and dairy products	Milk	Buffalo milk	Buffalo	Bubalus bubalis	391902	dairy.fa		
+Animal	Eggs and egg products	Eggs	Hen egg	Chicken	Gallus gallus	9031	eggs.fa		
+Animal	Seafood	Finfish	Atlantic cod	Atlantic cod	Gadus morhua	8049	Homo_sapiens.fa, parvalbumin.fa		
+Animal	Seafood	Crustaceans	Whiteleg shrimp	Pacific white shrimp	Penaeus vannamei	6689	Homo_sapiens.fa, parvalbumin.fa, argininekinase_paramyosin.fa		
+Animal	Seafood	Crustaceans	Red swamp crayfish	Red swamp crayfish	Procambarus clarkii	6728	Homo_sapiens.fa, parvalbumin.fa, argininekinase_paramyosin.fa		
+Animal	Seafood	Molluscs	Jumbo flying squid	Jumbo flying squid	Dosidicus gigas	346249	Homo_sapiens.fa, parvalbumin.fa, argininekinase_paramyosin.fa		
+Animal	Seafood	Molluscs	Pacific cupped oyster	Pacific oyster	Magallana gigas	29159	Homo_sapiens.fa, parvalbumin.fa, argininekinase_paramyosin.fa		
+Animal	Seafood	Molluscs	Mediterranean mussel	Mediterranean mussel	Mytilus galloprovincialis	29158	Homo_sapiens.fa, parvalbumin.fa, argininekinase_paramyosin.fa		
+Animal	Seafood	Molluscs	Blue mussel	Blue mussel	Mytilus edulis	6550	Homo_sapiens.fa, parvalbumin.fa, argininekinase_paramyosin.fa		
+Animal	Seafood	Finfish	Chub mackerel	Chub mackerel	Scomber japonicus	13676	Homo_sapiens.fa, parvalbumin.fa		
+Plant	Legume	Oilseeds	Soybean	soybean	Glycine max	3847		provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin	
+Plant	Legume	Pulses	Green pea	garden pea (Pisum sativum)	Lathyrus oleraceus	3888		provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin	
+Plant	Legume	Pulses	Chickpea	chickpea	Cicer arietinum	3827		provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin	
+Plant	Legume	Pulses	Lentil	lentil	Lens culinaris	3864		provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin	
+Plant	Legume	Pulses	Mung bean	mung bean	Vigna radiata	157791		provicilin, albumin, vicilin, prolamin, oleosin, globulin, glutelin, napin, conglutin	
+Plant	Leaves	Leaves	Cassava	cassava	Manihot esculenta	3983		rbcS, rbcL	
+Plant	Leaves	Leaves	Brassica greens	cabbage/broccoli/kale	Brassica oleracea 	36774		rbcS, rbcL	
+Plant	Leaves	Leaves	Spinach	spinach	Spinacia oleracea	3562		rbcS, rbcL	
+Plant	Leaves	Leaves	Brassica greens	bok choy, collared greens	Brassica rapa	93385		rbcS, rbcL	
+Plant	Leaves	Leaves	Cassava leaves	cassava leaves	Manihot esculenta	3983		rbcS, rbcL	
+Plant	Leaves	Leaves	Lettuce	lettuce	Lactuca sativa	4236		rbcS, rbcL	
+Reference				Human	Homo sapiens	9606	Homo_sapiens.fa		
