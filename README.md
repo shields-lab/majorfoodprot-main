@@ -1,5 +1,7 @@
 # MajorFoodProt
-
+<p align="center">
+  <img src="food protein database logo.png" alt="MajorFoodProt logo" width="320">
+</p>
 *Orthology-driven database of candidate major food proteins from species making a major contribution to human protein intake.*
 
 The Shields Lab database of major food protein sequences: for each food
