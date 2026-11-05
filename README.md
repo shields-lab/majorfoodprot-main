@@ -22,7 +22,7 @@ DOI for exact reproducibility.
 |---|---|---|
 | 1.0 | 2025 (pre-pipeline; Clíona Ní Chonnacháin's PhD thesis) | not in this repository |
 | 1.1.1 | 23 Jun – 19 Aug 2026 (incremental, mixed-date) | [`releases/1.1.1/`](releases/1.1.1/) |
-| v1.2.0| October 2026 (2nd release) | [`results_v1.2.0/v1.2.0/`](results_v1.2.0/v1.2.0/) |
+| v1.2.0| October 2026 (2nd release) | [`results_v1.2.0/`](results_v1.2.0/v1.2.0/) |
 
 `RELEASES.md` is the full index (tags, DOIs, notes). Every release is
 described in its own `RELEASE_NOTES.md`: UniProt download dates, input
