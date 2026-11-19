@@ -64,7 +64,8 @@ https://github.com/shields-lab/majorfoodprot-main/releases
 
 All new tsvs, log files and input files are in 
 https://github.com/shields-lab/majorfoodprot-main/tree/master/results_v1.2.0
-The Major Food Protein Database v1.2.0 is uploaded to Zenodo: https://doi.org/10.5281/zenodo.24374375
+
+## The Major Food Protein Database v1.2.0 is uploaded to Zenodo: https://doi.org/10.5281/zenodo.24374375
 
 ## Updating the database
 
