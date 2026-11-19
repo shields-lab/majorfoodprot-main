@@ -45,6 +45,17 @@ releases/1.1.1/
 └── *.log                               # per-step logs
 ```
 
+```
+releases/v1.2.0/
+├── Food_peptide_database-input.tsv     # the input species list this release was built from
+├── query_fasta_files/                  # the curated reference proteins used
+├── output_tsvs/
+│   └── food_protein_DB_<date>.tsv      # THE DATABASE: one row per final candidate protein
+├── orthologs/                          # audit trail: dense-family-fallback decisions, identity histograms
+├── orthofinder_input_tree_rooted       # species tree used for OrthoFinder
+└── *.log                               # per-step logs
+```
+
 The deliverable's columns are described in
 [`majorfoodprot-code/docs/file_formats.md`](https://github.com/shields-lab/majorfoodprot-code/blob/master/docs/file_formats.md).
 
