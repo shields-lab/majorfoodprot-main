@@ -59,10 +59,12 @@ releases/v1.2.0/
 The deliverable's columns are described in
 [`majorfoodprot-code/docs/file_formats.md`](https://github.com/shields-lab/majorfoodprot-code/blob/master/docs/file_formats.md).
 
-The large files are not in git: the full UniProt proteomes, the per-species
-subproteome FASTAs (OrthoFinder's input), `fooddb.sqlite` and the
-intermediate ortholog tables are in each release's Zenodo record, and the
-smaller ones are also attached to its GitHub Release.
+The proteomes, subproteomes and other files are zipped here:
+https://github.com/shields-lab/majorfoodprot-main/releases
+
+All new tsvs, log files and input files are in 
+https://github.com/shields-lab/majorfoodprot-main/tree/master/results_v1.2.0
+The Major Food Protein Database v1.2.0 is uploaded to Zenodo: https://doi.org/10.5281/zenodo.24374375
 
 ## Updating the database
 
